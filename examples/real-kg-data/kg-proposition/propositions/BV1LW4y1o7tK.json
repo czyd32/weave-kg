@@ -1,0 +1,103 @@
+{
+  "source_id": "BV1LW4y1o7tK",
+  "title": "年轻人给芒果核梳毛：一场关于'不务正业'的辩论实验",
+  "author": "唯一讲述者",
+  "date": "2023-07-23",
+  "source_url": "https://www.bilibili.com/video/BV1LW4y1o7tK/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1LW4y1o7tK_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "年轻人养芒果核梳毛",
+      "relation": "上热搜",
+      "object": "被指不务正业",
+      "cause": "小红书上有人分享养芒果核经历",
+      "effect": "荔枝新闻在某乎提问引发讨论",
+      "original_text": "'年轻人养芒果核、为其梳毛'这个新闻莫名其妙上热搜了。简述一下：小红书上有人发了一条视频，分享了一下自己养芒果核的经历。然后荔枝新闻在某乎上提问：'年轻人给芒果核梳毛被指不务正业，如何看待年轻人开始流行养芒果核？'"
+    },
+    {
+      "id": "BV1LW4y1o7tK_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "UP主立场",
+      "relation": "是",
+      "object": "关你屁事",
+      "cause": "不违背公序良俗、不触犯法律、自己的时间想干什么就干什么",
+      "effect": "坚决捍卫年轻人养芒果核的权利",
+      "original_text": "虽然我还是理解不了为什么要养芒果核，但是我坚决捍卫他养芒果核的权利。我的立场很简单：关你屁事。第一，我不违背公序良俗；第二，我不触犯法律；第三，我自己的时间我想干什么就干什么。"
+    },
+    {
+      "id": "BV1LW4y1o7tK_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "养芒果核",
+      "relation": "具有",
+      "object": "解压价值，性价比高于宠物和消费解压产品",
+      "cause": "芒果十几块钱可以吃，养芒果核不需要喂粮遛弯，但能满足缓解焦虑的功能",
+      "effect": "和网上买的解压神器本质没有不同",
+      "original_text": "在这个基础之上，我养芒果核比买那些解压神器和养宠物其实更具性价比。因为我们不需要动辄三五十买一个能在指甲上转圈的东西，我们买芒果只需要十几块钱，它甚至可以吃。但是它仍然能够满足我想要缓解焦虑和压力的功能。"
+    },
+    {
+      "id": "BV1LW4y1o7tK_p004",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "养芒果核",
+      "relation": "不算",
+      "object": "不务正业",
+      "cause": "可以通过网络发布养芒果核内容获取打赏或礼物，以此为生就是合法的工作",
+      "effect": "和上班一样付出劳动换取报酬，本质上是务了正业",
+      "original_text": "现在我养芒果核这件事情忽然在网上火了，那么我是不是就可以直接以此为生呢？通过网络作为自己的职业呢？网上甚至已经出现了教别人如何养芒果核的视频，他们也是养芒果核，并且以此作为自己获取经济资源的一种手段。这和上班有什么区别呢？"
+    },
+    {
+      "id": "BV1LW4y1o7tK_p005",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "养芒果核",
+      "relation": "是",
+      "object": "废物利用，发挥芒果剩余价值",
+      "cause": "年轻人发现了芒果核的额外价值，而不仅仅是吃掉就扔掉",
+      "effect": "购买芒果促进消费，为芒果行业带来新购买者，让更多人有机会务正业",
+      "original_text": "我吃掉芒果之后，我把芒果剩余的价值再进行充分的发挥，有什么问题呢？这本质上不就是一种废物利用吗？正是因为我们把这些废物利用的方法都提出来了，我们发掘出了它更多的价值，这才使得它本身的价值更被人所知。没有什么东西是没有价值的，而年轻人恰恰具备了这种发现价值的眼睛。"
+    },
+    {
+      "id": "BV1LW4y1o7tK_p006",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "指责年轻人不务正业的人",
+      "relation": "是",
+      "object": "不愿思考、喜欢按部就班僵化思维、以获取优越感",
+      "cause": "对年轻人指指点点",
+      "effect": "这种指责本质上是僵化思维下的优越感获取",
+      "original_text": "只不过是某些不愿思考的人，喜欢按部就班那种僵化的思维，对年轻人指指点点，并以此来获取一种优越感罢了。"
+    },
+    {
+      "id": "BV1LW4y1o7tK_p007",
+      "segment_id": "seg_003",
+      "type": "narrative",
+      "subject": "UP主反思",
+      "relation": "承认",
+      "object": "正方立论站不住脚，但这是第一次尝试辩论模式",
+      "cause": null,
+      "effect": null,
+      "original_text": "以上是我为正方做的辩护。其实我已经想好了反方应该如何反驳和理论了。但是我说句实话，我其实觉得正方这个论站不住。但这是我第一次尝试用辩论的模式来做视频，现在也是刚刚入门。"
+    },
+    {
+      "id": "BV1LW4y1o7tK_p008",
+      "segment_id": "seg_004",
+      "type": "narrative",
+      "subject": "结语",
+      "relation": "收尾",
+      "object": "本期内容结束",
+      "cause": null,
+      "effect": null,
+      "original_text": "我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 4,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest→SkillZY-Knowledge-Graph-Ingest→SkillZY-Proposition-Knowledge-Graph"
+}

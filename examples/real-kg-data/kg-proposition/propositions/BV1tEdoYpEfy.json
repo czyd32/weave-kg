@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1tEdoYpEfy",
+  "title": "从文和友到卤鹅哥，长沙这波真是一言难尽",
+  "author": "唯一讲述者",
+  "date": "2025-04-15",
+  "source_url": "https://www.bilibili.com/video/BV1tEdoYpEfy/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1tEdoYpEfy_p1",
+      "segment_id": "seg_01",
+      "type": "observation",
+      "subject": "文和友联合创始人翁东华",
+      "relation": "在甲亢哥直播中频繁抢镜",
+      "object": "造成品牌形象严重受损",
+      "cause": "拿着大喇叭制造噪音、直接把镜头前其他人拉走，完全失控",
+      "effect": "门店收到两千多条差评，评分从4.3刷到3.0，品牌修复需按年计",
+      "original_text": "文和友的联合创始人翁东华，在直播中频繁抢镜，非常令人不适。根据上游新闻的报道，文和友的门店近期收到了两千多条的差评。从品牌形象上来看，文和友老板这波操作就非常之离谱。"
+    },
+    {
+      "id": "BV1tEdoYpEfy_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "黑红路线的黑",
+      "relation": "必须",
+      "object": "在可控范围内",
+      "cause": "可控的黑红有预案消解，不可控的黑造成品牌长期损害",
+      "effect": "文和友老板没做任何规划，属于纯失控，距离登神很远但距离人已经很远",
+      "original_text": "所谓的黑红路线，所谓的黑，其实是要在可控范围内的黑。有些品牌甚至会故意放出一些黑料来给自己博取关注度，但是在流量起来之后，就会采取之前已经做好的应急预案。但是文和友老板这样的操作，完全不讲任何道理，也没有任何逻辑。"
+    },
+    {
+      "id": "BV1tEdoYpEfy_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "芒果台",
+      "relation": "把甲亢哥客体化",
+      "object": "将甲亢哥作为摄像机前的人偶随意摆弄，把观众当韭菜收割",
+      "cause": "甲亢哥是来旅游的，不是来参加综艺的，且直播没有后期剪辑余地",
+      "effect": "综艺剧本在直播中显得造作功利，大失水准",
+      "original_text": "芒果台这里的处理就有点太过于功利化了。甲亢哥毕竟属于网红，是来中国旅游的，而不是来中国参加节目或者进行什么商务合作的。你一直去规范甲亢哥的行为，无疑是将甲亢哥客体化了——把甲亢哥作为摄像机前的人偶随意摆弄。"
+    },
+    {
+      "id": "BV1tEdoYpEfy_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "芒果台驱逐卤鹅大叔",
+      "relation": "本质上是",
+      "object": "经济资本对文化资本的殖民",
+      "cause": "芒果台作为经济资本主导者，利用场地控制权驱逐非合作的个体文化表达者",
+      "effect": "舆论场上弱者天然占道德优势，大众自发与卤鹅大叔共情",
+      "original_text": "布尔迪厄有一个观点。芒果台作为主办方，也就是经济资本的主导者，利用场地的控制权驱逐非合作的人群（也就是卤鹅大叔），它的本质就是经济资本对文化资本的殖民——也就是以商业利益之名剥夺个体的文化表达。"
+    },
+    {
+      "id": "BV1tEdoYpEfy_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "大屏感谢甲亢哥",
+      "relation": "暴露了",
+      "object": "娱乐至死与公共资源滥用",
+      "cause": "公共资源用于网红造势，大众注意力被商业表演劫持",
+      "effect": "把甲亢哥摆在高位而把国家摆在低位，做法的确很鬼扯",
+      "original_text": "官方用大屏感谢网红的行为，本质上就是把公共资源用于网红的造势。波兹曼有一个批判的观点叫做'媒介即隐喻'——公众的注意力被商业表演劫持，被娱乐符号覆盖了。'感谢甲亢哥让世界认识了中国'，直接把甲亢哥摆在一个很高的位置，而把国家摆在一个很低的位置。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

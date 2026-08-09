@@ -1,0 +1,93 @@
+{
+  "source_id": "BV1YNV6zEE7p",
+  "title": "某网红疯狂碰瓷胖东来：目前已被限制发言",
+  "author": "唯一讲述者",
+  "date": "2025-05-05",
+  "source_url": "https://www.bilibili.com/video/BV1YNV6zEE7p/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1YNV6zEE7p_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "柴怼怼",
+      "relation": "走",
+      "object": "黑红路线起号——全篇鬼扯，声称对每一句话负责但毫无证据",
+      "cause": "声称胖东来偷税漏税、玉石有问题，但没有任何实际证据",
+      "effect": "账号被限制发言，但结晶粉仍会追随",
+      "original_text": "他声称'我怀疑他偷税漏税''证据财务税务会去审计的，这东西需要证据吗'。基本上全篇都是在鬼扯。基本上可以确定他是想走黑红路线起号的。"
+    },
+    {
+      "id": "BV1YNV6zEE7p_p002",
+      "segment_id": "seg_001",
+      "type": "observation",
+      "subject": "柴怼怼信徒",
+      "relation": "类似",
+      "object": "辛圣信徒——宗教式粉丝，生活自理但存在智力障碍",
+      "cause": "生活能自理的人中，有相当一部分存在智力障碍但难以察觉",
+      "effect": "粉丝量级不如辛圣，但信徒质量毫不逊色",
+      "original_text": "这个博主的评论区，和之前我们提到的辛圣信徒差不多——都是玩宗教那一套。生活能够自理的人当中，其实有相当一部分存在智力障碍。"
+    },
+    {
+      "id": "BV1YNV6zEE7p_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "柴怼怼",
+      "relation": "遭遇",
+      "object": "双重翻车——碰瓷胖东来+售卖假玉被消费者集中锤",
+      "cause": "国检证明其售卖玉石为染色，试图靠修改店铺简介卡bug",
+      "effect": "在业内风评一直不好，玉石类博主长期锤他",
+      "original_text": "之前有很多购买过他店铺商品的消费者在某音平台集中锤他卖的是假货。有一部分个人账号甚至放出了国检证明，他卖的玉石是染色的。"
+    },
+    {
+      "id": "BV1YNV6zEE7p_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "于东来",
+      "relation": "让",
+      "object": "公关头疼——创始人主导型企业中，老板发言不受任何合规审查",
+      "cause": "公关作为打工人，没有岗位权力、专家魅力、奖惩权力去约束老板",
+      "effect": "于东来在300万粉丝账号提及30万粉丝网红，反而为对方引流",
+      "original_text": "从传统公关的角度，工作的第一要务是预防舆情的出现。像于东来这样的老板，他在个人账号的言论几乎是不可能有什么职业公关来进行合规审查的。"
+    },
+    {
+      "id": "BV1YNV6zEE7p_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "企业生命周期",
+      "relation": "决定",
+      "object": "公关权力大小——初创期创始人主导，成熟期职能部门主导，衰退期创始人重新掌权",
+      "cause": "赚钱时厌恶风险（职能部门掌权），不赚钱时愿承担风险（创始人掌权）",
+      "effect": "胖东来保持创业初期状态，于东来权力最大，公关权力最小",
+      "original_text": "我们国内很喜欢把公司的生命周期分为三到四个阶段——初创期、成长期、成熟期和衰退期。胖东来一直保持着创业初期的状态——于东来作为董事长几乎有着企业的主导地位。"
+    },
+    {
+      "id": "BV1YNV6zEE7p_p006",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "于东来的'不解决就离开'声明",
+      "relation": "本质上是",
+      "object": "逼宫式回应——容易被解读为'百万曹公尾大不掉'，但也可能被理解为弱势企业家的无奈发声",
+      "cause": "于东来个人影响力巨大，每句话都可能被不同立场的人做不同解读",
+      "effect": "关键不在于原意，而在于由谁来解读、如何解读",
+      "original_text": "这段话已经有点接近于逼宫的范畴了。就有一种小孩打架互相薅头发，然后班长没薅过，就在班里大声嚷嚷'老师你不解决我就离开这个班'的感觉。"
+    },
+    {
+      "id": "BV1YNV6zEE7p_p007",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "公关的三大权力来源",
+      "relation": "在老板面前",
+      "object": "全部失效——岗位权利（岗位是老板定的）+专家魅力（能不能走进老板办公室都是问题）+奖惩机制（拿什么惩罚老板）",
+      "cause": "老板是权力的最终来源，公关无法对老板行使任何权力",
+      "effect": "跟于东来这样的老板做公关，非常头疼",
+      "original_text": "在近代管理学中，权力可以列为三项来源：岗位权利、专家魅力、和奖惩机制。以公关目前的职权，能不能走进于总的办公室都是一个问题。至于奖惩权利——拿什么去奖励或惩罚老板？"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "batch": "20260808_batch_08",
+  "tool": "SkillZY-Knowledge-Graph-Ingest",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest"
+}

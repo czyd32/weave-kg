@@ -1,0 +1,180 @@
+{
+  "source_id": "BV1tCWCzjEdz",
+  "title": "三角洲优化后滑跪道歉：我有时候真猜不透策划改动的时候在想什么",
+  "author": "唯一讲述者",
+  "date": "2025-10-17",
+  "source_url": "https://www.bilibili.com/video/BV1tCWCzjEdz/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1tCWCzjEdz_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "鼠鼠与猛攻玩家公平性争议",
+      "relation": "本质是",
+      "object": "玩法和数值/机制公平的区分问题",
+      "cause": "游戏允许不同玩法共存，但机制和数值不平衡引发争议",
+      "effect": "只要机制和数值大致平衡，不同玩法之间不存在真正的公平性问题",
+      "original_text": "玩法其实没有那么多的公不公平——不公平的是机制和数值。只要机制和数值大概是平衡的，我就觉得其实没有什么问题。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p2",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "鼠鼠玩家",
+      "relation": "属于",
+      "object": "理性模型与成就型玩家",
+      "cause": "鼠鼠玩家的逻辑是只要投入够低，产出就稳赚不赔",
+      "effect": "鼠鼠玩家是游戏里最有钱的人群，但享受的是收集和出大红的乐趣而非战斗力",
+      "original_text": "鼠鼠玩家是一群理性的模型——他们的逻辑是：只要我的投入够低，那么我的产出就是稳赚不赔的。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p3",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "三角洲官方",
+      "relation": "陷入",
+      "object": "塔西佗陷阱",
+      "cause": "官方失去玩家信任后，无论说什么做什么都被视为敷衍",
+      "effect": "此时最好闭嘴立正挨揍，任何回应都无效",
+      "original_text": "你这个时候做什么都不对。这很经典的塔西佗陷阱。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p4",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "三角洲行动",
+      "relation": "通过",
+      "object": "鼠鼠玩家的切片短视频实现破圈传播",
+      "cause": "鼠鼠玩家把摸金搜货的高光时刻配合洗脑小曲进行切片剪辑",
+      "effect": "游戏从被嘲讽为八宝粥的缝合怪转变为爆款",
+      "original_text": "它是怎么火的呢？就是这些鼠鼠玩家，把摸金搜货的高光时刻，再加上那种比较洗脑的小曲，来进行切片剪辑，这才让这款游戏实现了一个破圈传播。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p5",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "业绩共谋",
+      "relation": "是",
+      "object": "激励扭曲导致员工集体钻奖励机制漏洞的行为",
+      "cause": "超量激励不看职级只看业绩，导致销冠集中所有业绩获取最高返佣",
+      "effect": "员工收益增加但公司净收益下降，损害长远利益",
+      "original_text": "结果是从最开始小团队的内部销冠，直接发动其他所有销售员工，除了自己以外其他人都吃保底，然后把所有业绩挂到自己名下，最后按照他的返点梯度来给大家进行返佣。这个就叫共享业绩。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p6",
+      "segment_id": "seg_04",
+      "type": "analogy",
+      "subject": "共享监狱",
+      "relation": "类比于",
+      "object": "业绩共谋中的员工集体钻漏洞行为",
+      "cause": "鼠鼠玩家通过共享监狱抱团合作，以低成本获取高价值物资",
+      "effect": "猛攻玩家体验感下降，正如公司业绩共谋损害整体利益",
+      "original_text": "三角洲的共享监狱就是玩家层面的共谋行为——鼠鼠玩家通过抱团共享资源来最大化收益，但损害了猛攻玩家的游戏体验。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p7",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "方案选择（一刀切 vs 逐步缩减）",
+      "relation": "取决于",
+      "object": "市场占有率",
+      "cause": "SCP模型：市场集中度越高，企业越容易形成共谋",
+      "effect": "市场占有率高时可选方案一（一刀切），需抢占市场时选方案二（逐步调整）",
+      "original_text": "支撑我这个营销总监到底选择方案一还是方案二，其实要取决于市场占有率。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p8",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "三角洲一刀切优化",
+      "relation": "导致",
+      "object": "两边玩家都不讨好的局面",
+      "cause": "上次优化拉拢了部分PVP玩家，这次回调又失去鼠鼠玩家，同时让已获益的PVP玩家不满",
+      "effect": "反复改动导致官方无法重拾任何一方玩家的信任",
+      "original_text": "上一次优化你至少能够获得部分PVP玩家的支持，这次再进行回调，你就很难再重拾已经丢下的鼠鼠玩家，然后又会让部分已经获益的PVP玩家很不爽。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p9",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "策划",
+      "relation": "不应该",
+      "object": "逼玩家怎么玩游戏",
+      "cause": "产能不足不是理由，发展中的问题虽会解决但需要先活到那天",
+      "effect": "不解决问题，玩家就会用脚投票解决游戏",
+      "original_text": "发展中的问题确实会在发展中被解决，但你能不能活到那个被解决的阶段呢？你不解决问题，玩家就只能解决你啊。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p10",
+      "segment_id": "seg_07",
+      "type": "analogy",
+      "subject": "暗黑四莉莉丝任务机制修改",
+      "relation": "启示",
+      "object": "三角洲应提供替代方案而非直接摧毁手段",
+      "cause": "暗黑四将需要磨死的boss改为伤害够高可直接秒，解决了核心矛盾",
+      "effect": "三角洲不应直接砍掉共享监狱，而应给鼠鼠玩家提供替代方案",
+      "original_text": "这个赛季暗黑四就把这个机制改了——只要你伤害够高，你就可以直接秒。这个时候，这种改动才是玩家的核心矛盾所在。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p11",
+      "segment_id": "seg_08",
+      "type": "argumentation",
+      "subject": "外挂治理",
+      "relation": "需要",
+      "object": "可感知的玩家反馈和实质奖励而非空洞口号",
+      "cause": "永劫无间通过给举报成功的玩家发放金色品质独特皮肤，让玩家感受到官方在整治",
+      "effect": "玩家需要看到行动而非听到承诺",
+      "original_text": "你整治这件事情，你在那里喊口号是没有意义的。你得让观众看到，让他感受到你在整治。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p12",
+      "segment_id": "seg_09",
+      "type": "argumentation",
+      "subject": "盾构削弱",
+      "relation": "本质是",
+      "object": "利益分配问题而非角色强度问题",
+      "cause": "鼠鼠玩家选盾构是因为深蓝作为低成本工具人好用，摸金是目的，盾构是手段",
+      "effect": "摧毁手段而不提供替代方案等于逼玩家离开游戏",
+      "original_text": "摸金是目的，盾构和共享监狱是手段。你现在暴力的把我的手段消灭了。有句话叫断人财路，犹如杀人父母。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p13",
+      "segment_id": "seg_10",
+      "type": "argumentation",
+      "subject": "玩家分流",
+      "relation": "是",
+      "object": "解决三角洲问题的正道",
+      "cause": "不同玩家群体需要不同的玩法赛道，不能强迫所有人玩同一种游戏",
+      "effect": "让玩家玩自己想玩的，而不是被教怎么玩游戏",
+      "original_text": "我还是希望三角洲先把思路理清楚。玩家分流只是一个思路，让大家玩自己想玩的，而不是要教他玩什么东西。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p14",
+      "segment_id": "seg_11",
+      "type": "argumentation",
+      "subject": "无知之幕",
+      "relation": "要求",
+      "object": "游戏设计应尽可能保证所有玩家类型的公平体验",
+      "cause": "今天天平偏向你，明天就可以偏向别人",
+      "effect": "所有人都应有自己擅长和喜欢的玩法，不应被逼迫",
+      "original_text": "无知之幕的问题——你今天可以偏向我，明天你就可以偏向别人。所以我希望这个东西是一个平衡的，而不是一个动态的。"
+    },
+    {
+      "id": "BV1tCWCzjEdz_p15",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "鹅厂危机公关",
+      "relation": "特征为",
+      "object": "以用户规模大作为容错率高的底气，回应敷衍或拖延",
+      "cause": "用户基数大使得厂商有恃无恐",
+      "effect": "危机爆发后采取拖延政策，主打纯数值策略",
+      "original_text": "鹅厂的一贯套路就是以用户规模大作为容错率高的底气，然后在危机爆发之后，回应比较敷衍，要么就是采取拖延政策，主打一个纯数值。"
+    }
+  ],
+  "proposition_count": 15,
+  "segments": 11,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Bilibili-Ingest",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest"
+}

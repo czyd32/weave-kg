@@ -1,0 +1,114 @@
+{
+  "source_id": "BV1bRi9YaEqi",
+  "title": "快速复盘“擦边运动员“吴柳芳爆红过程：是剧本的概率非常低",
+  "author": "唯一讲述者",
+  "date": "2024-12-05",
+  "source_url": "https://www.bilibili.com/video/BV1bRi9YaEqi/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1bRi9YaEqi_p001",
+      "segment_id": "seg_001",
+      "type": "observation",
+      "subject": "吴柳芳账号",
+      "relation": "从10多万粉暴涨至",
+      "object": "631万粉，成为现象级网红事件",
+      "cause": "与管晨辰的口舌之争引发舆论关注+公益组织下场站台+管晨辰自身争议",
+      "effect": "舆论从混沌转向偏向吴柳芳",
+      "original_text": "吴柳芳的粉丝量已经来到了631万。从10多万粉到631万，意味着吴柳芳在短短十天内经历了爆发式涨粉。"
+    },
+    {
+      "id": "BV1bRi9YaEqi_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "吴柳芳事件是MCN引战剧本",
+      "relation": "概率非常低因为",
+      "object": "引战剧本只在双方体量对等时操作，一大一小账号做引战风险极高",
+      "cause": "MCN机构的商业逻辑：风险收益比极低，不符合正常操作",
+      "effect": "可以排除机构策划剧本的可能性",
+      "original_text": "引战剧本一般在双方粉丝量差不多、能实现共赢的情况下才会操作。但一大一小两个账号做引战剧本，风险很大，一般机构很难控制风险。"
+    },
+    {
+      "id": "BV1bRi9YaEqi_p003",
+      "segment_id": "seg_002",
+      "type": "observation",
+      "subject": "浙江共工公益下场站吴柳芳",
+      "relation": "成为",
+      "object": "舆论转向的关键节点",
+      "cause": "公益组织提供第三方背书，披露吴柳芳参与公益活动的细节",
+      "effect": "舆论整体局势从混沌开始偏向吴柳芳",
+      "original_text": "在这个公益组织下场之后，舆论的整体局势就从混沌开始偏向吴柳芳了。"
+    },
+    {
+      "id": "BV1bRi9YaEqi_p004",
+      "segment_id": "seg_003",
+      "type": "concept",
+      "subject": "MCN的角色",
+      "relation": "是",
+      "object": "放大器而非创造者——你得本身先有火，MCN才能给你扇风",
+      "cause": "MCN需要盈利，不会花大钱硬捧没有天赋的人",
+      "effect": "素人入行极难被MCN主动培养，需要自身先有内容亮点",
+      "original_text": "你得本身先有火，MCN才能给你扇风。想红的人很多，这条赛道非常卷。"
+    },
+    {
+      "id": "BV1bRi9YaEqi_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "吴柳芳“编制被抢走“的说法",
+      "relation": "说谎概率很低因为",
+      "object": "与现实中教师编制困境高度吻合",
+      "cause": "偏远地区无编制临时教师普遍，入职后长期无法转正、工资被拖欠",
+      "effect": "吴柳芳的经历代表了退役运动员安置困境的普遍现象",
+      "original_text": "吴柳芳一开始在学校里当体育老师，没有编制的概率其实非常高。所以在这一点上，吴柳芳说谎的概率其实很低。"
+    },
+    {
+      "id": "BV1bRi9YaEqi_p006",
+      "segment_id": "seg_005",
+      "type": "concept",
+      "subject": "网红报价",
+      "relation": "不等于",
+      "object": "实际收入——有价无市是常态，报价与实际成交价存在巨大落差",
+      "cause": "中间环节层层抽成，一条定制单报价15万但实际无人下单",
+      "effect": "拿着报价说事属于外行看内行，不懂装懂",
+      "original_text": "我一条定制单报价15万，听着特别高是不是？但实际上根本没有甲方下单。笑死，有价无市。"
+    },
+    {
+      "id": "BV1bRi9YaEqi_p007",
+      "segment_id": "seg_006",
+      "type": "observation",
+      "subject": "小冰心事件中推测的舆论演化路径",
+      "relation": "完全复现于",
+      "object": "吴柳芳事件——从道德争议升级为权利归属之争",
+      "cause": "这不是孤例，而是社会结构性现象",
+      "effect": "可预测的坏结果比意外更令人不安",
+      "original_text": "我在那两期讲小冰心的视频里曾经说过的问题，已经全部在吴柳芳身上实现了。几乎每一步的推测都是准确的。"
+    },
+    {
+      "id": "BV1bRi9YaEqi_p008",
+      "segment_id": "seg_006",
+      "type": "concept",
+      "subject": "舆论升级路径",
+      "relation": "从",
+      "object": "擦边道德争议（对/错）升级为权利归属之争（谁有权定义对/错）",
+      "cause": "一部分人认为应该听体制的，另一部分人反问为什么要听你的",
+      "effect": "讨论脱离具体事件，进入意识形态对抗，难以调和",
+      "original_text": "舆论场的风向已经不是擦不擦边的问题了，而是以擦边为主题，上升到权力归属的问题上了。"
+    },
+    {
+      "id": "BV1bRi9YaEqi_p009",
+      "segment_id": "seg_007",
+      "type": "conclusion",
+      "subject": "退役运动员安置问题",
+      "relation": "才是",
+      "object": "本次事件的核心议题——而非擦边本身",
+      "cause": null,
+      "effect": null,
+      "original_text": "本次事件中的一个要点，就是有关国家运动员退役后安置的问题。"
+    }
+  ],
+  "proposition_count": 9,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Bilibili-Ingest",
+  "pipeline": "SkillZY-Bilibili-Ingest"
+}

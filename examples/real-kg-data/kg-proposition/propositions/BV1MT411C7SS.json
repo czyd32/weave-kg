@@ -1,0 +1,114 @@
+{
+  "source_id": "BV1MT411C7SS",
+  "title": "重金求母：母爱是可以购买的吗？（解读篇）",
+  "author": "唯一讲述者",
+  "date": "2023-01-31",
+  "source_url": "https://www.bilibili.com/video/BV1MT411C7SS/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1MT411C7SS_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "邹雅琪",
+      "relation": "发起",
+      "object": "行为艺术《重金求母》",
+      "cause": "以日薪3,000元购买7位母亲的母爱，试图弥补童年缺失的母爱",
+      "effect": "引发关于母爱本质的讨论",
+      "original_text": "邹雅琪正在以自身和金钱作为媒介，来将母爱范式化。"
+    },
+    {
+      "id": "BV1MT411C7SS_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "母爱的范式化",
+      "relation": "意味着",
+      "object": "通过规定必要条件来定义母爱，剔除附加属性",
+      "cause": "每个人对母爱的看法不同甚至混沌，但文艺作品中母亲形象总有固定模板",
+      "effect": "邹雅琪试图通过项目展示不同人眼中母爱的样子，告诉大家母爱真实的样子",
+      "original_text": "邹雅琪正在试图通过这个项目，告诉大家什么才是母爱，或者正在试图告诉你，在她眼中母爱真实的样子。"
+    },
+    {
+      "id": "BV1MT411C7SS_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "《重金求母》海报设计",
+      "relation": "体现了",
+      "object": "男性凝视、身份规劝和物质主义",
+      "cause": "海报照片偏向男性柔性审美，文字排版偏向男性实用性思维，参考'重金求子'骗术",
+      "effect": "即使是花钱寻求母爱这种私人行为，也不自觉地迎合了男性审美——说明男性凝视已内化为自我规训",
+      "original_text": "我连花钱寻求母爱这种事情，都要尽力去讨好男性。虽然并没有任何具体的人逼我这样做，但是让我这样做的，正是这个社会。"
+    },
+    {
+      "id": "BV1MT411C7SS_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "身份规劝",
+      "relation": "表现为",
+      "object": "社会对个体预设的身份期待",
+      "cause": "如'男儿有泪不轻弹''女孩长大了就要相夫教子'等",
+      "effect": "母亲凭什么一定要这样那样的？——行为艺术质疑了母职的刻板化",
+      "original_text": "如果你是男生，那你小时候一定听过'男儿有泪不轻弹'……这就是身份规劝——因为我是男人，我就一定要怎么怎么样。"
+    },
+    {
+      "id": "BV1MT411C7SS_p005",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "结构固化",
+      "relation": "是",
+      "object": "社会运行中形成了一套固定的、被默认接受的运作模式",
+      "cause": "如同拼图总按60%三角形+40%正方形拼，人们不再质疑结构本身是否合理",
+      "effect": "物质主义（谁有钱谁就有话语权）成为评判成功的标准——邹雅琪在用金钱概念批判这种结构",
+      "original_text": "结构固化就像是一个人在拼拼图……每一个拼图都按照60%的三角形、40%的正方形去拼。至于这个拼图结构是不是合理呢？不知道。"
+    },
+    {
+      "id": "BV1MT411C7SS_p006",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "《重金求母》",
+      "relation": "在消解",
+      "object": "母爱的神性",
+      "cause": "在社会共识中母爱被赋予神性（无条件、自我牺牲、不容置疑），而该作品拒绝承认这种神性",
+      "effect": "如同《瞬间所有制》一样具有批判和讽刺属性，必然引发争议和讨论",
+      "original_text": "邹雅琪这个行为艺术本身，就是在消解这种母爱的神性。"
+    },
+    {
+      "id": "BV1MT411C7SS_p007",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "什么是母爱",
+      "relation": "没有统一答案",
+      "object": "在不同时代背景下有不同视角的不同母爱",
+      "cause": "中国社会70多年经历了计划生育、改革开放、经济飞跃到后疫情时代的巨大变革",
+      "effect": "在形形色色的人的描述中，能感受到划时代的感悟——这就是艺术的魅力",
+      "original_text": "什么是母爱？其实你也没有答案。但是在这些形形色色的人的描述之中，你感受到了一种划时代的感悟。"
+    },
+    {
+      "id": "BV1MT411C7SS_p008",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "说话者",
+      "relation": "很难认同",
+      "object": "《重金求母》项目",
+      "cause": "虽然喜欢《瞬间所有制》的批判与思考，但对该项目持保留态度",
+      "effect": "将在下一期（疑问篇）详细阐述反对理由",
+      "original_text": "我很喜欢《瞬间所有制》这个项目的批判与思考，但是对于《重金求母》这个项目，我真的很难认同。"
+    },
+    {
+      "id": "BV1MT411C7SS_p009",
+      "segment_id": "seg_005",
+      "type": "narrative",
+      "subject": "说话者",
+      "relation": "收尾",
+      "object": "我是讲述者，希望你开心",
+      "cause": null,
+      "effect": null,
+      "original_text": "我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 9,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

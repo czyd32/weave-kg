@@ -1,0 +1,114 @@
+{
+  "source_id": "BV1rx421y77g",
+  "title": "未经同意不能放在快递站，这刀冲着谁很明显吧！",
+  "author": "唯一讲述者",
+  "date": "2024-03-05",
+  "source_url": "https://www.bilibili.com/video/BV1rx421y77g/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1rx421y77g_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "快递新规",
+      "relation": "规定",
+      "object": "快递不得擅自放在快递站等末端服务平台，违者最高罚款3万元",
+      "cause": "2024年3月1日起实施",
+      "effect": "引发广泛讨论，有赞同也有反对",
+      "original_text": "3月1号开始，快递不允许擅自放在快递站等等末端服务平台了，违者最高罚款3万元。"
+    },
+    {
+      "id": "BV1rx421y77g_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "羊毛出在羊身上的逻辑",
+      "relation": "隐藏了",
+      "object": "世界上只有一家快递公司的前提",
+      "cause": "只有在忽略竞争关系的前提下，这个链条才成立",
+      "effect": "由于快递公司之间存在竞争关系，必不可能出现邮费上涨",
+      "original_text": "在这条逻辑之中隐藏了一个前提：世界上只有一家快递公司。只有在忽略竞争关系的前提下，这个链条才是成立的。"
+    },
+    {
+      "id": "BV1rx421y77g_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "消费者",
+      "relation": "拥有",
+      "object": "选择权",
+      "cause": "钱在我手里，只要牙缝里蹦出半个涨价我马上就换别家",
+      "effect": "快递公司是服务者是乙方，只要价格合理大有公司想赚这个钱",
+      "original_text": "钱在我手里，我有的选。你是快递公司，你是服务者，你是乙方啊！只要钱在合理的范围之内，大家都有点赚头，大把的公司想赚这个钱。"
+    },
+    {
+      "id": "BV1rx421y77g_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "新规中的擅自二字",
+      "relation": "是关键",
+      "object": "只要不是快递员擅自放在快递柜就不算违反",
+      "cause": "可以在选购商品时增加通道让消费者选择送到快递站还是送货上门",
+      "effect": "选择送到快递站给优惠券或便宜几分钱，可实实在在解决一大笔运力成本",
+      "original_text": "这句话的重点在于'擅自'这两个字。只要不是快递员擅自放在了快递柜，就不算违反新规。"
+    },
+    {
+      "id": "BV1rx421y77g_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "新规逻辑",
+      "relation": "是",
+      "object": "国家规定快递必须送到，快递公司不想送就得给我东西让我授权不用送",
+      "cause": "是国家规定你这个东西必须要给我送过来",
+      "effect": "不是我要加钱让你送过来，而是你要从我手里买断这段距离",
+      "original_text": "新规规定的是快递要送到我手里，是快递公司要通过某个方式让他们自己节约成本，是从我手里买断的这段距离，而不是我要加钱让你送过来。"
+    },
+    {
+      "id": "BV1rx421y77g_p006",
+      "segment_id": "seg_006",
+      "type": "methodology",
+      "subject": "解决运力不足",
+      "relation": "可通过",
+      "object": "增加快递员、缩短运输距离建仓储、提升运输工具效率",
+      "cause": "原本快递小哥一天送300件现在只能送100件",
+      "effect": "增加就业岗位，仓储建设和物流管理等相关行业迎来新机会",
+      "original_text": "运力不足怎么办？最简单办法——招人啊。增加快递员，增加就业岗位。还可以缩短运输距离来减少配送时间，在全国范围内增加货品仓库。"
+    },
+    {
+      "id": "BV1rx421y77g_p007",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "快递新规的真正目标",
+      "relation": "是",
+      "object": "快递公司",
+      "cause": "新规导致运力不足板上钉钉，快递公司不能从消费者手里拿钱，被逼压缩自己利润",
+      "effect": "资本家只能烧自己的钱解决问题，给员工提供更合适的薪水",
+      "original_text": "资本家们只能烧自己的钱来解决问题，压缩自己的利润，给员工提供更合适的薪水。"
+    },
+    {
+      "id": "BV1rx421y77g_p008",
+      "segment_id": "seg_008",
+      "type": "argumentation",
+      "subject": "快递新规",
+      "relation": "本质上是",
+      "object": "拉低上限、提高下限的策略",
+      "cause": "赚钱多的拿出来分一分给不赚钱的",
+      "effect": "如果消费者线上消费需求得不到满足会转到线下，实体经济能缓口气",
+      "original_text": "这是一个拉低上限、提高下限的策略——赚钱多的拿出来分一分给不赚钱的。"
+    },
+    {
+      "id": "BV1rx421y77g_p009",
+      "segment_id": "seg_009",
+      "type": "argumentation",
+      "subject": "罚款1-3万的规定",
+      "relation": "灵活性在于",
+      "object": "没有说明罚谁",
+      "cause": "规定只说明违规最高罚3万，没有限定罚款对象",
+      "effect": "执行上很灵活",
+      "original_text": "规定里面没有说明罚谁，只是说明这个违规最高要罚3万，这就很灵活了。"
+    }
+  ],
+  "proposition_count": 9,
+  "segments": 9,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

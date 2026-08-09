@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1rcwgzJEKo",
+  "title": "从爆火到褒姒的养龙虾：AI时代，人的上限决定工具的上限",
+  "author": "唯一讲述者",
+  "date": "2026-03-15",
+  "source_url": "https://www.bilibili.com/video/BV1rcwgzJEKo/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1rcwgzJEKo_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "AI狂热",
+      "relation": "由两种心理驱动力构成",
+      "object": "使用与满足（提升效率的真实需求）和错失恐惧/前景理论（害怕落伍的焦虑）",
+      "cause": "错失恐惧：担心别人有好事自己赶不上；前景理论：比起获得什么，更害怕失去什么",
+      "effect": "绝大多数人直接跳过了'我需不需要'，直接进入了'我必须要'——技术革新还没确定，商业模式已经很成熟",
+      "original_text": "人为什么会选择养龙虾呢？两个驱动力：一是使用与满足（提升效率的真实需求），二是错失恐惧和前景理论（害怕落伍的焦虑）。绝大多数人其实是后者驱动。我们好像直接跳过了'我需不需要'这个阶段，直接进入了'我必须要'有这个东西的阶段。"
+    },
+    {
+      "id": "BV1rcwgzJEKo_p02",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "拟态环境",
+      "relation": "导致",
+      "object": "我们以为自己在做独立判断，但实际上更多是对周围声音做条件反射",
+      "cause": "当处在某种信息茧房时，媒介为我们构建了'虚拟环境'",
+      "effect": "人们基于被媒介过滤过的环境做判断，而非基于真实世界",
+      "original_text": "拟态环境——当我们处在某种信息茧房的时候，我们以为自己在做独立判断，但其实更多是对周围声音做了一个条件反射。人们基于这个被媒介过滤过的环境做判断，而非基于真实世界。"
+    },
+    {
+      "id": "BV1rcwgzJEKo_p03",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "AI的上限",
+      "relation": "取决于",
+      "object": "人的上限——AI给你的东西是全网语料库加权平衡后的最优解，属于所有人，但也不属于所有人",
+      "cause": "AI缺乏真实的思考过程，只能机械性地重复，不知道为什么要思考",
+      "effect": "AI生成的引用和总结都很正确，但内容很无聊——最打动人心的永远是自己最真实的那段表达",
+      "original_text": "AI的上限取决于人的上限。AI给你的东西就是全网语料库加权平衡之后的一个最优解，它属于所有人，但也不属于所有人。最打动人心的永远是自己最真实的那段表达。AI确实很强，但人类适应能力是线性的。"
+    },
+    {
+      "id": "BV1rcwgzJEKo_p04",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "人类与工具的关系",
+      "relation": "经历了三个阶段",
+      "object": "恐慌到共生——钟表、电脑、AI都走过了这条路",
+      "cause": "人类对于新工具的恐惧从来不是因为它太强了，而是因为我们还没有学会跟它相处",
+      "effect": "最终工具服务于人的目的——钟表没有让人变成奴隶，电脑没有取代所有人，AI也不会",
+      "original_text": "历史上每一个新的工具都会经历三个阶段：第一是恐慌，最后是共生。人类对于新工具的恐惧，从来不是因为它太强了，而是因为我们还没有学会跟它相处。电脑最终是服务于人的目的，而不是反过来的。"
+    },
+    {
+      "id": "BV1rcwgzJEKo_p05",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "AI焦虑的本质",
+      "relation": "是",
+      "object": "人类的主体性问题——想清楚了，AI就是帮手；没想清楚，AI就成了替代品",
+      "cause": "AI帮你做完一切之后，你发现自己没什么事干了",
+      "effect": "与其焦虑AI会不会取代你，不如想清楚省下来的时间可以去干什么",
+      "original_text": "不担心AI会取代我。我更担心的是——当AI把那些重复性的活都干完之后，我有没有想清楚我到底要干什么。如果我想清楚了，AI就是我的帮手。但如果我没有想清楚的话，AI成为了我的替代品，它帮我做完一切之后，我发现我没什么事干了。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

@@ -1,0 +1,103 @@
+{
+  "source_id": "BV1hE6TYLE26",
+  "title": "胖东来含金量还在上升：人民网评下场站胖东来",
+  "author": "唯一讲述者",
+  "date": "2024-12-02",
+  "source_url": "https://www.bilibili.com/video/BV1hE6TYLE26/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1hE6TYLE26_p001",
+      "segment_id": "seg_001",
+      "type": "observation",
+      "subject": "人民网评",
+      "relation": "使用倒装句强调",
+      "object": "胖东来的价值观是其成功的根本原因——为胖东来定调",
+      "cause": "人民网评作为官方舆论风向标，倾向于肯定胖东来",
+      "effect": "为胖东来的彩礼争议确立了正面基调",
+      "original_text": "从某种角度上来看，胖东来的成功不是偶然的，首先源于他价值观的成功。为了突出和强调胖东来的价值观，人民网在这里使用了倒装句的句式。"
+    },
+    {
+      "id": "BV1hE6TYLE26_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "胖东来的彩礼规定",
+      "relation": "本质是",
+      "object": "额外福利附带额外条件，属于权责对等而非干涉私生活",
+      "cause": "规定本身没有执行空间（换个名头就规避），只是倡导+奖惩机制",
+      "effect": "做到给福利，做不到不惩罚只取消福利，不接受可以不拿",
+      "original_text": "额外福利就等于额外条件，你接受就接受，不接受就拉倒。"
+    },
+    {
+      "id": "BV1hE6TYLE26_p003",
+      "segment_id": "seg_003",
+      "type": "concept",
+      "subject": "爹味与爹系的本质区别",
+      "relation": "在于",
+      "object": "权责对等——只说教不做是“爹味“，既说教也负责是“爹系“",
+      "cause": "爹味只想当爹却不想负责，爹系既然行使引导权力也承担照顾责任",
+      "effect": "于东来的爹味中包含着爹系关怀（不开心假、高福利等）",
+      "original_text": "如果我只知道对你说教，只知道闲着没事就批判你两下，这个就叫爹味重。但是我不但对你说教，我还会相应地去做事，因为我既然想当爹，那我就要负起当爹的责任。"
+    },
+    {
+      "id": "BV1hE6TYLE26_p004",
+      "segment_id": "seg_004",
+      "type": "observation",
+      "subject": "人际关系行为学派在国内的实践",
+      "relation": "多数变成了",
+      "object": "变味的强制社交和加班掩护——下午茶、员工墙、包晚餐=996预警信号",
+      "cause": "理论是从领导视角自上而下分析员工，而非从员工视角出发",
+      "effect": "团建从促进人际关系变成军训式凝聚力展示，与初衷背道而驰",
+      "original_text": "你去了这家公司之后，第一件事，你先看看他们公司墙上有没有文化墙。如果有，赶紧跑。所以，这是一家996公司的概率极高。"
+    },
+    {
+      "id": "BV1hE6TYLE26_p005",
+      "segment_id": "seg_005",
+      "type": "concept",
+      "subject": "马斯洛需求理论",
+      "relation": "假设需求满足后自然升级，但",
+      "object": "精神分析认为欲望不可被满足——欲望的目的是复制自己",
+      "cause": "如果物质满足就能抵达自我实现，最有钱的人应该是道德标准最高的人，现实并非如此",
+      "effect": "真正让人达成自我实现的是同情心，而非满足",
+      "original_text": "如果按照马斯洛的需求理论这样一步一步攀升上去，这个世界上道德标准最高的人，是世界上最有钱的那个人。然而现实的情况是吗？显然不是。"
+    },
+    {
+      "id": "BV1hE6TYLE26_p006",
+      "segment_id": "seg_006",
+      "type": "narrative",
+      "subject": "讲述者的自我实现",
+      "relation": "源于",
+      "object": "淋过雨的人想为别人撑伞——年少窘迫经历转化为对员工的善待",
+      "cause": "在公交站长椅上睡觉、被路人俯视的创伤经历",
+      "effect": "成为当年最羡慕的老板的样子，给员工发高薪",
+      "original_text": "正是因为我淋过雨，所以我希望别人不要再淋雨了。我不想让你经历我曾经经历过的那些东西。"
+    },
+    {
+      "id": "BV1hE6TYLE26_p007",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "胖东来的成功",
+      "relation": "不能仅用",
+      "object": "待遇稀缺性解释——关键在于激发人的主观能动性",
+      "cause": "很多企业尝试过类似福利但失败，单纯物质激励不足以产生归属感",
+      "effect": "把员工当人看而非工具，是核心竞争力",
+      "original_text": "让每一个普通人不用浪费生命去重复一些无用的工作，这个本身就是一个挺核心的竞争力了。"
+    },
+    {
+      "id": "BV1hE6TYLE26_p008",
+      "segment_id": "seg_008",
+      "type": "conclusion",
+      "subject": "人民网评的核心信号",
+      "relation": "是",
+      "object": "企业不仅要在商言商，更要注重社会责任——企业文化和员工心理感受是主流文化的一部分",
+      "cause": null,
+      "effect": null,
+      "original_text": "企业不仅要在商言商，更要注重社会责任。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 8,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Bilibili-Ingest",
+  "pipeline": "SkillZY-Bilibili-Ingest"
+}

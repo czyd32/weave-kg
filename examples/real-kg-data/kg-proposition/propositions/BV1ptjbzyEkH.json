@@ -1,0 +1,126 @@
+{
+  "source_id": "BV1ptjbzyEkH",
+  "title": "胖东来高管集体发声：某MCN机构，好好看，好好学",
+  "author": "唯一讲述者",
+  "date": "2025-05-24",
+  "source_url": "https://www.bilibili.com/video/BV1ptjbzyEkH/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1ptjbzyEkH_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "胖东来超百位员工集体发声",
+      "relation": "打破",
+      "object": "公司=资本的负面刻板印象，将企业形象端口转向个人形象端口",
+      "cause": "具体的高管和基层员工以个人身份出镜，讲述被造谣的真实感受",
+      "effect": "公众共情对象从抽象企业变成具体的人",
+      "original_text": "胖东来超百位员工集体出镜讲述被造谣的委屈，就打破了所谓'公司=资本'的负面刻板印象——把公司的形象端口转向了个人的形象端口。"
+    },
+    {
+      "id": "BV1ptjbzyEkH_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "申红丽的情绪爆发",
+      "relation": "体现",
+      "object": "隐忍和克制之后觉醒的情绪才最能打动人心",
+      "cause": "情绪爆发不是来源于突然的歇斯底里，而是隐忍克制后的觉醒",
+      "effect": "非常能够刺激他人共情",
+      "original_text": "这位申姐的个人情绪非常饱满，而且整段情绪的爆发点是放在了最后，可以说使用得非常克制。情绪爆发不是来源于突然的歇斯底里，而是来自于隐忍和克制之后的一种觉醒——这个才是真正的情绪能够打动人的地方。"
+    },
+    {
+      "id": "BV1ptjbzyEkH_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "于东来",
+      "relation": "拥有",
+      "object": "深厚的情感账户积累，使其情绪策略天然成功",
+      "cause": "多年来善待员工、真诚服务消费者等行为积累了公众信任",
+      "effect": "即使表达方式不完美，公众依然愿意站在他这一边",
+      "original_text": "于老师本人发的内容，说实话对于绝大部分的网友来说真的很无聊。但是恰恰又是因为他的所作所为，给他的情感账户一个足够的积累了，所以他的情绪策略可以如此成功。"
+    },
+    {
+      "id": "BV1ptjbzyEkH_p004",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "胖东来形象修复策略",
+      "relation": "组合运用",
+      "object": "弱者身份（被压迫的好人）+ 高道德站位 + 基层员工声援 + 法律武器",
+      "cause": "员工真实故事能将企业解构成一个个弱者，激活公众同理心",
+      "effect": "打破企业=资本的刻板印象，建立公众共情",
+      "original_text": "胖东来给自己塑造的弱者身份是'被压迫的好人'，然后通过高道德的站位、基层员工的声援和法律武器这三种方式来进行形象修复。员工们说出的真实故事，能够把一个企业解构成一个又一个的弱者。"
+    },
+    {
+      "id": "BV1ptjbzyEkH_p005",
+      "segment_id": "seg_002",
+      "type": "observation",
+      "subject": "员工发声",
+      "relation": "存在",
+      "object": "内容保守导致两级分化：不了解事件者10秒划走，了解者需看完才被激发",
+      "cause": "没有在开头复述对方行为过程，缺少事件背景介绍",
+      "effect": "传播效率降低，未能最大化情绪触达",
+      "original_text": "这个保守的点在于，他们没有让观众真实地感受到'你所承受的伤害'。建议在开头的前几分钟先讲一下事情发生的前后梗概，以便于完全没有了解过事情的观众去了解。"
+    },
+    {
+      "id": "BV1ptjbzyEkH_p006",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "盈都来（原胖都来）",
+      "relation": "采用",
+      "object": "危机公关以退为进三步走：诚恳认错→控制事态→主动调整",
+      "cause": "产品终极价值在于占据消费者心智，而非品牌符号本身",
+      "effect": "前期流量赚够，滑跪后挽回部分口碑",
+      "original_text": "盈都来这波操作其实也比较符合危机公关'以退为进'的传统思路。这个思路总结起来就三步：诚恳认错展现态度、控制事态降低损失、主动调整。"
+    },
+    {
+      "id": "BV1ptjbzyEkH_p007",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "柴怼怼",
+      "relation": "采用",
+      "object": "高喊国家部门出手+不停要求质证的循环策略，与某MCN操作相似",
+      "cause": "胖东来已通过53页调研报告自证清白，但柴怼怼不消停",
+      "effect": "以攻为守的传播策略被识破，账号最终被全网封禁",
+      "original_text": "柴怼怼的行为也是一样的路线：一边高喊'国家税务应该出手''国家网信办应该出手''中央巡视组应该出手'，一边又不停地要求胖东来进行质证。实际上胖东来此前发布了长达53页的调研报告。"
+    },
+    {
+      "id": "BV1ptjbzyEkH_p008",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "舆情传播",
+      "relation": "可建模为",
+      "object": "SIR传染病动力学模型（易感者→感染者→恢复者）",
+      "cause": "舆情传播与传染病传播具有类似的指数增长特征",
+      "effect": "恢复者比例增加→传播链断裂→舆情自然消退",
+      "original_text": "对于传播和舆情，最简单的就是经典的传染病动力学模型（SIR模型）。舆情传播模仿了传染病的传播过程，将舆情中的人群分为易感者、感染者和恢复者。"
+    },
+    {
+      "id": "BV1ptjbzyEkH_p009",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "装死策略",
+      "relation": "是",
+      "object": "合格的舆情应对策略——网民注意力易转移，仇恨需要对方对抗才能持续",
+      "cause": "单边倒舆论会随反对者消亡而消亡，网民有定论后不再关注",
+      "effect": "舆情热度自然走向衰退期",
+      "original_text": "如果你实在找不到好的办法，其实'装死'也是一个很合格的策略。网民的注意力是很容易被转移的，而仇恨作为一种力量，它也是有限的——因为它需要对方不停地对抗。"
+    },
+    {
+      "id": "BV1ptjbzyEkH_p010",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "胖东来和隋卞",
+      "relation": "依靠",
+      "object": "过硬的产品服务质量 → 获得观众自发成为'自来水公关'",
+      "cause": "一个人能不能火，是人格特质决定的，流水线网红没有灵魂",
+      "effect": "观众自发维护品牌形象，形成天然公关防线",
+      "original_text": "只要你做好自己的产品，观众就会成为你的'自来水'公关。一个人能不能火，其实是他的人格特质决定的。流水线造出来的网红是没有那种灵魂的。"
+    }
+  ],
+  "proposition_count": 10,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "batch": "20260808_batch_08",
+  "tool": "SkillZY-Knowledge-Graph-Ingest",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest"
+}

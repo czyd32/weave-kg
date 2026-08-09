@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1StrUBXEaQ",
+  "title": "公关=诡辩？西贝贾国龙贾总，我需要你给我一个解释",
+  "author": "唯一讲述者",
+  "date": "2026-01-17",
+  "source_url": "https://www.bilibili.com/video/BV1StrUBXEaQ/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1StrUBXEaQ_p1",
+      "subject": "公共关系学",
+      "relation": "is",
+      "object": "有正经教材、正经职业分类、从古至今贯穿人类文明史的正经专业",
+      "cause": "从尧帝设喉舌官、商鞅徒木立信到艾维·李《原则宣言》、伯纳斯《公共舆论之形成》、卡特李普双向对称沟通，公关有110多年现代史和数千年文明史",
+      "effect": "公关的本质从来都不是骗，是沟通和建立关系，是真诚对话、赢得信任、管理共识的学问",
+      "type": "argumentation",
+      "original_text": "公共关系学是正经大学的一个正经专业，它有正经的教材，有正经的职业分类，它是一个需要被正确认识的职业。从古至今，从尧舜禹到现代企业，公关的本质从来都不是骗，是沟通和建立关系。它是一个真诚对话、赢得信任、管理共识的学问。",
+      "segment_id": "seg_01"
+    },
+    {
+      "id": "BV1StrUBXEaQ_p2",
+      "subject": "公关的职业现状",
+      "relation": "is",
+      "object": "高责任低回报——上市公司全国千家门店的公关总裁年薪仅30万",
+      "cause": "公关总裁要扛的是整个企业十几亿、几十亿品牌形象的风险，每天维护媒体关系、公共关系",
+      "effect": "公关最忌讳的就是干公关这行——上辈子作恶多端，这辈子入行公关",
+      "type": "narrative",
+      "original_text": "公关总裁，公司管理高层了吧，直接对接CEO的也算特别高层了。承蒙各位厚爱——我朋友年薪30万。每年30万年薪，要扛的是整个企业十几亿、几十亿品牌形象的风险。公关好啊，前途太光明了，我真是太爱这行了。上辈子作恶多端，这辈子入行公关。",
+      "segment_id": "seg_02"
+    },
+    {
+      "id": "BV1StrUBXEaQ_p3",
+      "subject": "公关最怕的",
+      "relation": "is_not",
+      "object": "神一样的对手",
+      "cause": "公关和公关之间的公关战有迹可循，公众的情绪可以通过安抚和解决问题来应对",
+      "effect": "公关最怕的是猪队友——你永远预测不了你的队友会干什么，而老板乱说话就是最常见的猪队友行为",
+      "type": "argumentation",
+      "original_text": "公关最怕什么呢？公关最怕的就是遇到猪队友。因为你大概能预测到你的对手会使用什么样的方法，但你永远预测不了你的队友会干什么。最近最牛逼的，玩到极致了，就是我们现在正在发生的——贾老板乱说话导致的舆情危机。",
+      "segment_id": "seg_03"
+    },
+    {
+      "id": "BV1StrUBXEaQ_p4",
+      "subject": "公关在老板眼中的定位",
+      "relation": "is",
+      "object": "战术工具而非战略职能——无事夏迎春，出了事才想起来",
+      "cause": "很多老板把公关当擦屁股的工具，平时想不起来，出了事问'我养你们干什么吃的'",
+      "effect": "老板的高度决定了公关的高度——老板要的不是沟通和修复，而是高速的静音，导致公关无法建立信任资产",
+      "type": "argumentation",
+      "original_text": "在很多的老板眼里，公关不是一个战略职能，它是一个战术工具。无事夏迎春，平时想不起来公关，出了事来本事了——'我养你们干什么吃的？'老板的高度决定了公关的高度。有些老板，他本身要的也不是沟通和修复，而是高速的静音。",
+      "segment_id": "seg_04"
+    },
+    {
+      "id": "BV1StrUBXEaQ_p5",
+      "subject": "信任资产",
+      "relation": "is",
+      "object": "平时诚信经营积累的公众好感度——不是成本，是投资",
+      "cause": "蜜雪冰城和胖东来每次出问题公关都不用怎么做事，公众自发信任他们",
+      "effect": "积累了足够的公众好感度，在关键时刻才能救你一命，甚至反将一军",
+      "type": "argumentation",
+      "original_text": "平时我们诚信经营，一点一点地去建立自己的品牌形象，这都是在往信任的银行里存钱。这个不是成本，这个是投资。你让罗永浩去骂一句胖东来试试？你让罗永浩去骂一句蜜雪冰城呢？人家怎么没事呢？",
+      "segment_id": "seg_05"
+    },
+    {
+      "id": "BV1StrUBXEaQ_p6",
+      "subject": "公关的终极定义",
+      "relation": "is",
+      "object": "通过沟通建立信任——不是让世界听见你的声音，而是让你的声音更值得被听见",
+      "cause": "公关不是打赢一场又一场的舆论战，而是让你不需要去打这些舆论战",
+      "effect": "公关不是诡辩，是沟通和信任建设",
+      "type": "argumentation",
+      "original_text": "公关不是诡辩，是要让你通过沟通去建立信任。公关不是让世界听见你的声音，而是让你的声音更值得被听见。公关不是打赢一场又一场的舆论战，是要让你不需要去打这些舆论战。",
+      "segment_id": "seg_06"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

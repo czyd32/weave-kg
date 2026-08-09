@@ -1,0 +1,103 @@
+{
+  "source_id": "BV14e411R7RG",
+  "title": "于文亮靠平凡破圈：爆火的背后是平台方和UP主的内容博弈",
+  "author": "唯一讲述者",
+  "date": "2023-10-20",
+  "source_url": "https://www.bilibili.com/video/BV14e411R7RG/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV14e411R7RG_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "互联网纠结人",
+      "relation": "是",
+      "object": "在现实与虚拟之间拉扯形成的新型人格——既知道网络是虚拟的，又以网络视角看待现实生活",
+      "cause": "网红博主拍摄的是观众的向往和想象中的生活，但终究不是真实的你我，观众在虚幻满足和现实之间来回拉扯",
+      "effect": "类比社会学中的守财奴——守财奴是被资本创造出来的而非天然形成的，互联网纠结人同样是被平台内容生态塑造的",
+      "original_text": "互联网纠结人，就是正在拉扯过程中形成的一个人格——既不是活在纯粹的由网络打造的虚幻生活之中，但是对于虚幻生活的认同和站队呢，也已经开始植入在脑海里面了。"
+    },
+    {
+      "id": "BV14e411R7RG_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "于文亮的爆火",
+      "relation": "打破",
+      "object": "只有精致人才配有分享生活的隐藏枷锁——平凡的相貌、粗制滥造的拍摄、毫无妆造",
+      "cause": "于文亮的内容简陋到令人发指，但正因如此才显得真实有共鸣，戳中了互联网纠结人的痛点",
+      "effect": "评论区出现大量普通人摆脱纠结，有勇气分享真实的生活和真实的自己",
+      "original_text": "于文亮的出现，是打破了只有精致人才配有分享自己生活的隐藏枷锁。所以我们才能在他的评论区里看到各个平凡人摆脱纠结，有勇气分享自己真实的生活。"
+    },
+    {
+      "id": "BV14e411R7RG_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "于文亮的爆火",
+      "relation": "本质是",
+      "object": "平台主动进行的造神运动，而非个人能力的胜利——因此无可复制",
+      "cause": "于文亮在抖音347万粉，但在快手仅4.8万、B站仅2.2万——如果他是靠自身特点火的，应该在各个平台都火，如同朱一旦、孙火旺那样",
+      "effect": "于文亮的特点（平凡真实）是一个抽象概念，不足以支撑破圈——没有'有钱人的生活就是如此朴实无华且枯燥'这样的洗脑直观表达",
+      "original_text": "于文亮的爆火，是平台故意进行的一个造神运动，而不是像依靠自己的特点一路过关斩将冲上来的。"
+    },
+    {
+      "id": "BV14e411R7RG_p004",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "平台面临的垄断悖论",
+      "relation": "是",
+      "object": "大V成功=内容同质化→阶级不流动→平台腐朽→用户流失，但平台又不能得罪大V",
+      "cause": "创作者无限复制最成功的商品导致同质化僵化，新创作者没有上升通道，观众点进来永远看到同样的内容而失去期望",
+      "effect": "平台的最佳策略是不断扶持新人上来蚕食大V流量，展示'新人可以通过努力爬上去'的现实，迫使大V推陈出新，形成社区良性循环",
+      "original_text": "无限复制就代表着同质化。……阶级不流动就会腐朽。……最好的方法，就是不断地扶持新人上来跟你抗衡，把你的流量蚕食掉。"
+    },
+    {
+      "id": "BV14e411R7RG_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "平台的'维持平衡'",
+      "relation": "不同于",
+      "object": "'维持稳定'——前者是让新人有机会上升、大V被迫创新，后者是保持现状不变",
+      "cause": "维稳意味着大V垄断不变，平台会失去活力；平衡意味着通过扶持新人来制约大V，保持生态活力",
+      "effect": "新人看到于文亮这样的人都能火→'我比他强我为什么不行'→开始创作→大V被迫创新→用户看到新内容→粘度提高→良性循环",
+      "original_text": "你现在最重要的事情是维持平衡——不是维持稳定，而是维持平衡。这是两回事。"
+    },
+    {
+      "id": "BV14e411R7RG_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "于文亮",
+      "relation": "是踩着",
+      "object": "成千上百个此前失败的于文亮尸体走出来的——平台推流不等于一定能火",
+      "cause": "在流量的争夺过程中，平台推流了很多高质量和低质量创作者，但大多数没有观众缘被抛弃",
+      "effect": "于文亮自己是不知道的，但平台清清楚楚——所以想模仿于文亮火起来是不可能的，死了这条心",
+      "original_text": "你看到的这一个于文亮，是踩着以前的成千上百个于文亮的尸体走出来的。虽然于文亮自己未必知道，但是平台应该是清清楚楚的。"
+    },
+    {
+      "id": "BV14e411R7RG_p007",
+      "segment_id": "seg_004",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "商单",
+      "object": "萌芽家电动牙刷广告——根管治疗后推荐，31天无理由退货，终身售后",
+      "cause": null,
+      "effect": null,
+      "original_text": "一款好的电动牙刷就是非常重要的。现在很多的口腔专家和权威书籍都认可了电动牙刷的优势——和传统的牙刷效果是相差了83倍的。"
+    },
+    {
+      "id": "BV14e411R7RG_p008",
+      "segment_id": "seg_007",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "结语",
+      "object": "希望你开心",
+      "cause": null,
+      "effect": null,
+      "original_text": "以上。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

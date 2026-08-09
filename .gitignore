@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+venv/
+.env
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+pip-wheel-metadata/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# KG data (user-specific, not example data)
+knowledge-graph/
+*.faiss
+*.pkl
+# faiss.index is part of example data — explicitly allowed
+!examples/real-kg-data/_shared/embeddings/faiss.index
+
+# API keys
+.api_key
+*.env.local
+*.env.production
+
+# Temp
+temp/
+*.tmp
+*.bak
+
+# Sync metadata (local only, not for publishing)
+EXTRACTION_MAP.md

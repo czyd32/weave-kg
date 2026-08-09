@@ -1,0 +1,59 @@
+{
+  "source_id": "BV1AwosBEEj7",
+  "title": "爱奇艺AI演员翻车：当哥哥真的\"爱自己\"，抵制声音就没了——公关危机中的观众两面性",
+  "author": "唯一讲述者",
+  "date": "2026-04-22",
+  "source_url": "https://www.bilibili.com/video/BV1AwosBEEj7/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1AwosBEEj7_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "爱奇艺AI艺人名单事件",
+      "relation": "是",
+      "object": "典型的空手套白狼——将拟邀名单当作已签约名单公布，引发100多位艺人集体辟谣",
+      "cause": "先斩后奏策略：先制造热度传播，被揭穿后大不了赔钱，但热度已经形成",
+      "effect": "构成事实上的虚假宣传，暴露了爱奇艺在宣发审核上的重大失误",
+      "original_text": "这个所谓的名单其实是'拟邀名单'。先斩后奏：我先拍了一堆广告，用你的形象哗哗弄完了之后，热度已经传播得这么高，你告我？你告了，我大不了赔你点钱。"
+    },
+    {
+      "id": "BV1AwosBEEj7_p02",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "公关与营销的账本",
+      "relation": "是",
+      "object": "收益能否覆盖损失——每一次对外发言都是一次风险，最安全是不发言",
+      "cause": "营销需要通过对外发声扩大影响力，公关需要控制每次发言的风险敞口",
+      "effect": "公关和营销的根本性冲突——两者博弈的本质是收益能否覆盖损失",
+      "original_text": "对于公关来说，最安全的就是不发言。但营销可能会觉得需要通过每一次发言对外释放信号。公关可能就要去想想第二笔账怎么算：这个收益能不能覆盖掉我的损失？"
+    },
+    {
+      "id": "BV1AwosBEEj7_p03",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "观众的两面性",
+      "relation": "是",
+      "object": "公开舆论中抵制AI，私人消费中购买AI服务——嘴上说'还我哥哥真实演技'，暗地里'9块9和哥哥谈24小时恋爱'",
+      "cause": "粉丝爱的不是银幕上的哥哥本人，而是'爱自己'的哥哥；AI降低了粉丝接触偶像形象的门槛",
+      "effect": "爱奇艺敢于推出AI演员库的底层信心——只要撑过辟谣期，AI男友上线那天危机自然崩解",
+      "original_text": "今天粉丝在热搜上面骂'还我哥哥的真实演技'，明天APP一弹——'想和哥哥的AI形象谈一场24小时的恋爱吗？9块9你就可以谈。'粉丝抵制的手会停下，但是充值的手会非常诚实。"
+    },
+    {
+      "id": "BV1AwosBEEj7_p04",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "AI演员的商业逻辑",
+      "relation": "是",
+      "object": "把演员的生产资料公有化，把粉丝的占有欲私有化",
+      "cause": "平台在掘演员的根，但确实利好粉丝和粉圈经济",
+      "effect": "当对粉丝有利时，抵制就不会那么狠——口嫌体正直",
+      "original_text": "AI艺人库这个产品，说白了就是把演员的生产资料公有化了，把粉丝的占有欲私有化了。当这个东西对粉丝自己有利的时候，他们抵制得可能就不会那么狠。"
+    }
+  ],
+  "proposition_count": 4,
+  "segments": 2,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

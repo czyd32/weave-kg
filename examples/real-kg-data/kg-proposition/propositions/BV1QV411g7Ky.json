@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1QV411g7Ky",
+  "title": "匠心精神！苦逼打工人到底是欠了谁？",
+  "author": "唯一讲述者",
+  "date": "2023-08-08",
+  "source_url": "https://www.bilibili.com/video/BV1QV411g7Ky/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1QV411g7Ky_p1",
+      "segment_id": "seg_01",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "因朋友提醒话题敏感而",
+      "object": "缩短本期内容",
+      "cause": null,
+      "effect": null,
+      "original_text": "我有一个朋友跟我说这个话题可能稍微有点敏感，但是我也不知道敏感在哪里。但是听人劝嘛，我这人有个好处就是听劝。"
+    },
+    {
+      "id": "BV1QV411g7Ky_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "建筑设计行业的无限责任制",
+      "relation": "导致",
+      "object": "不可控风险与低薪资严重不匹配",
+      "cause": "只要在图纸上签了名，该建筑任何时间出现问题都由签名者背锅——即使图纸泄露被他人使用，也要承担20%或10%的人道主义赔偿",
+      "effect": "月薪2,000的实习生要承担终身责任，且需熬资历十年才有机会出头，这种制度设计极不合理",
+      "original_text": "在建筑设计这个行业里面有一个东西叫做无限责任制。也就是说无论在什么时候，只要你在某张设计图上签下了你的名字，那么由你签名的设计图设计出来的建筑，一旦在任何时候出现了问题，这个锅由你来背。"
+    },
+    {
+      "id": "BV1QV411g7Ky_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "威胁员工",
+      "relation": "比「匠心」问题",
+      "object": "更严重",
+      "cause": "「我赚着卖白菜的钱，操着卖白粉的心」——领导的威胁行为（抢手机、不懂法、气焰嚣张）暴露了其能力问题，而「匠心」只是借口",
+      "effect": "根本问题在于权力不对等和领导能力不足，而非「匠心精神」本身",
+      "original_text": "实际上威胁的问题要比匠心的问题更大。一个是这个领导的能力问题，另一个也是这个行业本身的问题。"
+    },
+    {
+      "id": "BV1QV411g7Ky_p4",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "上一代从业者",
+      "relation": "吃到了时代的红利却",
+      "object": "不自知",
+      "cause": "房地产野蛮生长时期，设计师供不应求，房地产公司求着他们干活——但很多人把时代红利误认为是自己的个人能力",
+      "effect": "他们用过去的经验对现代人颐指气使，而实际上行业已回归原本的样子，后来者需要「还债」",
+      "original_text": "在房地产行业野蛮生长的时候，让很多的设计师吃到了时代的红利。……很多人实际上是意识不到的。他们不知道自己是因为吃到了时代的红利才这么赚钱，而是真的认为自己有极强的工作能力。"
+    },
+    {
+      "id": "BV1QV411g7Ky_p5",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "设计院实习生的待遇",
+      "relation": "暴露了",
+      "object": "劳动法落实不到位的问题",
+      "cause": "无限责任、月薪2,000、加班无加班费、不愿加班被领导骂被抢手机——这些都是劳动法明确禁止的",
+      "effect": "涉事方需要完善法律常识，合法合规经营",
+      "original_text": "不提我们常见的996，单从这个视频的角度来看，无限责任、月薪2,000，当然也有可能会多一点，但是加班没有加班费，不愿意加班还要被领导骂、被领导抢手机。"
+    },
+    {
+      "id": "BV1QV411g7Ky_p6",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "「匠心可以接受因为行业经济下滑」",
+      "relation": "是",
+      "object": "将企业成本转嫁给劳动者的说辞",
+      "cause": "经济下滑不应成为压榨员工的理由——企业降本增效有多种方式，压榨劳动者是最懒惰的选择",
+      "effect": "这种论调本质上是为企业的剥削行为辩护",
+      "original_text": "他们认为匠心是合理的，因为行业整体的经济形势在下滑，为了保住这个行业的活性，所以一定程度上的匠心可以接受。"
+    },
+    {
+      "id": "BV1QV411g7Ky_p7",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "「实习生经验不足应降薪」",
+      "relation": "忽视了",
+      "object": "劳动者基本生存权",
+      "cause": "实习生即使经验不足，也需要基本的生存保障——工资太低无法生活，企业的利润不能以牺牲劳动者基本生存权为代价",
+      "effect": "这种论调将企业利润置于劳动者生存权之上，是典型的剥削逻辑",
+      "original_text": "现在实习生的工作经验偏少，虽然有一定的理论知识，但是实践和理论来说的话，肯定是实践更重要一些。所以实际上这些实习生很难为公司带来利润，所以如果工资太高，企业的利润谁来保证呢？所以应该降薪。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

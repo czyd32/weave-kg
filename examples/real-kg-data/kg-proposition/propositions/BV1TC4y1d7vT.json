@@ -1,0 +1,158 @@
+{
+  "source_id": "BV1TC4y1d7vT",
+  "title": "看得出来南阳领导确实想办实事，但公关水平也属实有点抽象",
+  "author": "唯一讲述者",
+  "date": "2023-10-09",
+  "source_url": "https://www.bilibili.com/video/BV1TC4y1d7vT/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1TC4y1d7vT_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "南阳迷笛音乐节",
+      "relation": "在",
+      "object": "最后一天发生大规模偷盗事件",
+      "cause": "附近村民偷走乐迷营地的帐篷、手机、随身物品",
+      "effect": "南阳被网友群嘲",
+      "original_text": "在十月初期，河南南阳举办了一场迷笛音乐节，使得大量的乐迷涌入南阳参加。但是却在音乐节结束的最后一天给翻车了：乐迷营地的物资，包括帐篷、手机、随身物品，都被附近的村民给偷走了。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "南阳领导班子",
+      "relation": "确实在",
+      "object": "为音乐节做实事",
+      "cause": "市委书记和市长亲自到火车站迎接，文旅局局长带头发月饼，300辆大巴接人",
+      "effect": "绝大部分市民和政府都在尽力服务",
+      "original_text": "通过这桩桩件件其实都是南阳领导班子在做实事。通过这些新闻和乐迷之口，我们是可以看到：绝大部分的市民和南阳市政府都在尽最大的努力为这些摇滚乐迷服务。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "素质",
+      "relation": "不会因为",
+      "object": "身上有某个标签就消失",
+      "cause": "有些人带着标签去搞事，标签是最显而易见的",
+      "effect": "地域黑大可不必，否定了所有尽心尽力的人的努力",
+      "original_text": "素质这个东西，不会因为身上有某个标签就消失。只是有些人带着这个标签去搞事，而这个标签又是最显而易见的罢了。所以地域黑大可不必——你这一句'河南人都如何如何'，直接否定了所有尽心尽力的领导班子和热心市民对这个音乐节所做的努力。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p004",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "行百里者半九十",
+      "relation": "说明",
+      "object": "走了九十里只能算一半，最后一步没走完就功亏一篑",
+      "cause": "前期工作做得再好，不能抹除最后一步没有走完",
+      "effect": "如果法不责众是执法理念，将来同样的事还会发生",
+      "original_text": "行百里者半九十，你不能说你走了九十里路和一百里路没什么两样。如果'法不责众''刑不上老'是当地的执法理念，那么将来同样的事情还是会发生的。你前期工作做得再好，也不能抹除你这最后一步确实没有走完。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p005",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "偷盗事件",
+      "relation": "本身不是重点",
+      "object": "公关手法才是重点",
+      "cause": "偷盗已是事实必须补救",
+      "effect": "相关部门的公关手法确实抽象",
+      "original_text": "其实偷盗的事情，在我这里看来没有什么好解读的——已经是一个事实了，必须要进行补救。我更在意的是：事发之后，相关部门一些公关手法的问题。我说实话，确实抽象。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p006",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "主持人青青",
+      "relation": "违反",
+      "object": "公关共情三要素",
+      "cause": "'南阳人都顶起来'割裂了南阳人和其他人，'动了谁的蛋糕'无证据，'丢东西很正常'合理化犯罪行为",
+      "effect": "视频除了添乱没有意义，双方误会更大",
+      "original_text": "'南阳人顶起来'这句话，首先就把南阳人和其他人给割裂了——一句话，直接断绝了'南阳人和其他人是别人'这个共情要素。青青却没有说出任何一个令人信服的可能性，就一边抹眼泪，一边硬猜南阳是'动了谁的蛋糕'。还一边抹眼泪，一边说'音乐节上丢东西是很正常的'。你是在把犯罪行为合理化吗？"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p007",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "南阳人视角",
+      "relation": "与",
+      "object": "路人视角形成对立",
+      "cause": "一方认为南阳蒙受不白之冤被收钱水军抹黑，另一方认为偷东西还不让人说",
+      "effect": "双方骂战诉诸情绪互相扣帽子，90%的人缺乏基本逻辑教育",
+      "original_text": "对于一个南阳人来说，他的视角是这样看这个问题的：我们南阳蒙受了不白之冤，我们的女主播正义发声。但是对于路人来说，他们的视角是这样看故事的：我就说了两句'迷笛音乐节有人偷裤衩子'，你就骂我是收了钱的水军。于是双方的误会就会更大。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p008",
+      "segment_id": "seg_005",
+      "type": "event",
+      "subject": "迷笛官方组委会",
+      "relation": "在",
+      "object": "官方通告里爆粗口骂'傻逼'",
+      "cause": "因评论区有大量黑河南黑南阳的言论",
+      "effect": "工作人员回应'这很符合迷笛风格，敢做事不怕事'",
+      "original_text": "最抽象的是迷笛官方组委会，在自己的官方通告里爆粗口——直接说'因为公告评论区有大量黑河南、黑南阳的傻逼言论，故此还以河南清净'。不怕事不是没脑子啊。你不能指望路人会因为你的江湖义气、因为你的'帮亲不帮理'，就对你刮目相看。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p009",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "正确的公关稿",
+      "relation": "应包含",
+      "object": "情、理、义三者",
+      "cause": "先承认失窃事实，表达痛心，区分行窃者和热心市民",
+      "effect": "起码不会崩盘",
+      "original_text": "这份公关稿梗概，虽然不一定会掀起什么浪花，但起码不会崩盘——情、理、义全都有了。之后你抓一个人发一个公告，你都不用说受到了什么惩罚，但是这个努力抓人、正在跟进的态度，你得摆出来。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p010",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "官方公关",
+      "relation": "避重就轻",
+      "object": "抛开网友最关心的问题",
+      "cause": "体制内公关逻辑与商业公关不同",
+      "effect": "前后文内容不一致",
+      "original_text": "官方顾及一些形象的问题我可以理解，但不能说把网友最关心的问题给抛开。当地镇政府回应'偷盗只是极个别行为，丢失的物品也并非像网络说的那么多，目前正在号召村民将捡到的物品上交'。这里实际上是有bug的——前后文内容不一致。如果你是'极个别的偷盗者'，你后文就应该说'目前已经开始了侦办工作'。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p011",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "舆论场",
+      "relation": "不是",
+      "object": "一个脑子很多的地方",
+      "cause": "大家都在跟着情绪走",
+      "effect": "公关要先安抚情绪，等有脑子的人回来再讲道理",
+      "original_text": "舆论场从来都不是一个脑子很多的地方，大家都在跟着情绪走。所以如果从公关的视角来看，我们要做的是——先把情绪安抚下来，等到有脑子的人回来了，我们再去讲道理。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p012",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "公关",
+      "relation": "是",
+      "object": "一个专业，不是其他专业随便搞一搞就能上",
+      "cause": "法学有刑法和民法之分，公关也有专业性",
+      "effect": "建议重视公关岗位",
+      "original_text": "公关这个岗位，其实还是有必要的。公关是个专业，虽然说交叉学科，但是也不至于其他专业的人随便搞一搞就能上。就像法学是一个大类，刑法和民法都是法律专业，但确实不一样。"
+    },
+    {
+      "id": "BV1TC4y1d7vT_p013",
+      "segment_id": "seg_008",
+      "type": "narrative",
+      "subject": "结语",
+      "relation": "收尾",
+      "object": "本期内容结束",
+      "cause": null,
+      "effect": null,
+      "original_text": "以上。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 13,
+  "segments": 8,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest→SkillZY-Knowledge-Graph-Ingest→SkillZY-Proposition-Knowledge-Graph"
+}

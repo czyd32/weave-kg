@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1oz4y1N7Do",
+  "title": "这俩app因色情信息被罚，正好借着这个主题聊一聊性话题",
+  "author": "唯一讲述者",
+  "date": "2023-11-02",
+  "source_url": "https://www.bilibili.com/video/BV1oz4y1N7Do/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1oz4y1N7Do_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "公关的核心理念",
+      "relation": "是",
+      "object": "通过各种方法给公众留下一个良好的形象",
+      "cause": "无论哪种公关分支，核心都是与公众连接在一起",
+      "effect": "公关分为商业公关、危机公关和政府公关三大类",
+      "original_text": "无论是哪种分支，核心理念都是通过各种方法给公众留下一个良好的形象。"
+    },
+    {
+      "id": "BV1oz4y1N7Do_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "'正危机'",
+      "relation": "定义为",
+      "object": "危机事件中运气好时会变成品牌宣传的低概率事件",
+      "cause": "公司迎合了某部分消费者的利益，这部分消费者会自主帮公司度过危机",
+      "effect": "如果运气足够好，危机变成品牌宣传——'危机'的'机'就是机会的'机'",
+      "original_text": "如果运气足够好，也会有一定几率把危机变成品牌宣传——这就是'危机'中'机'字的体现：危机的'机'，就是机会的'机'。"
+    },
+    {
+      "id": "BV1oz4y1N7Do_p003",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "夸克和网易CC的处罚",
+      "relation": "是",
+      "object": "一次'正危机'——精准抓住了部分用户想看什么，受众对它的容忍度很高",
+      "cause": "它们提供的'学习资料'精准满足了部分用户的刚需",
+      "effect": "用户反而自发维护平台，将处罚视为'官方认证的优质资源推荐'",
+      "original_text": "从公关视角来看，夸克和网易CC这次所发生的危机，就是一种正危机。"
+    },
+    {
+      "id": "BV1oz4y1N7Do_p004",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "性",
+      "relation": "是",
+      "object": "影响人类行为的源动力之一",
+      "cause": "不同心理学流派都尊重了一个事实：性是生活动力的重要源泉",
+      "effect": "孩子会希望通过外界信息构建自我性别认知",
+      "original_text": "性就是影响我们行为的源动力之一。"
+    },
+    {
+      "id": "BV1oz4y1N7Do_p005",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "中国家庭教育中的性别认知",
+      "relation": "处于",
+      "object": "一个自相矛盾的诡异阶段——在孩子成长期极力压制性意识，却期待毕业后立刻开窍传宗接代",
+      "cause": "家长希望孩子从读书到大学毕业期间不要有任何青春懵动，然后迅速完成知识传承并传宗接代",
+      "effect": "对性的压抑伴随负面心理反应：自卑、孤独、沮丧、自我怀疑",
+      "original_text": "每个家长都希望自己的孩子从读书开始到大学毕业这段时间之内，不要有任何青春懵动——然后迅速完成所有知识的传承，并为他们传宗接代。这个过程很吊诡。"
+    },
+    {
+      "id": "BV1oz4y1N7Do_p006",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "每一代年轻人",
+      "relation": "都在",
+      "object": "通过各种途径获取性知识——80年代小说杂志、90年代互联网、00年代后各种App",
+      "cause": "性压抑和性别认知的渴望促使每一代人自己找获取知识的途径",
+      "effect": "如果这些内容彻底消失，会产生什么后果值得深思",
+      "original_text": "这些源于心理上的压力，还有性别认知的渴望，最终会促使每一代人自己去找各种各样获取知识的途径。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 2,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

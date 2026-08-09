@@ -1,0 +1,136 @@
+{
+  "source_id": "BV18u411E7Rj",
+  "title": "郑州设计院匠心录音：面对职场PUA，打工人如何维护权益",
+  "author": "唯一讲述者",
+  "date": "2023-08-11",
+  "source_url": "https://www.bilibili.com/video/BV18u411E7Rj/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV18u411E7Rj_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "终身质量责任制",
+      "relation": "导致",
+      "object": "建筑设计行业工作压力极大",
+      "cause": "设计图纸关乎成百上千人的身家性命，所有签名者一个都跑不掉",
+      "effect": "签名者层层挑毛病找问题，工作流程极其繁琐",
+      "original_text": "由于有了终身责任制这个前提，这就导致建筑设计这个行业工作压力特别大...一旦这个项目出现了问题，那么所有在这个上面签名的人，一个都跑不掉。"
+    },
+    {
+      "id": "BV18u411E7Rj_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "终身责任制",
+      "relation": "被认同为",
+      "object": "建筑设计从业者必须背负的责任",
+      "cause": "一张图纸关系着成百上千人的身家性命",
+      "effect": "从设计到施工需经设计院、施工方、住建委三重审批",
+      "original_text": "我是能够理解并且认同这种终身质量责任制的。毕竟这一张图纸，里面可能关系着成百上千人的身家性命。"
+    },
+    {
+      "id": "BV18u411E7Rj_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "建筑设计行业薪资结构",
+      "relation": "采用",
+      "object": "预发奖金+年底产值结算模式",
+      "cause": "合同底薪按当地最低标准，实际薪资以预发奖金形式发放",
+      "effect": "行业下行时年底产值无法填平预发奖金，形成贷款上班",
+      "original_text": "合同上的底薪一般是按照当地最低标准薪资发放的，然后事先跟你商量，这个薪资会以预发奖金的形式发给你...现在行业环境差了，到了年底算产值的时候，你能把自己的预发奖金给填平就已经很不错了，说不好还要倒欠公司多少钱。"
+    },
+    {
+      "id": "BV18u411E7Rj_p004",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "预发奖金制度",
+      "relation": "导致",
+      "object": "员工拿人手短无法拒绝额外要求",
+      "cause": "公司虽不追讨已发奖金，但员工心理上处于弱势",
+      "effect": "降薪、加班、帮忙等要求无法开口拒绝",
+      "original_text": "大多数公司不会跟你要这些已经发过的奖金，但是拿人手短嘛。你看以后降薪了、加班了、让你去帮个忙啊什么的，你还怎么开口拒绝？"
+    },
+    {
+      "id": "BV18u411E7Rj_p005",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "吃到时代红利的人",
+      "relation": "将成功归因于",
+      "object": "个人努力而非时代红利",
+      "cause": "成功者倾向于将成功归因于个人努力，忽视结构性因素",
+      "effect": "用不努力来指责在新环境下挣扎的年轻人",
+      "original_text": "意识不到自己之所以能够赚到钱，是因为时代的红利，反而真的认为自己是因为够努力、够上进、够有能力才赚到了钱——而没有意识到现在的市场环境和以前已经大大的不同了。"
+    },
+    {
+      "id": "BV18u411E7Rj_p006",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "设计院薪资结构",
+      "relation": "已不适用于",
+      "object": "当前时代",
+      "cause": "红利时代已过，行业下行",
+      "effect": "期待业内大佬解决基层打工人薪资结构问题",
+      "original_text": "我认为设计院的薪资结构是有问题的，起码已经不适用于当前的时代了。所以我这里期待业内有一个高尖端的大佬能够解决一下基层打工人薪资结构这个问题。"
+    },
+    {
+      "id": "BV18u411E7Rj_p007",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "录音中领导的行为",
+      "relation": "涉及",
+      "object": "强制加班、不给加班费、随意降薪三大问题",
+      "cause": "领导口头降薪违反劳动合同法第35条（需书面协商一致）",
+      "effect": "打工人权益被侵害",
+      "original_text": "在这段录音中，我们可以看到这位领导存在以下问题：强制加班、不给加班费、随意降薪...根据《劳动合同法》第35条规定...这个领导口头上什么匠心啦，没有用——那都只能说明他不懂法。"
+    },
+    {
+      "id": "BV18u411E7Rj_p008",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "加班证据",
+      "relation": "包括",
+      "object": "加班通知消息、工作汇报记录、电脑操作记录等",
+      "cause": "录音在法庭上效力不确定",
+      "effect": "打工人需主动收集多种证据形式",
+      "original_text": "我们常见的证明加班的证据有以下几种：含有加班内容的合同或者是规章制度、单位盖章的考勤表...加班的时候你给上级汇报你的工作进展进度。"
+    },
+    {
+      "id": "BV18u411E7Rj_p009",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "会哭的孩子有糖吃",
+      "relation": "表达了",
+      "object": "劳资纠纷中主动维权才能获得实际利益",
+      "cause": "温和等待往往得不到任何结果",
+      "effect": "敢于发声、敢于争取的人反而能获得实际利益",
+      "original_text": "会哭的孩子有糖吃...面对自己的合法权益，如果自己不去争取，是没有人会送过来的。"
+    },
+    {
+      "id": "BV18u411E7Rj_p010",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "维权策略",
+      "relation": "核心在于",
+      "object": "利用规则和人的基本属性达成目的",
+      "cause": "法律执行有一定滞后性",
+      "effect": "需借助警方、街道办等外部力量施压",
+      "original_text": "当我们的法律执行有一定滞后性的时候，那就应该想着如何凭借人的基本属性和基本方法，来达成我们自己的目的。"
+    },
+    {
+      "id": "BV18u411E7Rj_p011",
+      "segment_id": "seg_008",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "总结",
+      "object": "维权核心态度",
+      "cause": null,
+      "effect": null,
+      "original_text": "不要温和地走入那个良夜。能够捍卫自己利益的人，才能得到所有人的尊重。以上。"
+    }
+  ],
+  "proposition_count": 11,
+  "segments": 8,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

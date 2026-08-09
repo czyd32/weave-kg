@@ -1,0 +1,103 @@
+{
+  "source_id": "BV11F411D7yN",
+  "title": "李佳琦、周淑怡、超级小桀三人翻车总结：守不住基本盘，又得罪路人",
+  "author": "唯一讲述者",
+  "date": "2023-09-13",
+  "source_url": "https://www.bilibili.com/video/BV11F411D7yN/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV11F411D7yN_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "三人翻车的共同本质",
+      "relation": "是",
+      "object": "德不配位——钱到位了但脑子没跟上",
+      "cause": "德包括道德、认知维度和职业素养",
+      "effect": "守不住基本盘又得罪路人",
+      "original_text": "这桩桩件件，都在我心底留下了四个大字：德不配位。当然，我在这里说的德，不单单只是道德，也包括但不限于认知维度和职业素养。用最简单的话来说就是：钱到位了，但脑子没跟上。"
+    },
+    {
+      "id": "BV11F411D7yN_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "超级小桀的翻车",
+      "relation": "源于",
+      "object": "吃相过于难看——把韭菜连根拔起连土都不放过",
+      "cause": "卖天价整机被扒，拉黑不回应→装死→嘴硬→顶不住才道歉",
+      "effect": "停播半年，但铁粉基本盘仍在，仍有复活机会",
+      "original_text": "你割韭菜可以理解，但是想把韭菜连根拔起来、连土都不放过，是不是有点太没礼貌了？"
+    },
+    {
+      "id": "BV11F411D7yN_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "超级小桀的复活策略",
+      "relation": "需要",
+      "object": "三步走：建希望小学+买通稿热搜+山区直播",
+      "cause": "观众不会在乎你以前做什么，只会在乎你现在在做什么",
+      "effect": "用不了一周直接原地复活，甚至可能比以往更火",
+      "original_text": "只要你把希望小学搞起来，我以后免费给你做公关顾问和风控管理。"
+    },
+    {
+      "id": "BV11F411D7yN_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "周淑怡的翻车",
+      "relation": "源于",
+      "object": "在基本盘是舔狗的情况下公开谈恋爱",
+      "cause": "舔狗是女主播的第一生产力，需要维护圣洁女神情感投射",
+      "effect": "基本盘动摇、口碑崩盘、路人缘全毁",
+      "original_text": "在一个基本盘是舔狗的女主播那里，你居然敢公开谈恋爱，谈的还是PG One这种玩大嫂和涉毒的狠人，大聪明了属于是。"
+    },
+    {
+      "id": "BV11F411D7yN_p005",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "舔狗经济",
+      "relation": "正在",
+      "object": "快速崩盘",
+      "cause": "结婚率和生育率下降、社会压力大",
+      "effect": "三年前装纯情少女策略好使，现在不再有100%把握",
+      "original_text": "舔狗经济崩得太快了，我也不知道将来会发展到什么情况。总之你现在不用，以后估计也没有机会用了。"
+    },
+    {
+      "id": "BV11F411D7yN_p006",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "近些年公关事件中",
+      "relation": "男女优势趋于",
+      "object": "平衡",
+      "cause": "某些利己主义者的神奇操作（不侵权就不能维权、不允许男生上电梯等）",
+      "effect": "普通女性拿不到福利却跟着吃外延的亏",
+      "original_text": "近些年这种公关事件中，男女之间的优势劣势是趋向于平衡的——这一点全仗某些人渣的神奇操作。只关注自己利益的利己主义者，导致普通女性拿不到福利，却跟着吃外延的亏。"
+    },
+    {
+      "id": "BV11F411D7yN_p007",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "李佳琦的问题",
+      "relation": "是",
+      "object": "认知维度的降维打击——生活不在一个维度上",
+      "cause": "消费能力排序（女人>小孩>老人>狗>男人）的时代正在过去",
+      "effect": "很难互相理解",
+      "original_text": "我们的生活其实不在一个维度上，所以很难互相理解。从消费能力的角度来讲，以前流传的那句话——消费能力的排序是女人、小孩、老人、狗和男人——那个时代已经渐渐要过去了。"
+    },
+    {
+      "id": "BV11F411D7yN_p008",
+      "segment_id": "seg_005",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "总结",
+      "object": "本期内容到此结束",
+      "cause": null,
+      "effect": null,
+      "original_text": "好了，那么本期就先说到这里了。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

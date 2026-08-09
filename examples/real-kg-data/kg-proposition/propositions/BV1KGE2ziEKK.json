@@ -1,0 +1,103 @@
+{
+  "source_id": "BV1KGE2ziEKK",
+  "title": "网红是小念噢自导自演遭勒索自杀：复活流网红对于现代人还是有点超纲了",
+  "author": "唯一讲述者",
+  "date": "2025-05-15",
+  "source_url": "https://www.bilibili.com/video/BV1KGE2ziEKK/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1KGE2ziEKK_p1",
+      "segment_id": "seg_01",
+      "type": "observation",
+      "subject": "网红是小念噢",
+      "relation": "伪造自杀和130万勒索",
+      "object": "博取流量关注",
+      "cause": "发布了悼念视频，48小时内破百万赞，评论区解释博主因被勒索自杀",
+      "effect": "成都警方介入调查，查明均为本人伪造，两个账号被永久封禁",
+      "original_text": "某百万粉丝网红'是小念噢'的账号发布了一条悼念视频，疑似是亲友代发，在48小时之内破了百万赞。警方发布了调查结果，表明博主'是小念噢'并没有去世，和疑似亲友在评论区里的回复均为本人伪造的。"
+    },
+    {
+      "id": "BV1KGE2ziEKK_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "用生死进行炒作",
+      "relation": "是近年迅速吸引流量的方法",
+      "object": "但风险极大且不可持续",
+      "cause": "胖猫事件、林生斌案例均展示了悲情流量变现路径，但非正常死亡会引发警方介入",
+      "effect": "一旦被查实伪造，账号被封，可能留下案底",
+      "original_text": "其实这两年的舆论场事件，特别是去年闹得沸沸扬扬的胖猫事件来看，用生死来进行炒作，确实是一套能够迅速吸引流量的方法。但是'复活'这种事情，承接流量的风险是有点太大了。"
+    },
+    {
+      "id": "BV1KGE2ziEKK_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "擦边博主的变现路径",
+      "relation": "本质上是",
+      "object": "出售自己的审美符号来换取收益",
+      "cause": "核心产品是颜值和身材，生产门槛低但变现路径窄",
+      "effect": "商家不会给高额坑位费，只能拿佣金，带货品类非常有限",
+      "original_text": "擦边博主的本质，是依靠出售自己的审美符号来换取收益。对于愿意付费的男性粉丝来说，就是你越'独属于他'，他的付费意愿就越高。但是呢你又不能完全属于他，不然的话他的付费意愿反而会变得很低。"
+    },
+    {
+      "id": "BV1KGE2ziEKK_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "小念事件",
+      "relation": "被赛博入典为",
+      "object": "小慧君2.0版本",
+      "cause": "小慧君的'没有女生会拿自己的清白开玩笑'被升级为'没有女生会拿自己的性命开玩笑'",
+      "effect": "事件结合性别议题破圈传播，男粉被打成'当代龟男'",
+      "original_text": "目前小念的这个事件已经'赛博入典'了，成为了小慧君系列的2.0版本——将小慧君的'没有女生会拿自己的清白开玩笑'升级成了'没有女生会拿自己的性命开玩笑'，然后开始结合性别议题被破圈传播。"
+    },
+    {
+      "id": "BV1KGE2ziEKK_p5",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "当代人的碎片化知识消费",
+      "relation": "导致",
+      "object": "观点支离破碎，无法向上延伸或向下拓展",
+      "cause": "人们从碎片化渠道获取断章取义的理论片段，缺乏对理论来源和适用边界的理解",
+      "effect": "观点脱离讨论环境后无法复现，甚至出现自相矛盾",
+      "original_text": "我见过很多社群的小伙伴，他们在提及某种理论的时候，能很明显感受到并非源自于他们对于日常生活的积累，而是源自于对于某本书或者某个博主的观点。但这种观点是支离破碎的，没有办法向上延伸或者是向下拓展。"
+    },
+    {
+      "id": "BV1KGE2ziEKK_p6",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "《社会学的想象力》",
+      "relation": "提出的核心能力是",
+      "object": "将个人困扰与关乎社会结构的公共议题联系起来",
+      "cause": "米尔斯认为个体需要将自己定位到所处的时代，理解个人命运如何被社会力量塑造",
+      "effect": "当代人已经不缺这种能力，但缺乏对'为什么要拥有'的理解",
+      "original_text": "书中最重要的观点就是跟书名一样——一种将源自于周遭情景的个人困扰和关乎社会结构的公共议题联系在一起的能力。书中所提及的那个'当代人最需要拥有的社会学的想象力'，其实我们这一代人已经不缺了。"
+    },
+    {
+      "id": "BV1KGE2ziEKK_p7",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "创作者",
+      "relation": "面临自然流两难困境",
+      "object": "延续旧风格满足粉丝 vs 尝试新风格获取自然流量",
+      "cause": "延续旧风格天花板越来越低，尝试新风格老粉不买账数据惨淡",
+      "effect": "不转等死，转了找死——创作者缺乏坚持的勇气，容易退回老路",
+      "original_text": "在制作视频的时候，制作者通常要考虑——是继续延续以前的风格，主要提供给自己的粉丝？还是去尝试做一些新的内容上的突破，去获得更多的自然流量？"
+    },
+    {
+      "id": "BV1KGE2ziEKK_p8",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "擦边类博主",
+      "relation": "最终会陷入",
+      "object": "账号失控状态——看似是主人，实则是满足粉丝需求的机器",
+      "cause": "不是创作得到支持，而是脸+固定款式的视频获得支持，任何改变都会遭受数据打击",
+      "effect": "创作者丧失自主权，被粉丝审美偏好绑架，形成人设囚笼",
+      "original_text": "他们会发现，不是自己的创作得到了观众的支持，而是自己这张脸加上这个款式的视频获得了观众的支持。任何自己想要改变、主导视频制作流程的努力，都会遭受到打击。那这个时候，通常我们会判定已经处在一个对账号失控的状态。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

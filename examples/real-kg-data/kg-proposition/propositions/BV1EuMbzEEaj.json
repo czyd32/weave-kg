@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1EuMbzEEaj",
+  "title": "阿里高管的离职小作文：阿里味到底是什么味？",
+  "author": "唯一讲述者",
+  "date": "2025-06-15",
+  "source_url": "https://www.bilibili.com/video/BV1EuMbzEEaj/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1EuMbzEEaj_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "马云对元安离职贴的回应",
+      "relation": "是典型的",
+      "object": "女神表白式公关",
+      "cause": "对于偶发性舆情，老板人设式回应是成本最低、风险最小的方案：回应了（不得罪当事人），没深入（不放大争议），维持了格局（显得大度）",
+      "effect": "如果认真回应每条批评反而会坐实批评的合理性，让事件升级为真正的危机",
+      "original_text": "有一个人喜欢女神十年了，于是他将这十年来看到的这个女生的种种小习惯写到了小作文里面，上传到了校园网。女神如果不回应必然被骂，回应了又要找到合适的角度。于是女神最终回应的内容是：'你是一个好人，希望我们未来还是朋友。'马云的话大概就是这个意思。"
+    },
+    {
+      "id": "BV1EuMbzEEaj_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "阿里味的核心",
+      "relation": "是",
+      "object": "用黑话体系构建语言壁垒，争夺释经权",
+      "cause": "野狗、白兔、抓手、赋能、闭环等名词需要额外解释，说明使用者有意识地在制造语言壁垒",
+      "effect": "只有掌握这套语言的人才能参与高层对话，其他人被迫在'听不懂但不敢问'的状态中服从",
+      "original_text": "这种名词是要尽可能贴近公众常识的——如果这个名字需要额外的扩展解释，那就说明这是使用者在有意识地制造一个语言壁垒。这本质上是一种'释经权'的争夺。"
+    },
+    {
+      "id": "BV1EuMbzEEaj_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "阿里高密度黑话体系",
+      "relation": "在内部行得通的原因是",
+      "object": "阿里规模足够大，需要统一符号系统来管理",
+      "cause": "阿里本身需要企业文化让员工产生认同感、带来凝聚力",
+      "effect": "但对于阿里体系之外的打工人来说，这属于一种PUA",
+      "original_text": "那为什么这套话术在阿里内部能够行得通呢？因为阿里的规模足够大，它需要这样一个新的符号系统，需要统一管理。它本身需要一种企业文化来让员工产生认同感，为他的企业带来凝聚力。"
+    },
+    {
+      "id": "BV1EuMbzEEaj_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "阿里管理方式的成功",
+      "relation": "根本原因是",
+      "object": "公司收入高，而非管理体系牛逼",
+      "cause": "员工从P7开始有股票分成，收入切实与公司挂钩，上升渠道和时间点明确，打工人有真实可达的目标",
+      "effect": "经济基础决定上层建筑——管理体系起锦上添花作用，但很多老板本末倒置，在企业下行时仍用这套PUA",
+      "original_text": "经济基础决定上层建筑。阿里系管理方式的成功，根本原因是他们公司收入高，而不是因为他们的管理体系牛逼。这一套管理体系最初只不过是起到一个锦上添花的作用而已。但是很多老板都意识不到这一点，于是把它本末倒置了。"
+    },
+    {
+      "id": "BV1EuMbzEEaj_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "阿里模式",
+      "relation": "是将",
+      "object": "现代科学管理法推到了极致",
+      "cause": "用数据去理解一切，包括员工的效能、创造、每个环节，所有感受都可以被量化",
+      "effect": "'下午茶文化'设计成阶梯式延时机制（6:30晚餐→8:30班车→9:00夜宵），员工在'享受福利'中完成自愿加班",
+      "original_text": "阿里的模式是将现代科学管理法推到了极致。如果企业管理不好，那就是所谓的'粒度不够细''指标抓得不够严'。然后用数据去理解所有的一切，包括自己旗下的员工——他们的效能、他们的创造、他们的每一个环节。"
+    },
+    {
+      "id": "BV1EuMbzEEaj_p6",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "大公司病",
+      "relation": "表现为",
+      "object": "企业发展停滞时，元老未退休而新人无上升通道的僵局",
+      "cause": "互联网经济进入稳定状态，企业发展规模趋于稳定，不再产生更多高P或高M岗位",
+      "effect": "大厂一批又一批裁员，离开大厂的员工中多数是被淘汰而非真正有能力的人",
+      "original_text": "当互联网经济进入到了一个相对稳定的状态的时候，上面的元老级员工还没有退休，而下面的员工又需要一个切实的升职目标来驱动。但是现在的企业发展规模又已经开始趋于稳定了，也不会产生更多的高P或者高M的岗位。因此阿里的制度就会陷入一个僵局。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

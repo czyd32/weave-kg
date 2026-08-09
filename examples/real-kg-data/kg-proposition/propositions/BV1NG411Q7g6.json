@@ -1,0 +1,125 @@
+{
+  "source_id": "BV1NG411Q7g6",
+  "title": "僧丫事件反转启示录：如何分辨情绪与事实",
+  "author": "唯一讲述者",
+  "date": "2023-11-10",
+  "source_url": "https://www.bilibili.com/video/BV1NG411Q7g6/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1NG411Q7g6_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "僧丫的求助视频",
+      "relation": "在10月30号就暴露了",
+      "object": "反转信号——全情绪、零证据的叙事模式",
+      "cause": "僧丫使用了大量情感标签（烈士子女、贫困孤儿、官官相护），但全程没有提供任何可验证的证据",
+      "effect": "事后被扒出使用八千块ROG、四千块iPad、三千多手机，打游戏充钱、顿顿外卖",
+      "original_text": "10月30号网络舆论最凶的时候，人一旦看到那个所谓的求助视频，我大概就已经感受到了——这事怕是要反转。"
+    },
+    {
+      "id": "BV1NG411Q7g6_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "真正的'发声'",
+      "relation": "应该是",
+      "object": "要么做实事（捐钱捐物），要么收集证据并采取实际行动",
+      "cause": "仅凭一张嘴带着情绪质疑，慷他人之慨，自己什么都不做——多少沾点无耻",
+      "effect": "发声不是在网上喷这个喷那个，那没有意义",
+      "original_text": "发声不是在网上仅凭一张嘴，带着情绪质疑这个质疑那个，然后去慷他人之慨。自己什么都不做，反而要求别人去怎么做，多少沾点无耻了。"
+    },
+    {
+      "id": "BV1NG411Q7g6_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "以偏概全的极简化思考",
+      "relation": "表现为",
+      "object": "从'可能存在贫困生领不到助学金'直接论证到'所有贫困生都在骗助学金'",
+      "cause": "反转后一些人从'官官相护'瞬间变脸为'贫困生都在大吃大喝'",
+      "effect": "逻辑上可能、事实上也可能存在，但不能因此以偏概全地批判所有人",
+      "original_text": "你不能因为有这种可能，就论证到这个事情一定发生在所有人身上，然后以偏概全地去批判所有人。"
+    },
+    {
+      "id": "BV1NG411Q7g6_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "造神的基本手段",
+      "relation": "是",
+      "object": "利用情绪——与NLP学派和PUA的方法论同源",
+      "cause": "PUA脱胎于NLP学派（神经语言程序学），通过话术触发情绪反应实现精神操控",
+      "effect": "僧丫的手法虽粗糙，但结构类似——利用情绪标签引发群体共鸣",
+      "original_text": "造神的基本手段是利用情绪。"
+    },
+    {
+      "id": "BV1NG411Q7g6_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "群体（乌合之众）",
+      "relation": "没有意识",
+      "object": "行为受欲望、情感和本能支配，不关心事实而关注表象和幻象",
+      "cause": "群体不接受理论，缺乏思考能力，对复杂问题缺乏探讨分析能力",
+      "effect": "群体往往极端化、情绪化、低智化，容易受激情和暴力影响",
+      "original_text": "群体是没有意识的，他的行为受到欲望、情感和本能所支配。其中个体的个性和理性将被淹没。群体有一个特点——他不关心事实，而是关注表象和幻象。"
+    },
+    {
+      "id": "BV1NG411Q7g6_p006",
+      "segment_id": "seg_004",
+      "type": "methodology",
+      "subject": "判断自己是否处于群体中",
+      "relation": "的方法是",
+      "object": "当你发现身边所有人都站在你这边时，你可能正处于群体中——此时不要相信群体里任何一句话，连自己的想法也要怀疑",
+      "cause": "这个怀疑就是思考的开始",
+      "effect": "处于群体中时多数人意识不到自己处于群体中",
+      "original_text": "如果你发现，你对某一个事情发表一个观点，你身边的所有人都站在你这边的时候——你可能正处于一个群体之中。如果你意识到了你正处于群体之中，那么就请暂且不要相信这个群体里的任何一句话，就连你自己的想法也要怀疑才行。"
+    },
+    {
+      "id": "BV1NG411Q7g6_p007",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "事实的定义",
+      "relation": "是",
+      "object": "可以通过证据来验证的、已经发生的或已知存在的事情",
+      "cause": "没有证据就不能认定一个事实——即使一本书翻开每一页都有内容，也只能是'一定程度上的事实'",
+      "effect": "造假成本高到一定程度时，可以给予一定信任度，但仍未必定是事实",
+      "original_text": "事实就是可以通过证据来验证的、已经发生的或者是已知存在的事情。没有证据，我们就不能认定它是一个事实。"
+    },
+    {
+      "id": "BV1NG411Q7g6_p008",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "人们支持的不是具体的人",
+      "relation": "而是",
+      "object": "一个非常朴素的对公平的诉求",
+      "cause": "绝大部分网友无法分清观念和事实，只能把心中朴素的价值观投射到具体的人身上",
+      "effect": "无意中造了一个神出来——这是必然发生的，只能尽量引导，不太可能杜绝",
+      "original_text": "我们其实支持的并不是一个具体的人，而是一个非常朴素的对公平的诉求。"
+    },
+    {
+      "id": "BV1NG411Q7g6_p009",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "反转后'嘴硬'的心理根源",
+      "relation": "是",
+      "object": "不愿意自己心中那个具象化的公平正义受到玷污——是一种心理防御机制而非简单的固执",
+      "cause": "否定僧丫就等于否定自己曾经相信的'公平正义'，导致认知失调的痛苦",
+      "effect": "大脑本能选择'嘴硬'来保护自我认同",
+      "original_text": "这些人在事件反转之后嘴硬，其实不是为了那个僧丫，而是不愿意自己心中那个具象化出来的公平正义受到玷污。"
+    },
+    {
+      "id": "BV1NG411Q7g6_p010",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "待人的真诚与见义勇为",
+      "relation": "不应被否定",
+      "object": "即使好心办了坏事，也应该为自己的错误买单",
+      "cause": "愿意相信他人、见义勇为是良好的品质，不容否认",
+      "effect": "但伤害了保持冷静的人，要去道歉，然后多长个心眼",
+      "original_text": "待人真诚、愿意相信他人，难道不是一个良好的品质吗？这些人愿意相信，一定是有人受到了这些不公平的待遇。"
+    }
+  ],
+  "proposition_count": 10,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

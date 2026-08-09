@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1D94y1E7kv",
+  "title": "那些人不在乎谁是鹅腿阿姨，他们只想搅浑水",
+  "author": "唯一讲述者",
+  "date": "2023-12-04",
+  "source_url": "https://www.bilibili.com/video/BV1D94y1E7kv/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1D94y1E7kv_p1",
+      "segment_id": "seg_1",
+      "type": "event",
+      "subject": "鹅腿阿姨",
+      "relation": "因",
+      "object": "清华北大人大学子争抢鹅腿而登上热搜第一",
+      "cause": null,
+      "effect": null,
+      "original_text": "鹅腿阿姨之争'一度登上微博热搜第一。鹅腿阿姨在各大高校门口卖鹅腿已经很多年了。"
+    },
+    {
+      "id": "BV1D94y1E7kv_p2",
+      "segment_id": "seg_2",
+      "type": "argumentation",
+      "subject": "鹅腿阿姨事件",
+      "relation": "高关注度源于",
+      "object": "关键词太丰富：烧烤、地摊、清华、北大",
+      "cause": "清华北大代表精英阶层，地摊烧烤代表底层谋生，反差感天然具备传播势能",
+      "effect": "人大知名度不如清北，形成对不起这个标签里没有人大",
+      "original_text": "这个事情的关注度之所以高，我认为是因为关键词太丰富了：烧烤、地摊、清华、北大——每一个都自带流量。"
+    },
+    {
+      "id": "BV1D94y1E7kv_p3",
+      "segment_id": "seg_3",
+      "type": "argumentation",
+      "subject": "媒体",
+      "relation": "通过选择性叙事",
+      "object": "引导舆论得出截然不同的结论",
+      "cause": "不同的解读倾向会得出完全不同的结论",
+      "effect": "四种负面解读视角：批判盲目崇拜学历、意识形态对立、批判清北优绩主义、有罪推定转移视线",
+      "original_text": "我们就以鹅腿阿姨这个新闻为例子，挑几个比较极端的视角来讲，看看不同的解读倾向会得出怎样截然不同的结论。"
+    },
+    {
+      "id": "BV1D94y1E7kv_p4",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "媒体",
+      "relation": "更倾向选择",
+      "object": "负面解读视角",
+      "cause": "负面解读能带来爽感：找共鸣、找归属感、找荣誉感",
+      "effect": "批判清北学生是最符合数学期望的解决方案——于个人爽了，获取大量支持，处于不败之地",
+      "original_text": "原子化的发言个体，还真就是批判清北学生最有满足感。"
+    },
+    {
+      "id": "BV1D94y1E7kv_p5",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "喷清北学生的爽感",
+      "relation": "逐级递增",
+      "object": "从个人互喷到组织头领的地位跃迁",
+      "cause": "加入的反义词不是中立而是开喷，你的地位很高而我的生活通常不爽",
+      "effect": "我喷你获取很多人支持，我的地位获得显著提升",
+      "original_text": "我喷你，你来跟我互喷——这代表着我的地位跟你一样了。我喷你，然后获取了很多人的支持——这个时候我是一个组织的头领，我的地位获得了非常显著的提升。"
+    },
+    {
+      "id": "BV1D94y1E7kv_p6",
+      "segment_id": "seg_5",
+      "type": "argumentation",
+      "subject": "正向解读",
+      "relation": "不容易",
+      "object": "获得高阅读量",
+      "cause": "因为不够刺激，而魔幻的东西更能受到关注",
+      "effect": "大量娱乐信息流冲刷下，民众的视线被转移，剩下的翻不起浪花",
+      "original_text": "2023年确实比较魔幻。究其原因，还是因为魔幻的东西更能受到关注。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

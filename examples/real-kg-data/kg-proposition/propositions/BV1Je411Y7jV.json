@@ -1,0 +1,114 @@
+{
+  "source_id": "BV1Je411Y7jV",
+  "title": "这11个学生到底遭遇了什么才会让他们宁愿前途尽毁也要举报自己的导师",
+  "author": "唯一讲述者",
+  "date": "2024-01-23",
+  "source_url": "https://www.bilibili.com/video/BV1Je411Y7jV/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Je411Y7jV_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "华中农业大学11名学生",
+      "relation": "联名举报",
+      "object": "导师黄某某学术不端",
+      "cause": "1月16日发表125页PPT，内容涵盖学术造假、操纵同行评审、失德行为、打压学生论文、不当署名、编写教材造假、经费挪用等",
+      "effect": "黄某某回应称饱受精神折磨，但次日华中农大官方回复：举报内容基本属实",
+      "original_text": "1月16号，华中农业大学的11名学生联名举报自己的导师黄某某存在学术不端的问题，并在网上发表了一篇正文长达125页的PPT。"
+    },
+    {
+      "id": "BV1Je411Y7jV_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "举报从一开始就基本定性",
+      "relation": "因为",
+      "object": "不可能同时找到十几个高学历的人赌上前途诬陷一个好人",
+      "cause": "举报材料论证严谨，比常见输出情绪的小作文有本质区别",
+      "effect": "从一开始就相信事实的真实性——这是十几个热血青年面对不公的激烈反抗",
+      "original_text": "作为一个普通人，基本不太可能在同一时间找到十几个高学历的傻逼，赌上自己的前途，跟你一起诬陷一个好人。"
+    },
+    {
+      "id": "BV1Je411Y7jV_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "举报策略",
+      "relation": "核心智慧是",
+      "object": "把责任聚焦到一个人身上",
+      "cause": "当责任归到团体时敌对的是整个组织，对手组起团来对抗你等同于螳臂当车",
+      "effect": "学生们举报的是黄某某而非整个学院或大学——矛盾集中，容易切割，解决问题更容易",
+      "original_text": "在面对某个势力团体的时候，要把责任聚焦到一个特定的人身上。学生们举报的是黄某某，而不是整个学院或者是大学。"
+    },
+    {
+      "id": "BV1Je411Y7jV_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "解决问题",
+      "relation": "不需要",
+      "object": "上升高度",
+      "cause": "就像饿了先吃饭，指望着先解决食品安全问题再吃饭，等你吃上饭头七都过了好几个了",
+      "effect": "批判学术圈学阀问题虽然很爽，但单纯批判不解决实际问题",
+      "original_text": "解决问题没有必要去上升一个高度。针对的是黄某某，你就去针对他，而非整个学术圈。"
+    },
+    {
+      "id": "BV1Je411Y7jV_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "事件不会反转",
+      "relation": "因为",
+      "object": "学术圈权力结构决定了弃车保帅",
+      "cause": "从平台（学院）角度：干掉黄教授弃车保帅合情合理；从其他教授角度：少一个竞争对手何乐不为；从黄教授自己：没有能量在舆论场搅浑水",
+      "effect": "败者食尘——黄教授在舆论和体制双重压力下被碾压清除",
+      "original_text": "这件事情估计不会有什么反转了。根本原因在于，学术圈的本质是一个非常封闭的圈层。"
+    },
+    {
+      "id": "BV1Je411Y7jV_p006",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "学生使用终极杀招",
+      "relation": "是",
+      "object": "延毕",
+      "cause": "举报行为可能被其他导师因心怀恐惧而拒绝——'这些小孩有逆骨，今天可以举报导师，明天可能举报我'",
+      "effect": "学生背负延毕压力：同龄人已事业小成恋爱稳定，自己还在用同样时间和超量劳作赌未知——到底遭遇了什么才让他们选择破釜沉舟",
+      "original_text": "他们当前的行为，很有可能被其他的导师因为心怀恐惧而拒绝。所以这就是一个很难办的点——学生对自己也使用了一个终极杀招：延毕。"
+    },
+    {
+      "id": "BV1Je411Y7jV_p007",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "这个瓜为什么这么大",
+      "relation": "因为",
+      "object": "普遍期待与现实的巨大反差",
+      "cause": "大众对科研教授的固有印象是神圣的——智商占领高地、带领人类走向未来；普通人在用自己创造的劳动价值支撑科研",
+      "effect": "当发现教授造假骗走自己辛苦赚来的钱，反差产生巨大沉浸感——'狗咬人没人记住，人咬狗《走进科学》起码拍三集'",
+      "original_text": "一个瓜想让人记住，就要有反差——狗咬人别人是记不住的，觉得很正常；人咬狗，天天咬狗，追着咬，这个题材《走进科学》起码拍三集。"
+    },
+    {
+      "id": "BV1Je411Y7jV_p008",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "最不能容忍的",
+      "relation": "是",
+      "object": "破坏公平",
+      "cause": "第一，钱白花了——我养你不如养狗；第二，对其他真正搞科研的教授不公平；第三，祸害了祖国的花朵",
+      "effect": "期待可以打破，但逆转期待（从神圣到造假）就会变成愤怒——公平是底线",
+      "original_text": "当我们把这些东西全部抽象出来之后，你会发现这里面有一个共同点，叫做公平。所以我们最不能容忍的东西，就是你破坏了公平。"
+    },
+    {
+      "id": "BV1Je411Y7jV_p009",
+      "segment_id": "seg_007",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "表达",
+      "object": "结语",
+      "cause": null,
+      "effect": null,
+      "original_text": "以上，我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 9,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

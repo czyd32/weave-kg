@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1qXLbzeECp",
+  "title": "京东外卖激战美团：刘强东亲自送外卖这个故事还是太深入人心了",
+  "author": "唯一讲述者",
+  "date": "2025-04-23",
+  "source_url": "https://www.bilibili.com/video/BV1qXLbzeECp/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1qXLbzeECp_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "美团王莆中的先手",
+      "relation": "是重大失误",
+      "object": "高层亲自阴阳对手，戾气太重",
+      "cause": "舆论是道德叙事不是法律叙事，这些话可以由水军或内部员工说，唯独不能是高管亲自说",
+      "effect": "受众留下不好印象，连带着品牌受损",
+      "original_text": "公关——公共关系嘛——要想尽一切办法让别人说自己好，这个才是底层逻辑。这些问题不应该是你来说，会让舆论场觉得你这个人稍微有点小肚鸡肠，觉得你是一个只会阴阳怪气的小人。舆论是道德叙事，不是法律叙事。"
+    },
+    {
+      "id": "BV1qXLbzeECp_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "京东的公关策略",
+      "relation": "侧重于",
+      "object": "讲故事拉拢队友，说服观众而非打击对手",
+      "cause": "打辩论赛要说服的不是对手而是观众，京东一直在宣扬'我要对外卖骑手好'",
+      "effect": "舆论趋势偏向京东，京东站住了大义",
+      "original_text": "舆论公关，比较侧重的重点并不在于打击对手，而在于拉拢队友。打辩论赛，你要说服的并不是对手相信你的观点，而是要让观众相信你的观点。所以京东这波应对其实是很好的——他一直在试图说服观众。"
+    },
+    {
+      "id": "BV1qXLbzeECp_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "京东公开信情绪化过度",
+      "relation": "导致",
+      "object": "被美团抓住把柄反击",
+      "cause": "公函中加入过量情绪化语言，'入关后自有大儒为我辨经'，不需要自己动手",
+      "effect": "美团用京东的方法攻击京东，形成魔法对轰",
+      "original_text": "京东的这条公开信，某些地方情绪化有点过度了。只要其中有一点会被人追着打，那么后面你写的内容，无论写得多么贴切，都可以根据你此前的失误被翻盘。所以这就是为什么美团会追着京东公函的情绪化问题来打。"
+    },
+    {
+      "id": "BV1qXLbzeECp_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "桥水基金式风险分散",
+      "relation": "应应用于",
+      "object": "公关策略——不应梭哈单条爆款公函",
+      "cause": "大企业应该给每个投资物分配资源，保证每个传播内容都是正收益",
+      "effect": "京东操作过于激进，给人一种毕其功于一役的感觉",
+      "original_text": "桥水的对冲基金投资策略就是根据市场上每个标的的风险程度，保证每一个投资的标的彼此关联度不高。其实公关也是一样的。对于大企业来说，应该给每一个'投资物'分配资源，而不是像现在写一条公关函然后梭哈。"
+    },
+    {
+      "id": "BV1qXLbzeECp_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "京东外卖",
+      "relation": "应该",
+      "object": "小步快跑迭代，先做好自己的事",
+      "cause": "京东连独立APP都没有，属于草台班子阶段，打白刃战对自身不利",
+      "effect": "趁舆论优势抓紧干实事，有了具体成果再大肆宣传",
+      "original_text": "趁着自己还是舆论优势，抓紧去干自己的事情，把自己的事情干好才是最重要的。小步快跑去迭代，更新速度一定要比大公司改动流程快很多，这个才是京东外卖的制胜关键。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

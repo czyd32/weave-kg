@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1TDTQ61EDJ",
+  "title": "LV起诉茉莉奶白：奢侈品用法律捍卫符号阶级",
+  "author": "唯一讲述者",
+  "date": "2026-07-06",
+  "source_url": "https://www.bilibili.com/video/BV1TDTQ61EDJ/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1TDTQ61EDJ_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "LV",
+      "relation": "起诉",
+      "object": "茉莉奶白商标侵权并索赔一千多万，同时起诉鸭血粉丝汤店（收款码出借）和餐吧（网购餐具含LV花纹）",
+      "cause": "LV认为茉莉奶白标志与传统印花十字花纹过于相似",
+      "effect": "2025年7月2日一审判决生效，舆论一边倒向茉莉奶白",
+      "original_text": "7月2号，LV起诉茉莉奶白的一审判决生效的消息上了热搜。LV认为茉莉奶白的标志和LV的传统印花十字花纹过于相似，因此涉嫌侵犯LV的商标专用权。"
+    },
+    {
+      "id": "BV1TDTQ61EDJ_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "茉莉奶白",
+      "relation": "舆论占优是因为",
+      "object": "站在了情绪的制高点——海外品牌欺负本土品牌，法律问题升华为立场问题",
+      "cause": "LV是海外奢侈品品牌存在立场debuff；LV放着上游厂商不追专挑尾端小商户下手；遇见小面事件余温尚在",
+      "effect": "茉莉奶白庭外很难输，舆论场一边倒利好茉莉奶白",
+      "original_text": "茉莉奶白站在了情绪的制高点，其实庭外就很难输了。"
+    },
+    {
+      "id": "BV1TDTQ61EDJ_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "LV起诉茉莉奶白的底层逻辑",
+      "relation": "是",
+      "object": "舆论越反对，目标用户与普通人的区隔越大，符号价值反而被确认",
+      "cause": "骂LV的人不是LV的客户（受众重合度低）；LV目标客户认为LV是在重视资产保护、守住品牌边界；反对声量越大越确认符号隔阂有效",
+      "effect": "骂LV的人越多，买LV的人就越多——奢侈品做的是定义阶级的生意而非卖货的生意",
+      "original_text": "舆论越反对LV，就意味着与LV品牌调性相悖的普通人越多，LV的目标用户和普通人之间的区隔就越大。"
+    },
+    {
+      "id": "BV1TDTQ61EDJ_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "LV起诉茉莉奶白的核心动机",
+      "relation": "是防止",
+      "object": "老花符号被十几块钱的奶茶日常化、平民化，导致稀缺感和距离感消失",
+      "cause": "当大街小巷奶茶杯都印着类似花纹时，符号的稀缺感和距离感逐渐消失",
+      "effect": "LV必须通过司法程序维护符号专属权，类似于明朝禁止民间使用明黄色",
+      "original_text": "LV对茉莉奶白的起诉，本质上就是怕十几块钱的奶茶把老花这个高端奢侈品的符号给日常化、平民化了。"
+    },
+    {
+      "id": "BV1TDTQ61EDJ_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "奢侈品牌",
+      "relation": "拥有",
+      "object": "符号定义权——品牌为物品赋予专属符号后，它就能脱离日常评判体系进入奢侈品价值逻辑",
+      "cause": "LV编织袋加标志后卖26000，证明品牌符号定价权",
+      "effect": "奢侈品牌禁止第三方把符号用在平价日常场景（不受控的符号贬值），但自己主动将符号印在日用品上反向证明定价权",
+      "original_text": "这就是奢侈品最核心的权利——对符号的定义权。无论这个物品是什么，只要品牌为它赋予了专属的符号，它就能脱离日常用品的评判体系，进入奢侈品的价值逻辑里。"
+    },
+    {
+      "id": "BV1TDTQ61EDJ_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "仿品与正品",
+      "relation": "维持着",
+      "object": "微妙的共生关系——仿品渗透下沉市场扩大品牌符号认知，反过来强化正品身份价值",
+      "cause": "品牌官方宣传只能触达固定圈层；学生党买仿鞋、普通女孩买平替发夹成为品牌符号的移动载体；骂仿品时默认正品很贵这个前提",
+      "effect": "比起假货，奢侈品牌更怕没人知道自己品牌是奢侈品；仿品越普及，正品身份标识作用越强",
+      "original_text": "仿品跟正品不是简单的对立关系，而是维持着一种比较微妙的平衡。仿品越普及，知道它贵的人越多，正品的身份标识作用就越强。"
+    },
+    {
+      "id": "BV1TDTQ61EDJ_p007",
+      "segment_id": "seg_007",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "总结",
+      "object": "LV起诉茉莉奶白正常，茉莉奶白舆论场胜利也正常，两边都不亏",
+      "cause": null,
+      "effect": null,
+      "original_text": "LV起诉茉莉奶白很正常，茉莉奶白在舆论场上胜利也很正常。在这场事件当中，对于两个品牌来说，都不算亏。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

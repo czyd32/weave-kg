@@ -1,0 +1,114 @@
+{
+  "source_id": "BV1jL411y7oy",
+  "title": "夏猜：网暴高三誓师女学生，揭露了社会的矛盾现实",
+  "author": "唯一讲述者",
+  "date": "2023-03-11",
+  "source_url": "https://www.bilibili.com/video/BV1jL411y7oy/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1jL411y7oy_p1",
+      "segment_id": "seg_01",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "以梦境对话形式",
+      "object": "展开自我辩论",
+      "cause": null,
+      "effect": null,
+      "original_text": "晚上睡觉的时候，我做了一个梦。在梦里，我跟我的副人格交流了一会儿。"
+    },
+    {
+      "id": "BV1jL411y7oy_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "百日誓师女生的誓词",
+      "relation": "内核是",
+      "object": "以「努力上进」为壳包裹的追求特权的利己主义",
+      "cause": "誓词中「没有人是生来的弱者」与「鄙视卑微的懦夫」完全矛盾——前者说人人平等，后者却鄙视弱者，暴露了其价值观内核是「击败他人、夺取特权」而非追求知识本身",
+      "effect": "将自己的认知混沌当作真理慷慨激昂地传播，与「杂交教授」的价值观本质相同",
+      "original_text": "她所谓的「没有人是生来的弱者」和后面的「鄙视卑微的懦夫」是完全矛盾的。错在她没有意识到，她这篇所谓的百日誓师的誓词，只是用一个努力上进的壳子，包裹了一层追求特权的利己主义。"
+    },
+    {
+      "id": "BV1jL411y7oy_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "高考",
+      "relation": "对普通人是",
+      "object": "几乎唯一的出路",
+      "cause": "没有学历就没有工作机会，公司宁愿相信有学历的人也不愿相信「什么都没有的人」；即使有30多万粉丝的账号也只是个例，无法复制",
+      "effect": "不卷就会被挤走，失去竞争能力——这是个体理性选择，虽然价值观上不认同但不得不做",
+      "original_text": "作为一个普通老百姓，你觉得你除了高考还有别的出路吗？……能力不能被学历限定，但是如果你没有学历，你怎么证明你有能力？"
+    },
+    {
+      "id": "BV1jL411y7oy_p4",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "清高/精神价值",
+      "relation": "不能替代",
+      "object": "生存保障",
+      "cause": "讲述者不接广告、坚持操守导致连房租都付不起，而高考后的文凭却可以换来工作",
+      "effect": "在物质主义主导的社会中，精神价值无法被衡量，饿死之后精神价值毫无意义",
+      "original_text": "你都饿死了，然后你的精神价值飘扬在天空之中，久久不能消散，有什么意义呢？"
+    },
+    {
+      "id": "BV1jL411y7oy_p5",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "内卷",
+      "relation": "在物质主义社会中被视为",
+      "object": "有意义的行为",
+      "cause": "市场就是竞争，要击败别人才能获得工作——「干掉其他人就是意义」",
+      "effect": "即使个体理性上知道内卷无意义，但在囚徒困境中，不卷就会被淘汰",
+      "original_text": "竞争就是意义啊。……市场就是要竞争的呀，就是要击败别人，自己才能获得工作岗位啊。"
+    },
+    {
+      "id": "BV1jL411y7oy_p6",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "讲述者追求公平的理想",
+      "relation": "被副人格判定为",
+      "object": "一种傲慢的利己主义",
+      "cause": "讲述者希望人人都成为「有自知之明」的人，但实际上是在「定义」他人应该成为什么样的人，而非接受真实的普通人",
+      "effect": "这种理想主义虽本意是让社会良性发展，但本身也是一种将自己的价值观强加于人的行为",
+      "original_text": "你太傲慢了。你希望人人都成为某种你定义的人，这也是利己主义啊。只不过是你把它显化到了世人身上。你爱的是你以为的人，而不是那些平凡的普通人。"
+    },
+    {
+      "id": "BV1jL411y7oy_p7",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "公平",
+      "relation": "需要所有人让渡一定权利来达成",
+      "object": "相对平等",
+      "cause": "如果人人都是利己的，人类文明会在利己主义中走向混沌和毁灭",
+      "effect": "虽然找不到绝对公平，但不代表不能追求——这正是讲述者坚持发声的意义",
+      "original_text": "我们要维持公平，就是要所有人都让渡一定的权利来达成相对平等，这样才是稳定态。否则人类文明就会在这种利己主义的思想之下走向混沌和毁灭。"
+    },
+    {
+      "id": "BV1jL411y7oy_p8",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "百日誓师女生",
+      "relation": "在主流价值观中",
+      "object": "没有错",
+      "cause": "主流价值观就是物质主义——万柳书院、杂交教授都证明了这一点，绝大部分人吃这套",
+      "effect": "即使价值观不对，个体也无法改变社会系统——「改变不了就什么都不做吗？」「做了又有什么用呢？」",
+      "original_text": "这个女生错了吗？她没错啊。因为主流价值观就是这个样子……它不对，你能改变它吗？"
+    },
+    {
+      "id": "BV1jL411y7oy_p9",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "个体的反抗",
+      "relation": "被囚徒困境",
+      "object": "锁死",
+      "cause": "即使我愿意跟你一起拒绝内卷，但我无法保证其他人也这样做——我无法保证自己的生活和未来",
+      "effect": "理性个体选择「卷」，导致集体结果更差，但个体没有选择不卷的安全空间",
+      "original_text": "囚徒困境。……退一万步讲，我相信你，我跟你一起拒绝内卷。那我怎么保证其他人也相信你？我怎么保证自己的生活？"
+    }
+  ],
+  "proposition_count": 9,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

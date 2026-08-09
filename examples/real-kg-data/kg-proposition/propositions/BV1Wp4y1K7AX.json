@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1Wp4y1K7AX",
+  "title": "骂穷人不算侮辱？留学机构直播翻车与口误的真相",
+  "author": "唯一讲述者",
+  "date": "2023-08-21",
+  "source_url": "https://www.bilibili.com/video/BV1Wp4y1K7AX/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Wp4y1K7AX_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "留学机构主播",
+      "relation": "发表",
+      "object": "侮辱性言论（称资产不超10万家庭为残疾家庭）",
+      "cause": "该机构曾因虚假宣传被点名",
+      "effect": "引发舆论愤怒，公司负责人以口误为由辩解",
+      "original_text": "该主播称家庭资产不超过10万的是残疾家庭，要不是脑子有问题要不是身体有问题...这个公司的负责人在接受采访的时候辩解说这可能是一时口误嘛。"
+    },
+    {
+      "id": "BV1Wp4y1K7AX_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "弗洛伊德口误理论",
+      "relation": "揭示了",
+      "object": "所有口误都是潜意识的真情流露",
+      "cause": "口误不是随机错误，而是潜意识的外显",
+      "effect": "留学机构主播的口误反映了其内心对穷人的真实歧视",
+      "original_text": "弗洛伊德在《精神分析学引论》中曾经说过这样一句话：所有所谓的口误，都是潜意识的真情流露。"
+    },
+    {
+      "id": "BV1Wp4y1K7AX_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "资产不超过10万的家庭",
+      "relation": "不建议",
+      "object": "自费出国留学",
+      "cause": "英国年费40万+、俄罗斯20万+、东南亚5万+，远超家庭负担能力",
+      "effect": "但并非没有办法——打工签证、奖学金、免费留学国家（如德国）可解决费用问题",
+      "original_text": "如果一个家庭总资产不超过10万，那确实算不上什么富裕家庭...我也不建议这样的家庭在不是公派留学或者没有什么国家补助的情况下出国留学...关于穷人家的孩子能不能去国外上学这个问题，我只是不建议，但不是没有办法。"
+    },
+    {
+      "id": "BV1Wp4y1K7AX_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "留学机构主播的问题",
+      "relation": "不在于不建议而在于",
+      "object": "将穷人家孩子污名化为残疾",
+      "cause": "明明可以用平和叙事说明，却选择下定义式侮辱",
+      "effect": "暴露了业务能力和职业素养的缺失",
+      "original_text": "很离谱的是什么呢？就是明明我这种平和的叙事就能说清楚的事情，这位大哥却先下了一个定义——叫做这种就叫做残疾家庭...我很难相信这种业务水平的人，在面对客户的时候能提出什么建设性的意见。"
+    },
+    {
+      "id": "BV1Wp4y1K7AX_p005",
+      "segment_id": "seg_005",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "总结",
+      "object": "做事之前要先做人",
+      "cause": null,
+      "effect": null,
+      "original_text": "做事之前，要先做人。哪怕你是装的呢。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

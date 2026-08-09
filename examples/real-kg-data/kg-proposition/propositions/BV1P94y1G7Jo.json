@@ -1,0 +1,59 @@
+{
+  "source_id": "BV1P94y1G7Jo",
+  "title": "我一百万粉啦，感谢厚爱",
+  "author": "唯一讲述者",
+  "date": "2023-11-12",
+  "source_url": "https://www.bilibili.com/video/BV1P94y1G7Jo/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1P94y1G7Jo_p001",
+      "segment_id": "seg_001",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "自述",
+      "object": "达到100万粉后感到惶恐，自认只是读了几本书的社会闲散人员，用前人智慧总结出大家的朴素价值观",
+      "cause": null,
+      "effect": null,
+      "original_text": "从2019年发布第一条视频开始，到现在100万粉，要说不激动肯定不太现实，但是激动之余，更多还是有些惶恐吧。"
+    },
+    {
+      "id": "BV1P94y1G7Jo_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "圆桌会",
+      "relation": "是一个",
+      "object": "付费社群，核心原则是平等——每个人不会因社会身份而被评估发言权重",
+      "cause": "在现实中，身份和资格是高效决策方法，但普通人也有发声欲望",
+      "effect": "圆桌会要求成员至少擅长文字/语言表达或某学科有储备，否则至少保持谦逊",
+      "original_text": "我会要求圆桌会当中最基本的，就是平等原则：每个人不会因为你的社会身份，而对你的发言进行权重的评估。"
+    },
+    {
+      "id": "BV1P94y1G7Jo_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "讨论的意义",
+      "relation": "不是",
+      "object": "为了得出一个确定的答案，而是开放性的回答有助于开拓视野",
+      "cause": "一个确定的答案有助于决策，但开放性的回答更有助于开拓视野",
+      "effect": "每个新问题出现后，每个人用自己的知识体系拆解并寻找解决方案",
+      "original_text": "我要求你给出回答，不是为了得出某一个确定答案而存在的。一个确定的答案也许有助于我们做出某些决策，但是开放性的回答更有助于我们开拓自己的视野。"
+    },
+    {
+      "id": "BV1P94y1G7Jo_p004",
+      "segment_id": "seg_003",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "宣布",
+      "object": "将设计一套卡牌游戏'圆桌会杀'作为百万粉礼物，身份场玩法包括UP主、粉丝、乐子人、黑粉四种身份",
+      "cause": null,
+      "effect": null,
+      "original_text": "我目前的想法是，干脆搞一个卡牌游戏，就叫做'圆桌会杀'。"
+    }
+  ],
+  "proposition_count": 4,
+  "segments": 3,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

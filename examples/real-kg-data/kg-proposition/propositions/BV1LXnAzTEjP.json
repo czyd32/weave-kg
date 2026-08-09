@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1LXnAzTEjP",
+  "title": "西贝预制菜争议最终：西贝的舆论溃败不在于罗永浩，而在于傲慢和自大！",
+  "author": "唯一讲述者",
+  "date": "2025-09-22",
+  "source_url": "https://www.bilibili.com/video/BV1LXnAzTEjP/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1LXnAzTEjP_p1",
+      "subject": "不投入新信息源",
+      "relation": "是",
+      "object": "舆情退潮最有效的方法",
+      "cause": "西贝停止公关动作后热度明显降低，不投入新信息源、不做任何动作",
+      "effect": "老老实实装死，通常情况下没什么事",
+      "type": "argumentation",
+      "original_text": "现在你看，西贝停止了自己的公关动作之后，热度明显降低了。所以你看——不投入新的信息源，不做任何动作，老老实实装死，通常情况下没什么事。",
+      "segment_id": "seg_1"
+    },
+    {
+      "id": "BV1LXnAzTEjP_p2",
+      "subject": "西贝道歉信",
+      "relation": "采取",
+      "object": "姿态过高的分锅式表述",
+      "cause": "使用'生产工艺与顾客希望有较大差异'而非'锅气与效率之间平衡没把握好'",
+      "effect": "弱化矛盾但姿态仍高，在公众有罪推定时不够谨慎",
+      "type": "argumentation",
+      "original_text": "'锅气与效率之间的平衡没有把握好'——这个虽然是绕开了预制菜的问题，但是我后缀连接了一下'这是我们的问题，我们认错'，态度还是认错、把姿态放低、我们去改。而'生产工艺与客户的希望有较大的差异'——这其实有点分锅的意思，你发现没有？有一种'我没错，顾客的要求也多多少少有点问题'的意思，姿态还是有点高。",
+      "segment_id": "seg_2"
+    },
+    {
+      "id": "BV1LXnAzTEjP_p3",
+      "subject": "西贝",
+      "relation": "学胖东来",
+      "object": "只学了形式没学到本质",
+      "cause": "西贝只学了开放厨房的形式，胖东来核心是详细列出检测数据和具体措施",
+      "effect": "道歉信既想要胖东来的数值又想要公关操作的机制，两者都没做到",
+      "type": "argumentation",
+      "original_text": "如果你要学胖东来，你就不能只学他的通报形式。你就应该把所有有争议的用油烹饪的菜品列出来，菜品数量有多少道，然后像胖东来一样把它全部过一遍。你就把这些东西——检测报告、数据、附件——列出来，当你把这些措施列出来的时候，这种自我曝光才有具体实感。",
+      "segment_id": "seg_3"
+    },
+    {
+      "id": "BV1LXnAzTEjP_p4",
+      "subject": "西贝的核心用户",
+      "relation": "包括",
+      "object": "懒人——懒得做攻略的人",
+      "cause": "懒人看到西贝'闭着眼睛点道道都好吃'、选择够多，价格虽贵但方便",
+      "effect": "这类用户不会看整改策略，只会因刷到负面信息留下'下次不能去'的印象",
+      "type": "argumentation",
+      "original_text": "西贝的核心用户，除了我们经常提到的那些宝爸宝妈之外，还有一个方向——懒人。对于这种不太追求口味的懒人来说，西贝核心的卖点在于选择够多。而西贝公告里说的这些整改策略，这部分核心用户其实是不会耗心力去看的。他只会看到这个负面消息，然后心里留下一个'下次不能去西贝'的印象。",
+      "segment_id": "seg_4"
+    },
+    {
+      "id": "BV1LXnAzTEjP_p5",
+      "subject": "顾客虐我千百遍",
+      "relation": "是",
+      "object": "道歉信中的败笔",
+      "cause": "重复贾国龙之前的发言，除了反复传播负面舆情外没有任何意义",
+      "effect": "以一负面的形象作为超级符号不是好事，且公众会脑补完整版内容",
+      "type": "argumentation",
+      "original_text": "你又提一遍这个内容。你去把这个东西提出来，除了反复传播自己的负面舆情之外，没有任何意义。就是单纯的拿贾老板个人信誉为西贝品牌做担保，其实也是在走创始人营销策略。而且华与华这个超级符号在旁边，你说有没有一种可能，有一些交流呢？但我觉得，以一个负面的形象作为超级符号，不是一件好事。",
+      "segment_id": "seg_5"
+    },
+    {
+      "id": "BV1LXnAzTEjP_p6",
+      "subject": "罗永浩",
+      "relation": "持续",
+      "object": "对西贝紧追不放",
+      "cause": "罗永浩转发道歉内容，抓基本点用转发抽奖模式扩散负面信息",
+      "effect": "罗永浩又把西贝的道歉信挡回去了",
+      "type": "argumentation",
+      "original_text": "罗永浩又转发了这条道歉内容，抓了几个基本点，持续对西贝紧追不放。还是选择了一个转发抽奖的模式，对西贝的负面信息进行进一步扩散。比如'顾客虐你什么了？顾客都被你打成网络黑社会了，你谁虐谁呢？'等等。",
+      "segment_id": "seg_6"
+    },
+    {
+      "id": "BV1LXnAzTEjP_p7",
+      "subject": "西贝",
+      "relation": "不是输给",
+      "object": "罗永浩",
+      "cause": "西贝的主要问题是老板亲自下场越描越黑、学胖东来只学形式、滑跪太慢、用营销套路解决公关问题",
+      "effect": "西贝输给了自己的傲慢和老板超雄上头",
+      "type": "argumentation",
+      "original_text": "西贝主要的问题是什么？他不是输给了罗永浩，他是输给了自己的傲慢，输给了自己的老板超雄上头。我可以接受在技术上拼不过别人，但我真的不能接受，我的死是因为猪队友。假如说我去跟罗永浩对线，我输了，我没什么好说的，对方确实比我强。但是不能说有一个人在这里拖我的后腿，然后把我给拖输了。",
+      "segment_id": "seg_7"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

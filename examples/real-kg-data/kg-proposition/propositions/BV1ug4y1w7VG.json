@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1ug4y1w7VG",
+  "title": "李敬言退学后续：盘一盘校方公关的各路翻车操作",
+  "author": "唯一讲述者",
+  "date": "2023-07-08",
+  "source_url": "https://www.bilibili.com/video/BV1ug4y1w7VG/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1ug4y1w7VG_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "讲述者",
+      "relation": "补充说明",
+      "object": "上期视频需把问题分清楚，不能把问题混合起来——否则是在把李同学往火坑里推",
+      "cause": "部分小伙伴没有正确理解上期视频的意思",
+      "effect": null,
+      "original_text": "我发现有一部分的小伙伴好像并没有正确地理解我的意思，所以我们这里就简单给我的上一个视频做一个补充。那么我们就得把问题给分清楚，而不是把问题混合起来——这样相当于在把李同学往火坑里推。"
+    },
+    {
+      "id": "BV1ug4y1w7VG_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "李敬言同学",
+      "relation": "面临的法律困境是",
+      "object": "视频无法证明政职三杰霸凌——法律讲证据，缺乏被霸凌女生的关键证词，且视频传播可能涉及肖像权侵权",
+      "cause": "法律遵循无罪推定和谁主张谁举证原则；被霸凌女生未站出来作证；未经同意传播他人肖像有民责风险",
+      "effect": "删视频保命是当下最好选择；庭内可能败诉但庭外可通过口述规避侵权风险让舆论站自己这边",
+      "original_text": "法律讲的是证据，不是说你觉得是那就是了。所以现在最大的问题在于：那个女生没有立刻站出来说当时发生了什么事情。所以在这种情况下，李同学必须得删视频保命——这确实是当下保护自己最好的选择。"
+    },
+    {
+      "id": "BV1ug4y1w7VG_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "北京政法职业学院校方公关",
+      "relation": "犯了一系列翻车错误",
+      "object": "发布'双方已和解'声明（等于承认存在冲突）、工作人员声称李同学视频片面（双标且自加举证责任）、声明末尾加'零容忍'（自爆，给了李同学改口说自己被霸凌的弹药）",
+      "cause": "校方未调监控抛给大众，选择了下策中的下策；工作人员暴论自相矛盾——自己也没证据却说对方片面",
+      "effect": "校方无论怎么做都错，但不应选择和解声明和暴论输出；原本一个监控视频一个道歉就能解决",
+      "original_text": "校方却偏偏选择了一个下策中的下策——'双方已和解'这一类的声明。原本公众就质疑你这个是不是有霸凌，那你这个声明一出来，那就相当于直接承认了。"
+    },
+    {
+      "id": "BV1ug4y1w7VG_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "政职三杰",
+      "relation": "处境",
+      "object": "学校操作帮挡了一枪有喘息机会，但想翻身极难——唯一翻盘点是完美受害人证据",
+      "cause": "暴论太多懒得分析",
+      "effect": null,
+      "original_text": "现在学校的操作算是给挡了一波枪，然后有一个喘息的机会。但是想翻身——我只能说我太笨了，以我的水平想不到办法。"
+    },
+    {
+      "id": "BV1ug4y1w7VG_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "讲述者核心立场",
+      "relation": "主张",
+      "object": "就事论事，谁的问题就找谁——不能因为政职三杰是女生就攻击女性整体，不能因为学校有错就上升到意识形态",
+      "cause": "以点盖面、地图炮与政职三杰的行为没有区别",
+      "effect": null,
+      "original_text": "就事论事，谁的问题就找谁。政职三杰和学校有问题，找他们就好了呀，跟别人有什么关系呢？因为政职三杰的身份是女生，就攻击女性整体——那跟政职三杰有什么区别呢？"
+    },
+    {
+      "id": "BV1ug4y1w7VG_p006",
+      "segment_id": "seg_006",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "总结",
+      "object": "本期对上期视频的补充结束",
+      "cause": null,
+      "effect": null,
+      "original_text": "好，那么本期对上期视频的补充就先到这里。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

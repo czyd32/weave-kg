@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://weave-kg.dev/schemas/exchange.json",
+  "title": "Exchange",
+  "description": "A Q&A exchange extracted from dialogue",
+  "type": "object",
+  "required": ["id", "segment_id", "source_id", "question", "answer"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique exchange ID"
+    },
+    "segment_id": {
+      "type": "string",
+      "description": "Reference to the source segment"
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Reference to the source material"
+    },
+    "question": {
+      "type": "string",
+      "description": "The question asked"
+    },
+    "answer": {
+      "type": "string",
+      "description": "The answer given"
+    },
+    "speaker": {
+      "type": "string",
+      "description": "Speaker name"
+    },
+    "stance": {
+      "type": "string",
+      "description": "Stance expressed"
+    },
+    "stance_confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "tags": {
+      "type": "array",
+      "items": {"type": "string"}
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "source_id": "BV1Ltjt61EMH",
+  "title": "遇见小面翻车：为什么企业总用法务代替公关",
+  "author": "唯一讲述者",
+  "date": "2026-06-21",
+  "source_url": "https://www.bilibili.com/video/BV1Ltjt61EMH/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Ltjt61EMH_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "遇见小面品牌",
+      "relation": "批量起诉",
+      "object": "读音字形相似的微小饭馆商标侵权，包括'渝见小面'和'钰见小面'",
+      "cause": "遇见小面在港交所上市后进行全国范围内批量侵权诉讼",
+      "effect": "大量网友声讨、线下会员退费，创始人15日道歉并将'渝见小面'商标无偿赠予被诉夫妻门店",
+      "original_text": "6月11号，90后'渝见小面'老板在镜头面前说自己遇到了遇见小面品牌告自己商标侵权。"
+    },
+    {
+      "id": "BV1Ltjt61EMH_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "公关第一要务",
+      "relation": "应从",
+      "object": "维护声誉转向为业务服务",
+      "cause": "去中心化网络时代，组织声誉和公众关系不再是刻意管理的产物，而是业务运营与公众交互的自然结果",
+      "effect": "公关的指导意义从实践变成了目标",
+      "original_text": "我会觉得公关的第一要务是为业务服务。这也是我自己认为目前最贴合当前互联网时代的公关思维。因为在去中心化的网络时代，组织的声誉和公众的关系，它不再是刻意管理的产物，而是业务运营与公众交互的一个自然结果。"
+    },
+    {
+      "id": "BV1Ltjt61EMH_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "传统公关模式",
+      "relation": "失效于",
+      "object": "互联网时代信息对称环境",
+      "cause": "传统公关基于信息不对称——企业控制叙事阀门；现在用户评价、匿名爆料、实时直播使情绪对立严重，再好的声誉管理也挡不住断章取义攻击",
+      "effect": "想拥有完全良好的声誉基本不可能",
+      "original_text": "传统的公关，它的生存土壤跟互联网时代是不一样的。在传统模式当中，伯纳斯提出的'向公众解释企业，向企业解释公众'，这个前提基于信息不对称——企业能够控制叙事的阀门。"
+    },
+    {
+      "id": "BV1Ltjt61EMH_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "企业声誉",
+      "relation": "存在三重悖论",
+      "object": "信任溢价（正面）→ 道德期望棘轮效应 → 靶心效应 → 让渡解释权",
+      "cause": "好声誉带来信任溢价和无罪推定优势，但被架上神坛后期望单向不可逆；攻击完美企业流量价值百倍；成为符号后自动让渡解释权",
+      "effect": "声誉越好越脆弱，任何基于现实逻辑的决策都可能被负面解读",
+      "original_text": "但坏的方面就是它太好了，好到变成了一个符号。这就是道德期望的棘轮效应——被架上神坛的人，再想下来可就很难了。"
+    },
+    {
+      "id": "BV1Ltjt61EMH_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "企业偏好法务而非公关",
+      "relation": "源于",
+      "object": "法务结果直观确定（胜诉数、赔偿额），公关效果难以量化",
+      "cause": "公关投入无法立即看到结果，舆情无法当下反转；老板要的是'立刻止损'而非'可能变好'；法务姿态强硬符合上个时代企业家心理需求",
+      "effect": "只有当公关能证明自己为业务服务（拿下批文、促成合作、保住核心业务）时，才能与法务平等对话",
+      "original_text": "比起让公关把钱投到一个看不见结果的所谓品牌形象维护这件事情来说，更多的企业是更愿意把钱给法务的。因为法务的作用比较直观，结果也清晰可见——法务会白纸黑字地把他起诉，让他拘留或者是坐牢。"
+    },
+    {
+      "id": "BV1Ltjt61EMH_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "法务处理舆论",
+      "relation": "存在天然局限",
+      "object": "企业在舆论场接受的是道德审判而非法律审判",
+      "cause": "公众认知一旦形成（如西贝预制菜），法律证据无效；处理负面言论被解读为'捂嘴'；匿名账号主体隐藏，企业无法快速获取实名信息",
+      "effect": "法务手段在舆论场上无效，反而坐实公众怀疑",
+      "original_text": "企业在舆论场上要接受的其实不是法律的审判，而是更高一层的道德审判。"
+    },
+    {
+      "id": "BV1Ltjt61EMH_p007",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "遇见小面翻车根因",
+      "relation": "是",
+      "object": "外包法务跳过公关前置风控，合法合规被认为等于零风险",
+      "cause": "内部法务单条线对接外包律所，公关部门无参与前置风控机会；批量起诉夫妻小店快速堆高案件数和胜诉率以满足上市业绩要求",
+      "effect": "舆情爆发后创始人被迫道歉，公关加讼棍两张牌必须一起出",
+      "original_text": "一个公司的内部部门之间都有信息壁垒，那你把这个东西外包给其他的团队的时候，尤其是跟企业声誉有关的时候，风险是不是要比内部更高了？因为他会直接跳过公关的前置风控环节。"
+    },
+    {
+      "id": "BV1Ltjt61EMH_p008",
+      "segment_id": "seg_008",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "总结",
+      "object": "本期内容结束，留作业让观众解读公关文",
+      "cause": null,
+      "effect": null,
+      "original_text": "好，那么本期我们就简单说到这里。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 8,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

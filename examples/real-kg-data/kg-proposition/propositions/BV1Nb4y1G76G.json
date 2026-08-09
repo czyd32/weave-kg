@@ -1,0 +1,147 @@
+{
+  "source_id": "BV1Nb4y1G76G",
+  "title": "网游新规反对意见逐条拆解：有些玩家被垃圾游戏虐上瘾了",
+  "author": "唯一讲述者",
+  "date": "2023-12-25",
+  "source_url": "https://www.bilibili.com/video/BV1Nb4y1G76G/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Nb4y1G76G_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "讲述者",
+      "relation": "坚决支持",
+      "object": "新法执行并认为应加大力度",
+      "cause": "作为玩了近20年游戏的玩家，最喜欢的魔兽世界只需月卡99，买断制游戏只需二三百",
+      "effect": "虽然支持新法，但认为新法没有把核心问题解决掉",
+      "original_text": "作为一个普通的玩家，我坚决支持新法的执行，并且认为应该加大力度，最好回到点卡时代。"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "取消首充和每日登录奖励",
+      "relation": "不会导致",
+      "object": "零氪微氪党资源减少",
+      "cause": "游戏资源本身并无价值，与现实货币的汇率由厂商掌握；厂商若单纯扣除资源会导致玩家流失，而普通玩家是重氪玩家游戏体验的一环",
+      "effect": "三层博弈（汇率控制→怪物强度设计→游戏圈竞争）下，厂商和玩家会达成新平衡",
+      "original_text": "我们可以尝试以博弈论的视角来看待这个问题。游戏资源本身并无价值，它与现实货币的汇率本来就是由厂商掌握的。"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "游戏厂商",
+      "relation": "设计",
+      "object": "阶梯式充值循环",
+      "cause": "怪物设置在你只需稍微充点钱就能打败的强度，充了几十块后又发现下一个怪物需要再充几十块",
+      "effect": "这是游戏让零氪党微氪党去充钱的核心套路——无限循环",
+      "original_text": "游戏是要赚钱的。一个怪物的设置，必须在你只要稍微充点钱就能打败他的强度，你才会咬咬牙充钱。"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p004",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "游戏圈",
+      "relation": "是",
+      "object": "非常卷的红海市场",
+      "cause": "你的体验差了，竞争对手会上调资源获取或充值兑换率，吃一波对家基本盘",
+      "effect": "没有厂商会眼看着自己为他人做嫁衣，落实后玩家和厂商会达成新平衡",
+      "original_text": "游戏圈是非常非常卷的。你的体验感差了，这个游戏的竞争对手一看'卧槽还有这好事呢？'，赶紧上调游戏内资源获取。"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p005",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "限制高价交易",
+      "relation": "只是增加",
+      "object": "交易成本而非限制交易本身",
+      "cause": "如梦幻西游藏宝阁，游戏道具可通过第三方平台交易，富哥仍然可以在游戏外购买道具",
+      "effect": "限制的是在游戏中花钱而非在交易中花钱——变相鼓励游戏工作室和搬砖党",
+      "original_text": "限制充值上限和严格管制交易，其实只是增加了交易成本，对交易本身并没有什么实际影响。"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p006",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "会死的游戏",
+      "relation": "是",
+      "object": "依赖氪佬养活的MMO、垃圾滚服页游和低质量换皮游戏",
+      "cause": "这些游戏依赖PVP让少数富哥不断砸钱盈利，让专属客服、游戏托和免费玩家给富哥提供体验",
+      "effect": "这类游戏死掉是好事——正是因为这种游戏，才让国内游戏市场劣币驱逐良币",
+      "original_text": "会死的游戏是那些依靠氪佬养活的MMO游戏、垃圾滚服页游和低质量换皮游戏。"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p007",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "国内市场做不出好游戏",
+      "relation": "原因在于",
+      "object": "玩家被垃圾游戏虐上瘾",
+      "cause": "因为存在为这些垃圾游戏反对法条的玩家，导致页游和换皮游戏赚得盆满钵满，真正用心做游戏的人因缺乏资金和市场而死",
+      "effect": "游戏赶紧全都玩完，让良心厂商重拾信心",
+      "original_text": "国内市场做不出好游戏，就是因为这种——为这些游戏反对法条的玩家，你们是不是被这种垃圾游戏虐上瘾了？"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p008",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "游戏内容强制阉割",
+      "relation": "是",
+      "object": "讲述者最担心的问题",
+      "cause": "害怕具体细则中出现'不能出现血液元素'等明显矫枉过正的法条，以及为强行正能量整出包子雷那种烂活",
+      "effect": "但草案对境外的用词是'自觉遵守'，并非针对出海游戏——至少没有做限制",
+      "original_text": "我是真的害怕在具体细则中会出现'不能出现血液元素'等明显矫枉过正的法条。"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p009",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "游戏行业",
+      "relation": "不会因为法条",
+      "object": "被绞杀",
+      "cause": "游戏本身不是一个能被替代的行业；利润多少是主观的——有人亏钱是真亏，有人是觉得赚的钱不如别的行业多",
+      "effect": "被赶走的只是真亏钱的以及觉得不如别的行业赚钱的老板，市场会达成新平衡",
+      "original_text": "游戏行业不会因为这个法条而被绞杀，因为它本身不是一个能被替代的行业。"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p010",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "国外3A大作",
+      "relation": "证明",
+      "object": "没有充足氪金点也能做出好游戏",
+      "cause": "国外3A大作没有国内如此充分的氪金点，却依然存在并成功",
+      "effect": "没有氪金点只会让抱赚快钱目的的换皮游戏活不下去，而良心厂商会提高游戏质量以抢占市场",
+      "original_text": "请问国外的那些3A游戏是不是不应该因为游戏内没有国内如此充分的氪金点而出现呢？"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p011",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "反对意见五(版号黑幕)和六(阉割体验)",
+      "relation": "属于",
+      "object": "基本没什么理智可言的情绪化观点",
+      "cause": "'等你们也未成年的时候就明白了'、'游戏行业确实有大问题'等属于典中典情绪化表达",
+      "effect": "不经思考只凭情绪做事的人才是普通人的日常——哀其不智",
+      "original_text": "我对这些人的批判和嘲讽，真的是哀其不智。"
+    },
+    {
+      "id": "BV1Nb4y1G76G_p012",
+      "segment_id": "seg_007",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "表达",
+      "object": "结语与立场重申",
+      "cause": null,
+      "effect": null,
+      "original_text": "希望我的观众在面对某一件事情的时候，能够保持客观理性地去看待，不要被情绪遮蔽了双眼。"
+    }
+  ],
+  "proposition_count": 12,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

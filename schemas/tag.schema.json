@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://weave-kg.dev/schemas/tag.json",
+  "title": "Tag",
+  "description": "A tag in the shared tag system",
+  "type": "object",
+  "required": ["name", "propositions"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Tag name (lowercase, first letter as directory key)"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Alternative names for this tag"
+    },
+    "propositions": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "List of proposition IDs tagged with this label"
+    },
+    "description": {
+      "type": "string",
+      "description": "Human-readable description of the tag"
+    },
+    "weight": {
+      "type": "number",
+      "description": "Tag weight (based on proposition count and confidence)"
+    }
+  }
+}

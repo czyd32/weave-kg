@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1KVMA66EmN",
+  "title": "韩红朋友圈失控：私域情绪如何引爆公域危机",
+  "author": "唯一讲述者",
+  "date": "2026-07-04",
+  "source_url": "https://www.bilibili.com/video/BV1KVMA66EmN/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1KVMA66EmN_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "讲述者",
+      "relation": "愿意为韩红说话的原因",
+      "object": "韩红在公益领域比较公开透明，且讲述者自己做过慈善公益，知道一线有多难",
+      "cause": "讲述者曾因疫情时为韩红说话差点吃上官司",
+      "effect": "后续舆情对韩红影响不大，只要她继续投身公益",
+      "original_text": "对于愿意投身公益事业的人，无论是否真实自愿，我都抱有一丝好感。因为我自己也做过慈善公益，我知道一线有多难。所以当年疫情的时候，韩红被某博主的背后捅刀，我才愿意站出来为韩红说话——为此我也差点吃上官司。"
+    },
+    {
+      "id": "BV1KVMA66EmN_p002",
+      "segment_id": "seg_002",
+      "type": "event",
+      "subject": "韩红朋友圈",
+      "relation": "发布",
+      "object": "泣不成声、暗示退出公益事业的言论",
+      "cause": "韩红想通过朋友圈达成人情目的（安抚情绪、巩固圈内关系），而非刻意挽回舆论口碑",
+      "effect": "被主持人张泽群截图发到公众平台，引发「假辞」解读和舆论发酵",
+      "original_text": "6月29号开始，有一部分媒体宣称韩红宣布自己要退出公益行业。溯源之后发现，韩红是在朋友圈发文，然后被主持人张泽群截图发在了红眼平台上。"
+    },
+    {
+      "id": "BV1KVMA66EmN_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "韩红",
+      "relation": "暴露的问题",
+      "object": "把公域谨慎发言当成前台表演规范，却未将私域纳入风险管控范围",
+      "cause": "韩红认为关起门来的情绪宣泄是无伤大雅的私事，张泽群则将公众平台当成朋友圈在发",
+      "effect": "私域表达被公开传播后经不起公众审视，情绪化内容反而引发更大舆情",
+      "original_text": "韩红依旧把公域的谨慎发言当成一种前台表演的职业规范，却没有真正地把私域也纳入风险管控的范围。她可能觉得关起门来情绪宣泄也是无伤大雅的私事。"
+    },
+    {
+      "id": "BV1KVMA66EmN_p004",
+      "segment_id": "seg_004",
+      "type": "methodology",
+      "subject": "韩红朋友圈发言",
+      "relation": "可类比为",
+      "object": "第三种离职谈话——以离职为谈判筹码，看似陈述离职原因实则等管理层抛出台阶",
+      "cause": "私域表达服务于熟人间的情绪沟通和关系维护，带着情绪化的夸张表达，经不起公开审视",
+      "effect": "所有言论为目的服务，而非为了让他人评价时没有负面含义",
+      "original_text": "韩红在朋友圈的发言，其实就有点第三种员工的意思。而这一类发生在私域的表达，本质上都是服务于熟人之间的情绪沟通跟关系维护。它是经不起公开的审视的。"
+    },
+    {
+      "id": "BV1KVMA66EmN_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "朋友圈内容",
+      "relation": "传播力强于",
+      "object": "正式道歉信",
+      "cause": "公众更乐意听主观传播意图弱的内容（偷听感）；朋友圈信息模糊留下解读空间；主观情绪内容比客观事实更容易引发共情和讨论",
+      "effect": "韩红道歉信被关闭评论区被认为是'捂嘴'，而朋友圈截图反而广泛传播",
+      "original_text": "公众其实往往更乐意去听一些主观传播意图上没有那么重的内容。……韩红的朋友圈截图流出来之后，在公众看来就是不注意地听到了一段私人对话，让大家产生了一种'这话本来不应该是说给我听的'这种感知。"
+    },
+    {
+      "id": "BV1KVMA66EmN_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "韩红爱心慈善基金会声明",
+      "relation": "踩了两个雷",
+      "object": "法律追究条款（将法律路径混入沟通路径）和管理层薪酬披露（在危机时主动提及）",
+      "cause": "公众质疑核心是情感道德层面的不信任而非法律侵权；法律追究在愤怒公众眼里是'戴拳套'而非沟通；薪酬问题应日常化披露而非危机时辩解",
+      "effect": "声明未能起到应有的作用，评论区出现大量负面言论",
+      "original_text": "公众对于韩红的质疑，核心点在于：你公益是不是作秀？你是不是借公益牟利？这些问题本质上是情感和道德层面的不信任，而不是法律层面的侵权。在这种情况下，你去强调采取法律措施，会立刻引发两个问题。"
+    },
+    {
+      "id": "BV1KVMA66EmN_p007",
+      "segment_id": "seg_007",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "总结",
+      "object": "本期内容到此结束",
+      "cause": null,
+      "effect": null,
+      "original_text": "好了，这些时间反正也差不多了，我们简单说到这里。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

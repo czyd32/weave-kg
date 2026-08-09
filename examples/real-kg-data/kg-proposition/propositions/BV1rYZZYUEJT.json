@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1rYZZYUEJT",
+  "title": "su7爆燃事件之后，小米公关应该要干嘛？",
+  "author": "唯一讲述者",
+  "date": "2025-04-04",
+  "source_url": "https://www.bilibili.com/video/BV1rYZZYUEJT/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1rYZZYUEJT_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "小米su7爆燃事故",
+      "relation": "经历了48小时静默期",
+      "object": "事故视频广泛传播到官方声明",
+      "cause": "企业内部危机响应流程需要产品、公关、法务多部门评估，快则三五个小时慢则一两天",
+      "effect": "48小时内多条热搜发酵，舆论出现'小米捂嘴su7爆燃事件'的相关言论",
+      "original_text": "从当前发生的情况来看，事故视频被广泛传播到小米官方发布了声明，中间大概有48小时的一个静默期。我不好说这段时间公关他们在干嘛，但是舆情的发酵速度——48小时之内就连上了好几条热搜。"
+    },
+    {
+      "id": "BV1rYZZYUEJT_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "家属质疑小米压热搜",
+      "relation": "触发了'谁受益最大嫌疑最大'的公众直觉",
+      "object": "舆论场对小米的质疑",
+      "cause": "推测凶手就看背后谁是最大受益方——撤热搜对小米收益最大，符合民众朴素认知",
+      "effect": "小米受到撤热搜的质疑是合理的，即使真相可能是平台因事故画面问题处理",
+      "original_text": "有句话怎么说来着，好像叫'推测凶手就看背后的谁是最大的受益方'。这句话其实很扯，但是也确实很符合民众对于事物认识的一个朴素认知。撤热搜这件事情，看起来确实对小米收益很大，所以小米受到这个质疑其实是很合理的。"
+    },
+    {
+      "id": "BV1rYZZYUEJT_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "雷军必须回应而非沉默",
+      "relation": "由品牌调性和个人IP决定",
+      "object": "沉默策略的适用条件",
+      "cause": "雷军打造的是个人IP品牌——之前营销时一天发100条小作文，出事后如果没声了，人设会崩塌",
+      "effect": "个人IP享受了流量的关注，也必然要遭受流量的审判——沉默策略适合传统企业，不适合雷军这种'流量IP'",
+      "original_text": "个人IP是这样的——你既然享受了流量的关注，也必然要遭受流量的审判。所以从雷军这个IP的角度出发，之前你给小米做营销的时候，一天发100条小作文，现在一出事你没声了，那么你之前打造的那个人设就崩塌了。"
+    },
+    {
+      "id": "BV1rYZZYUEJT_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "网络公关的律师函操作",
+      "relation": "应发给平台而非个人用户",
+      "object": "依据《互联网信息服务管理办法》和《民法典》第1197条",
+      "cause": "平台作为经营性互联网服务提供者承担事前审查和事后监督义务，向平台发函效率更高",
+      "effect": "平台通常在3天内处理，给用户24小时自证空间，但大账号可能直接被限流或下架",
+      "original_text": "公关的律师函都是寄给平台的。……我们一般用的是《互联网信息服务管理办法》的第15条、第16条——对于含有侮辱、诽谤他人内容的信息，贵公司作为经营性互联网服务提供者，应该承担事前审查和事后监督的义务。"
+    },
+    {
+      "id": "BV1rYZZYUEJT_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "假信事件",
+      "relation": "是典型的'低级红高级黑'手法",
+      "object": "伪装成小米官方声明的假信",
+      "cause": "假信表面言辞恳切，但内容暗戳戳把责任往小米身上揽——承诺'无条件召回所有车辆''设立专项抚恤金'等无法兑现的承诺",
+      "effect": "让公众产生'小米su7有安全隐患'的想法，属于变相承认产品有问题，但'燕国的地图太短了'——伪装过于明显",
+      "original_text": "表面上是在为小米好，但实际上都是在把问题往自己身上揽。……这个燕国的地图太短了，有点太把公众当傻子了。"
+    },
+    {
+      "id": "BV1rYZZYUEJT_p6",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "su7事故的两层分析",
+      "relation": "分为事实层面和舆论层面",
+      "object": "事故责任认定与舆论动机",
+      "cause": "事故本身尚未定论（是司机操作失误还是车辆设计问题），但舆论场中媒体操作痕迹明显",
+      "effect": "触发了公众的叛逆情绪——'为什么交通事故需要车厂负责'的论调出现，部分媒体'完美受害者'理论也在起作用",
+      "original_text": "第一层肯定是事故本身——到底有多少小米的责任。……在没有看到警方通报之前，我其实不太相信现有的媒体报道的。第二层就是关于动机方面的问题。……在交警还没有定性的情况下，到底是车辆质量的问题还是人为导致的一些后果，现在都还没有定论。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

@@ -1,0 +1,125 @@
+{
+  "source_id": "BV1SH4y1Y7MZ",
+  "title": "《格局》：格力年会风波背后的权力恐惧与个人崇拜",
+  "author": "唯一讲述者",
+  "date": "2024-02-05",
+  "source_url": "https://www.bilibili.com/video/BV1SH4y1Y7MZ/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1SH4y1Y7MZ_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "格力年会节目",
+      "relation": "出现",
+      "object": "'我妈就是董明珠'台词",
+      "cause": "快板节目中表演者说秃噜嘴后马上解释'我妈是董明珠的粉丝'，但媒体掐掉了后半句",
+      "effect": "冲上热搜，引发断章取义式狂欢",
+      "original_text": "原台词的意思是表演者自己说秃噜嘴了'我妈就是董明珠'，然后马上解释'我妈是董明珠的粉丝'。只是之后，一些媒体把后面这轱辘给掐了。"
+    },
+    {
+      "id": "BV1SH4y1Y7MZ_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "董明珠的恐惧",
+      "relation": "源于",
+      "object": "带领的公司可能不再属于自己",
+      "cause": "企业太大但权力一直没有更迭，无法确定是否有高管已达成联盟想谋朝篡位",
+      "effect": "越大型的企业个人意志越难贯彻，每个创业者都不希望被架空后踢出局",
+      "original_text": "这就是董总的恐惧。她怕由她一手带起来的格力，以后不再是她的了。她怕公司不再需要她，然后把她一脚踢开。"
+    },
+    {
+      "id": "BV1SH4y1Y7MZ_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "公司高层",
+      "relation": "会被强力意志推动",
+      "object": "走向争夺权力的道路",
+      "cause": "员工、社会评价、自我实现追求、权力渴望等凝聚成强力意志推着你往前走",
+      "effect": "不管是不是真想当皇帝，黄袍莫名其妙的就穿上了",
+      "original_text": "你的员工、社会评价、你对自我实现的追求、对权力的渴望、你的公司等等，会凝聚成一个强力意志。这个强力意志会不断地逼迫你，推着你往前走——不管你是不是愿意的，但是这个黄袍，莫名其妙的怎么就穿在身上了呢？"
+    },
+    {
+      "id": "BV1SH4y1Y7MZ_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "投资悖论",
+      "relation": "表现为",
+      "object": "每个投资者都希望创业者在前期是董明珠，在后期是董宇辉",
+      "cause": "前期希望你把公司当爹养毫无保留地付出，挣钱后又想把你踢出局独享利润",
+      "effect": "创业者寻求投资时无法判断对方是否在风险转嫁",
+      "original_text": "几乎每一个投资者都希望创业者在前期是董明珠，在后期是董宇辉。作为投资者，我希望我在投资之后，你前期把公司当做自己的全部，要毫无保留地为公司付出。等你挣了钱之后，又想像某一个孙姓高管一样，找个办法把你踢出局。"
+    },
+    {
+      "id": "BV1SH4y1Y7MZ_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "王自如的年会节目",
+      "relation": "精准把握了",
+      "object": "董明珠的心理恐惧",
+      "cause": "从猛夸格力集团到跪舔董总，把所有人的努力归于董总一个人，大搞个人崇拜",
+      "effect": "向董总传递信号：公司所有人都是你的子女，公司没了你不行，不能踢开你",
+      "original_text": "你不是怕别人把你踢开吗？你看现在公司所有人都是你的子女吧，所有人都很崇拜你吧，公司没了你是不行的，所以是不能踢开你的。"
+    },
+    {
+      "id": "BV1SH4y1Y7MZ_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "董明珠的整活行为",
+      "relation": "目的在于",
+      "object": "与格力公司做强捆绑",
+      "cause": "今天批孟羽童、明天说离职员工应付培训费、后天出玫瑰空调、格力手机开机就是董总形象",
+      "effect": "太害怕被时代抛弃、血汗被抢走，类似乾隆给自己整出十全老人",
+      "original_text": "这都是董总在和格力公司做强捆绑——就是她选择的方法确实是有点抽象。她太害怕自己会被时代所抛弃，太害怕自己的血汗被其他人抢走。"
+    },
+    {
+      "id": "BV1SH4y1Y7MZ_p007",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "'我妈就是董明珠'",
+      "relation": "精准击中了",
+      "object": "年轻打工人对裙带关系和无下限拍马屁的厌恶",
+      "cause": "年会公开直播赋予了别人评论的权利",
+      "effect": "2亿年终奖是年会开完后临时决定加的，给人'哄老佛爷开心后施舍'的感觉",
+      "original_text": "这个晚会给人释放的信号就好像是：我应得的东西获得的方式，居然是我要去拍领导的马屁才能获得，而不是原本你本来就应该给我。"
+    },
+    {
+      "id": "BV1SH4y1Y7MZ_p008",
+      "segment_id": "seg_008",
+      "type": "argumentation",
+      "subject": "霍桑实验",
+      "relation": "证明了",
+      "object": "员工心态在现代生产中起重要作用",
+      "cause": "古典管理学拿秒表卡时间的管理方法在近现代不能提高生产效率",
+      "effect": "完全量化的阿里文化反而催生了庞大低效的臃肿体系",
+      "original_text": "霍桑实验的结果呈现就是：员工的心态在真正的企业生产之中，特别是到了近现代的文化产业当中，起到了非常重要的作用。"
+    },
+    {
+      "id": "BV1SH4y1Y7MZ_p009",
+      "segment_id": "seg_009",
+      "type": "argumentation",
+      "subject": "意见征集处",
+      "relation": "实际作用是",
+      "object": "让员工骂完心情舒畅从而提升效率",
+      "cause": "你提出的意见建议有99%的概率被当成垃圾丢掉",
+      "effect": "这地方就是让你去骂公司骂领导的，骂完了心情舒畅了工作效率自然提升",
+      "original_text": "这个意见征集处通常什么用都没有——你提出的意见建议，会有99%的概率被当成垃圾丢进纸篓。这个地方就是让你去骂公司骂领导的，你骂完了，心情舒畅了，工作效率自然就提升了。"
+    },
+    {
+      "id": "BV1SH4y1Y7MZ_p010",
+      "segment_id": "seg_010",
+      "type": "argumentation",
+      "subject": "个人崇拜管理模式",
+      "relation": "在当代失效",
+      "object": "因为员工的荣誉感已从他人转向自己",
+      "cause": "老一辈人自我意识较弱，荣誉感来自英雄崇拜；现代人自我意识旺盛，我他妈就是英雄",
+      "effect": "企业更应该关注员工的个体而非老板的个体",
+      "original_text": "老一辈人在投入工作的时候，自我意识是没有现代人强的。他们的荣誉感来源于英雄崇拜。可是我们不一样。我们这代是自我意识比较旺盛的年代——我他妈就是英雄，我只需要崇拜我自己。"
+    }
+  ],
+  "proposition_count": 10,
+  "segments": 10,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

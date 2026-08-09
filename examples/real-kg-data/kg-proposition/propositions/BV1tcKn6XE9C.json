@@ -1,0 +1,103 @@
+{
+  "source_id": "BV1tcKn6XE9C",
+  "title": "lv诉国家知识产权局：法务放心飞，出事自己背！",
+  "author": "唯一讲述者",
+  "date": "2026-07-17",
+  "source_url": "https://www.bilibili.com/video/BV1tcKn6XE9C/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1tcKn6XE9C_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "LV",
+      "relation": "起诉",
+      "object": "国家知识产权局——因商标无效申请被驳回后提起行政诉讼",
+      "cause": "LV认为某服装经营者注册的花型图案涉嫌侵权，向知识产权局申请商标无效失败",
+      "effect": "网友调侃'告天庭'，事件从法律纠纷升级为政治立场问题",
+      "original_text": "LV起诉国家知识产权局冲上热搜。从法律角度来说，起诉国家知识产权局只是企业的一项常规操作。"
+    },
+    {
+      "id": "BV1tcKn6XE9C_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "起诉国家知识产权局",
+      "relation": "是",
+      "object": "行政诉讼常规程序——但被网友解读为'告天庭'，从法律问题变成政治问题",
+      "cause": "前期LV起诉茉莉奶白和个体户已搭建出'LV是知识产权地头蛇'的认知框架",
+      "effect": "LV自己完成了政治化升级——网友没有做到的事，它自己做到了",
+      "original_text": "当大众普遍认为这是一个政治或阶级问题时，事情就会变得很难办。"
+    },
+    {
+      "id": "BV1tcKn6XE9C_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "LV老花",
+      "relation": "被",
+      "object": "审美污名化——被类比为旱厕开窗纹路和纸钱，'旱厕上身''厕所包'",
+      "cause": "对奢侈品而言，最致命的就是被认为'土'和'掉价'",
+      "effect": "审美层面的污名化粘性比立场争议更强，更难通过公关手段洗白",
+      "original_text": "当一个奢侈品无法让想用它装逼的人装逼，这个品牌就没有任何意义。"
+    },
+    {
+      "id": "BV1tcKn6XE9C_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "法务与公关",
+      "relation": "存在",
+      "object": "天然冲突——法务以诉讼胜诉和威慑力为KPI，公关以品牌好感度为KPI",
+      "cause": "两个完全正确且正常的思路撞在一起，方向相反",
+      "effect": "对外呈现的舆论沉默，可能不是策略而是部门博弈后的僵局",
+      "original_text": "法务通常认为起诉应该公开，因为可以震慑不法分子。但对公关来说，公开起诉书约等于告诉客户'我们完全不顾及客户体验'。两个完全正确且正常的思路撞在一起，它就是冲突的。"
+    },
+    {
+      "id": "BV1tcKn6XE9C_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "LV公关的沉默",
+      "relation": "是",
+      "object": "放弃争夺事件定义权——甩锅给法务，谁捅的篓子谁处理",
+      "cause": "品牌想改写上亿网民认知的传播成本远高于诉讼本身，投入产出比不成正比",
+      "effect": "公关当前最重要的事是稳定核心用户——让核心用户感觉品牌方在赢，而非在舆论上赢",
+      "original_text": "LV公关的最终目的不是在舆论上赢，而是让核心用户感觉到品牌方在赢。最容易获取核心用户信任的方式就是在法律层面获取胜利。"
+    },
+    {
+      "id": "BV1tcKn6XE9C_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "奢侈品传播逻辑",
+      "relation": "是",
+      "object": "构建圈层壁垒——沟通对象只有付费客户，不是所有网民",
+      "cause": "如果LV真的发长文解释，等于主动把自己拉到跟路人辩论的层级，打破品牌光环",
+      "effect": "出来解释反而不妥——LV柜姐不怕吃投诉，把核心客户当上帝即可",
+      "original_text": "奢侈品的传播逻辑是构建圈层壁垒，它沟通的对象只有付费客户，而不是所有网民。如果它真的这么做了，反而更不妥。"
+    },
+    {
+      "id": "BV1tcKn6XE9C_p007",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "茉莉奶白大规模招聘法务",
+      "relation": "是",
+      "object": "议题置换——用'高薪招法务'正面话题覆盖'侵权败诉'负面议题",
+      "cause": "招聘行为本身不带有道德判断，只带来讨论度和流量",
+      "effect": "把品牌从'被动挨打的侵权者'变成'知耻后勇的成长型品牌'，同时也是向资本传递'正在补齐短板'的信号",
+      "original_text": "招聘这个动作本质上是一种议题置换——用'高薪招法务''搭建全球知识产权体系'这个有话题性的新议题，覆盖掉'侵权败诉'的旧议题。"
+    },
+    {
+      "id": "BV1tcKn6XE9C_p008",
+      "segment_id": "seg_008",
+      "type": "narrative",
+      "subject": "结语",
+      "relation": "标记",
+      "object": "视频结束——讲述者常规收尾",
+      "cause": null,
+      "effect": null,
+      "original_text": "好，那本期就简单说到这里。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 8,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest→SkillZY-Knowledge-Graph-Ingest→SkillZY-Proposition-Knowledge-Graph"
+}

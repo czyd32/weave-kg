@@ -1,0 +1,125 @@
+{
+  "source_id": "BV1oa43z5EZF",
+  "title": "三角洲优化舆情危机：策划怎么这么喜欢教玩家怎么玩游戏呢？",
+  "author": "唯一讲述者",
+  "date": "2025-10-12",
+  "source_url": "https://www.bilibili.com/video/BV1oa43z5EZF/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1oa43z5EZF_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "搜打撤游戏",
+      "relation": "本质是",
+      "object": "非零和博弈的经济游戏",
+      "cause": "每个玩家需要在进入游戏前权衡投入和产出比",
+      "effect": "玩家在搜/打/撤三者之间进行动态博弈，而非传统FPS的零和对抗",
+      "original_text": "虽然表面上三角洲是一款FPS游戏，但是在搜打撤模式之下，会发现它其实是一个经济游戏，而且是典型的非零和博弈游戏。"
+    },
+    {
+      "id": "BV1oa43z5EZF_p2",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "鼠鼠玩家玩法",
+      "relation": "是",
+      "object": "搜打撤中最理性的策略",
+      "cause": "游戏目标是撤离而非活到最后，打架伴随风险",
+      "effect": "效率最高的玩法是闷头搜东西、不打架、该撤就撤",
+      "original_text": "其中最理性的方法其实是鼠鼠玩家的玩法。因为三角洲本质上是一个摸金游戏，是在用最低的投入赚取最高的产出。"
+    },
+    {
+      "id": "BV1oa43z5EZF_p3",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "共享监狱玩法",
+      "relation": "形成原因",
+      "object": "盾构的低成本高防御特性使和平摸金成为最优解",
+      "cause": "选盾构让反悔开打的人付出高弹药成本且可能同归于尽",
+      "effect": "监狱地图形成全员选盾构、和平舔图的默契",
+      "original_text": "选盾构是防止有些人可能打破默契在地图里胡乱开枪。最终结果一定是大家都选盾构、和平舔图——这是收益最稳定的方法。"
+    },
+    {
+      "id": "BV1oa43z5EZF_p4",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "策划",
+      "relation": "通过",
+      "object": "改撤离点人数上限和削盾构来强制PVP",
+      "cause": "策划将撤离点单次撤离人数从不限改为上限5人，强制小队间产生冲突",
+      "effect": "策划在教玩家玩游戏，破坏了玩家自发形成的玩法默契",
+      "original_text": "因为一个小队3个人，如果改成上限5个人，必然有一个人出不去。所以策划逼着你打架。"
+    },
+    {
+      "id": "BV1oa43z5EZF_p5",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "电竞化",
+      "relation": "导致",
+      "object": "策划倾向于强化猛攻玩家优势",
+      "cause": "电竞化需要观赏性，而搜打撤模式下理性玩法导致比赛观赏性极差",
+      "effect": "策划通过机制改动强化PVP，试图提升电竞观赏性",
+      "original_text": "我现在感觉三角洲的策划有点想把三角洲搞成专业电竞化。如果他真是这么想的，那他现在的操作也可以理解——是在更多地方强化猛攻哥的优势。"
+    },
+    {
+      "id": "BV1oa43z5EZF_p6",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "护航陪玩生态",
+      "relation": "与",
+      "object": "电竞化体系深度绑定",
+      "cause": "电竞化需要俱乐部、选手、主播和变现方式支撑，护航代肝是二三线选手的收入来源",
+      "effect": "策划优化在客观上保护了护航陪玩的利益，牺牲了普通玩家的体验",
+      "original_text": "三角洲策划这个行为相当于是在用普通玩家的游戏体验来换这些陪玩、老板、猛攻玩家的游戏体验。"
+    },
+    {
+      "id": "BV1oa43z5EZF_p7",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "官方公告",
+      "relation": "存在",
+      "object": "自我矛盾的甩锅表述",
+      "cause": "公告说收到大量反馈不公平对战，但举报选项里恶意组队和护航是同一选项",
+      "effect": "如果护航一直处理不了，那所谓大量反馈的来源和立场就值得怀疑",
+      "original_text": "三角洲游戏举报选项当中，恶意组队和护航是一起的。那现在所谓的大量子弹反馈如果是真的，为什么同选项的护航一直处理不了呢？"
+    },
+    {
+      "id": "BV1oa43z5EZF_p8",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "应对鼠鼠玩家收益过高的正确方式",
+      "relation": "应该是",
+      "object": "增加消耗途径而非砍掉收益",
+      "cause": "鼠鼠玩家的收益是固定的，应该让货币快速消耗而非抢走收益",
+      "effect": "通过收集图鉴、抽箱子、合成碎片等机制消耗货币，尊重玩家选择",
+      "original_text": "鼠鼠玩家的收益本来就是多少就只能是多少，你能做的就是让他手里的东西快速消耗掉，而不是把这些人手里的收益抢走。"
+    },
+    {
+      "id": "BV1oa43z5EZF_p9",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "玩家分流方案",
+      "relation": "核心思路是",
+      "object": "让不同玩家群体在自己选择的赛道上获得满足",
+      "cause": "鼠鼠和猛攻玩家有完全不同的爽点来源",
+      "effect": "摸金模式+血色任务模式双轨并行，各自满足不同玩家需求",
+      "original_text": "我觉得更合理的方式不是强迫玩家怎么去玩游戏，而是让他们自己选怎么玩会更好。只要去调整好游戏给他的收益或者说游戏给他的爽点就好了。"
+    },
+    {
+      "id": "BV1oa43z5EZF_p10",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "黑暗森林机制",
+      "relation": "可用于",
+      "object": "猛攻玩家专属区域的设计",
+      "cause": "接触过特殊物品的玩家身上有标记，不确定是否持有物品",
+      "effect": "猛攻玩家有充分理由互相厮杀，鼠鼠玩家可主动避开该区域",
+      "original_text": "黑暗森林就是这样——当你不知道他身上有没有这个物品，但是他接触过的时候，你最好干掉他。"
+    }
+  ],
+  "proposition_count": 10,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Bilibili-Ingest",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest"
+}

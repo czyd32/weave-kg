@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1bch3zgEUQ",
+  "title": "爱康国宾CEO公关翻车：别指望几百块查出所有病",
+  "author": "唯一讲述者",
+  "date": "2025-08-03",
+  "source_url": "https://www.bilibili.com/video/BV1bch3zgEUQ/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1bch3zgEUQ_p1",
+      "segment_id": "s1",
+      "subject": "CEO张黎刚的'别指望几百块查出所有病'发言",
+      "relation": "是",
+      "object": "逻辑自洽但情绪自杀的危机公关灾难——混淆了内部讨论和公众沟通场景",
+      "cause": "在危机公关语境下，事实正确不等于表达正确，公众需要情感安抚而非产品定价逻辑",
+      "effect": "公众解读为'穷逼不配看病'，引爆舆论",
+      "type": "argumentation",
+      "original_text": "这段话在事实层面并非全无道理——不同价位的体检套餐覆盖范围确实不同。但问题在于，在危机公关的语境下，事实正确不等于表达正确。在内部讨论或行业交流中，分析'体检套餐的成本与覆盖范围'是合理的；但在面向公众的危机发布会上，听众需要的不是产品定价逻辑，而是情感安抚和责任承担。张黎刚的发言在逻辑上自洽，在情绪上自杀。"
+    },
+    {
+      "id": "BV1bch3zgEUQ_p2",
+      "segment_id": "s1",
+      "subject": "危机公关的核心原则",
+      "relation": "是",
+      "object": "言权倒置——现实越强势，公共场域越应弱势谦卑",
+      "cause": "张黎刚用公司内部权威姿态面对公众",
+      "effect": "伤害了自己的基本盘",
+      "type": "argumentation",
+      "original_text": "危机公关有一个基本原则：言权倒置。你在现实中越强势，在公共场域就应该越弱势，发言越谦卑。张黎刚恰恰反其道而行之——他用公司内部的权威姿态面对公众，结果就是伤害了自己的基本盘。"
+    },
+    {
+      "id": "BV1bch3zgEUQ_p3",
+      "segment_id": "s1",
+      "subject": "召开媒体发布会",
+      "relation": "在危机公关中是",
+      "object": "高风险决策——应尽可能减少非必要信息输出",
+      "cause": "无法预判冗余信息在舆论场的解读，从房间装修到戴什么手表都可能成为攻击素材",
+      "effect": "当时舆情烈度根本不需要开发布会，贸然超出规格导致无法预计的后果",
+      "type": "argumentation",
+      "original_text": "危机公关的核心原则之一是：遭遇舆情危机时，要尽可能减少非必要的信息输出。能发文字就不要发视频，能发视频就不要直播。因为你无法预判冗余信息在舆论场上会产生什么样的解读。更何况，从当时的舆情烈度来看，根本没有严重到需要开发布会的程度。"
+    },
+    {
+      "id": "BV1bch3zgEUQ_p4",
+      "segment_id": "s1",
+      "subject": "CEO执意开发布会的决策",
+      "relation": "源于",
+      "object": "委屈驱动型决策——领导感到被冤枉时产生强烈冲动证明自己",
+      "cause": "CEO信息茧房：长期处于被顺从环境，误以为说服力对外部同样有效",
+      "effect": "公关部没有话语权阻止，只能闭眼跳坑",
+      "type": "argumentation",
+      "original_text": "这指向一种常见的领导层心理——'委屈驱动型决策'。当领导感到自己（或企业）被冤枉时，会产生强烈的'站出来证明自己'的冲动，即'上头了'。而在公司内部，一旦老板拍板，公关部根本没有话语权去阻止。公关真正的KPI很多时候不是对外沟通，而是如何在公司内部抢到话语权。"
+    },
+    {
+      "id": "BV1bch3zgEUQ_p5",
+      "segment_id": "s1",
+      "subject": "公关在公司内的地位",
+      "relation": "是",
+      "object": "职权略高于保安，地位略低于宠物狗——明知是坑也得跳",
+      "cause": null,
+      "effect": null,
+      "type": "narrative",
+      "original_text": "公关在一家公司里，职权略高于保安，地位略低于宠物狗。这不是抽象调侃，而是血淋淋的现实。你明知道老板的决定是一个深渊巨坑，也得闭眼往里跳。"
+    },
+    {
+      "id": "BV1bch3zgEUQ_p6",
+      "segment_id": "s2",
+      "subject": "公关的第一要素",
+      "relation": "是",
+      "object": "情绪大于事实——无法给足情绪回应时，只陈述事实，不给情绪化表达",
+      "cause": "张黎刚选择情绪化表达（'别指望'）而非事实性陈述",
+      "effect": "公众解读为'穷逼不配被认真对待'，产生背刺感",
+      "type": "argumentation",
+      "original_text": "公关的第一要素是情绪大于事实。如果你无法给足情绪回应，那就陈述事实即可，不要轻易给出情绪化的表达。张黎刚恰恰犯了这个错误——他选择了一个情绪化的表达（'别指望'），而不是一个事实性的陈述。"
+    },
+    {
+      "id": "BV1bch3zgEUQ_p7",
+      "segment_id": "s2",
+      "subject": "正确的危机公关四步法",
+      "relation": "是",
+      "object": "深表痛心→陈述事实→做出努力→闭嘴收工",
+      "cause": "面对身患癌症的当事人，除了深表同情什么都指责不了",
+      "effect": "品牌方应道歉在先、启动调查、承诺透明、人道关怀",
+      "type": "argumentation",
+      "original_text": "如果按照专业的危机公关逻辑，品牌方需要表达的内容其实非常少，只需四步：1.深表痛心——对当事者的遭遇表达同情；2.陈述事实——说明发生了什么、正在做什么；3.做出努力——公布整改方向和具体措施；4.闭嘴收工——不再多说，不再多做。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 2,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

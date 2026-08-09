@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1bBT4zoE9v",
+  "title": "哈佛校史首位中国女毕业生演讲水平到底烂不烂？",
+  "author": "唯一讲述者",
+  "date": "2025-06-05",
+  "source_url": "https://www.bilibili.com/video/BV1bBT4zoE9v/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1bBT4zoE9v_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "故事开场法",
+      "relation": "需要",
+      "object": "从故事到主题的有机细节连接",
+      "cause": "演讲者知道要用故事开场，但衔接句'这个世界正在变成地球村'像小学生作文套路，缺乏细节和张力",
+      "effect": "前面铺垫的所有细节都无法为后面的升华服务，导致'假大空'的观感",
+      "original_text": "故事开场法的核心不是'讲一个故事'，而是'讲一个能自然引出主题的故事'。演讲者的故事本身缺乏张力，而更关键的是，从故事到主题的衔接句实在太像小学生作文的套路。"
+    },
+    {
+      "id": "BV1bBT4zoE9v_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "峰终定律",
+      "relation": "决定了",
+      "object": "开场的感受决定受众整场演说的感受，结尾决定最终印象",
+      "cause": "人们对一段体验的评价主要取决于体验最强烈时刻（峰）和结束时刻（终）的感受",
+      "effect": "在演讲中，凤头和豹尾比猪肚更关键——开场和结尾的战略重要性远超中间部分",
+      "original_text": "在任何一场演说当中，都有几条最基本的规则：开场的感受决定了受众整场演说的感受；演说的结尾决定了受众在离开之后对于这场演说的印象。这个就是峰终定律。"
+    },
+    {
+      "id": "BV1bBT4zoE9v_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "演讲者",
+      "relation": "犯了",
+      "object": "知其然而不知其所以然的错误",
+      "cause": "知道要贴标签、用故事开场、用名人名言，但不理解这些技巧背后的逻辑",
+      "effect": "模仿了形式但未理解逻辑，像照着菜谱炒菜却不知道火候和调味",
+      "original_text": "演讲者第一时间知道要贴标签，但他不知道自己为什么要贴标签，以及这个标签的具体功能是什么。当你不理解一个技巧的'为什么'而只模仿它的'是什么'，你就像一个照着菜谱炒菜却不知道火候和调味的人。"
+    },
+    {
+      "id": "BV1bBT4zoE9v_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "极端叙事",
+      "relation": "导致",
+      "object": "观众无法代入",
+      "cause": "'如果世界上任何一个角落有女人买不起卫生巾，这会让我感到贫穷'——这种感受太极端，普通观众无法共情",
+      "effect": "演讲的本质是让观众带入你的感受，你的感受不能是极端的，否则就排斥了普通观众的代入感",
+      "original_text": "演讲的本质是让观众跟你共情，你需要做的是让受众带入到你的感受。所以你的感受不能是极端的。她说的是'小女孩受到骚扰，威胁到了我的尊严'——这个就是极端的感受。观众是带入不了的。"
+    },
+    {
+      "id": "BV1bBT4zoE9v_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "解决方案的落差",
+      "relation": "是",
+      "object": "这篇演讲的致命伤",
+      "cause": "列举了全球性极端问题（贫困、战争、性别歧视），但方案只是'倾听''理解'这类个人层面的道德呼吁",
+      "effect": "问题的宏大与解决方案的微小之间的落差，构成了'假大空'的核心感受",
+      "original_text": "演说中'提出问题→解决方案'结构存在一个隐含的契约：你提出的问题越严重，观众对你的解决方案的期待就越高。她列举了全球性的极端问题，但给出的解决方案却是'倾听''理解'这类个人层面的道德呼吁。"
+    },
+    {
+      "id": "BV1bBT4zoE9v_p6",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "哈佛女毕业生被推上风口浪尖",
+      "relation": "是因为",
+      "object": "德不配位——被选中而非凭实力",
+      "cause": "不是因为她演讲技能出色或内容震撼人心，而是因为她的身份和背景恰好符合某种政治叙事需求",
+      "effect": "AI写的稿子都不一定这么烂——AI至少会编数据和故事增加可信度",
+      "original_text": "这样一个人被推上美国舆论的风口浪尖，绝对有点德不配位的意思——不是因为她个人的演讲技能有多出色、演讲的内容有多震撼人心，而是因为她的身份和背景，以及推她出来的人有额外的目的。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

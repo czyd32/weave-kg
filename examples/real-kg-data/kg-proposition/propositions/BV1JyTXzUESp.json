@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1JyTXzUESp",
+  "title": "员工发烧请假被辱骂：HR离老板也许很近，但离人一定很远！",
+  "author": "唯一讲述者",
+  "date": "2025-06-08",
+  "source_url": "https://www.bilibili.com/video/BV1JyTXzUESp/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1JyTXzUESp_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "公司赚不赚钱",
+      "relation": "是",
+      "object": "内部矛盾爆发的主要决定因素",
+      "cause": "公司赚钱时福利拉满无内部矛盾，一旦业务下降，领导班子从业务部门施压到降本增效压迫职能部门",
+      "effect": "公司盈利下降导致行政岗权力增加，爆发大量管理问题——一环扣一环往下压迫",
+      "original_text": "公司赚不赚钱，是绝大部分公司会不会爆发内部矛盾的主要原因。一旦公司业务发生了一些下降，领导班子可能就会直接给下级员工上压力。最开始的压力可能是业务部门，再往后就是所谓的'降本增效'，开始压迫职能部门。"
+    },
+    {
+      "id": "BV1JyTXzUESp_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "员工的生态位",
+      "relation": "取决于",
+      "object": "离钱有多近",
+      "cause": "业务部门底薪越低说明公司提供的资源不够多，绩效抽成点数越高说明公司竞争力越低",
+      "effect": "分红比例越低意味着业务规模越成熟，个体在业务中的重要性越低——这就是你的生态位",
+      "original_text": "你要明确自己在公司里的一个生态位。说直接点，就是你离钱到底有多近。分红比例越低，也就意味着这家业务规模越成熟，个体在业务当中的重要性就会越低——其实你就会渐渐明白自己的生态位处于一个什么样的位置之上。"
+    },
+    {
+      "id": "BV1JyTXzUESp_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "员工的统战价值",
+      "relation": "不仅在于盈利能力",
+      "object": "还在于能造成的损伤（破坏能力）",
+      "cause": "就像擦屁股时真正发挥作用的是中间那一点纸，但你不能因此把边上的纸全撕掉",
+      "effect": "该员工发帖吐槽的做法并不差——起码让领导看到了他能够造成的破坏力，最终拿到了赔偿",
+      "original_text": "员工的'统战价值'不仅仅在于他的盈利能力，还在于他能够造成的损伤。这个员工在小蓝书上发帖吐槽的行为，其实做得并不算太差。他起码能够让这些直接负责的领导看到，这个员工能够造成的破坏力。"
+    },
+    {
+      "id": "BV1JyTXzUESp_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "HR",
+      "relation": "承担着",
+      "object": "黑手套角色，本身也是一种耗材",
+      "cause": "黑手套负责压榨员工人力成本，事发后公司可以开掉他撇清关系，再找下一个黑手套",
+      "effect": "公司高层保持和蔼可亲的形象，因为脏活都让HR干了——小领导严厉，大领导和蔼",
+      "original_text": "如果我们把这位HR看成是公司里的一个'黑手套'，那么他的逆天行为就算是有公司上层的授意了。因为黑手套主要负责在打工人屁股上抽鞭子，压榨员工的人力成本。而且在事发之后，公司完全可以把他开掉撇清关系，再找下一个黑手套。所以这位HR本身，其实也是一种耗材。"
+    },
+    {
+      "id": "BV1JyTXzUESp_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "伊索寓言墙壁与木钉",
+      "relation": "解释了",
+      "object": "为什么小领导严厉而大领导和蔼",
+      "cause": "墙壁被钉子钉得遍体鳞伤，钉子说'让你受罪的不是我，而是在后面猛烈敲打我的人'",
+      "effect": "大领导当好人说场面话，小领导（HR）做了大领导想做的事——大领导不敢得罪光脚的员工，因为风险收益不对称",
+      "original_text": "墙壁被木钉钉得遍体鳞伤，大声说：'我没有伤害过你，你为什么一个劲地钉我呢？'木钉回答说：'让你受罪的不是我，而是在后面猛烈敲打我的人。'"
+    },
+    {
+      "id": "BV1JyTXzUESp_p6",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "MCN行业",
+      "relation": "采用海王海后模型",
+      "object": "通过制造可替代性焦虑来压低员工议价能力",
+      "cause": "让crush和备胎竞争，当crush意识到随时会被替代时，不仅自降身价还会更努力爆金币",
+      "effect": "企业通过持续招聘确保不被任何员工绑架，同时利用新人成本低挤压老员工薪资空间",
+      "original_text": "就像海王海后们谈恋爱的时候找备胎——让crush和备胎进行竞争。当crush意识到自己随时会被新人替代的时候，他不仅会自降身价，还会更加努力地'爆金币'和提供情绪价值，来祈求自己不要被抛弃。"
+    },
+    {
+      "id": "BV1JyTXzUESp_p7",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "员工与领导的关系",
+      "relation": "核心原则是",
+      "object": "员工首先是人，然后才是员工",
+      "cause": "不能拿人机标准要求人，情绪不是需要被消灭的bug，而是面对不公正时的健康反应",
+      "effect": "如果一份工作要求你变得不像人，问题不在于你不够理性，而在于这份工作本身就不值得",
+      "original_text": "员工首先是人，然后才是员工。你怎么能拿人机的标准去要求人呢？理性和感性跟智力水平其实没有绝对的联系。在情绪的剧烈波动之下自毁工作，也许意味着工作对这个人来说并没有那么重要。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

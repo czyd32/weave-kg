@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1oydcBqECK",
+  "title": "SBTI测试：抽象得我想立刻原地装死",
+  "author": "唯一讲述者",
+  "date": "2026-05-07",
+  "source_url": "https://www.bilibili.com/video/BV1oydcBqECK/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1oydcBqECK_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "MBTI",
+      "relation": "测试的不是人格类型",
+      "object": "而是认知偏好——你在感知世界和做出判断时更习惯使用哪种功能倾向",
+      "cause": "MBTI是偏好的测量而非能力的测量，偏好不代表擅长，不偏好不代表不能",
+      "effect": "认知偏好随场景、任务和状态而变化，不是一成不变的",
+      "original_text": "MBTI测试的其实并不是我们是什么样的人，而是你在认知上更偏好什么。MBTI只是偏好的测量，不是能力的测量。偏好不代表擅长，不偏好也不代表不能——只是不偏好，蓝耗更高。"
+    },
+    {
+      "id": "BV1oydcBqECK_p02",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "MBTI与SBTI",
+      "relation": "是硬币的两面",
+      "object": "MBTI描绘人格面具（愿意展示给世界的自己），SBTI描绘阴影（不愿承认但会自嘲的自己）",
+      "cause": "MBTI测的是'我想成为谁'，SBTI测的是'我觉得自己是谁'",
+      "effect": "两者不是对立的而是相辅相成的——白天是INTJ，晚上是吗喽，冲突吗？不冲突",
+      "original_text": "我反而觉得MBTI和SBTI不对立，而是相辅相成的，更像是一个硬币的两面。MBTI描绘的是你的人格面具——是你愿意展示给世界、展示给自己的那一面。SBTI虽然很娱乐，但它其实在描述你的阴影。"
+    },
+    {
+      "id": "BV1oydcBqECK_p03",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "阴影",
+      "relation": "是",
+      "object": "人格中那些被压抑、不被承认或不被社会接受的部分，包括负面特质和因社会规范不被允许表达的特质",
+      "cause": "阴影被压抑在潜意识中，但会在特定情境下以不可控方式爆发",
+      "effect": "SBTI之所以让人感觉准，因为它不装——替我们的阴影在说话，让阴影可以被接纳",
+      "original_text": "阴影就是那些你不想承认的、不想让别人看到的自己的部分。它可能是不好的特质，比如嫉妒、自私、愤怒、懒惰、虚伪。阴影不一定是坏的特质，它只是我们还没有学会接纳的自己。SBTI之所以让人觉得很准，是因为它不装——它在替我们的阴影说话。"
+    },
+    {
+      "id": "BV1oydcBqECK_p04",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "主动防御",
+      "relation": "是",
+      "object": "一种先发制人的自我矮化——先把自我贬低就不会被他人所伤，但代价是慢慢觉得自己真的就是个废物",
+      "cause": "我说自己是废物，你再说我做得不好，我也不会难过，因为我早说了我是废物",
+      "effect": "SBTI是一把双刃剑：自嘲式接纳可接受不完美，但过度认同可能成为自我实现的预言",
+      "original_text": "主动防御？就是我先把自己说得很不堪——看，这样就没有人能贬低我了。这是一种先发制人的自我矮化。它的好处是你不容易受伤了，但它的坏处是你会慢慢觉得自己真的就是个废物。"
+    },
+    {
+      "id": "BV1oydcBqECK_p05",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "人格面具过度认同",
+      "relation": "导致",
+      "object": "自我疏离——失去与真实感受的连接，分不清什么是自己真正想要的、什么只是应该做的",
+      "cause": "戴着同一个面具太久，会以为自己就是面具上那个人",
+      "effect": "用MBTI标签定义自己、刻意表现理性冷静，不是在做自己而是在表演一个标签",
+      "original_text": "当戴着同一个面具太久了，你会以为自己就是面具上那个人。这个在心理学里叫'自我疏离'——你失去了与自己真实感受的连接。当你用MBTI这个标签来定义自己，然后你开始刻意地表现一个理性、冷静、不爱社交的状态，这个东西不叫做自己，这是在表演一个标签。"
+    },
+    {
+      "id": "BV1oydcBqECK_p06",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "真正的自我认知",
+      "relation": "不是静态的",
+      "object": "而是一种动态的能力——在任何时候都能问自己'我现在感觉怎么样、为什么会有这样的感觉、我真正想要的是什么'",
+      "cause": "只要你在活着，认知偏好在变，阴影在变，面具在变",
+      "effect": "没有任何一个测试可以准确告诉你你是谁，'你是谁'这个问题只有自己回答，且永远在回答的过程中",
+      "original_text": "你不是一个固定的标签，你是一个过程。真正的自我认知不是静态的，它是一种动态的能力。'你是谁'这个问题，只有你自己能回答，而且你自己永远都在回答的过程中。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 3,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1EntozVEai",
+  "title": "爱康国宾起诉患癌女律师索赔千万：公关的第二张牌",
+  "author": "唯一讲述者",
+  "date": "2025-08-12",
+  "source_url": "https://www.bilibili.com/video/BV1EntozVEai/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1EntozVEai_p1",
+      "segment_id": "s1",
+      "subject": "危机公关",
+      "relation": "有",
+      "object": "两次出牌机会的残酷规律",
+      "cause": null,
+      "effect": null,
+      "type": "narrative",
+      "original_text": "危机公关有一个残酷的规律：无论你手里有几张牌，通常情况下只有两次出牌机会。爱康国宾的第一张牌——CEO张黎刚的媒体发布会——已经打完了，效果非常糟糕。"
+    },
+    {
+      "id": "BV1EntozVEai_p2",
+      "segment_id": "s1",
+      "subject": "爱康国宾索赔1000万",
+      "relation": "是",
+      "object": "公关意义大于法律意义的第二张牌——传达强硬态度",
+      "cause": "第一张牌（CEO发布会）已打烂，公关部只能在老板决策框架内出牌",
+      "effect": "索赔行为指向'解决人'而非'解决事'的逻辑——通过威慑重塑企业权威",
+      "type": "argumentation",
+      "original_text": "从公关角度来看，这个行为的意义就清晰多了——这是爱康国宾打出的第二张牌。索赔1000万所传达的态度极其强硬，其公关意义远大于法律意义。爱康国宾的两次操作——先是CEO发布会爆典，后是起诉索赔千万——都指向同一个逻辑：他们在解决人，不是在解决事。"
+    },
+    {
+      "id": "BV1EntozVEai_p3",
+      "segment_id": "s1",
+      "subject": "爱康国宾",
+      "relation": "本质上是",
+      "object": "To B企业——85%用户为企业批量购买体检服务",
+      "cause": "B端客户流失影响大于C端",
+      "effect": "CEO不在乎C端舆论，强硬态度反而让高端客户产生认同感",
+      "type": "argumentation",
+      "original_text": "爱康国宾本质上是一家To B企业。根据公开信息，其用户中有85%是B端——企业为员工批量购买体检服务作为员工福利。从这个角度出发，CEO张黎刚的逻辑是自洽的：C端追求性价比的客户流失了——但这个损失'大概率保不住'，而且这部分客户本身也不是爱康的主营目标。"
+    },
+    {
+      "id": "BV1EntozVEai_p4",
+      "segment_id": "s1",
+      "subject": "体检服务",
+      "relation": "本质上是",
+      "object": "卖保险服务而非医疗服务——用户购买的是心安",
+      "cause": "体检速度快、用户是顾客非患者、报告需专业医生解读",
+      "effect": "体检机构利用信息差和焦虑赚钱，类似考公面试包过班模式",
+      "type": "argumentation",
+      "original_text": "体检的速度很快，你的身份是'顾客'而非'患者'。如果想要更详细的结果，就必须购买更贵的体检服务或私人医生服务。所以，体检服务本质上卖的是'保险服务'而非'医疗服务'——用户购买的是心安。"
+    },
+    {
+      "id": "BV1EntozVEai_p5",
+      "segment_id": "s2",
+      "subject": "张晓玲律师的公关操作",
+      "relation": "精准利用",
+      "object": "首因效应——先手建立信息优势，迫使爱康国宾被动应对",
+      "cause": "有证据链、有情绪、围观群众有高道德站位",
+      "effect": "爱康国宾除非同样摆出事实和证据或讲完全相反的故事对冲，否则难以防御",
+      "type": "argumentation",
+      "original_text": "从传播学角度，张晓玲的操作精准利用了首因效应——信息接收者对初次接收的信息记忆更深刻，并以此为基础判断后续信息。加上之前已有大量用户对爱康国宾存在负面评价，这又是一次情绪唤醒。张律师要证据链有证据链，要情绪有情绪，围观群众有高道德站位——爱康国宾面对这种进攻，除非同样摆出事实和证据，或者讲一个完全相反但也合理的故事进行对冲，否则很难防御。"
+    },
+    {
+      "id": "BV1EntozVEai_p6",
+      "segment_id": "s2",
+      "subject": "公关",
+      "relation": "从诞生以来就是",
+      "object": "B2C工具而非C2B工具——个人对抗企业极难",
+      "cause": "个人没有资源，仅靠讲故事难以解决问题，网上成功案例是幸存者偏差",
+      "effect": "个人对抗企业是知识和运气缺一不可的事",
+      "type": "argumentation",
+      "original_text": "公关这个行业从诞生以来，就是一个B2C工具，而非C2B工具。个人在没有资源可用的情况下，仅靠讲故事是很难解决问题的。网上看到的'个人打企业打赢了'的案例，更多是幸存者偏差——打不赢的你也看不到。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 2,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

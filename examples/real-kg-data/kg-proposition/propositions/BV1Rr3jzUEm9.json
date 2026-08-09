@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1Rr3jzUEm9",
+  "title": "蜜丝婷抽奖，纵容侮辱女运动员：赛博印钞的代价是谁？",
+  "author": "唯一讲述者",
+  "date": "2025-07-04",
+  "source_url": "https://www.bilibili.com/video/BV1Rr3jzUEm9/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Rr3jzUEm9_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "饭圈经济",
+      "relation": "具有双面性",
+      "object": "流量盘活体育圈商业价值但代价是运动员被性化",
+      "cause": "饭圈粉丝消费力强，流量带来巨大收益，盘活了乒乓球联赛的商业体系",
+      "effect": "资方引导炒CP风气，运动员的专业价值被消解，取而代之的是性符号",
+      "original_text": "一方面，饭圈流量确实能够为体育圈带来收益。这些饭圈的粉丝真的很能花钱。在孙颖莎和王楚钦等新生代球员爆火之后，流量带来的巨大收益重新盘活了乒乓球圈。另一方面，既然这套流程可以赚钱，资方就会去引导这种饭圈风气，尤其是炒CP的风气。"
+    },
+    {
+      "id": "BV1Rr3jzUEm9_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "炒CP的工业化流程",
+      "relation": "本质是",
+      "object": "权力操控而非情感表达",
+      "cause": "意见领袖设议题→照标画靶→煽动对立→用争议撬动消费，否定运动员专业价值而突出性符号",
+      "effect": "CP粉通过集体行动和网络暴力施加压力，试图控制专属叙事，干预运动员私人生活",
+      "original_text": "炒CP这个行为，本质上就是性化这些运动员。因为无论是在主动炒CP的品牌，还是在喜欢嗑CP的CP粉，本质上都是在否定运动员的专业价值，而突出他们的性符号。类似这种行为，它的本质不是喜欢，而是控制，是在彰显自己的权力。"
+    },
+    {
+      "id": "BV1Rr3jzUEm9_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "极端化叙事",
+      "relation": "已从饭圈蔓延到",
+      "object": "社会新闻的传播中",
+      "cause": "极端化叙事具有传播快、范围广、主观性强、提供强烈情绪价值的特点",
+      "effect": "大众反复接受极端化叙事后会丧失对事件全貌的认识，对完整叙事进行碎片化、娱乐化解构",
+      "original_text": "这种极端叙事具有传播快、传播范围广、主观性强、为目标读者提供强烈情绪价值的特点。简单来说，就是'人们爱听的事，但对不对不重要'。而这种叙事方式，早已不限于饭圈。它也渗透到了我们常见的一些社会新闻的传播里面。"
+    },
+    {
+      "id": "BV1Rr3jzUEm9_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "品牌方蜜丝婷",
+      "relation": "用技术中立原则",
+      "object": "推卸系统性失职的责任",
+      "cause": "将责任主要归咎于抽奖系统，强调自身无法干预，掩盖抽奖规则设计和用户资质审核的失职",
+      "effect": "利用饭圈信息茧房特性让危机自行缩圈，处理得也算可以",
+      "original_text": "这个处理方式其实还是比较传统了：将责任主要归咎于抽奖系统，强调自身无法干预。这个本身很好理解，就是在利用'技术中立'这个概念，掩盖自己系统性失职的问题。"
+    },
+    {
+      "id": "BV1Rr3jzUEm9_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "沉默的螺旋",
+      "relation": "在饭圈中表现为",
+      "object": "理智粉丝的声音被极端粉丝淹没",
+      "cause": "理智在极端化群体中会被排斥，不掏钱的理智粉被开除粉籍",
+      "effect": "极端粉丝声量越来越大，正常粉丝声量越来越小，形成螺旋式上升",
+      "original_text": "在豆包和DeepSeek的粉丝群体当中，不掏钱的那批所谓的'理智粉'，就会被开除粉籍。因为理智在极端化群体当中是会被排斥的。于是他们就会进入一个沉默的螺旋——极端粉丝的声量会越来越大，正常粉丝的声量会越来越小。"
+    },
+    {
+      "id": "BV1Rr3jzUEm9_p6",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "信息茧房",
+      "relation": "在饭圈中具有双向性",
+      "object": "圈内人沉浸于特定话语体系，圈外人完全不了解",
+      "cause": "饭圈信息传播高度依赖圈层化渠道和特定话术，圈外人因媒介使用习惯差异无法接触",
+      "effect": "圈外人只知道饭圈疯狂但不知具体细节，不会陷入争执，形成信息隔离",
+      "original_text": "这其实也属于一种信息茧房——饭圈的信息传播高度依赖圈层化的渠道和一些特定的饭圈话术，而圈外群体因为媒介使用习惯性的差异，就很难进入到这种渠道去接触信息，也就形成了信息上的隔离。"
+    },
+    {
+      "id": "BV1Rr3jzUEm9_p7",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "饭圈粉丝",
+      "relation": "既是赛博印钞机也是",
+      "object": "用过即弃的工具",
+      "cause": "资方需要流量时煽动极端情绪，需要形象时冷处理洗粉",
+      "effect": "极端CP粉在完成带来流量的任务后，资方会减少互动、推广其他产品来完成从黑红到红的转变",
+      "original_text": "一旦到了这种时候，原来的那些极端CP粉用处就不是很大了，因为声量已经获得了，资方要开始注意形象了。于是，资方可能就会为了减少魔怔粉，开始减少互动，进行冷处理。就又完成了从'黑红'到'红'的转变——也就是我们俗称的'洗粉'。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

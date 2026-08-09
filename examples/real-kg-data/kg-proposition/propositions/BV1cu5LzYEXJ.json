@@ -1,0 +1,104 @@
+{
+  "source_id": "BV1cu5LzYEXJ",
+  "title": "玉石结果公布后柴某某立刻变脸：胖东来事件中的公关博弈",
+  "author": "唯一讲述者",
+  "date": "2025-05-09",
+  "source_url": "https://www.bilibili.com/video/BV1cu5LzYEXJ/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1cu5LzYEXJ_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "柴某某收到邀请后",
+      "relation": "变脸为",
+      "object": "东来大哥——证明吃黑流量者从一开始就知道自己在造谣",
+      "cause": "冤枉你的人非常清楚你有多冤枉",
+      "effect": "看这种人一眼你就输了，自证清白的邀请反而抬高对方身价",
+      "original_text": "柴怼怼马上就变脸了——之前还大言不惭地如何如何，突然一下就变成了'东来大哥，是东来大哥吗哈哈哈'，非常抽象，非常没脸没皮。"
+    },
+    {
+      "id": "BV1cu5LzYEXJ_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "君子可以欺之以方",
+      "relation": "意味着",
+      "object": "好人有底线，反而容易被坏人利用规则来攻击",
+      "cause": "性情中人在舆论场中容易被架在道德高地上",
+      "effect": "黑流量博主可以精准攻击好人的软肋",
+      "original_text": "君子可以欺之以方。一个性情中人在舆论场当中，有很多方法把你架在所谓的道德高地上，让你不得不跟着给你下套的人的思路走。"
+    },
+    {
+      "id": "BV1cu5LzYEXJ_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "职业公关与路人王的区别",
+      "relation": "在于",
+      "object": "平均失误次数——职业选手考虑各种情况下的处置，而非追求高风险高收益",
+      "cause": "职业得考虑各种情况下的公关如何处理、如何避免风险",
+      "effect": "路人王能赢一局，不意味着能赢每一局",
+      "original_text": "职业和非职业最大的区别，就是在于平均失误的次数。从单一事件来说，职业选手未必比路人王或者绝活哥强。"
+    },
+    {
+      "id": "BV1cu5LzYEXJ_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "内部公关",
+      "relation": "决定",
+      "object": "公关部门的存在感——很多公关部门之所以没有存在感，跟内部公关没做好有直接关系",
+      "cause": "需要让老板理解公关的边界和风险，让各部门配合公关策略",
+      "effect": "不做内部公关，外部公关策略无法落地",
+      "original_text": "大家不要觉得内部公关就不当回事。有的时候，有些公关部门之所以没有存在感，是跟内部公关没有做好有直接关系的。"
+    },
+    {
+      "id": "BV1cu5LzYEXJ_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "胖东来",
+      "relation": "依靠",
+      "object": "情感积累账户——通过长期正向行为积累的公众信任，而不是传统公关技巧",
+      "cause": "不满意就退货、员工月薪9886、年休假140天等具体行为积累信任",
+      "effect": "每次争议时公众更倾向于用既有信任对抗单一负面指控",
+      "original_text": "胖东来的自来水很多，因为线下做得足够好，所以线上的舆论风向就会导向胖东来。这就属于线下积累的一种信任资产，更常用的一种说法就是情感积累账户。"
+    },
+    {
+      "id": "BV1cu5LzYEXJ_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "弱传播理论",
+      "relation": "揭示",
+      "object": "舆论世界是现实世界的反世界——现实中的强者在舆论中弱势，现实中的弱者在舆论中强势",
+      "cause": "舆论世界按照与现实世界截然相反的规律运行",
+      "effect": "大企业面对小网红时往往处于舆论劣势（言权倒置）",
+      "original_text": "舆论的世界是现实世界的反世界。舆论世界按照与现实世界截然不同、甚至完全相反的规律运行。现实世界中强势的群体在舆论世界中反而处于弱势。"
+    },
+    {
+      "id": "BV1cu5LzYEXJ_p007",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "莲花味精",
+      "relation": "被",
+      "object": "一个谣言（味精致癌）重创十余年——利用公众对化学制品的天然恐惧进行认知渗透",
+      "cause": "谣言容易击中公众情绪痛点，理性辟谣需要认知成本",
+      "effect": "直到2020年短视频博主科普+国货崛起风潮才重新翻红",
+      "original_text": "一个谣言就让一个企业挣扎了十余年。谣言只能说是一个导火索。这种舆情可以让企业进入一种半衰期。"
+    },
+    {
+      "id": "BV1cu5LzYEXJ_p008",
+      "segment_id": "seg_008",
+      "type": "argumentation",
+      "subject": "公关的本质",
+      "relation": "是",
+      "object": "预防负面舆情、监测舆情、处理负面舆情——非常吃经验，死的规矩管不了活人",
+      "cause": "舆论世界随时变动，上午一个样下午又变样",
+      "effect": "需要企业高层让渡部分对外发布内容的决策权给公关",
+      "original_text": "公关，主要的作用就是预防负面舆情、监测舆情、还有处理负面舆情。舆论的世界是随时会变动的，一个死的规矩是不能管活人的，所以这个东西非常吃经验。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 8,
+  "generated_at": "2026-08-08",
+  "batch": "20260808_batch_08",
+  "tool": "SkillZY-Knowledge-Graph-Ingest",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest"
+}

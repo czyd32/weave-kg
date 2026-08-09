@@ -1,0 +1,69 @@
+{
+  "source_id": "BV1jENyz2Eum",
+  "title": "蜂鸟音乐和邓紫棋：用魔法打败魔法，这次真的是被资本做局了。",
+  "author": "唯一讲述者",
+  "date": "2025-06-21",
+  "source_url": "https://www.bilibili.com/video/BV1jENyz2Eum/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1jENyz2Eum_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "蜂鸟音乐的严正声明",
+      "relation": "展示了",
+      "object": "公关专业性与业余公函的差距",
+      "cause": "蜂鸟声明点名人物时间事件→预设立场→权属确认（附法条证据）→法律定性→公司立场→公章，全程无情绪化表达",
+      "effect": "与某MCN公函后半段写小作文、渲染情绪形成鲜明对比，让人挑不出错误",
+      "original_text": "蜂鸟音乐发布了一份严正声明，把合同依据、法律定性、公司立场、后续评论都说得很清楚。格式也很正确。虽然我个人并不站在蜂鸟的立场，但也不得不承认，这个声明写得非常严谨。"
+    },
+    {
+      "id": "BV1jENyz2Eum_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "邓紫棋",
+      "relation": "利用CASH协会机制",
+      "object": "用代理权对抗著作权",
+      "cause": "邓紫棋在签约蜂鸟前已加入香港作曲及作词家协会（CASH），歌曲传播权由CASH代为管理，合约注明这些权利不属于蜂鸟",
+      "effect": "用集体管理组织的权利去对抗个别公司的著作权，实现了用魔法打败魔法",
+      "original_text": "邓紫棋这边重置音乐的法律依据，是在她跟公司签约之前就加入了香港作曲及作词家协会。加入这个协会之后，由邓紫棋所创作的歌曲的公开表演、广播、网络传播等权利，都会交于这个协会代为管理。邓紫棋属于是用魔法打败魔法——用代理权去打著作权。"
+    },
+    {
+      "id": "BV1jENyz2Eum_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "艺人培养",
+      "relation": "是高风险投资",
+      "cause": "培养10个艺人可能只有1个爆款，剩下9个亏损，公司需要在爆款艺人身上平摊其他艺人的培养成本",
+      "effect": "导致艺人公司对旗下艺人的剥削程度极高，要么签霸王条款，要么降低培养成本（二代化或带资进组）",
+      "original_text": "培养艺人是有风险成本的。培养10个艺人，可能只有1个能爆款，剩下9个都是亏本，甚至可能只有1个勉强回本。那这个时候怎么办？要不要在一个已经成熟的艺人身上，把其他艺人培养的成本给平摊掉？这就是为什么艺人公司对旗下艺人的剥削程度这么高。"
+    },
+    {
+      "id": "BV1jENyz2Eum_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "顶流艺人",
+      "relation": "必然脱离",
+      "object": "经纪公司",
+      "cause": "固定成本在整体盈利中占比仅5%甚至2%，增值成本随规模降低，艺人流量10%来自商业投流、90%来自自然流",
+      "effect": "艺人完全可以跳开经纪公司自己单干，个人收入长期超过公司总营收60%时，分裂只是时间问题",
+      "original_text": "以顶流的收益能力和运营成本来说，艺人完全可以跳开经纪公司自己去单干。他自己就已经很能赚钱了，完全没有必要让经纪公司再抽一手。所以通常走到这里的时候，艺人也就和经纪公司走到了分裂的边缘。说到底，都是钱和情分的事。"
+    },
+    {
+      "id": "BV1jENyz2Eum_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "蜂鸟音乐在舆论场",
+      "relation": "虽然处于言权倒置劣势但",
+      "object": "因没有爆典而避免被网暴",
+      "cause": "蜂鸟属于资本方，天然在舆论场上处于劣势，但至今没有犯低级错误",
+      "effect": "舆论场没有参与讨论的理由，公司关评论区等法律结果，舆情不影响香港法院判决",
+      "original_text": "蜂鸟音乐从朴素视角来看属于资本、属于公司，天然在舆论场上处于劣势。不过蜂鸟至今没有'爆典'——没有犯低级错误，所以舆论场也没有参与讨论的理由。对于更多路人大众来说，所有结果都要等待法律上给出一个结论。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

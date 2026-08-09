@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1vd7D6UEf8",
+  "title": "粉笔CEO讲座炫富嘲讽学生：第一次见老板踩自己公司业务",
+  "author": "唯一讲述者",
+  "date": "2026-06-06",
+  "source_url": "https://www.bilibili.com/video/BV1vd7D6UEf8/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1vd7D6UEf8_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "人约束自己行为的理由",
+      "relation": "只有两种",
+      "object": "害怕行为后要受惩罚，或出于内心的道德律令",
+      "cause": "当道德成为他律时本身站不住脚，只有边界没有惩罚的约束可能成为强化行为的动力",
+      "effect": "一个没有道德的人面对没有后果的越界行为时，行为几乎一定会被触发",
+      "original_text": "人之所以约束自己的行为，通常只有两种理由：第一，害怕行为之后要受到惩罚；第二，出于内心的某种道德律令去约束不当行为。一个没有道德的人，在面对一个没有后果的越界行为时，这个行为几乎一定会被触发，只不过是早晚的问题。"
+    },
+    {
+      "id": "BV1vd7D6UEf8_p02",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "公关的代价先行策略",
+      "relation": "要求",
+      "object": "给每个环节明码标价，让决策者知道行为的具体代价",
+      "cause": "对未知的恐惧会摧毁人的决策能力，让人变成只会逃避责任的巨婴",
+      "effect": "当一个人知道具体代价并被给予安全感时，他会开始衡量行为和代价中哪种更符合自己利益",
+      "original_text": "对未知的恐惧会产生多余的情绪，摧毁一个人的决策能力，让他变成一个只会逃避责任的巨婴。当一个人知道自己的某些行为可能付出很具体的代价，并且被给予一定安全感的时候，他反而会开始衡量行为和代价之中到底哪一种更符合自己的利益。"
+    },
+    {
+      "id": "BV1vd7D6UEf8_p03",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "微决策",
+      "relation": "是",
+      "object": "个体在组织流程中每个节点做出的微小但具有传导效应的选择",
+      "cause": "单一微决策看似无足轻重",
+      "effect": "一连串避责式微决策会累积成系统性危机",
+      "original_text": "在一场公关事件中，环节中的每一个人都有自己需要微决策的瞬间，小到前台第一时间面对当事人，大到危机过程中最高领导要考虑投入多少资源来平息事件。"
+    },
+    {
+      "id": "BV1vd7D6UEf8_p04",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "CEO踩自己公司业务",
+      "relation": "比炫富骂人",
+      "object": "对品牌伤害更致命",
+      "cause": "炫富骂人损害的是CEO个人形象可切割止损，但CEO亲口否定公司核心产品价值等于从内部瓦解商业逻辑根基",
+      "effect": "客户会问：你老板都说这只是'情绪价值'，我为什么还要花钱买？",
+      "original_text": "真正的大问题是他亲口给自己的业务定性——说'考公辅导只是情绪价值'，说'考不上的人才来报班'。CEO亲口否定公司核心产品的价值，等于从内部瓦解了商业逻辑的根基。"
+    },
+    {
+      "id": "BV1vd7D6UEf8_p05",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "粉笔内部危机",
+      "relation": "产生",
+      "object": "创始人至上派与业务至上派的派系博弈",
+      "cause": "人数众多的大型公司需要信念保证内部和谐，切割CEO会动摇品牌根基，不切割则业务持续受损",
+      "effect": "如果双方出现沟通壁垒，就是下一次爆雷的前兆",
+      "original_text": "内部会议里会天然浮现两套叙事：一套是业务至上派，认为必须切割CEO的不当言论。另一套是创始人至上派，认为CEO是公司灵魂，切割会动摇根基。如果双方因为理念不同出现部门之间的沟通壁垒，那就是下一次爆雷的前兆。"
+    },
+    {
+      "id": "BV1vd7D6UEf8_p06",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "舆情平息的本质",
+      "relation": "是",
+      "object": "公众在平衡失控感——需要看到惩罚展示而非内部会议",
+      "cause": "外部公众对惩罚的感知不是看你内部开了多少会，而是看责任人如何被对待、用了多大分贝和姿态",
+      "effect": "粉笔只完成了承认错误但没有完成展示惩罚——公众想看的是惩罚者的狼狈状态",
+      "original_text": "危机的本质是失控感的蔓延。任何一次危机的平息，本质上都是公众在平衡失控。外部公众对惩罚的感知，不是看你内部开了多少会、做了多少痛苦的抉择，而是看你拿出了一个什么样的责任人、这个责任人是如何被对待的。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 3,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

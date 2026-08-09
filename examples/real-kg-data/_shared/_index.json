@@ -1,0 +1,131 @@
+{
+  "kg_type": "shared",
+  "description": "Archive-Lab 知识图谱共享向量空间——跨 KG 实例的统一嵌入索引",
+  "created": "2026-08-08",
+  "last_updated": "2026-08-09",
+
+  "embedding_model": {
+    "name": "BGE-M3",
+    "model_id": "BAAI/bge-m3",
+    "provider": "SiliconFlow",
+    "endpoint": "https://api.siliconflow.cn/v1/embeddings",
+    "dimensions": 1024,
+    "encoding_format": "float",
+    "normalization": "L2 (cosine similarity via inner product)"
+  },
+
+  "vector_index": {
+    "file": "embeddings/faiss.index",
+    "id_map": "embeddings/id_map.json",
+    "total_vectors": 2515,
+    "index_type": "IndexFlatIP",
+    "similarity_metric": "cosine (inner product on L2-normalized vectors)"
+  },
+
+  "instances": {
+    "kg-proposition": {
+      "path": "../kg-proposition/",
+      "type": "proposition",
+      "description": "论证观点—命题知识图谱（SRO 三元组 + 因果链）",
+      "propositions": 2515,
+      "sources": 304,
+      "clusters": 62,
+      "archived_clusters": 4,
+      "archive_file": "consensus_clusters_archive.json",
+      "last_updated": "2026-08-09",
+      "consensus_file": "kg-proposition/consensus_clusters/consensus_clusters.json"
+    },
+    "kg-dialogue": {
+      "path": "../kg-dialogue/",
+      "type": "dialogue",
+      "description": "对话访谈—Q&A 对 + 说话人档案 + 立场演化",
+      "exchanges": 11,
+      "speakers": 6,
+      "last_updated": "2026-08-05"
+    },
+    "kg-teaching": {
+      "path": "../kg-teaching/",
+      "type": "teaching",
+      "description": "教学教程—知识单元 + 前置依赖 DAG + 概念层级",
+      "units": 7,
+      "last_updated": "2026-08-05"
+    },
+    "kg-events": {
+      "path": "../kg-events/",
+      "type": "events",
+      "description": "事实事件—事件节点 + 时间线",
+      "events": 1,
+      "last_updated": "2026-08-05"
+    },
+    "kg-narrative": {
+      "path": "../kg-narrative/",
+      "type": "narrative",
+      "description": "叙事故事—情节节拍 + 情节地图",
+      "beats": 2,
+      "last_updated": "2026-08-05"
+    },
+    "kg-reference": {
+      "path": "../kg-reference/",
+      "type": "reference",
+      "description": "参考手册—条目 + 层级索引",
+      "entries": 1,
+      "last_updated": "2026-08-05"
+    }
+  },
+
+  "matching": {
+    "strategy": "two-layer (tag pre-filter → SRO fine-match)",
+    "threshold": 0.42,
+    "model": "BGE-M3",
+    "latest_report_v1": "benchmarks/2026-08-08/results/matching_report.json",
+    "latest_report_v2": "benchmarks/2026-08-08/results/matching_report_v2.json",
+    "v1_results": {
+      "total": 2513,
+      "matched": 1913,
+      "match_rate": 0.76,
+      "clusters_hit": 4,
+      "note": "10 AI clusters only, 23.9% unmatched = 社科待聚类"
+    },
+    "v2_results": {
+      "total": 2513,
+      "matched": 2471,
+      "match_rate": 0.98,
+      "clusters_hit": 8,
+      "note": "66 clusters (10 AI + 56 社科). 98.3% coverage but tag-layer dedup needed; c_34 dominants at 93% due to shared 社科 tags across clusters."
+    },
+    "latest_report_v5": "benchmarks/2026-08-08/results/matching_report_v5.json",
+    "v5_results": {
+      "total": 2513,
+      "matched": 2290,
+      "match_rate": 0.9113,
+      "clusters_hit": 64,
+      "clusters_zero_match": ["c_03", "c_54"],
+      "note": "SRO-level keyword matching (proposition-local), 91.1% coverage. 64 of 66 clusters hit. c_03 is AI-domain cluster, v5 input is社科-only (304 sources) — zero hit is expected. c_54 is a minor社科 cluster (3 original propositions, narrow tag pool) — zero hit flagged for audit, not necessarily an error. Field compatibility normalizer applied."
+    },
+    "latest_report_v6": "benchmarks/2026-08-08/results/matching_report_v6.json",
+    "v6_results": {
+      "total": 2513,
+      "matched": 2283,
+      "match_rate": 0.908,
+      "clusters_hit": 62,
+      "clusters_zero_match": ["c_03"],
+      "note": "Active clusters: 62 (c_03/c_15/c_20/c_54 已移至 consensus_clusters_archive.json). c_57(公关策略上策) 185 hits (#1) after c_15/c_20 merge. c_54 标签修正后 0→3 hits. c_03 is AI-domain, zero hit in社科-only pool is expected. Pipeline: normalize_clusters() no longer needs status=merged skip — archive separation makes it impossible for merged clusters to participate."
+    }
+  },
+
+  "evolution": {
+    "tracker": "SkillZY-Evolution-Tracker",
+    "last_run": "2026-08-08",
+    "candidate_clusters_detected": 67,
+    "opposition_pairs": 70,
+    "opposition_verdict": "all_false_positives",
+    "opposition_note": "70 对均来自 AI 簇（c_01:21, c_02:13, c_09:36），gap 0.252-0.349。BGE 检出同话题（>0.55），Qwen3 检出立场差异（<0.30），但实为不同来源的不同命题共享关键词，非真正对立。社科簇（c_11-c_66）无对立对。",
+    "latest_report": "benchmarks/2026-08-08/results/evolution_report.json"
+  },
+
+  "tags": {
+    "index": "tags/_index.json",
+    "total_unique_tags": 1519,
+    "note": "标签按首字母分布（a-z + _）"
+  }
+}

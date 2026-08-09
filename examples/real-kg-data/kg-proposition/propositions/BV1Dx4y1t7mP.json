@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1Dx4y1t7mP",
+  "title": "罗小黑逆天粉操作：我真服了",
+  "author": "唯一讲述者",
+  "date": "2024-07-07",
+  "source_url": "https://www.bilibili.com/video/BV1Dx4y1t7mP/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Dx4y1t7mP_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "罗小黑两位主创的圣经级发言",
+      "relation": "构成",
+      "object": "自杀式公关——名牌杂色235直接梭哈",
+      "cause": "MTJJ说'上升到作品你能怪谁呢'（阴阳怪气+道德绑架+受害者有罪论），孙呱说'不顾一切洗白的姿态真的很迷人'（有罪推定）",
+      "effect": "两句回旋镖直接堵死自己所有退路，把自己彻底玩死",
+      "original_text": "一号下场之前来一句：'你不顾一切洗白的姿态真的很迷人。'好好好，一句话把有罪推定玩到头了。然后二号下场发言更经典。一句'上升到作品你能怪谁呢'，一句话把阴阳怪气、道德绑架、受害者有罪论这些元素拉满了。"
+    },
+    {
+      "id": "BV1Dx4y1t7mP_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "共情能力",
+      "relation": "是",
+      "object": "双刃剑——能代入各视角做内容，但代入过深就走不出来",
+      "cause": "深度代入罗小黑公关团队视角，看到主创和粉丝的逆天操作后极度崩溃",
+      "effect": "期期红温，每期都比上一期更离谱",
+      "original_text": "我是一个共情能力非常强的人。这份换位思考能力是我做内容非常依赖的一种能力，能够让我代入各方的视角。但是我的共情能力有一个问题——就是一旦代入过深，就很容易走不出来。"
+    },
+    {
+      "id": "BV1Dx4y1t7mP_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "罗小黑极端粉丝去游科门口喷漆",
+      "relation": "是",
+      "object": "比主创言论更逆天的灾难性操作",
+      "cause": "粉丝不是来帮忙的，是来给罗小黑添乱的——'活爹''金色传说'，人间极品",
+      "effect": "罗小黑在原本自己扎自己的基础上，又被极端粉丝背后捅一刀，后续黑神话上线还要挨打",
+      "original_text": "我真是——我想破我的猪脑子我都没有想到，会有一个傻逼极端粉丝干出去对方公司门口喷漆骂人这种逆天操作。这哪是粉丝啊，这不活爹吗？"
+    },
+    {
+      "id": "BV1Dx4y1t7mP_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "鹅厂猪厂长期竞争但相安无事",
+      "relation": "因为",
+      "object": "两家手里边真有硬货，有底牌有筹码",
+      "cause": "手里有硬货才敢上牌桌，没筹码就上去是自杀",
+      "effect": "罗小黑十年40集+一部大电影，跟黑神话完全不在一个量级，根本没有叫板的资格",
+      "original_text": "鹅厂猪厂互相打了这么多年都相安无事，因为人家两家手里边真有硬货。你手里有啥呀？你敢这么作呀？"
+    },
+    {
+      "id": "BV1Dx4y1t7mP_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "没有公关的后果",
+      "relation": "是",
+      "object": "创始人的逆天发言直接导致品牌危机，且无法挽回",
+      "cause": "罗小黑大概率没有公关部，有也完全失控——创始人亲自下场发表自杀式言论",
+      "effect": "IP价值大幅缩水，B站投资方压力巨大",
+      "original_text": "两位主创真的是活祖宗啊。惹出这么大的祸，你俩行了呀。一个关评拔网线，去他妈——下面人为了这个事得把腿跑断。两位主创只需要闯祸就好了呀，下面给你们擦屁股的部门要考虑的很多了。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "batch_14"
+}

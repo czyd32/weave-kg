@@ -1,0 +1,125 @@
+{
+  "source_id": "BV1RZd6YDEyE",
+  "title": "何同学网约车事件：就发个鸡汤为什么会翻车？",
+  "author": "唯一讲述者",
+  "date": "2025-04-13",
+  "source_url": "https://www.bilibili.com/video/BV1RZd6YDEyE/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1RZd6YDEyE_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "何同学",
+      "relation": "因微博言论引发翻车",
+      "object": "拒绝给网约车司机好评的博文",
+      "cause": "何同学自称'讨好型人格'，以'锻炼勇气'为由拒绝给网约车好评，但千万粉博主与网约车司机的身份不对等",
+      "effect": "被舆论解读为上位者对普通群众的傲慢，博文被删后仍持续发酵，成为'赛博公式'被广泛二创",
+      "original_text": "何同学自称是'讨好型人格'——而讨好是下位者对上位者的行为。一个千万粉丝的博主去讨好网约车司机，这本身是不是感觉稍微有一点点奇怪？所以在舆论场上，何同学这个论调会被打成'无病呻吟'。说到底，这叫权责不对等。"
+    },
+    {
+      "id": "BV1RZd6YDEyE_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "何同学的视频内容",
+      "relation": "服务于人设而非相反",
+      "object": "人设传播策略",
+      "cause": "何同学在互联网的形象是高校毕业、动手能力强的理工科学生，视频内容围绕自身展开",
+      "effect": "观众产生'内容为人设服务'的观感，导致视频内核空虚，缺乏社会责任感表达",
+      "original_text": "他的人设让他的视频有这样一种观感：他的视频内容似乎都是为了人设而服务的，而不是人设为了视频内容而服务。"
+    },
+    {
+      "id": "BV1RZd6YDEyE_p3",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "戈夫曼的拟剧理论",
+      "relation": "解释了人设传播的本质",
+      "object": "人设是'社会期待的拼图'",
+      "cause": "人在不同社会情境中扮演不同角色，表演者的表演由观众评价",
+      "effect": "人设越强，翻车越狠——'幻觉的维系需要永恒的谨慎'",
+      "original_text": "借用戈夫曼在书里的一句话来形容：'我们不是自己，而是社会期待的拼图。'……使观众和表演者共谋的一个幻觉，而幻觉的维系需要永恒的谨慎。"
+    },
+    {
+      "id": "BV1RZd6YDEyE_p4",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "维科的'诗性智慧'理论",
+      "relation": "解释了人设传播为何有效",
+      "object": "人类以己度物的认知本能",
+      "cause": "民众缺乏抽象推理能力，通过身体想象力创造语言和文化，将人的特质投射到事物上",
+      "effect": "品牌需要创始人的人设来降低传播的认知门槛——雷军=小米、乔布斯=苹果",
+      "original_text": "诗性智慧……既是原始文明的语言生成机制，也是现代人类认知的一个必要补充。……我们更擅长去记录那些与人有关的东西，我们更习惯于将对人类比较重要的东西赋予人的特质。"
+    },
+    {
+      "id": "BV1RZd6YDEyE_p5",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "人设传播的代价",
+      "relation": "导致负面行为被反向归因",
+      "object": "人设崩塌的连锁反应",
+      "cause": "人设快速建立的品牌形象，会将企业行为反向归因为人物本身的内在特质",
+      "effect": "任何负面点在舆论场都被无限放大，如小米SU7事故后雷军被质疑'伪善'",
+      "original_text": "建立人设的目的是通过这个途径，能够让观众自发地去理解品牌的理念，从而扩大传播。……人设背后这种快速建立的品牌形象，同样也会将企业的行为反向归因到与人有关的特质上。"
+    },
+    {
+      "id": "BV1RZd6YDEyE_p6",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "何同学拒绝给网约车好评",
+      "relation": "触发了'言权倒置'效应",
+      "object": "权责不对等的舆论反弹",
+      "cause": "千万粉丝博主对网约车司机'锻炼勇气'，本质上身份不对等",
+      "effect": "舆论认为真正锻炼勇气应该去跟顾客对线，而非欺负网约车司机",
+      "original_text": "自媒体行业本身属于第三产业——作为博主的时候，你去跟观众要'一键三连'，这和跟网约车司机要好评，有什么区别呢？"
+    },
+    {
+      "id": "BV1RZd6YDEyE_p7",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "何同学自称'讨好型人格'",
+      "relation": "在逻辑上存在矛盾",
+      "object": "讨好是下位者对上位者的行为",
+      "cause": "千万粉丝博主去讨好网约车司机，逻辑上很奇怪",
+      "effect": "被舆论打成'无病呻吟'，暴露了身份认知偏差",
+      "original_text": "讨好是下位者对上位者的行为。一个千万粉丝的博主去讨好网约车司机，这本身是不是感觉稍微有一点点奇怪？"
+    },
+    {
+      "id": "BV1RZd6YDEyE_p8",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "公众对何同学的期待落空",
+      "relation": "导致舆论批评",
+      "object": "公众人物的道德标准",
+      "cause": "观众认为公众人物应在道德、能力等方面超越常人，何同学的行为与期望不符",
+      "effect": "被批评为'上位者对普通群众的傲慢'",
+      "original_text": "观众会认为公众人物应当在道德、能力等诸多方面表现得超过常人。当公众人物的行为与公众期望不符——出现道德瑕疵或决策失误——就会遭受到严厉的舆论批评。"
+    },
+    {
+      "id": "BV1RZd6YDEyE_p9",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "何同学的视频风格",
+      "relation": "存在内核空虚的问题",
+      "object": "'高端科技+无用发明'的人设",
+      "cause": "何同学一直在打造'使用高端科技创造无用发明'的人设，内容围绕自身，缺乏社会责任感表达",
+      "effect": "产生'小资情结'的质疑，与手工耿的接地气形成对比",
+      "original_text": "何同学在创作的过程中，一直在打造一种'使用高端科技创造无用发明'的人设，为的是给生活找一些乐趣，但这又会导致视频的内核比较空虚的问题。"
+    },
+    {
+      "id": "BV1RZd6YDEyE_p10",
+      "segment_id": "seg_08",
+      "type": "argumentation",
+      "subject": "何同学的危机处理",
+      "relation": "采用避免直接冲突的策略",
+      "object": "'节奏大但不伤根本'的负面舆情",
+      "cause": "何同学的粉丝以大学生和初入职场的年轻人为主，对生活区内容不热衷",
+      "effect": "处理方式不能说很好，但确实比较稳，目前尚未看到真翻车的迹象",
+      "original_text": "何同学一直以来对这种'节奏大但不伤根本'的负面舆情的处理方式，主要就是避免直接冲突，等节奏过去了也就过去了。这个不能说很好，但也确实是比较稳的一个处理方式。"
+    }
+  ],
+  "proposition_count": 10,
+  "segments": 8,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

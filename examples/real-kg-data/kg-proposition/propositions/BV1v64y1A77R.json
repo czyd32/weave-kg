@@ -1,0 +1,136 @@
+{
+  "source_id": "BV1v64y1A77R",
+  "title": "认清自己才是最重要的，而不是去否认世界",
+  "author": "唯一讲述者",
+  "date": "2024-01-17",
+  "source_url": "https://www.bilibili.com/video/BV1v64y1A77R/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1v64y1A77R_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "'世界是个草台班子'",
+      "relation": "流行因为",
+      "object": "视网膜效应",
+      "cause": "当'草台班子'这一概念浮现在脑海中时，过去认知中严谨精密运行的世界便不复存在",
+      "effect": "但讲述者并不认为世界真的是草台班子——虽然一些媒体论述很完整",
+      "original_text": "如果我们借用卡耐基先生提出的'视网膜效应'——当'草台班子'这一概念清晰明了地浮现在我们脑海中的时候，那个我们过去认知中严谨且精密运行的世界便不复存在了。"
+    },
+    {
+      "id": "BV1v64y1A77R_p002",
+      "segment_id": "seg_002",
+      "type": "event",
+      "subject": "讲述者",
+      "relation": "经历",
+      "object": "面试与入职的落差",
+      "cause": "面试时看到公司20年行业积累、专业供应商、MCN子公司；入职后看到能拖就拖的同事、拍大腿决策的老板、不懂装懂的上级",
+      "effect": "最终因受不了职场氛围辞职全职做自媒体",
+      "original_text": "面试时我看到的是公司20年的行业积累。入职之后，我看到的是能拖就拖的同事，拍大腿决策的老板，什么都不懂还喜欢指手画脚的上级领导。"
+    },
+    {
+      "id": "BV1v64y1A77R_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "帕金森定律",
+      "relation": "解释",
+      "object": "官僚机构为何必然走向平庸",
+      "cause": "不称职官员有三条路：辞职（丧失权利）、找能干助手（成为对手）、找两个更平庸的助手（最适宜）——上行下效，层层复制",
+      "effect": "似乎这个世界真的是由一个草台班子组成的",
+      "original_text": "一个不称职的官员，有三条出路：第一条是申请离职；第二条是让一位能干的人来协助；第三条是任用两个水平比自己更低的人来当助手。只有第三条路是最适宜的。"
+    },
+    {
+      "id": "BV1v64y1A77R_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "真正的工作",
+      "relation": "不累人",
+      "object": "但上班是最累人的",
+      "cause": "上班充斥着大量无效会议——早会、晚会、周总结会、周计划会、绩效动员会、冲刺动员会、复盘会，以及老板临时起意的胡说八扯",
+      "effect": "浪费时间，完不成工作还要怪内容组效率低",
+      "original_text": "实际上的工作其实不累人，但是上班是最累人的。"
+    },
+    {
+      "id": "BV1v64y1A77R_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "高效工作流程",
+      "relation": "需要",
+      "object": "拒绝低效开会，坚持高效交互",
+      "cause": "工作前整理好内容计划（含备选方案），做成任务表分发给各自岗位，明确责任划分，每一步骤快速及时沟通",
+      "effect": "工作完成之后反而会有如释重负的感觉，甚至会有点爽",
+      "original_text": "拒绝低效开会，坚持高效交互。每个人都有清楚的责任划分，每一个步骤都能够快速和及时地沟通，保证工作的流畅和顺畅。"
+    },
+    {
+      "id": "BV1v64y1A77R_p006",
+      "segment_id": "seg_005",
+      "type": "narrative",
+      "subject": "天工AI",
+      "relation": "是",
+      "object": "商单广告",
+      "cause": null,
+      "effect": null,
+      "original_text": "所以既然是做人的局限性，那最重要的就是'不做人'。所以我们可以试试不花钱给自己培养一个团队——你用我这个免费的国产AI工具。"
+    },
+    {
+      "id": "BV1v64y1A77R_p007",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "觉得别人都是傻逼",
+      "relation": "根源在于",
+      "object": "觉得自己太强大",
+      "cause": "觉得自己什么工作都能做、什么都很简单，觉得领导就是运气好",
+      "effect": "但专业意味着复杂——知道名词和概念不等于知道如何执行",
+      "original_text": "为什么自己会觉得公司里的领导或者同事都是傻逼？因为你觉得自己太强大了，觉得什么样的工作都能做。"
+    },
+    {
+      "id": "BV1v64y1A77R_p008",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "摆摊经验",
+      "relation": "揭示",
+      "object": "好恶判断是最廉价的东西",
+      "cause": "你的喜欢和讨厌一点意义都没有，你需要在乎的是谁为你买单、客户怎么想",
+      "effect": "只有当你真的摆摊之后，才会明白什么是客观规律和市场竞争",
+      "original_text": "当你摆过摊之后，你就会发现，你的好恶判断是最廉价的东西。"
+    },
+    {
+      "id": "BV1v64y1A77R_p009",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "证明'世界是草台班子'",
+      "relation": "是",
+      "object": "一种自我欺骗",
+      "cause": "用平庸领导/同事举证，但刘备成为蜀汉皇帝虽需运气，不代表整个团队是草台班子——上将潘凤被华雄一刀宰了，不代表他没资格被称为上将",
+      "effect": "每个人的信息差和信息茧房几乎分割了所有人——承认他人的优秀和承认自己的弱小都是很难的事",
+      "original_text": "证明'世界是个草台班子'的人，会用平庸的领导、平庸的同事来进行举证。但你不能因此论证到整个刘备的团队就是个草台班子。"
+    },
+    {
+      "id": "BV1v64y1A77R_p010",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "应对之道",
+      "relation": "是",
+      "object": "先认清自己，承认弱小，再务实寻找擅长的、合适的、不可替代的强项",
+      "cause": "用'草台班子'欺骗自己来证明强大，在遭遇挫折后会受到非常大的打击",
+      "effect": "可替代的工作交给AI，不可替代的自己去强化",
+      "original_text": "如果你不这样做，而是用'这个世界是草台班子'这句话来欺骗自己，来证明自己的强大——那么抱着这种想法，在遭遇挫折之后，会受到非常大的打击。"
+    },
+    {
+      "id": "BV1v64y1A77R_p011",
+      "segment_id": "seg_008",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "表达",
+      "object": "结语（含商单呼应）",
+      "cause": null,
+      "effect": null,
+      "original_text": "当我们能够熟练地使用AI，通过AI的庞大视野和知识储备来观察这个世界的各行各业的时候，就会认识到——这个世界不是简简单单的草台班子。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 11,
+  "segments": 8,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

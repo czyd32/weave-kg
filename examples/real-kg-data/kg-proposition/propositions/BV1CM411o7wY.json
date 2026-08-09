@@ -1,0 +1,136 @@
+{
+  "source_id": "BV1CM411o7wY",
+  "title": "我本是高山：这种肤浅扭曲的刻画是对张校长的亵渎",
+  "author": "唯一讲述者",
+  "date": "2023-11-26",
+  "source_url": "https://www.bilibili.com/video/BV1CM411o7wY/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1CM411o7wY_p1",
+      "segment_id": "seg_1",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "叠甲声明",
+      "object": "讲到的张校长特指电影塑造的那个，而非现实中拥有崇高信仰的共产主义战士",
+      "cause": null,
+      "effect": null,
+      "original_text": "我在讲到'张校长'的时候，一般特指电影塑造的那个张校长，而不是现实中那位拥有崇高信仰的共产主义战士。"
+    },
+    {
+      "id": "BV1CM411o7wY_p2",
+      "segment_id": "seg_2",
+      "type": "argumentation",
+      "subject": "《我本是高山》",
+      "relation": "没有讲好故事",
+      "object": "剧情一点张力都没有",
+      "cause": "遇到困难后往家里一坐开始怀念丈夫，莫名其妙地把问题解决了",
+      "effect": "一切困难都可以靠回忆和嘴遁话疗解决问题，比小学生作文还差",
+      "original_text": "整部电影在需要下功夫刻画的地方，几乎可以说全部都没有做到。"
+    },
+    {
+      "id": "BV1CM411o7wY_p3",
+      "segment_id": "seg_3",
+      "type": "argumentation",
+      "subject": "电影中的张校长",
+      "relation": "是",
+      "object": "一个不会沟通、只会讲大道理的刻板印象",
+      "cause": "编剧或导演根本不了解真实的老师每天在做什么",
+      "effect": "学校面临解散的问题靠讲爱与和平大道理就解决",
+      "original_text": "由此可见，编剧或者导演根本就不了解真实的老师到底每天都在做什么。"
+    },
+    {
+      "id": "BV1CM411o7wY_p4",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "电影中的学生",
+      "relation": "是",
+      "object": "编剧臆想中的理想学生，科幻到仿佛活在梦里",
+      "cause": "电影没有把环境和意识问题真的点出来，重男轻女是影响几代人的历史现象",
+      "effect": "靠口头大道理解决不了现实问题，只靠臆想无法理解世界上还有这种事",
+      "original_text": "电影中的学生，大概是所有没当过老师、但臆想过当老师的人脑海中想象的学生。"
+    },
+    {
+      "id": "BV1CM411o7wY_p5",
+      "segment_id": "seg_5",
+      "type": "argumentation",
+      "subject": "五百块钱卖女儿",
+      "relation": "是",
+      "object": "老一辈时期客观存在的社会现象",
+      "cause": "唯一讲述者老家在山里，穷山沟子的恶劣环境",
+      "effect": "电影如果真的想呼吁理念，应该用实际镜头和故事去刻画这种思想的后果和影响",
+      "original_text": "五百块钱卖女儿，不是信口胡编，这在老一辈那个时候是客观存在的社会现象。"
+    },
+    {
+      "id": "BV1CM411o7wY_p6",
+      "segment_id": "seg_6",
+      "type": "argumentation",
+      "subject": "电影中爬山开眼界",
+      "relation": "是",
+      "object": "荒谬的设定",
+      "cause": "眼界提升需要真实的接触和信息输入，而非站在山顶用肉眼望大学的方向",
+      "effect": "暴露了编剧对教育认知的极度匮乏",
+      "original_text": "如果只需要靠这样的方式就能够提高孩子们的眼界的话，那游学的意义在哪里？"
+    },
+    {
+      "id": "BV1CM411o7wY_p7",
+      "segment_id": "seg_7",
+      "type": "argumentation",
+      "subject": "电影",
+      "relation": "用病痛代替",
+      "object": "张校长的不容易",
+      "cause": "导演和编剧不知道如何把高考拍得剧情化",
+      "effect": "把真实的张校长事业上的付出和伟大抹掉了，让观众去同情一个病人",
+      "original_text": "他们选择了用病痛来衬托出张校长的不容易。这相当于把真实的张校长事业上的付出和伟大抹掉了，然后让观众去同情一个病人。"
+    },
+    {
+      "id": "BV1CM411o7wY_p8",
+      "segment_id": "seg_8",
+      "type": "argumentation",
+      "subject": "丈夫回忆戏",
+      "relation": "对剧情推动",
+      "object": "没有任何作用，甚至在拖后腿",
+      "cause": "删掉完全不影响叙事，除非是当转场使用",
+      "effect": "如果剧情推动是通过铿锵有力的事件而非苍白无力的对话，观感不会拉胯",
+      "original_text": "我上期说的关于丈夫的回忆这几场戏——这些戏删掉是完全不影响叙事的，它们对剧情推动没有任何作用。"
+    },
+    {
+      "id": "BV1CM411o7wY_p9",
+      "segment_id": "seg_9",
+      "type": "argumentation",
+      "subject": "电影",
+      "relation": "将张校长的共产党员信仰",
+      "object": "魔改成了对爱情的向往和对男性的依附",
+      "cause": "套了一层爱情的壳，用男性凝视的视角来解构女性符号",
+      "effect": "一个拥有崇高信仰的共产主义战士是一个女人就那么不可被接受吗",
+      "original_text": "电影把张校长对共产党员的坚定党性信仰，魔改成了看似是对爱情的向往，但实际上是对男性的依附这种价值观。"
+    },
+    {
+      "id": "BV1CM411o7wY_p10",
+      "segment_id": "seg_9",
+      "type": "argumentation",
+      "subject": "男人的生命线是事业，女人的生命线是爱情",
+      "relation": "是",
+      "object": "纯纯父权视角下的性别规劝，是纯纯的恶毒",
+      "cause": "与高山这部电影传达的价值观一样——一个女人无论多伟大，支撑你的一定是爱情",
+      "effect": "片名'我本是高山'与内容形成根本性冲突",
+      "original_text": "男人的生命线是事业，女人的生命线是爱情。这就是纯纯父权视角下的性别规劝，是纯纯的恶毒。"
+    },
+    {
+      "id": "BV1CM411o7wY_p11",
+      "segment_id": "seg_10",
+      "type": "argumentation",
+      "subject": "《我本是高山》",
+      "relation": "是",
+      "object": "对真正投身于伟大事业的人的极大亵渎",
+      "cause": "为赋新词强说愁，没有那个阅历就别整那些没用的",
+      "effect": "肤浅的刻画是没有职业道德的",
+      "original_text": "这样肤浅的刻画，是对那些真正投身于伟大事业的人的极大亵渎。这样做也是没有职业道德的。"
+    }
+  ],
+  "proposition_count": 11,
+  "segments": 10,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

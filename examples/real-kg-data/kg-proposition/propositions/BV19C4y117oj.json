@@ -1,0 +1,70 @@
+{
+  "source_id": "BV19C4y117oj",
+  "title": "你是高山，我是鲨臂",
+  "author": "唯一讲述者",
+  "date": "2023-11-25",
+  "source_url": "https://www.bilibili.com/video/BV19C4y117oj/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV19C4y117oj_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "《我本是高山》",
+      "relation": "分三类观众",
+      "object": "阅片量300+的编剧视角→烂透了；阅片量<100不想事的观众→可以看；情侣→无所谓当暖场",
+      "cause": "电影好坏有很强主观性，无法给出绝对评价",
+      "effect": "总体结论：不带脑子的可以看，看电影多的不如给讲述者打钱表演咬打火机",
+      "original_text": "站在阅片量三五百部的不入流编剧视角（也就是我的视角），这片子烂透了，看一眼就会爆炸。"
+    },
+    {
+      "id": "BV19C4y117oj_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "文艺片",
+      "relation": "定义为",
+      "object": "为电影市场披荆斩棘、开拓全新道路的——尝试全新技术如叙事结构（诺兰《记忆碎片》）、灯光（《教父》顶光设计）、镜头语言",
+      "cause": "有革命性创新的片子才叫文艺片，其他所有片子都叫商业片",
+      "effect": "当代很多导演拍商业片失败后硬说是文艺片挽尊，导致文艺片被误解为烂片",
+      "original_text": "文艺片本身是为了给电影市场披荆斩棘、开拓全新道路的。"
+    },
+    {
+      "id": "BV19C4y117oj_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "《我本是高山》",
+      "relation": "是",
+      "object": "典型的商业片——经典线性叙事、无创新灯光镜头、类型四不像（归入'剧情片'兜底分类）",
+      "cause": "文艺片需要创新，该片无任何创新",
+      "effect": "唯一标准是商业成功，如果失败了别来沾文艺片的边",
+      "original_text": "《我本是高山》这部电影绝不是文艺片，它就是一个典型的商业片。"
+    },
+    {
+      "id": "BV19C4y117oj_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "张校长（电影角色）",
+      "relation": "完全扁平",
+      "object": "没有人物弧光——从开头到结尾没有任何成长变化，遇到困难就回忆丈夫",
+      "cause": "编剧不写爱情就不会写剧本，回忆丈夫的戏删掉不影响叙事还会让节奏更轻快",
+      "effect": "角色基本废掉，再好的故事在这个角色身上也没有张力，只能从配角入手",
+      "original_text": "张校长这个人物非常扁平。从影片开头到影片结束，我们看不到一点人物变化。"
+    },
+    {
+      "id": "BV19C4y117oj_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "山英山月的故事",
+      "relation": "本可以",
+      "object": "做一个大故事——通过铺垫重男轻女家庭的虐待细节，逐级积累观众情绪，把刀捅到观众嗓子眼里",
+      "cause": "电影在没有任何铺垫的情况下拿出来硬煽情，很尬",
+      "effect": "故事是可以挖掘和铺垫的，展示了几场戏的示范——从父亲耍赖到半夜啃冻馒头到被500块卖掉",
+      "original_text": "山英和山月这两个配角的故事，其实是非常好的，完全可以做一个大故事来写。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 4,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

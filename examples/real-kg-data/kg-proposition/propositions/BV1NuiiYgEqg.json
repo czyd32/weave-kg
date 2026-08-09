@@ -1,0 +1,158 @@
+{
+  "source_id": "BV1NuiiYgEqg",
+  "title": "成功学洗脑与职场奴性文化：为何“翻转人生“总是收割焦虑者",
+  "author": "唯一讲述者",
+  "date": "2024-12-06",
+  "source_url": "https://www.bilibili.com/video/BV1NuiiYgEqg/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1NuiiYgEqg_p001",
+      "segment_id": "seg_001",
+      "type": "observation",
+      "subject": "广州教培机构员工趴地迎接领导",
+      "relation": "是",
+      "object": "职场奴性文化的典型案例",
+      "cause": "企业要求员工以侮辱性方式表达对领导的服从",
+      "effect": "引发舆论对职场尊严问题的讨论",
+      "original_text": "12月2日，某音网友发布视频称，广州一个教培机构有20多人疑似趴在地上迎接领导视察。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "刘先生声称公司2020年底已停止经营",
+      "relation": "埋下了",
+      "object": "一颗公关雷——若公司仍在运营，回应将被认定为虚假",
+      "cause": "舆论场思维习惯：回应被证伪→事件本身被认定为真",
+      "effect": "一旦被揭穿，将引发更大的舆论反转",
+      "original_text": "如果这家公司被人发现实际还在运营，那么刘先生的回应就会被认为是假的。而既然刘先生的回应是假的，根据舆论场的思维习惯，那么这件事情本身就会被认为是真的。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "成功学",
+      "relation": "不会消失因为",
+      "object": "只要世界上蠢人不消失，成功学就永远有市场",
+      "cause": "成功学是蠢人离知识最近的知识",
+      "effect": "成功学持续存在并收割焦虑者",
+      "original_text": "只要这个世界上的蠢人不消失，那么成功学就不会消失。因为成功学是他们离知识最近的知识。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p004",
+      "segment_id": "seg_002",
+      "type": "concept",
+      "subject": "成功学最典型的特征",
+      "relation": "是",
+      "object": "因果倒置——将成功结果归因于某种管理技术，忽略真正原因",
+      "cause": "老板希望不给马儿草又要马儿跑",
+      "effect": "用心态管理、时间管理、自我成长管理包装剥削",
+      "original_text": "成功学最典型的一个特点，叫做因果倒置。将成功结果归因于某种管理技术，而忽略真正的原因（高薪资、好福利、尊重员工）。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p005",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "成功学的心态管理",
+      "relation": "实际是",
+      "object": "要求员工写日记量化打卡，增加负担而非改善心态",
+      "cause": "老板考察优秀公司后只学表面不学实质（不提高薪资）",
+      "effect": "员工感到被折磨，心态反而更差",
+      "original_text": "要求所有员工拿一本日记出来，每天在上面量化打卡，记录自己乐观工作的态度，然后晚上交给领导检查或者抽查。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p006",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "成功学的时间管理",
+      "relation": "实际是",
+      "object": "用“生命的宽度“话术包装，要求员工在短时间内多干活",
+      "cause": "老板被成功学洗脑后，将“把握时间“扭曲为“多干活“",
+      "effect": "员工被量化时间表管控，出问题被归咎于能力不行",
+      "original_text": "这个所谓的生命的宽度，就是要求员工每天把最好的时间留给最有生产力的事情——就是要求你在短时间内多干活。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p007",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "成功学结论",
+      "relation": "特点是",
+      "object": "单一且线性，使用滑坡谬误，只看现象不看本质",
+      "cause": "成功学不涉及真正的因果分析",
+      "effect": "听起来正确但实际是空洞的废话",
+      "original_text": "成功学和我们真正意义上的知识，最大的区别在于：成功学的结论往往是单一且线性的。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p008",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "骗子得手",
+      "relation": "不是因为",
+      "object": "手法高明，而是因为傻子愿意被骗",
+      "cause": "目标客户本身处于焦虑状态，理性判断失效",
+      "effect": "即使骗术拙劣也能成功收割",
+      "original_text": "有时候骗子得手，不是因为骗子的手法有多高明，而是因为傻子愿意被骗。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p009",
+      "segment_id": "seg_005",
+      "type": "concept",
+      "subject": "成功学贩卖的核心产品",
+      "relation": "是",
+      "object": "焦虑——利用人对现状的不满和对未来的恐惧",
+      "cause": "不同人群（老板/打工人/毕业生）有不同焦虑点",
+      "effect": "当人开始焦虑，无论教的内容多愚蠢，都会成为潜在客户",
+      "original_text": "成功学贩卖的最核心的产品叫焦虑。当你开始焦虑的那一刻，无论他们教的东西有多愚蠢，无论这个行为有多么的侮辱人，你都会成为他们的潜在客户。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p010",
+      "segment_id": "seg_006",
+      "type": "narrative",
+      "subject": "“翻转人生“项目",
+      "relation": "是一场",
+      "object": "针对负债人的庞氏骗局——用后来者的钱支付早期参与者的回报",
+      "cause": "负债人走投无路，更愿意搏一把",
+      "effect": "场均创造2000万业绩，直到资金链断裂",
+      "original_text": "一场针对负债人的庞氏骗局成立了，直到资金链断裂，彻底消失。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p011",
+      "segment_id": "seg_006",
+      "type": "concept",
+      "subject": "立场叙事",
+      "relation": "是",
+      "object": "通过制造“我们vs他们“对立来凝聚群体、消除内部质疑的洗脑手法",
+      "cause": "每桌安排两个托（土豪+不愿出钱者），制造共同敌人",
+      "effect": "剩下的人与土豪站同一立场，疯狂筹款",
+      "original_text": "当建立了一个共同的敌人之后，剩下的九个人就会跟这个土豪站在同一个立场，然后每个人开始拿起电话，求助自己的亲朋好友、家人，打钱汇款。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p012",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "输掉的参与者",
+      "relation": "不会闹事因为",
+      "object": "已经入局，不敢也不能相信被骗，只能一条路跟下去",
+      "cause": "每个人输不起，只能继续相信翻转人生的故事",
+      "effect": "每个受害者最终成为下一场骗局的托",
+      "original_text": "对于那些已经入了局的人来说，他们不敢也不能相信，因为他们已经入局了，只能一条路跟下去。于是他们每个人都会成为下一场这个所谓翻转人生中的托。"
+    },
+    {
+      "id": "BV1NuiiYgEqg_p013",
+      "segment_id": "seg_007",
+      "type": "conclusion",
+      "subject": "成功学/洗脑传销",
+      "relation": "本质是",
+      "object": "玩弄人心的游戏",
+      "cause": null,
+      "effect": null,
+      "original_text": "这就叫成功学。或者说，这就是洗脑传销。本质上这就是玩弄人心的游戏。"
+    }
+  ],
+  "proposition_count": 13,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Bilibili-Ingest",
+  "pipeline": "SkillZY-Bilibili-Ingest"
+}

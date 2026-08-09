@@ -1,0 +1,425 @@
+{
+  "source_id": "BV1JJ4m1Y7mc",
+  "title": "后续：快递得送到手？这刀到底冲谁？",
+  "author": "唯一讲述者",
+  "date": "2024-03-06",
+  "source_url": "https://www.bilibili.com/video/BV1JJ4m1Y7mc/",
+  "batch_id": "20260808_BV1JJ4m1Y7mc",
+  "total_segments": 8,
+  "propositions": [
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p01",
+      "subject": "快递新规（2024年3月1日起）",
+      "relation": "禁止",
+      "object": "快递擅自放在末端服务站",
+      "original_text": "3月1号开始，快递不允许擅自放在快递站等等末端服务平台，违者罚款最高3万元。",
+      "segment_id": "seg_001",
+      "tags": [
+        "快递新规",
+        "政策法规",
+        "末端服务"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p02",
+      "subject": "快递新规违者",
+      "relation": "面临",
+      "object": "最高3万元罚款",
+      "original_text": "违者罚款最高3万元。",
+      "segment_id": "seg_001",
+      "tags": [
+        "快递新规",
+        "罚款",
+        "政策法规"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p03",
+      "subject": "现代快递全流程（仓库→站点→驿站）",
+      "relation": "不包含",
+      "object": "快递员上门配送环节",
+      "original_text": "这个时候你会发现一个问题：快递员去哪了？恭喜你发现了问题的根本所在。在这个过程中，快递员没了。",
+      "segment_id": "seg_002",
+      "tags": [
+        "快递流程",
+        "快递员消亡",
+        "物流体系"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p04",
+      "subject": "末端快递服务",
+      "relation": "由...完成",
+      "object": "驿站工作人员（发短信通知自取）",
+      "original_text": "这个末端站点的工作人员会给你发短信，告诉你快递到了，让你自己去拿。",
+      "segment_id": "seg_002",
+      "tags": [
+        "末端服务",
+        "快递驿站",
+        "自取模式"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p05",
+      "subject": "快递公司主要利润",
+      "relation": "来源于",
+      "object": "与商家的战略合作（而非个人快递费）",
+      "original_text": "快递赚钱的大头，主要来源于各大商家跟快递公司达成的战略合作。",
+      "segment_id": "seg_003",
+      "tags": [
+        "快递经济",
+        "商业模式",
+        "战略合作"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p06",
+      "subject": "包邮商品",
+      "relation": "内含",
+      "object": "快递费（价格每天变动）",
+      "original_text": "当你购买一个包邮的商品，这个商品之中就包含了快递费的价格。而为了控制成本，快递费的价格可以说每天都在变。",
+      "segment_id": "seg_003",
+      "tags": [
+        "包邮",
+        "快递费",
+        "成本控制"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p07",
+      "subject": "日用百货/食品副食品",
+      "relation": "具有",
+      "object": "低价格+高销量特征",
+      "original_text": "我们的日用百货类、食品副食品类等等，价格都不算高，而这些东西的销量反而我觉得是挺高的。",
+      "segment_id": "seg_003",
+      "tags": [
+        "日用百货",
+        "消费特征",
+        "价格与销量"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p08",
+      "subject": "化妆品/服装等",
+      "relation": "与...相似",
+      "object": "食品副食品的生产配送流程",
+      "original_text": "他们的生产配送流程是差不多的，可是具体落地之后，怎么会差出这么多钱呢？",
+      "segment_id": "seg_004",
+      "tags": [
+        "品牌溢价",
+        "生产流程",
+        "价格差异"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p09",
+      "subject": "品牌溢价",
+      "relation": "导致",
+      "object": "同流程商品价格差异巨大",
+      "original_text": "品牌溢价的故事不用我多说了吧——一支眉笔79块钱，各位猜猜看这支眉笔的成本是多少钱？",
+      "segment_id": "seg_004",
+      "tags": [
+        "品牌溢价",
+        "价格差异",
+        "消费"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p10",
+      "subject": "消费者购买决策",
+      "relation": "依赖",
+      "object": "个人价值判断（低于预期才购买）",
+      "original_text": "我们购买一个物品，首先会给这个东西有一个自己的价值判断——是你觉得这个玩意值多少钱。如果低于你觉得的，或者说跟你觉得差不多的，你才会去购买。",
+      "segment_id": "seg_005",
+      "tags": [
+        "消费心理学",
+        "价值判断",
+        "购买决策"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p11",
+      "subject": "越小众的产品",
+      "relation": "越会",
+      "object": "为快递涨价买单",
+      "original_text": "越小众的东西，越会为快递涨价买单。",
+      "segment_id": "seg_005",
+      "tags": [
+        "小众商品",
+        "快递涨价",
+        "溢价",
+        "核心论点"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p12",
+      "subject": "实用性购买者",
+      "relation": "溢价买单概率",
+      "object": "低",
+      "original_text": "如果你买东西纯看重实用性，你买单的概率就很低了。",
+      "segment_id": "seg_005",
+      "tags": [
+        "实用性消费",
+        "溢价",
+        "购买策略"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p13",
+      "subject": "消费者支付的钱",
+      "relation": "花在",
+      "object": "溢价上",
+      "original_text": "你的钱花哪了？花在溢价上了。",
+      "segment_id": "seg_005",
+      "tags": [
+        "溢价",
+        "消费支出",
+        "核心论点"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p14",
+      "subject": "产品核心价值",
+      "relation": "不限于",
+      "object": "低价",
+      "original_text": "一个产品的核心价值，未必是自己的价格有多么低，可能会有别的什么东西。",
+      "segment_id": "seg_005",
+      "tags": [
+        "产品价值",
+        "定价",
+        "消费观"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p15",
+      "subject": "快递站点过度扩张",
+      "relation": "挤压",
+      "object": "快递员生存空间",
+      "original_text": "快递公司为了节约成本，增设快递站点是为了什么？是为了节约成本啊。所以他们不断地在各个地区增设站点，不断地挤压着这几公里、几百米的距离。",
+      "segment_id": "seg_006",
+      "tags": [
+        "快递站点",
+        "快递员消亡",
+        "生存空间",
+        "成本节约"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p16",
+      "subject": "快递公司",
+      "relation": "通过增设站点",
+      "object": "节约成本",
+      "original_text": "快递公司为了节约成本，增设快递站点是为了什么？是为了节约成本啊。",
+      "segment_id": "seg_006",
+      "tags": [
+        "快递公司",
+        "成本节约",
+        "站点扩张"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p17",
+      "subject": "快递员",
+      "relation": "存在意义",
+      "object": "站点到用户家的最后几百米配送",
+      "original_text": "快递员的工作，就是在站点和你家之间的这一公里或者几百米的距离来回奔波。",
+      "segment_id": "seg_006",
+      "tags": [
+        "快递员",
+        "末端配送",
+        "最后一公里"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p18",
+      "subject": "农村快递站（5个）",
+      "relation": "取代",
+      "object": "快递员岗位（10个）",
+      "original_text": "我现在在老家，在一个村里，周边5个村凑不出来俩快递员，但是我们村有5个快递站。",
+      "segment_id": "seg_007",
+      "tags": [
+        "农村物流",
+        "快递站",
+        "就业岗位",
+        "快递员消亡"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p19",
+      "subject": "农村快递员",
+      "relation": "已经",
+      "object": "不存在（被站点替代）",
+      "original_text": "农村现在根本就没有快递员，何谈工作难度高啊？",
+      "segment_id": "seg_007",
+      "tags": [
+        "农村物流",
+        "快递员消亡",
+        "就业"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p20",
+      "subject": "快递新规",
+      "relation": "实际目的",
+      "object": "保护即将消失的快递员岗位（而非增加工作量）",
+      "original_text": "政府就是在逼着你增加工作难度——看起来好像是让快递员增加了工作量、增加了工作难度，实际上是要让快要消失的快递员能够喘口气。",
+      "segment_id": "seg_007",
+      "tags": [
+        "快递新规",
+        "政策解读",
+        "就业保护",
+        "核心论点"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p21",
+      "subject": "快递员",
+      "relation": "正在",
+      "object": "消失（越来越少）",
+      "original_text": "快递员已经越来越少了，而各个小区、村镇街道上的快递站点越来越多。现在已经不需要快递小哥这个工作岗位了。",
+      "segment_id": "seg_007",
+      "tags": [
+        "快递员消亡",
+        "就业",
+        "趋势"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p22",
+      "subject": "消费者",
+      "relation": "不应",
+      "object": "与资本家共情",
+      "original_text": "我的建议是：不要跟资本家共情。他们会所嫩模的时候也没带着你，何必呢兄弟？",
+      "segment_id": "seg_008",
+      "tags": [
+        "资本家",
+        "阶级意识",
+        "消费者立场"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p23",
+      "subject": "快递涨价成本",
+      "relation": "不会",
+      "object": "摊到普通消费者",
+      "original_text": "快递公司肯定是涨价，但是买单的不会是我们这些普通的消费者。",
+      "segment_id": "seg_008",
+      "tags": [
+        "快递涨价",
+        "成本转嫁",
+        "消费者"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p24",
+      "subject": "快递涨价",
+      "relation": "由...买单",
+      "object": "小众商品购买者",
+      "original_text": "你购买越小众的商品，买单的概率就越高。",
+      "segment_id": "seg_008",
+      "tags": [
+        "快递涨价",
+        "小众商品",
+        "溢价",
+        "成本转嫁"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p25",
+      "subject": "快递公司",
+      "relation": "会",
+      "object": "自行解决盈利问题",
+      "original_text": "资本家们想要赚这个钱，会自然地想办法解决这个问题。各位打工人就别跟着操心了。",
+      "segment_id": "seg_008",
+      "tags": [
+        "快递公司",
+        "资本家",
+        "市场调节"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p26",
+      "subject": "线下购物",
+      "relation": "可",
+      "object": "缓解实体经济压力",
+      "original_text": "你线下买点东西，是不是又能让线下的实体经济喘口气？",
+      "segment_id": "seg_008",
+      "tags": [
+        "线下购物",
+        "实体经济",
+        "替代方案"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p27",
+      "subject": "快递新规",
+      "relation": "于公",
+      "object": "保护快递员岗位（即使薪资下降也好过消失）",
+      "original_text": "于公来讲，快递小哥整体的薪资下降是肯定的，但是好过这个工作岗位被挤没了。",
+      "segment_id": "seg_008",
+      "tags": [
+        "快递新规",
+        "就业保护",
+        "公共政策"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "20260808_BV1JJ4m1Y7mc_p28",
+      "subject": "快递新规",
+      "relation": "于私",
+      "object": "涨价成本不会摊到普通消费者",
+      "original_text": "于私，我相信快递公司涨价的成本不会摊在我这种普通老百姓头上。",
+      "segment_id": "seg_008",
+      "tags": [
+        "快递新规",
+        "消费者",
+        "成本转嫁"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "tags_summary": {
+    "快递新规": 6,
+    "快递员消亡": 5,
+    "溢价": 4,
+    "快递站点": 3,
+    "消费": 3,
+    "快递涨价": 3,
+    "就业": 3,
+    "成本转嫁": 2,
+    "核心论点": 2,
+    "政策法规": 2,
+    "末端服务": 2,
+    "农村物流": 2,
+    "资本家": 2,
+    "品牌溢价": 2,
+    "小众商品": 2
+  }
+}

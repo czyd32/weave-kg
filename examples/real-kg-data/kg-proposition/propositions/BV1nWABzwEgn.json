@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1nWABzwEgn",
+  "title": "LNY/CNY？词不重要，谁用才重要！",
+  "author": "唯一讲述者",
+  "date": "2026-03-01",
+  "source_url": "https://www.bilibili.com/video/BV1nWABzwEgn/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1nWABzwEgn_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "命名权",
+      "relation": "本质是",
+      "object": "定义权——谁掌握定义权，谁就掌握构建现实本身的权力",
+      "cause": "福柯'话语即权力'：命名的过程就是对事物意义和归属进行重构，决定公众理解的角度，影响历史和现实中的位置",
+      "effect": "用'Chinese New Year'定义春节本质上是行使话语主权——设置框架为'起源于中国，拥有四千年历史，属于中华民族的传统节日'",
+      "original_text": "命名权为什么重要？因为它代表着定义的能力，进而去塑造认知，然后赋予一个行为以合法性。……福柯说过：'话语即权力'——谁掌握了定义权，谁就掌握了构建现实本身的权力。"
+    },
+    {
+      "id": "BV1nWABzwEgn_p02",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "LNY使用的主体性差异",
+      "relation": "在于",
+      "object": "中国人说LNY有文化传统作为锚点，外人说LNY消解中国文化属性",
+      "cause": "中国人有文化传统作为认知锚点，无论用什么词都知道指向中国春节；外人没有这个锚点，他们说LNY时语境变成了'泛亚洲共享的阴历新年'",
+      "effect": "在全球文化传播语境里，文化符号被重新命名、剥离原有历史脉络，就很有可能被重构为新的IP，原属国的文化主权和话语权被削弱",
+      "original_text": "我们自己中国人说LNY还是CNY，因为我们有这个文化传统。但是外人是没有这个传统文化认知的，他们的语境里没有'中国春节'这个锚点。所以当他们在使用'Lunar New Year'这个词的时候，语境就变了——变成了泛亚洲地区共享的、没有明确起源的阴历新年。"
+    },
+    {
+      "id": "BV1nWABzwEgn_p03",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "韩国文化去中国化",
+      "relation": "是",
+      "object": "国家主导的系统性文化IP争夺战，通过重新命名切断符号与原生文明的历史链接",
+      "cause": "韩国在千年历史中始终处于中国朝贡体系辐射圈，无法构建出属于自己的族群边界——按照《想象的共同体》，民族核心文化符号的可溯源性是构建民族认同的基础",
+      "effect": "韩国文体部通过高额补贴将改造过的中国文化包装成韩国传统，在国际社会确立独立文化身份，抢占东亚文化话语权",
+      "original_text": "全球文化传播的语境里边，重新命名的这种操作，本质上就是一种文化IP的争夺战。它是把文化IP剥离原有的历史脉络，做成一个可以被任何人注册、重新包装、重新开发的公共资源。"
+    },
+    {
+      "id": "BV1nWABzwEgn_p04",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "文化挪用与文化入侵",
+      "relation": "区别在于",
+      "object": "文化挪用是微观商业操作，文化入侵是系统性战略性的国家行为",
+      "cause": "文化挪用目的多为商业获利（如迪奥抄马面裙），文化入侵有官方机构、国家资金、成熟传播体系支撑",
+      "effect": "韩国的做法已触及文化入侵——战略、机构、资金要素集齐，冲着文化主权和东亚话语权而来",
+      "original_text": "文化入侵的系统性和战略性会比较强，文化挪用就更像是微观操作，目的更多是商业获利。……韩国是把战略、机构、资金几个要素全都集齐了，不是一个零散的民间挪用行为，而是国家主导的一种系统性操作。"
+    },
+    {
+      "id": "BV1nWABzwEgn_p05",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "CIA文化自由大会",
+      "relation": "揭示",
+      "object": "冷战时期和平演变战略通过文化输出从内部瓦解社会主义阵营",
+      "cause": "二战后美国战略家意识到军事和经济手段无法彻底遏制社会主义阵营，转而通过文化、意识形态、心理战从内部瓦解",
+      "effect": "文化自由大会在35个国家设分支机构，渗透西方知识界期刊，其运作模式和核心战略被完整继承并沿用至今，最终演变为2020年前后北约定义的'认知战'",
+      "original_text": "最好的宣传，是那种让被宣传者在不知不觉中接受你的观点，甚至以为这个观点是他独立思考出来的。……文化自由大会从成立之初，运营经费百分之百来自于CIA的秘密拨款。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

@@ -1,0 +1,13 @@
+{
+  "note": "This is a placeholder for a sample proposition. Replace with real data after running the Ingest pipeline.",
+  "id": "p_sample_001",
+  "segment_id": "seg_001",
+  "source_id": "sample_article",
+  "subject": "知识图谱",
+  "relation": "是",
+  "object": "用于存储和查询结构化知识的系统",
+  "concepts": ["知识图谱", "知识管理"],
+  "original_text": "知识图谱是用于存储和查询结构化知识的系统...",
+  "type": "definition",
+  "confidence": 0.95
+}

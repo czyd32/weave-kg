@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://weave-kg.dev/schemas/proposition.json",
+  "title": "Proposition",
+  "description": "An atomic proposition extracted from source material",
+  "type": "object",
+  "required": ["id", "segment_id", "source_id", "subject", "relation", "object", "original_text"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique proposition ID (e.g., p_001)"
+    },
+    "segment_id": {
+      "type": "string",
+      "description": "Reference to the source segment"
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Reference to the source material"
+    },
+    "subject": {
+      "type": "string",
+      "description": "Subject of the proposition (S in SRO)"
+    },
+    "relation": {
+      "type": "string",
+      "description": "Relation between subject and object (R in SRO)"
+    },
+    "object": {
+      "type": "string",
+      "description": "Object of the proposition (O in SRO)"
+    },
+    "cause": {
+      "type": "string",
+      "description": "Causal explanation (if applicable)"
+    },
+    "effect": {
+      "type": "string",
+      "description": "Effect or consequence (if applicable)"
+    },
+    "concepts": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Key concepts extracted from the proposition"
+    },
+    "original_text": {
+      "type": "string",
+      "description": "The original text this proposition was extracted from"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["claim", "definition", "causality", "comparison", "method_step", "design_principle", "case_study"],
+      "description": "Sub-type of the proposition"
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Extraction confidence score"
+    },
+    "chapter": {
+      "type": "string",
+      "description": "Chapter reference (for book sources)"
+    },
+    "page_range": {
+      "type": "string",
+      "description": "Page range reference (for book sources)"
+    },
+    "tags": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Tags for indexing"
+    }
+  }
+}

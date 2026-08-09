@@ -1,0 +1,104 @@
+{
+  "source_id": "BV1Px5AzPENR",
+  "title": "4+4选拔最有悲悯之心的人：学阀的资本传承困境",
+  "author": "唯一讲述者",
+  "date": "2025-05-08",
+  "source_url": "https://www.bilibili.com/video/BV1Px5AzPENR/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Px5AzPENR_p001",
+      "segment_id": "seg_001",
+      "type": "observation",
+      "subject": "反腐靠小三",
+      "relation": "不是一句虚言",
+      "object": "婚外情中的利益冲突和情感纠纷能打破内部利益同盟的沉默",
+      "cause": "肖飞妻子作为原配掌握一手信息源并举报",
+      "effect": "学阀的精彩生活得以被公众窥见",
+      "original_text": "显然，事件中的肖飞的妻子确实掌握了一手信息源，才让我们得以窥见学阀的精彩生活。所以'反腐靠小三'也确实不是一句虚言。"
+    },
+    {
+      "id": "BV1Px5AzPENR_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "多巴胺动物",
+      "relation": "无法",
+      "object": "接受当下就是终点，需要不断寻找新的变化来满足多巴胺系统",
+      "cause": "多巴胺驱动的核心是追求变化而非享受当下",
+      "effect": "无论原配多么优秀，他们一定会在生活中不断寻找新的伴侣",
+      "original_text": "在多巴胺的驱使之下，他们并不能接受'当下就是终点'。对于他们来说，生活需要不断变化。所以无论原配有多么年轻漂亮出色，他们一定会在生活中不断寻找新的伴侣。"
+    },
+    {
+      "id": "BV1Px5AzPENR_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "高干子女",
+      "relation": "经历",
+      "object": "自毁倾向阶段——无法超越父辈成就时的心理落差导致自我否定",
+      "cause": "从小被寄予厚望投入大量资源，但个人能力未必匹配",
+      "effect": "直到认清自己是普通人，才能原谅自己继续走人生路",
+      "original_text": "高干家庭的子女不一定能够子承父业、继承父辈的所有资源。这种强烈的落差，会让这些子女大部分都进入一个有自毁倾向的阶段，直到哪一天他认清了自己是一个普通人，他才能原谅自己，才能继续走自己的人生路。"
+    },
+    {
+      "id": "BV1Px5AzPENR_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "4+4规培模式",
+      "relation": "本质上是",
+      "object": "符号资本的合法继承——在合法合规的框架下为二代开通速通通道",
+      "cause": "规则设计在形式上是公平的，但特权阶层可利用信息差和资源不对称优势",
+      "effect": "公众感到愤怒：看似公平的规则实际上被特权阶层利用",
+      "original_text": "这次4+4的规培模式实际上是让权力规则在一个合法合理的空间之内，为这些二代开通了一个速通通道——是要完成符号资本的合法继承。"
+    },
+    {
+      "id": "BV1Px5AzPENR_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "学历贬值",
+      "relation": "导致",
+      "object": "内卷悖论——学历作为筛选信号的价值下降，但个体只能通过更高学历证明自己",
+      "cause": "学历含金量越低，大家越想搞更好的学历来证明含金量",
+      "effect": "所有人投入更多成本争夺一个贬值中的凭证",
+      "original_text": "高学历含金量越低，大家就越想搞一个更好的学历来证明自己的含金量——普通人是如此，门阀子弟也是如此。归根结底，都需要一个具体的证明来为自己背书。"
+    },
+    {
+      "id": "BV1Px5AzPENR_p006",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "布尔迪厄的四种资本",
+      "relation": "构成",
+      "object": "学阀传承的基础：经济资本（最易传承）→ 文化资本（教育背景+知识能力）→ 社会资本（人脉）→ 符号资本（声望合法性）",
+      "cause": "四种资本之间环环相扣，但转化效率不同",
+      "effect": "只要砍掉其中一两条腿，整个学阀体系就会自然崩塌",
+      "original_text": "财富或叫物质财富，其实是最容易被传承下去的。但是另外三项财富就很难进行传承，它们分别是：文化资本、社会资本和符号资本。"
+    },
+    {
+      "id": "BV1Px5AzPENR_p007",
+      "segment_id": "seg_008",
+      "type": "argumentation",
+      "subject": "文化资本",
+      "relation": "出现",
+      "object": "一半的断层——教育背景（文凭）好做，但知识能力的传承极难",
+      "cause": "父辈可以把子女送进名校，但无法把真才实学直接传递给子女",
+      "effect": "二代继承学历头衔（符号）却无法继承真才实学（能力），资源投入产出严重不匹配",
+      "original_text": "文化资本当中还包含了个人能力所带来的知识。在这一点上，文化资本就出现了一半的断层——教育背景好做，但是知识的传承就难了。"
+    },
+    {
+      "id": "BV1Px5AzPENR_p008",
+      "segment_id": "seg_009",
+      "type": "argumentation",
+      "subject": "学阀体系",
+      "relation": "正在",
+      "object": "崩塌——那么多资源投进去，却只培养出一个小三/小四",
+      "cause": "文化资本和社会资本传承断裂，符号资本曝光后也被斩断",
+      "effect": "学阀掌握学术资源但无法转化为实际收益，渠道越来越少",
+      "original_text": "为什么看起来能够速通4+4计划、背景那么硬、那么多宗门资源堆出来的一个宗门圣女，到中日友好医院里做一线临床医生，然后沦落到给别人当小三。这就是当下所有学阀的一个困境。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 9,
+  "generated_at": "2026-08-08",
+  "batch": "20260808_batch_08",
+  "tool": "SkillZY-Knowledge-Graph-Ingest",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest"
+}

@@ -1,0 +1,59 @@
+{
+  "source_id": "BV18bGJ6MEzR",
+  "title": "\"监狱来的妈妈\"导演回应：希望把电影当成镜子",
+  "author": "唯一讲述者",
+  "date": "2026-05-24",
+  "source_url": "https://www.bilibili.com/video/BV18bGJ6MEzR/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV18bGJ6MEzR_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "中西监狱理念",
+      "relation": "存在根本差异",
+      "object": "西方主流是惩罚和隔离（源于原罪论和自由意志），中国是矫正和改造（帮助犯人重新融入社会）",
+      "cause": "西方认为人犯罪是个人道德败坏，中国认为犯罪是社会环境教育缺失等综合因素导致的行为偏差",
+      "effect": "西方对任何自由限制必须接受最严苛质疑，中国强调通过学习和劳动重塑认知行为模式",
+      "original_text": "与中国的观念不同，在西方传统中，主流监狱的功能主要是惩罚和隔离。但中国不一样，监狱的横幅上写着'好好改造，重新做人'。因为在中国观念里，监狱的主要功能是矫正和改造——监狱是帮助犯人重新融入社会的地方。"
+    },
+    {
+      "id": "BV18bGJ6MEzR_p02",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "福柯全景监狱理论",
+      "relation": "描述",
+      "object": "权力变得不可验证——囚犯假设自己随时被监视，将外部注视内化为自我审查和自我规训",
+      "cause": "囚犯知道瞭望塔存在但无法确认是否正在被注视",
+      "effect": "该理论成为西方批判现代社会的经典工具，任何系统化监控都被自动解读为权力控制",
+      "original_text": "在这种全景监狱的景观之下，权力变得不可验证了。囚犯知道瞭望塔在那里，但他永远无法确认自己此时此刻是否正在被注视。因此，他只能假设自己随时处于被监视的状态，然后把这种外部的注视内化成一种自我审查和自我规训。"
+    },
+    {
+      "id": "BV18bGJ6MEzR_p03",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "导演的叙事策略",
+      "relation": "是",
+      "object": "置换问题——记者问'有没有'（权利内容），导演回答'为什么有是有问题的'（权力结构）",
+      "cause": "承认'有'等于承认中国监狱提供了人性化活动，与导演将中国监狱描绘为压迫性的叙事框架冲突",
+      "effect": "通过预设负面框架来回避讨论事实本身",
+      "original_text": "记者问的是权利内容——中国监狱是否存在这些活动。但导演的回答，开始回答权力结构了——他说这些活动是在监控下进行的。记者问的是'有没有'，导演回答的是'为什么有是有问题的'。"
+    },
+    {
+      "id": "BV18bGJ6MEzR_p04",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "自由",
+      "relation": "可拆解为三个层级",
+      "object": "物理自由（监狱必须剥夺）、心理自由（监狱必须重塑）、道德自由（监狱矫正的终极目标）",
+      "cause": "导演错误地把自由默认成不可分割的整体，形成非黑即白的二元论",
+      "effect": "监狱不是扼杀自由的地方，而是自由最后的防线——用剥夺最低级行动自由去抢救一个人最高级的道德自由",
+      "original_text": "导演认为中国监狱是不自由的，这其实是一个完全错误的想法。因为导演错误地把'自由'这个概念默认成了一个不可分割的整体。我们至少可以把自由拆解成三个层级。监狱不是一个扼杀自由的地方——它是自由最后的防线。它是用剥夺最低级的行动自由，去抢救一个人最高级的、生而为人的自由。"
+    }
+  ],
+  "proposition_count": 4,
+  "segments": 3,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

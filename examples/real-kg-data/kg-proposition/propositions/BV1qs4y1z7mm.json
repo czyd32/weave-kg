@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1qs4y1z7mm",
+  "title": "洗白者说我们没有言论自由：从定义权出发拆解自由的边界",
+  "author": "唯一讲述者",
+  "date": "2023-05-19",
+  "source_url": "https://www.bilibili.com/video/BV1qs4y1z7mm/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1qs4y1z7mm_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "讲述者",
+      "relation": "声明",
+      "object": "本期只针对洗白House言论中关于言论自由的应然问题，不讨论其他问题",
+      "cause": "前两个反洗白视频发出后挨骂，有人借题发挥混淆视听",
+      "effect": "既然有人想玩概念，那就好好玩概念",
+      "original_text": "本期只针对洗白李昊石言论的、关于言论自由的应然问题，其他问题不在本视频的讨论范围之内。"
+    },
+    {
+      "id": "BV1qs4y1z7mm_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "绝对自由（完全无拘无束不受任何限制）",
+      "relation": "根本不存在因为",
+      "object": "人的存在本身就是被限定的——出生不由自己决定，被基因和肉体束缚，肉体存在就不可能无拘无束",
+      "cause": "受精到出生每一步都被限定，肉身无法自由飞行",
+      "effect": "想要绝对自由建议抛弃肉身——但活着的人不可能拥有",
+      "original_text": "人生来就没有这种自由，如果有也不是人类所能理解的。最简单的例子：你的出生就不是由你来决定的……只要你的肉体存在，就不可能无拘无束、不受到任何限制。"
+    },
+    {
+      "id": "BV1qs4y1z7mm_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "思想自由",
+      "relation": "也从未真正自由过因为",
+      "object": "三重束缚——社会化过程决定思想框架（语言文化教育），大脑物理结构限制思考可能性，语言本身有限性框定自由",
+      "cause": "从出生起就被引导思想（父母取名、教育、社会规范），用语言描述自由时自由已被语言框定",
+      "effect": "思想自由也是伪命题，任何思考都在使用被限定的工具",
+      "original_text": "你从脱离母体的那一刻开始，就在被他人引导思想。……你的思想一直都在被束缚着、一直都在被引导着。你的思想从来都没有自由过——这都是别人引导你的结果。"
+    },
+    {
+      "id": "BV1qs4y1z7mm_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "行为自由（不受限制的行为）",
+      "relation": "等同于",
+      "object": "丛林法则——只要比你强大就可以随便绑你剁手剁脚，你反抗就是阻止我追求自由",
+      "cause": "世界上不止你一个人，每个人都有追求自由的权利",
+      "effect": "资本家可以随便剥削你，本质上你就是想要为所欲为，拿自由当幌子",
+      "original_text": "在这个定义下，我可以随便把你绑起来、剁手剁脚，你反抗了就是在阻止我追求自由。也就是只要我比你强大，我就可以随便剥削你了。"
+    },
+    {
+      "id": "BV1qs4y1z7mm_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "自由需要互相让渡",
+      "relation": "逻辑是",
+      "object": "在群居社会中，为了保障你的生命自由，别人必须交付伤害你的自由——你也必须交付伤害他人的自由",
+      "cause": "人是群居动物，每个人的自由天然与他人的自由冲突",
+      "effect": "要求绝对言论自由等于合理化网暴——你要求自由发言，别人就有自由骂你侮辱你，挨骂是你要的自由的代价",
+      "original_text": "那么我为了保障你的自由，别人就必须交付随便伤害你的自由——因为我得保护你的生命自由，你有活下去的自由对吧？但是为了别人活下去的自由，我让你交付一部分随便伤害他人的自由，也很合理吧？"
+    },
+    {
+      "id": "BV1qs4y1z7mm_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "洗白者要求的'言论自由'",
+      "relation": "本质是",
+      "object": "披着自由皮的——只要自己随便发言但要求别人不能随便发言，是特权而非自由",
+      "cause": "现在已经是自由发言的状态——任何人可以在任何地方自由发言，别人也可以对任何人自由发言",
+      "effect": "你要的不是自由，是特权；一个打着自由旗号要特权的虚伪外星人",
+      "original_text": "如果你是这样想，那你要的就不是自由啊——本质上你只是披了一层自由的皮，要特权嘛。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

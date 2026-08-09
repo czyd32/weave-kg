@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1kM4y1t7UB",
+  "title": "披着理性的皮输出情绪：用归谬法拆解House事件中的三种诡辩",
+  "author": "唯一讲述者",
+  "date": "2023-05-17",
+  "source_url": "https://www.bilibili.com/video/BV1kM4y1t7UB/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1kM4y1t7UB_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "House事件",
+      "relation": "拆分为三个舆论场",
+      "object": "笑果文化及艺人（保留意见等官方定性）、民间理性舆论场（正常就事论事）、民间情绪舆论场（脱离实际谈概念，披着理性皮输出情绪）",
+      "cause": "讲述者站官方立场，认为'作风优良能打胜仗'有固定历史语境不可被替换，被解构后可能引发不可预测问题",
+      "effect": "本期视频聚焦于拆解第三场——情绪舆论场中的三种诡辩",
+      "original_text": "这件事情，我把它拆分成了三个不同的'场'。"
+    },
+    {
+      "id": "BV1kM4y1t7UB_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "情绪舆论场三种诡辩",
+      "relation": "归纳为",
+      "object": "比喻只是修辞手法不能作为辱军证据、言论不自由文字狱是社会不幸、脱口秀是冒犯的艺术禁止就是抑制艺术发展",
+      "cause": "三种论调脱离实际谈概念，乍一听不知如何反驳，需要用归谬法拆解",
+      "effect": null,
+      "original_text": "那么综合提炼一下我见到的这些人的说法，主要是集中在以下三个论点：第一，House只是使用一种比喻的手法，不能把这种比喻当成辱军的证据；第二，国内的言论不自由、文字狱，大概是社会最大的不幸；第三，脱口秀是冒犯的艺术，禁止这种艺术就是抑制国内艺术发展。"
+    },
+    {
+      "id": "BV1kM4y1t7UB_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "'比喻只是修辞手法所以无罪'诡辩",
+      "relation": "被归谬法证伪",
+      "object": "比喻本身无罪但问题在于比喻的界限，而非比喻作为修辞手法本身",
+      "cause": "用归谬法：如果比喻无罪，那对论者本人使用极端侮辱性比喻也不应被视为侮辱——但论者自己会反对，自证其谬",
+      "effect": "论者避开本质问题用似是而非概念混淆视听，要么脑子有问题要么屁股有问题",
+      "original_text": "比喻作为一个修辞手法，本身当然无罪了。但这压根就不是比喻的问题，而是比喻的界限的问题。"
+    },
+    {
+      "id": "BV1kM4y1t7UB_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "'文字狱'指控",
+      "relation": "被归谬法证伪",
+      "object": "文字狱定义是统治者故意从著作中摘取字句罗织成罪，而House事件是群众自发举报——若将群众举报称为文字狱，则指控者自己作为群众也在搞文字狱（自指悖论）",
+      "cause": "自由以不损害他人集体社会权利为前提；文字狱特指统治者迫害知识分子，而非群众自发表达不适",
+      "effect": "指控者无权直接定性，其言论自证为真正的文字狱逻辑",
+      "original_text": "文字狱的定义是：旧时的统治者为了迫害知识分子，故意从其著作中摘取字句、罗织成罪。……在这个事件中，你认为人民群众是在故意从特定对象的著作中摘取字句、罗织成罪？"
+    },
+    {
+      "id": "BV1kM4y1t7UB_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "'脱口秀是冒犯的艺术所以不能被限制'诡辩",
+      "relation": "被归谬法证伪",
+      "object": "如果冒犯艺术不受限制，则任何冒犯行为（人身攻击甚至暴力）都可以被包装成艺术——揍人也可以是行为艺术，你不能还手否则就是抑制艺术发展",
+      "cause": "艺术有界限，从始至终是界限问题而非概念问题",
+      "effect": "按照这种逻辑推演，世界早完蛋了",
+      "original_text": "如果脱口秀是冒犯的艺术——谢谢，NMSL。你不能阻止我，如果你阻止了我，你就是抑制了国内艺术的发展。……是不是很荒谬啊？"
+    },
+    {
+      "id": "BV1kM4y1t7UB_p006",
+      "segment_id": "seg_006",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "总结",
+      "object": "完成对三种诡辩的归谬法拆解",
+      "cause": null,
+      "effect": null,
+      "original_text": "好的，以上就是我对这些情绪输出的提炼出来的三种观点的拆解。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

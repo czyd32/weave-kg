@@ -1,0 +1,103 @@
+{
+  "source_id": "BV1zu411j7ei",
+  "title": "李敬言退学：北京政法职业学院的回应如何自爆",
+  "author": "唯一讲述者",
+  "date": "2023-07-08",
+  "source_url": "https://www.bilibili.com/video/BV1zu411j7ei/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1zu411j7ei_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "李敬言",
+      "relation": "为被霸凌女生仗义执言后",
+      "object": "自愿退学",
+      "cause": "北京政法职业学院发生疑似校园霸凌事件，李敬言站出来拍摄视频",
+      "effect": "霸凌事件处理一个月未见结果，曝光者却退学",
+      "original_text": "北京政法职业学院发生了一起疑似校园霸凌事件。该校一位男生李敬言站出来，为受到霸凌的女生仗义执言。这个事件处理了一个月，霸凌事件没有看到处理结果，但曝光霸凌、为受到霸凌者发声的李敬言却退学了。"
+    },
+    {
+      "id": "BV1zu411j7ei_p002",
+      "segment_id": "seg_002",
+      "type": "event",
+      "subject": "校方",
+      "relation": "回应称",
+      "object": "网传视频不是校园霸凌，片面说法不足为信，点击率够上刑责",
+      "cause": "校方声称视频被剪辑、对李敬言不利的都被截掉",
+      "effect": "校方回应被UP主逐条拆解为自爆式公关",
+      "original_text": "北京政法职业学院的工作人员声称：'网传的视频并非是校园霸凌，片面的说法不足为信。'还说：'他说的那些东西他有啥证据啊？'还说：'这个视频点击率都已经够上刑责了，学校不追究他已经很不错了。'"
+    },
+    {
+      "id": "BV1zu411j7ei_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "校方质疑对方证据有问题",
+      "relation": "应",
+      "object": "自己提供证据证明",
+      "cause": "全世界的法律走的是无罪推定，凡事要讲证据",
+      "effect": "校方没有任何举证材料就认定对方造谣，违反基本法律常识",
+      "original_text": "你质疑对方证据有问题，那你就需要找到对方证据有问题的地方。校方主张'他删除了对他不利的地方'——OK，这个主张非常合理，请校方拿出对方删除的、对他不利的地方的证据。这是最基本的法律常识。一个政法大学的学校，不会不懂这个东西吧。"
+    },
+    {
+      "id": "BV1zu411j7ei_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "'点击率够上刑责'",
+      "relation": "是",
+      "object": "诡辩，回避了核心问题",
+      "cause": "诽谤罪的前提是内容构成诽谤，播放量只是情节严重的认定标准",
+      "effect": "校方用播放量威胁暗示违法，但回避了视频是否捏造事实的核心问题",
+      "original_text": "只要是播放量超过500，都够上刑责的。我这期视频也可以上。然后呢？跟现在这事有关系吗？被抓去坐牢的前提是：我确实是在造谣。但是请问我是在造谣吗？请问李同学是在造谣吗？连证据都没有就敢给人定罪吗？"
+    },
+    {
+      "id": "BV1zu411j7ei_p005",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "视频中女生说'你凭什么给他出头，你是他爹啊'",
+      "relation": "可以证明",
+      "object": "这几个女生正在霸凌李敬言",
+      "cause": "女生出言侮辱、人身攻击、在学校楼道限制人身自由",
+      "effect": "校方声称对霸凌零容忍却否认这是霸凌，自相矛盾",
+      "original_text": "这几位女生在视频里面已经自爆了。就是那句'你凭什么给他出头，你是他爹啊'。现在这位同学因为拍视频，就被几位女生出言侮辱、人身攻击，在学校楼道里限制这位同学的人身自由——请问这不叫霸凌叫什么呢？"
+    },
+    {
+      "id": "BV1zu411j7ei_p006",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "校方无证据认定李敬言造谣",
+      "relation": "本身",
+      "object": "就是造谣",
+      "cause": "如果校方标准是'无证据指控=造谣'，那么校方无证据指控李敬言造谣，校方自己就是在造谣",
+      "effect": "这是一个自指悖论式的反杀",
+      "original_text": "如果校方主张的是'这位同学没有证据就认为这几个女生霸凌其他同学，算是造谣'，那么现在校方就是在造谣——因为校方也没有证据能够证明这个男同学是在造谣，但校方认定了男同学是在造谣。一旦这个李同学被作出有罪裁定，那么校方也同时会被作出有罪裁定。"
+    },
+    {
+      "id": "BV1zu411j7ei_p007",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "女生追究李敬言法律责任",
+      "relation": "无法",
+      "object": "以造谣或侵犯名誉权起诉",
+      "cause": "女方拿不出证据证明对方造谣，视频中女方在攻击李敬言",
+      "effect": "如果反诉女生基本必输",
+      "original_text": "造谣是肯定不行的了，因为女方拿不出证据证明对方造谣。侵犯名誉权也肯定不行，因为女方拍的视频，也基本都是女方在对这位同学进行攻击。你这个东西一旦拿出来作为证据，只要李同学反诉，那基本上可以认定你必输。"
+    },
+    {
+      "id": "BV1zu411j7ei_p008",
+      "segment_id": "seg_006",
+      "type": "narrative",
+      "subject": "结语",
+      "relation": "收尾",
+      "object": "本期内容结束",
+      "cause": null,
+      "effect": null,
+      "original_text": "综合以上，我还是建议有意向学法律的同学要谨慎，但是有意向学表演的，可以考虑。对校方回应的全部看法就这么多。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest→SkillZY-Knowledge-Graph-Ingest→SkillZY-Proposition-Knowledge-Graph"
+}

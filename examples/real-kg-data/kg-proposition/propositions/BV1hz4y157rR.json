@@ -1,0 +1,103 @@
+{
+  "source_id": "BV1hz4y157rR",
+  "title": "舔狗经济崩盘：消费者觉醒是另一回事，主要是不能太把人当傻子",
+  "author": "唯一讲述者",
+  "date": "2023-09-13",
+  "source_url": "https://www.bilibili.com/video/BV1hz4y157rR/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1hz4y157rR_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "李佳琦直播带货模式",
+      "relation": "导致",
+      "object": "普通人遭受双重剥削（岗位被裁+价格被抬高）",
+      "cause": "李佳琦作为头部主播形成渠道垄断，厂商为获取其直播资源而砍掉宣发部门、裁员缩薪，同时抬高价格以支付坑位费和佣金",
+      "effect": "普通打工人既失去工作岗位又没有议价权，只能接受高价商品，形成'只有普通人受伤的世界'",
+      "original_text": "一个只有普通人受伤的世界产生了。毕竟羊毛出在羊身上。"
+    },
+    {
+      "id": "BV1hz4y157rR_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "李佳琦'不努力工作'言论",
+      "relation": "构成",
+      "object": "阶级背叛的典型案例——垄断者嘲讽被自己挤掉饭碗的人",
+      "cause": "李佳琦作为渠道垄断者，通过挤掉宣发岗位、抬高商品价格获取利润，却将消费者买不起归因于不够努力",
+      "effect": "暴露了资本代言人对其造成的社会伤害毫无自觉，印证'阶级不会背叛自己的阶级'",
+      "original_text": "一个把你工作岗位搞丢的、垄断了市场的人，嘲讽你吃不饱是因为你没有努力工作。"
+    },
+    {
+      "id": "BV1hz4y157rR_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "舔狗经济崩盘",
+      "relation": "引发",
+      "object": "文化产业内容转向（从'霸道总裁'到'大女主/独立女性'）",
+      "cause": "经济下行压力下男性消费力被榨干，舔狗经济模式不可持续，资本转而向女性市场寻求增值",
+      "effect": "影视网文从PUA消费主义文案转向'独立女性'叙事，短视频开始出现'对男生好的视频'",
+      "original_text": "前几年，'秋天的第一杯奶茶'、'爱他就给他如何如何'……自打舔狗经济开始临近寿终正寝、开始全网嘲讽沸羊羊之后，好像几乎都销声匿迹了。"
+    },
+    {
+      "id": "BV1hz4y157rR_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "相亲市场",
+      "relation": "表现为",
+      "object": "纯粹的交易市场，男性被量化评估，女性被年龄和颜值衡量",
+      "cause": "相亲市场将婚姻还原为资源交换，剥离了情感和爱情的叙事包装",
+      "effect": "男方月入过万有房有车在相亲市场属于'最底层垃圾人'，女性在富二代官二代资源竞争中激烈到'大打出手都是小儿科'",
+      "original_text": "在相亲市场待久了，你会觉得所谓的婚姻只不过是一场交易，这个世界上没有所谓的爱情。"
+    },
+    {
+      "id": "BV1hz4y157rR_p005",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "月薪三四千的女性",
+      "relation": "能拿出",
+      "object": "十几万甚至几十万购买第一时间获取优质男简历的资格",
+      "cause": "相亲市场优质男性资源稀缺，形成了围绕官二代富二代的激烈竞争",
+      "effect": "资金实际来源于舔狗经济链条中的男性单向付出，形成闭环——'建议问问那些舔狗这钱是哪来的'",
+      "original_text": "有一些人为了认识那些所谓的优质男……月薪三四千的，就能拿出十几甚至几十万出来，就为了能够第一时间拿到男方的简历。"
+    },
+    {
+      "id": "BV1hz4y157rR_p006",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "资本话术",
+      "relation": "从男性消费者转向",
+      "object": "女性消费者，实现'刀落两头'的收割",
+      "cause": "男性被榨干后舔狗经济崩盘，资本的增值压力必须转移到女性市场",
+      "effect": "同一逻辑的话术反转：对男性说'不给女朋友买算什么男人'，对女性说'买不起还算独立女性'",
+      "original_text": "现在舔狗经济崩盘了，男生实在是榨不出钱来了，资本家的资本增值压力就要由女性市场来承担。"
+    },
+    {
+      "id": "BV1hz4y157rR_p007",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "资本PUA策略",
+      "relation": "采用",
+      "object": "性别分化策略——捧一方打压另一方，轮番收割",
+      "cause": "资本家不对女性直接PUA，而是通过捧杀制造认知不对称，让女性不理解男性的处境",
+      "effect": "刀没落在身上自然不痛，正如男性不理解女性痛经——资本家利用性别间的信息不对称维持消费主义话术的效力",
+      "original_text": "大多数女生是很难理解到男生有这么难的。是啊，因为这些资本家没有PUA女生啊，只需要捧着就行了。刀没落在身上自然是不会痛的。"
+    },
+    {
+      "id": "BV1hz4y157rR_p008",
+      "segment_id": "seg_005",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "结语",
+      "object": "希望大家开心，大家都是无产阶级没有必要内斗",
+      "cause": null,
+      "effect": null,
+      "original_text": "好了，那么本期就先说到这里了。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

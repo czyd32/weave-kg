@@ -1,0 +1,70 @@
+{
+  "source_id": "BV16arMBZEZ2",
+  "title": "霸王茶姬手打奶茶事件：品牌形象、拟剧理论与公关危机",
+  "author": "唯一讲述者",
+  "date": "2026-01-09",
+  "source_url": "https://www.bilibili.com/video/BV16arMBZEZ2/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV16arMBZEZ2_p1",
+      "subject": "消费者购买决策链",
+      "relation": "governs",
+      "object": "功能相近时感性决策起决定性作用",
+      "cause": "当产品功能属性接近时（如蜜雪冰城和霸王茶姬都是解馋），影响购买决策的通常是感性因素",
+      "effect": "品牌需要建立精致、高端、小资等标签来满足情感价值和身份认同，从而在消费者决策中占据优势",
+      "type": "argumentation",
+      "original_text": "当一个产品的功能属性接近时，影响购买决策的通常是感性因素。当一个产品出现精致、高端、小资等标签时，满足的是情感价值和身份认同。这可以让用户在购买产品时产生决策倾向，而恰恰感性决策在功能相近时起到决定性作用。",
+      "segment_id": "seg_01"
+    },
+    {
+      "id": "BV16arMBZEZ2_p2",
+      "subject": "品牌形象的五大功能",
+      "relation": "includes",
+      "object": "满足心理需求、表达差异化、形象溢价、用户认同、抗风险",
+      "cause": "品牌建立形象是为了给消费者一个选择自己的理由，同时通过信任积累形成护甲",
+      "effect": "当遇到风险时，积累的信任可以成为护甲帮你扛伤害——护甲叠得足够高甚至可能带反伤",
+      "type": "argumentation",
+      "original_text": "品牌建立品牌形象通常满足以下需求：第一，满足消费者的心理需求；第二，表达差异化；第三，通过形象溢价提高售价和利润；第四，让用户认同我；第五，抗风险。大家对品牌的信任是会积累的，当遇到风险时，这些积累的信任可以成为护甲帮你扛伤害。",
+      "segment_id": "seg_02"
+    },
+    {
+      "id": "BV16arMBZEZ2_p3",
+      "subject": "戈夫曼的拟剧理论",
+      "relation": "explains",
+      "object": "品牌前台与后台的严格区分——前台给观众看，后台是真实状态",
+      "cause": "社会互动的本质是舞台剧表演，个人和企业都会划分前台和后台",
+      "effect": "当后台被暴露（如店员不卫生操作），观众的认知体系瞬间崩塌，过去的信任转化为怀疑",
+      "type": "argumentation",
+      "original_text": "社会互动的本质就是一场舞台剧表演。不管是个人还是企业，都会清晰划分前台和后台。前台是用来给观众看的，是经过包装的样子；后台是卸下伪装、真实随意的状态。随之而来的是认知失衡——你之前基于品牌形象所构建的认知体系瞬间崩塌。",
+      "segment_id": "seg_03"
+    },
+    {
+      "id": "BV16arMBZEZ2_p4",
+      "subject": "霸王茶姬的危机公关策略",
+      "relation": "uses",
+      "object": "责任切割+危机降级：将食品安全事故降级为员工个人违规娱乐行为",
+      "cause": "把事件定性为员工跟风热梗、博流量拍视频的行为，强调自动化设备制茶实现人料分离",
+      "effect": "不做道歉（不承认品牌方责任），但表达震惊和愤怒的态度，有效维护了市场信心——股价回升2%",
+      "type": "argumentation",
+      "original_text": "霸王茶姬的态度倒是挺明确的：既然责任不在我这，那我就不道歉，表达一下态度也就差不多了。把这件事定性为员工跟风热梗、博流量拍视频的行为。一方面强调责任归属，另一方面也是在做危机降级——把一个可能上升到食品安全事故的严重危机，降级成一个员工个人违规娱乐的行为。",
+      "segment_id": "seg_04"
+    },
+    {
+      "id": "BV16arMBZEZ2_p5",
+      "subject": "标准化操作",
+      "relation": "should_be",
+      "object": "严格遵循而非随意改动——即使不完全理解其原理",
+      "cause": "如同程序员发现能运行的bug最好别动，因为不知道是否有别的程序依赖这个bug运行",
+      "effect": "按照标准操作规范走的数据反馈一定比随意制作的数据更高，在没有深刻洞察前不要改动",
+      "type": "argumentation",
+      "original_text": "如果你对这件事情没有深刻的洞察，能力也没有那么精深，就按照程序走，不要动它。就像一个程序员，如果你发现程序有bug但它能运行，你最好别动它，因为你不知道是不是有别的程序正在依赖这个bug运行。",
+      "segment_id": "seg_05"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

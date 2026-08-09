@@ -1,0 +1,92 @@
+{
+  "source_id": "BV18rMy6aEJq",
+  "title": "一顿操作猛如虎，一看口碑一杠五，硬刚勇哥的汉堡品牌汉某仕真行吗？",
+  "author": "唯一讲述者",
+  "date": "2026-08-05",
+  "source_url": "https://www.bilibili.com/video/BV18rMy6aEJq/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV18rMy6aEJq_p1",
+      "segment_id": "seg_1",
+      "type": "event",
+      "subject": "勇哥",
+      "relation": "被汉某氏汉堡品牌点名质疑",
+      "object": "勇哥连麦提醒台州老板加盟快招品牌风险，品牌方发视频嘲讽勇哥并宣布贴钱供应一万个汉堡",
+      "cause": null,
+      "effect": null,
+      "original_text": "勇哥凭经验告诉这个想加盟开汉堡店的老板：投钱进去一定会赔。品牌方同步发内容说勇哥鼠目寸光，并且宣布贴钱给市场供应一万个汉堡。"
+    },
+    {
+      "id": "BV18rMy6aEJq_p2",
+      "segment_id": "seg_2",
+      "type": "argumentation",
+      "subject": "泛知识垂类博主",
+      "relation": "面临通用困局",
+      "object": "你解决的问题越基础，你的名气越大，你的客户质量越低，你的风险就越高",
+      "cause": "面对纯素人小白客户，需要分散大量精力解决不重要的支线问题，且客户期待不仅是止损而是赚钱",
+      "effect": "如果不改变业务模式，客户质量会越来越低，遭遇舆情危机的概率越来越高",
+      "original_text": "你解决的问题越基础，你的名气越大，你的客户质量越低，你的风险就越高。"
+    },
+    {
+      "id": "BV18rMy6aEJq_p3",
+      "segment_id": "seg_3",
+      "type": "argumentation",
+      "subject": "汉某氏硬刚姿态",
+      "relation": "是一场加盟商预期管理表演",
+      "object": "不是给路人看的，而是安抚已有和潜在加盟商——让交过钱的人别闹，让没交钱的继续交",
+      "cause": "品牌如果认怂跑路，等于告诉其他交了19.8万的加盟商'我有问题'，必然被集体维权",
+      "effect": "品牌被架上去了不敢认怂，不得不硬刚表演",
+      "original_text": "这波汉某氏更像什么行为？为了稳住合作的老板，不得不去硬刚，去表演给那些已经掏钱或想要掏钱的老板看一下。"
+    },
+    {
+      "id": "BV18rMy6aEJq_p4",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "负性偏向",
+      "relation": "使负面事件的心理影响力持续大于正向刺激",
+      "object": "恨永远比爱来得更深刻——大脑对负面信息的处理优先级更高",
+      "cause": "演化心理学解释：对威胁信号的高度敏感关乎生存",
+      "effect": "在品牌传播中，一条负面评价的影响力往往需要多条正面评价才能抵消",
+      "original_text": "同等强度之下，负面事件或情绪的心理影响力会持续稳定地大于正向刺激。恨永远比爱来得更深刻。"
+    },
+    {
+      "id": "BV18rMy6aEJq_p5",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "黑红路线",
+      "relation": "是以牺牲品牌美誉度为代价换取知名度",
+      "object": "舆论注意力不等同于公众对品牌价值的认同，负面流量会固化成品牌记忆标签",
+      "cause": "知名度高了但美誉度低了，公众舆论事件可能固化为负面联想",
+      "effect": "西贝案例：流量很高但都是看乐子的，不会到门店消费，形成无效甚至负面流量",
+      "original_text": "想走黑红这条路，就属于'欲练此功，必先自宫'——主动减少美誉度的技能点，把省下来的技能点全点到知名度上。问题是舆论注意力不等同于公众对品牌价值的认同。"
+    },
+    {
+      "id": "BV18rMy6aEJq_p6",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "汉某氏",
+      "relation": "可能陷入负向循环",
+      "object": "网友猎奇打卡→发现落差→负性偏向加深负面记忆→二次负面传播→品牌污名化→加盟商血亏→品牌换名再来",
+      "cause": "品牌连一个直营店都没有，很难相信有供应链、品控、性价比的能力",
+      "effect": "门店盈利难度远高于制造话题，反转叙事大概率行不通",
+      "original_text": "更高概率会陷入一种循环：网友出于猎奇心态去打卡→发现跟心理预期落差比较大→开始负性偏向→品牌彻底污名化→加盟商血亏→品牌换个名再来一遍。"
+    },
+    {
+      "id": "BV18rMy6aEJq_p7",
+      "segment_id": "seg_5",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "结语",
+      "object": "等待后续发展，如有后续再分享",
+      "cause": null,
+      "effect": null,
+      "original_text": "对于这件事情，我也在等着后续，觉得很有意思。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

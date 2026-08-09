@@ -1,0 +1,180 @@
+{
+  "source_id": "BV1Gj411s7uf",
+  "title": "抓住核心问题：即使你巴黎真唱，也不能证明之前没有假唱",
+  "author": "唯一讲述者",
+  "date": "2023-12-10",
+  "source_url": "https://www.bilibili.com/video/BV1Gj411s7uf/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Gj411s7uf_p001",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "唯一讲述者",
+      "relation": "推迟评论",
+      "object": "五月天假唱事件",
+      "cause": "官方未给出定论且事件处理结果可能对文艺演出行业产生深远影响",
+      "effect": "选择等待更合适的切入角度而非急于蹭热度",
+      "original_text": "之所以热度一直没蹭，是因为确实没有太好的角度去切入。另外，目前官方对于假唱这件事还没有给出定论，我也没有办法下定论。"
+    },
+    {
+      "id": "BV1Gj411s7uf_p002",
+      "segment_id": "seg_02",
+      "type": "event",
+      "subject": "某音乐博主",
+      "relation": "举报",
+      "object": "五月天假唱",
+      "cause": null,
+      "effect": "网上出现声轨匹配度测试鉴定视频，舆论发酵",
+      "original_text": "11月30日，某音乐博主发文向消费者协会举报五月天假唱。随后网上陆续出现视频，以声轨匹配度测试的方式鉴定音准。"
+    },
+    {
+      "id": "BV1Gj411s7uf_p003",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "假唱的法律定义",
+      "relation": "界定",
+      "object": "是否使用预录内容替代现场表演",
+      "cause": "法律定义关注本质行为而非技术细节",
+      "effect": "不需要争论垫音、半开麦等术语，只需判断是否用预录内容替代现场演唱",
+      "original_text": "假演奏是指演员在演出过程中使用事先录制好的歌曲、乐曲来代替现场演奏的行为。我们只要抓住核心问题：五月天是不是使用了提前录制好的歌曲或者乐曲，来代替现场的演唱或演奏？"
+    },
+    {
+      "id": "BV1Gj411s7uf_p004",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "严正声明",
+      "relation": "没有实质意义",
+      "object": "解决假唱争议",
+      "cause": "假唱是法律问题而非道德问题，声量大不等于有理",
+      "effect": "声明只能起到姿态展示作用，无法替代法律裁决",
+      "original_text": "假唱不是一个职业道德的问题——不是谁声量大谁就有理。假唱是一个法律问题，一旦坐实假唱，是要负法律责任的。"
+    },
+    {
+      "id": "BV1Gj411s7uf_p005",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "五月天经纪公司",
+      "relation": "采用",
+      "object": "保守公关策略（提纯核心粉丝，放弃路人盘）",
+      "cause": "假唱争议无法正面回应，且互联网记忆短暂",
+      "effect": "核心粉丝得以保留，路人粉流失但商业根基不被动摇",
+      "original_text": "玩法也是几年前的那种标准玩法：放弃路人盘，选择保守打法。反正他们也不会去看演唱会，失去这些人无所谓。而互联网又是鱼的记忆，过两年基本该忘就忘了。"
+    },
+    {
+      "id": "BV1Gj411s7uf_p006",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "阿信的小作文",
+      "relation": "实施",
+      "object": "舆论转移策略",
+      "cause": "用未来（巴黎）的真唱来稀释过去（疑似假唱）的争议",
+      "effect": "公众注意力从是否假唱转移到能否唱到E6上",
+      "original_text": "潜台词就是：不管之前咋样，巴黎肯定是真唱，还要唱足E6。"
+    },
+    {
+      "id": "BV1Gj411s7uf_p007",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "E6音高",
+      "relation": "是",
+      "object": "维塔斯《奉献》最高音级别的极高音",
+      "cause": "E6在国际谱中属于哨声区域，男声极难达到",
+      "effect": "职业音乐人听到阿信声称要唱E6时感到荒谬",
+      "original_text": "维塔斯最后的那个高音部分，就是标准的国际谱E6。这玩意不叫海豚音，叫哨声。"
+    },
+    {
+      "id": "BV1Gj411s7uf_p008",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "阿信声称的E6",
+      "relation": "可能利用",
+      "object": "国内乐谱与国际谱的差异",
+      "cause": "国内乐谱中女声记谱比实际音高低一个八度",
+      "effect": "公关层面可用'技术性模糊'来为E6声明辩护",
+      "original_text": "很多年前国内的乐谱不是很标准，同一个乐谱女性唱出来就是比男性高一个八度。所以如果按照国内的乐谱换算成国际谱，也许多少能勉强沾点E6的边。"
+    },
+    {
+      "id": "BV1Gj411s7uf_p009",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "阿信",
+      "relation": "被用作",
+      "object": "弃车保帅的挡箭牌",
+      "cause": "将舆论从'五月天组合有问题'降级为'阿信个人有问题'是更优的止损策略",
+      "effect": "舆论焦点从乐队整体转移到主唱个人",
+      "original_text": "如果你是经纪公司的老板，你觉得是你旗下一整个乐队都完蛋好，还是只牺牲一个主唱就能挽救所有成员好呢？"
+    },
+    {
+      "id": "BV1Gj411s7uf_p010",
+      "segment_id": "seg_07",
+      "type": "event",
+      "subject": "五月天巴黎演唱会直播",
+      "relation": "效果不佳",
+      "object": "自证清白",
+      "cause": null,
+      "effect": "同行认为直播反而进一步暴露了问题，类似蛇哥线下自证翻车",
+      "original_text": "据一些目睹全程直播的同行的意思，这次其实基本就等于实锤了。就像之前有个吃鸡主播叫蛇哥，线下网吧自证，结果把把落地成盒是一样的。"
+    },
+    {
+      "id": "BV1Gj411s7uf_p011",
+      "segment_id": "seg_08",
+      "type": "argumentation",
+      "subject": "五月天假唱事件的公关操作",
+      "relation": "高度相似于",
+      "object": "李佳琦眉笔事件的危机降级策略",
+      "cause": "两者都通过制造次要争议点来转移公众对核心问题的注意力",
+      "effect": "公众舆论从原则性问题（假唱/阶级对立）降级为技术性问题（唱功不行/公司犯傻）",
+      "original_text": "各位好好想一想，这个操作跟价值79元眉笔那个公司的操作是不是特别的像？"
+    },
+    {
+      "id": "BV1Gj411s7uf_p012",
+      "segment_id": "seg_08",
+      "type": "argumentation",
+      "subject": "危机降级",
+      "relation": "是",
+      "object": "公关核心策略",
+      "cause": "通过制造次要可控的槽点将公众注意力从原则性问题转移到技术性问题",
+      "effect": "严重危机被降级，核心主体得以保全",
+      "original_text": "舆情从最开始的'李佳琦是阶级的敌人'变成了'花西子只是个笑话'。这波危机公关，危机降级是不是很完美？"
+    },
+    {
+      "id": "BV1Gj411s7uf_p013",
+      "segment_id": "seg_09",
+      "type": "argumentation",
+      "subject": "五月天假唱事件公关路径",
+      "relation": "遵循",
+      "object": "三阶段危机降级剧本",
+      "cause": "阿信小作文→巴黎翻车→认领F6，每一步都使舆论焦点从组合整体偏移到个人能力",
+      "effect": "五月天组合的问题逐渐从公众视野中消失",
+      "original_text": "舆论就会从'五月天假唱'变成'阿信假唱'，然后再偏移到'阿信唱功不行''被粉丝宠坏了'等等各类关于阿信本身的问题。但是'五月天这个组合的问题'会渐渐消失在大众视野中。"
+    },
+    {
+      "id": "BV1Gj411s7uf_p014",
+      "segment_id": "seg_10",
+      "type": "argumentation",
+      "subject": "巴黎真唱",
+      "relation": "不能证明",
+      "object": "之前演唱会没有假唱",
+      "cause": "A时刻的真唱与B时刻的假唱是两个独立事件，以偏概全在逻辑上属于谬误",
+      "effect": "公众不应被公关策略混淆视听，应坚持追问核心问题",
+      "original_text": "即使你巴黎演唱会全程真唱，也不能证明你之前的演唱会没有假唱。大家不要把核心问题忘掉。"
+    },
+    {
+      "id": "BV1Gj411s7uf_p015",
+      "segment_id": "seg_11",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "总结",
+      "object": "等待官方裁定并计划后续内容",
+      "cause": null,
+      "effect": null,
+      "original_text": "我们就等着看官方怎么去裁定这件事就行了。我在考虑要不要出几期视频聊一聊怎么应付家里亲戚的——包括但不限于催婚。"
+    }
+  ],
+  "proposition_count": 15,
+  "segments": 11,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

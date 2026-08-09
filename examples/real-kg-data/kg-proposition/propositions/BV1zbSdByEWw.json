@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1zbSdByEWw",
+  "title": "张雪机车的碾压式领先：张总求你少说两句吧！",
+  "author": "唯一讲述者",
+  "date": "2026-04-06",
+  "source_url": "https://www.bilibili.com/video/BV1zbSdByEWw/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1zbSdByEWw_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "舆论安全",
+      "relation": "是",
+      "object": "个人IP和品牌IP成名后最重要的安全红线",
+      "cause": "建立一个品牌可能要十年二十年，但毁掉它很可能只需要几句话",
+      "effect": "出名之后最重要的事不是如何更出名，而是如何让IP安全地活着",
+      "original_text": "在出名之前只需要考虑一件事——如何让自己出名。但在出名之后，要考虑的最重要的事情，就是如何让这个IP安全地活着。舆论安全，也就是公关的职责所在。建立一个品牌可能要十年、二十年甚至更长的时光，但毁掉它很可能只需要几句话。"
+    },
+    {
+      "id": "BV1zbSdByEWw_p02",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "事实洁癖",
+      "relation": "是",
+      "object": "技术型创始人的常见病——觉得'我说的就是事实，为什么要修饰'",
+      "cause": "在舆论场，事实如何被接收才重要，公众不会读你的心只会读你的嘴",
+      "effect": "一句话一旦出去就不再属于你，会被截成图片拆成关键词从一百个角度被解读",
+      "original_text": "有技术才华的人往往都有一种事实洁癖——就是觉得'我说的就是事实，我为什么要修饰呢？'但在舆论场，有的时候事实真的不重要。事实如何被接收才重要。公众不会读你的心，他只会读你的嘴，然后用自己的倾向去理解。"
+    },
+    {
+      "id": "BV1zbSdByEWw_p03",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "公关语义学",
+      "relation": "揭示",
+      "object": "语言天生有缝——一个单词要解释到没有任何歧义至少需要七千字限定",
+      "cause": "在采访镜头前只有几句话的机会，但对手等着你张口的那一刻",
+      "effect": "你说'一个子也没有'，对手解读成忘恩负义；你说'我们靠自己'，对手解读成忘本——你怎么说的重要，他需要你怎么被理解才重要",
+      "original_text": "语言天生就是有缝的。哪怕是一个单词，你想要把它解释到没有任何歧义、没有任何被误解的可能，也至少需要七千字来限定。你说'一个子也没有'，他就可以解读成忘恩负义。你怎么说的其实不重要，他需要你怎么被理解才重要。"
+    },
+    {
+      "id": "BV1zbSdByEWw_p04",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "人民锐评的社论",
+      "relation": "是",
+      "object": "危机公关中的定调——给所有媒体发信号：这个事可以报，但方向是这个",
+      "cause": "涉政嫌疑的选题，大媒体最稳妥的选择是不报道，剩下自媒体天下",
+      "effect": "如果没有社论定调，各地媒体选择冷处理，张雪事件可能被自媒体带向更危险的方向",
+      "original_text": "这篇社论在危机公关里就叫定调。你以为这篇社论是给公众看的吗？这篇社论是给其他所有的媒体看的。如果没有这篇社论，各地媒体在面对涉政嫌疑的选题，大概率会选择冷处理不报道。"
+    },
+    {
+      "id": "BV1zbSdByEWw_p05",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "真性情",
+      "relation": "在舆论场中",
+      "object": "如同夸跳楼的人姿势真帅——帅是真帅，但摔在地上的不是网友",
+      "cause": "网友不会替你赔钱，不会替你向资方解释，只会说'可惜了'然后把视频划走",
+      "effect": "品牌多年从图纸到赛道的心血都要为你的'很爽'买单——活着才有输出",
+      "original_text": "网友夸你真性情，就跟夸一个跳楼的人跳楼的姿势真帅一样。帅是真帅，但摔在地上的不是他们，他们不会承受代价。对于一个一夜成名的品牌来说，最重要的只有三件事：安全、安全、还是他妈的安全。活着才有输出。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 3,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

@@ -1,0 +1,103 @@
+{
+  "source_id": "BV15x3468EHV",
+  "title": "LV上海大秀遇冷：符号共识的崩塌与奢侈品的社交价值危机",
+  "author": "唯一讲述者",
+  "date": "2026-07-30",
+  "source_url": "https://www.bilibili.com/video/BV15x3468EHV/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV15x3468EHV_p1",
+      "segment_id": "seg_1",
+      "type": "event",
+      "subject": "LV上海大秀",
+      "relation": "明星和代言人集体避嫌缺席",
+      "object": "7月25日网传上海大秀冷场，定义时尚的顶层群体开始与品牌保持距离",
+      "cause": null,
+      "effect": null,
+      "original_text": "7月25日，网传LV上海大秀冷场，许多明星和代言人都没有出席。"
+    },
+    {
+      "id": "BV15x3468EHV_p2",
+      "segment_id": "seg_1",
+      "type": "argumentation",
+      "subject": "上海大秀遇冷",
+      "relation": "是真正动摇品牌根基的业务危机信号",
+      "object": "能打出'破甲真伤'——直接击穿LV核心的符号共识体系",
+      "cause": "明星的避嫌缺席意味着与LV同框的社交风险已超过身份溢价",
+      "effect": "顶层定义者缺席导致符号传导机制失灵，符号从顶层到腰部的完整链条断裂",
+      "original_text": "上海大秀遇冷这件事才真正算得上是舆情开始走向业务危机的信号。它能打出动摇品牌根基的'破甲真伤'。"
+    },
+    {
+      "id": "BV15x3468EHV_p3",
+      "segment_id": "seg_1",
+      "type": "argumentation",
+      "subject": "奢侈品受众",
+      "relation": "存在三层结构而非二元对立",
+      "object": "核心客群（顶层定义者）、向往型消费者（腰部追随者）、无关大众",
+      "cause": "奢侈品是阶级分野的产物，上层用符号标记自身，下级通过模仿向上攀爬",
+      "effect": "当模仿对象不再认可符号的社交价值时，向往型消费者也会离开",
+      "original_text": "奢侈品品牌的受众不是只有核心客群与无关大众的二元对立。这里边还有一大部分特别重要的客户——向往型消费者。"
+    },
+    {
+      "id": "BV15x3468EHV_p4",
+      "segment_id": "seg_2",
+      "type": "argumentation",
+      "subject": "二奢市场",
+      "relation": "对LV争议呈现三阶段反应",
+      "object": "第一阶段蹭热度卖货→第二阶段压价套利→第三阶段传播信号扩散形成路径依赖",
+      "cause": "第一阶段负面只停留在情绪层面；第二阶段圈层内部松动后商家利用预期差压价；第三阶段当商家统一压价时，全市场真实变现价值同步下移",
+      "effect": "消费者买入价接近公价，卖出时回收价已对折，保值变成入手即亏",
+      "original_text": "当商家统一以舆情为由开始压低回收价，这算不算全市场的真实变现价值在同步下移呢？消费者买的时候还是接近于公价的水平，想卖的时候发现回收价已经打了个对折。"
+    },
+    {
+      "id": "BV15x3468EHV_p5",
+      "segment_id": "seg_3",
+      "type": "argumentation",
+      "subject": "LV公关策略",
+      "relation": "从沉默转向主动回应",
+      "object": "通过'起诉小区窗花'辟谣热搜完成议题置换，借法院第三方权威输出核心口径",
+      "cause": "上海大秀遇冷后品牌感到难受，此前两个月的沉默策略已失效",
+      "effect": "辟谣完成了事实层面的定性（霸权维权为不实谣言）和议题置换（用新话题覆盖旧话题）",
+      "original_text": "这两个词条本身就是公关部门主动配合相关部门放出来的。这个热搜其实完成了两个操作：一个是事实层面的定性，第二个操作就是借第三方之口去输出品牌一直想要传递的核心口径。"
+    },
+    {
+      "id": "BV15x3468EHV_p6",
+      "segment_id": "seg_3",
+      "type": "argumentation",
+      "subject": "LV业绩会回应",
+      "relation": "是品牌首次在全球层面主动接下舆论议题",
+      "object": "三句话术：守住全球品牌底线立场、将中国维权纳入全球统一动作范畴、避免进一步刺激公众情绪",
+      "cause": "被质疑'文化霸权'和'双重标准'，需要给合作方提供避险台阶",
+      "effect": "给所有合作方提供统一合规叙事作为安全解释逻辑，但只能延缓症状无法扭转负面趋势",
+      "original_text": "这场回应本身就是一个很有信号意义的转折点。这套话术最大的价值，就是在给圈层内部的合作方、中间商一个避险的台阶。"
+    },
+    {
+      "id": "BV15x3468EHV_p7",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "符号共识",
+      "relation": "具有单向性",
+      "object": "信心的修复永远慢于信心的崩塌",
+      "cause": "信念的建立需要几十年坚持，崩塌可能只需要几个月或几天",
+      "effect": "消费者贬值预期、二奢商家压价操作、明星圈风险预判三者形成负反馈循环的路径依赖",
+      "original_text": "这种符号的共识有一个单向性——信心的修复永远慢于信心的崩塌。信念的建立需要几十年的坚持，但崩塌真的可能只需要几个月或者几天。"
+    },
+    {
+      "id": "BV15x3468EHV_p8",
+      "segment_id": "seg_5",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "结语",
+      "object": "LV的公关手段只能带来情绪修复，价值下行的结果没有改变",
+      "cause": null,
+      "effect": null,
+      "original_text": "LV现在做的，在我看来就是用公关手段带来一次情绪修复，但它价值下行的结果没有改变。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

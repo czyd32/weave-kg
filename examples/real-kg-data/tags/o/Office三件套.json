@@ -1,0 +1,12 @@
+{
+  "name": "Office三件套",
+  "aliases": [
+    "Excel",
+    "PPT",
+    "Word"
+  ],
+  "usage_count": 1,
+  "sources": [
+    "Koji_Agent_Harness_自进化时代"
+  ]
+}

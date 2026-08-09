@@ -1,0 +1,184 @@
+{
+  "description": "已退役/合并的共识簇存档，不参与匹配管道",
+  "updated": "2026-08-09",
+  "total_archived": 4,
+  "clusters": [
+    {
+      "cluster_id": "c_03",
+      "label": "上下文管理与记忆机制",
+      "status": "directional_consensus",
+      "representative": "上下文管理是 Agent 产品体验的第一性瓶颈。记忆不稳定是当前产品的核心痛点，多层次记忆架构是公认方向，但实现方案尚未收敛。",
+      "source_diversity": 8,
+      "proposition_count": 0,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_Agent_Harness_解构",
+        "Koji_Paperboy_人机协作",
+        "Koji_百融智能_硅基员工_破局",
+        "Koji_高手用AI方法论上",
+        "Koji_黑巅48小时_7位选手"
+      ],
+      "tags": [
+        "Claude Code",
+        "Token",
+        "上下文管理",
+        "产品经理",
+        "产品设计",
+        "压缩策略",
+        "技术周期",
+        "源码泄露",
+        "记忆机制"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "3.1",
+          "label": "记忆不稳定性——当前核心痛点",
+          "angle": "用户体验",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "3.2",
+          "label": "企业级上下文管理",
+          "angle": "企业落地",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "3.3",
+          "label": "Token 作为上下文的经济约束",
+          "angle": "成本约束",
+          "proposition_count": 3
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "记忆不稳定是当前 Agent 体验的首要痛点",
+          "source_count": 4,
+          "strength": "high"
+        },
+        {
+          "claim": "多层次记忆（短期/长期/工作记忆）是解决方向",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "企业上下文管理是 AI 落地的隐性瓶颈",
+          "source_count": 5,
+          "strength": "high"
+        }
+      ],
+      "conflicts": [
+        {
+          "topic": "知识库的价值",
+          "view_a": "个人知识库停更，Agent 已接管",
+          "view_b": "企业必须建结构化知识库",
+          "resolution": "层次差异：个人层面 Agent 记忆足够；企业层面 Agent 无私有数据，必须主动建设"
+        },
+        {
+          "topic": "上下文注入策略",
+          "view_a": "越多越好（给 AI 完整信息）",
+          "view_b": "精准注入（避免噪音和 Token 浪费）",
+          "resolution": "未形成共识，依赖具体场景"
+        }
+      ],
+      "best_judgment": [
+        "记忆稳定性是 Agent 产品从玩具到工具的临界点",
+        "多层次记忆（会话级→项目级→用户级）是架构方向，但工程实现复杂度高",
+        "企业上下文的翻译（FDE 角色）比技术实现更重要——组织问题大于技术问题",
+        "个人 vs 企业的知识管理策略完全不同，不可混为一谈"
+      ],
+      "gaps": [
+        "多层次记忆的工程实现方案",
+        "上下文压缩与保真度的平衡",
+        "跨会话记忆的标准化"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 9 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 2 条命题，1 个新来源",
+            "new_sources": [
+              "Koji_Agent_Harness_解构"
+            ],
+            "proposition_delta": 2,
+            "source_diversity_delta": 1
+          }
+        ]
+      },
+      "id": "c_03"
+    },
+    {
+      "id": "c_15",
+      "label": "社科小簇：最佳公关策略相关",
+      "description": "从 6 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 0,
+      "source_ids": [],
+      "representatives": [],
+      "tags": [],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_15",
+      "status": "merged",
+      "merged_into": "c_57"
+    },
+    {
+      "id": "c_20",
+      "label": "社科小簇：'推极'策略相关",
+      "description": "从 5 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 0,
+      "source_ids": [],
+      "representatives": [],
+      "tags": [],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_20",
+      "status": "merged",
+      "merged_into": "c_57"
+    },
+    {
+      "id": "c_54",
+      "label": "社科小簇：日用百货/食品副食品相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 0,
+      "source_ids": [
+        "BV1JJ4m1Y7mc",
+        "BV1VUmqYQEph"
+      ],
+      "representatives": [
+        "日用百货/食品副食品 | 具有 | 低价格+高销量特征",
+        "化妆品/服装等 | 与...相似 | 食品副食品的生产配送流程",
+        "品牌调性 | 必须与 | 目标受众亲近——卖零食的面对普通老百姓，形象必须亲民"
+      ],
+      "tags": [
+        "快递新规",
+        "快递公司",
+        "快递员",
+        "快递新规（2024年3月1日起）",
+        "快递擅自放在末端服务站",
+        "配送流程",
+        "日用百货",
+        "食品副食品",
+        "低价格高销量",
+        "品牌调性",
+        "目标受众",
+        "亲民形象",
+        "快消品"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_54"
+    }
+  ]
+}

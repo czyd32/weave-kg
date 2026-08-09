@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1GMjm6cE4K",
+  "title": "父亲节广告翻车：消费社会里，父亲是最安全冒犯对象",
+  "author": "唯一讲述者",
+  "date": "2026-06-23",
+  "source_url": "https://www.bilibili.com/video/BV1GMjm6cE4K/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1GMjm6cE4K_p1",
+      "segment_id": "seg_1",
+      "type": "event",
+      "subject": "宁波城隍庙商圈和李维斯",
+      "relation": "父亲节广告翻车",
+      "object": "商圈大屏放'吃的东西掉地上洗一下给你爸吃'，李维斯海报聚焦女士牛仔裤臀部特写作为父亲节献礼",
+      "cause": null,
+      "effect": null,
+      "original_text": "宁波某城隍庙商圈在大屏上放了一个宣传广告，说'吃的东西掉地上了，洗一下给你爸吃啊'。李维斯联合某猫在官方旗舰店发了一个营销海报，画面中心聚焦的是牛仔裤臀部特写。"
+    },
+    {
+      "id": "BV1GMjm6cE4K_p2",
+      "segment_id": "seg_2",
+      "type": "argumentation",
+      "subject": "品牌在父亲节敢冒犯父亲",
+      "relation": "因为男性群体的消费话语权和舆论敏感度被市场认为远低于女性",
+      "object": "冒犯父亲的风险成本被计算为可接受",
+      "cause": "女性是主要购买决策者，冒犯女性的品牌会立刻滑跪并追究责任",
+      "effect": "父亲节广告翻车后品牌静默下架、关评论、当作无事发生",
+      "original_text": "为什么品牌通常敢在父亲节这样搞，但妇女节、母亲节一旦出了争议就会马上滑跪？因为男性群体的消费话语权和舆论敏感度被市场普遍认为远低于女性群体。"
+    },
+    {
+      "id": "BV1GMjm6cE4K_p3",
+      "segment_id": "seg_3",
+      "type": "argumentation",
+      "subject": "品牌内部市场部门与品牌部门",
+      "relation": "KPI完全割裂",
+      "object": "电商团队考核商品交易额和转化率，品牌总部考核调性维护和舆情风险",
+      "cause": "父亲节只是平台免费流量标签，电商团队优先任务是用此标签消化女装库存",
+      "effect": "父亲或男性角色在父亲节营销中只是一个'吉祥物'",
+      "original_text": "这两个部门的绩效考核指标，很多时候在实践过程中是完全割裂的。对于电商运营团队而言，父亲节只是平台给到的免费流量标签。"
+    },
+    {
+      "id": "BV1GMjm6cE4K_p4",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "USP理论",
+      "relation": "要求广告传递单一清晰的核心利益",
+      "object": "多诉求叠加只会互相消解",
+      "cause": "父亲节广告同时叠加了'讨好女性消费者'和'致敬父亲'两个矛盾诉求",
+      "effect": "广告翻车后，讨好女性的诉求被识别，致敬父亲流于形式",
+      "original_text": "一个有效的广告必须传递单一、清晰的核心利益，多诉求叠加只会互相消解。"
+    },
+    {
+      "id": "BV1GMjm6cE4K_p5",
+      "segment_id": "seg_5",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "结语",
+      "object": "父亲在消费社会里是最安全的冒犯对象",
+      "cause": null,
+      "effect": null,
+      "original_text": "父亲节广告翻车：消费社会里，父亲是最安全冒犯对象。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

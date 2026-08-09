@@ -1,0 +1,2493 @@
+{
+  "kg_id": "kg-proposition",
+  "generated": "BGE-M3 agglomerative clustering, threshold=0.44",
+  "total_clusters": 62,
+  "total_propositions": 2290.0,
+  "total_sources": 115,
+  "clusters": [
+    {
+      "cluster_id": "c_01",
+      "label": "Agent 范式：从工具到劳动力",
+      "status": "strong_consensus",
+      "representative": "AI 不是传统软件工具，而是劳动力。企业应像管理新员工一样管理 AI，而非像部署软件一样部署 AI。",
+      "source_diversity": 10,
+      "proposition_count": 32,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_Agent_Harness_解构",
+        "Koji_FDE_AI_劳动力",
+        "Koji_Paperboy_人机协作",
+        "Koji_百融智能_硅基员工_破局",
+        "Koji_高手用AI方法论上",
+        "Koji_黄碧薇_因果世界模型_第四条路线",
+        "Koji_黑巅48小时_7位选手"
+      ],
+      "tags": [
+        "0人公司",
+        "10倍提效",
+        "AI",
+        "AI for science",
+        "AI时代",
+        "ATM机",
+        "Agent",
+        "Agent工具",
+        "Andrej Karpathy",
+        "CLI",
+        "FDE",
+        "FOMO",
+        "HRBP",
+        "Infra",
+        "Manus",
+        "OS",
+        "SOTA",
+        "SaaS",
+        "Taste",
+        "Vibe Coding",
+        "build in public",
+        "decade",
+        "generalist",
+        "learning",
+        "work-life balance",
+        "一人公司",
+        "上下文",
+        "产品替代",
+        "人才供需",
+        "人机分工",
+        "人类权利",
+        "人类觉醒",
+        "代码",
+        "价值观反思",
+        "价值转移",
+        "企业落地",
+        "优先级",
+        "供给变化",
+        "信息传递",
+        "具身智能",
+        "内驱力",
+        "决策",
+        "创业",
+        "创业机会",
+        "创造",
+        "动词",
+        "历史演变",
+        "反常识",
+        "商业模式",
+        "坑",
+        "大学教育",
+        "小程序",
+        "小红书",
+        "就业",
+        "工作流程重构",
+        "工具",
+        "工具设计",
+        "微信",
+        "总部",
+        "技术占比",
+        "技术变革",
+        "技能",
+        "排序",
+        "提效",
+        "提问能力",
+        "支付",
+        "教育",
+        "数字员工",
+        "文艺复兴",
+        "时代年龄",
+        "暴论",
+        "替代",
+        "未来预测",
+        "案例",
+        "模型",
+        "沙箱",
+        "渗透",
+        "激励",
+        "独立开发",
+        "王一鹏",
+        "生产关系",
+        "生产力",
+        "生活目标",
+        "用户视角",
+        "田渊栋",
+        "电机蒸汽机类比",
+        "白领工作",
+        "目标设定",
+        "知识广度",
+        "知识贬值",
+        "硅碳比",
+        "竞争壁垒",
+        "组织变革",
+        "经验",
+        "职业探索",
+        "育儿",
+        "蒸馏",
+        "行业状态",
+        "解放人",
+        "记忆",
+        "赋能型",
+        "路径选择",
+        "通信网络",
+        "通才",
+        "隐喻",
+        "需求变化",
+        "预测",
+        "飞书",
+        "黑客松"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "1.1",
+          "label": "AI = 劳动力，非工具",
+          "angle": "范式定义",
+          "proposition_count": 4
+        },
+        {
+          "sub_id": "1.2",
+          "label": "数字员工的 onboarding 范式",
+          "angle": "落地实践",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "1.3",
+          "label": "范式转移的认知拐点",
+          "angle": "历史视角",
+          "proposition_count": 3
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "AI 应从工具重新定义为劳动力/员工",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "企业需要新的 AI 员工管理角色（FDE/HRBP）",
+          "source_count": 2,
+          "strength": "medium"
+        },
+        {
+          "claim": "中国 AI 认知在 2025 春节前后发生质变",
+          "source_count": 2,
+          "strength": "high"
+        }
+      ],
+      "conflicts": [],
+      "best_judgment": [
+        "AI 的劳动力属性已是行业共识，不再是争议性观点",
+        "数字员工的 onboarding 流程是 AI 落地企业的关键瓶颈——不是技术问题，是组织问题",
+        "FDE（前置部署工程师）是新兴岗位，负责翻译业务需求为 AI 工作流",
+        "硅碳比是一个可量化的北极星指标，但尚未成为行业标准"
+      ],
+      "gaps": [
+        "FDE 岗位的标准化",
+        "硅碳比的行业推广",
+        "数字员工的离职场景"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 8 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 52 条命题，8 个新来源",
+            "new_sources": [
+              "Koji_Agent_Harness_解构",
+              "Koji_FDE_AI_劳动力",
+              "Koji_AI投资观察与创业方向思考_下",
+              "Koji_Paperboy_人机协作",
+              "Koji_AI时代什么值得学",
+              "Koji_Agent_Harness_自进化时代",
+              "Koji_黑巅48小时_7位选手",
+              "Koji_高手用AI方法论上"
+            ],
+            "proposition_delta": 52,
+            "source_diversity_delta": 8
+          }
+        ]
+      },
+      "id": "c_01"
+    },
+    {
+      "cluster_id": "c_02",
+      "label": "Agent Harness 架构模式",
+      "status": "strong_consensus",
+      "representative": "Agent Harness = LLM（大脑）+ Harness（手脚）的分离架构。Harness 层的核心设计原则是 CLI-first、Unix 哲学组合、多 Agent 协作，自进化是终局方向。",
+      "source_diversity": 9,
+      "proposition_count": 11,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_Agent_Harness_解构",
+        "Koji_FDE_AI_劳动力",
+        "Koji_Paperboy_人机协作",
+        "Koji_高手用AI方法论上",
+        "Koji_黄碧薇_因果世界模型_第四条路线",
+        "Koji_黑巅48小时_7位选手"
+      ],
+      "tags": [
+        "AGI",
+        "Aether AI",
+        "Agent Harness",
+        "Agentic能力",
+        "Anthropic",
+        "Bash is all you need",
+        "CLI",
+        "ChatGPT",
+        "Claude Code",
+        "FDE",
+        "KV Cache",
+        "LLM",
+        "LoRA",
+        "M2.7",
+        "MCP",
+        "Manus",
+        "MiniMax",
+        "Multi-Agent",
+        "Mythos",
+        "NLP",
+        "Node graph",
+        "OEM",
+        "OpenAI",
+        "PE",
+        "PEFT",
+        "RAG",
+        "RL",
+        "Scaling Law",
+        "Token",
+        "Unix哲学",
+        "cross-check",
+        "hallucination",
+        "memory",
+        "offload",
+        "pattern matching",
+        "scale up",
+        "skills",
+        "upside",
+        "三层架构",
+        "上下文",
+        "上下文重置",
+        "人成为瓶颈",
+        "任务成功率",
+        "信息密度",
+        "偏航",
+        "共识",
+        "具身智能",
+        "创业",
+        "创业决策",
+        "反思",
+        "反模式",
+        "商业模式",
+        "因果AI",
+        "多Agent",
+        "天花板",
+        "定义",
+        "工具",
+        "工程实践",
+        "思想实验",
+        "执行能力",
+        "抽象演进",
+        "推理",
+        "效率",
+        "数据效率",
+        "数据量",
+        "更新换代",
+        "机甲",
+        "权限",
+        "架构设计",
+        "模型",
+        "模型能力",
+        "正交",
+        "治理",
+        "派系",
+        "生命周期",
+        "相关性",
+        "真实世界连接",
+        "竞争",
+        "算力",
+        "组织效率",
+        "组网",
+        "编排",
+        "能力上限",
+        "自动化",
+        "自包含闭环",
+        "自洽",
+        "自进化",
+        "设计标准",
+        "质量提升",
+        "路径依赖",
+        "钻牛角尖",
+        "长程任务",
+        "隐喻",
+        "预训练"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "2.1",
+          "label": "Harness 的定义与架构分离",
+          "angle": "架构设计",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "2.2",
+          "label": "CLI-first 与 Unix 哲学",
+          "angle": "交互范式",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "2.3",
+          "label": "Multi-Agent 与自进化",
+          "angle": "系统演进",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "2.4",
+          "label": "Token 经济学",
+          "angle": "成本约束",
+          "proposition_count": 3
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "LLM 与 Harness 应分离架构",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "CLI 是 Agent 的最优交互形态",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "Multi-Agent 协作是必然趋势",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "自进化是 Agent 的终局方向",
+          "source_count": 2,
+          "strength": "medium"
+        }
+      ],
+      "conflicts": [
+        {
+          "topic": "Agent 交互形态",
+          "view_a": "CLI-first（Hermes/ShareAI）",
+          "view_b": "自然语言/IM（OpenClaw）",
+          "resolution": "非矛盾，层次不同：CLI 是 power user 的高效接口，IM 是降低门槛的入口。两者互补"
+        },
+        {
+          "topic": "Harness 是否应开源",
+          "view_a": "开源（Hermes Agent）",
+          "view_b": "闭源商业化（多数产品）",
+          "resolution": "商业模式差异，非技术冲突"
+        }
+      ],
+      "best_judgment": [
+        "LLM + Harness 分离架构是行业共识，模型层和应用层解耦是必然趋势",
+        "CLI-first 是 Agent 交互的最优范式，但需要 IM/自然语言作为降低门槛的入口",
+        "自进化是 Agent 的终极方向，但当前仍在工具调用和记忆管理的早期阶段"
+      ],
+      "gaps": [
+        "自进化的工程实现方案",
+        "Multi-Agent 协作的标准化协议",
+        "CLI 与 GUI 的融合路径"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 5 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 34 条命题，4 个新来源",
+            "new_sources": [
+              "Koji_黄碧薇_因果世界模型_第四条路线",
+              "Koji_Agent_Harness_解构",
+              "Koji_FDE_AI_劳动力",
+              "Koji_Agent_Harness_自进化时代"
+            ],
+            "proposition_delta": 34,
+            "source_diversity_delta": 4
+          }
+        ]
+      },
+      "id": "c_02"
+    },
+    {
+      "cluster_id": "c_04",
+      "label": "人机协作角色模型",
+      "status": "directional_consensus",
+      "representative": "人机协作的最佳形态是移动的球门——永远不会被最终发明，只能持续逼近。AI 的角色从辅助者向执行者演化，但人类的判断力和方向感仍是不可替代的核心价值。",
+      "source_diversity": 10,
+      "proposition_count": 21,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_Agent_Harness_解构",
+        "Koji_FDE_AI_劳动力",
+        "Koji_Paperboy_人机协作",
+        "Koji_百融智能_硅基员工_破局",
+        "Koji_高手用AI方法论上",
+        "Koji_黄碧薇_因果世界模型_第四条路线",
+        "Koji_黑巅48小时_7位选手"
+      ],
+      "tags": [
+        "AI",
+        "AI+人",
+        "AI使用心法",
+        "AI创业",
+        "Agent Infra",
+        "ChatGPT",
+        "Claude Code",
+        "Codex",
+        "FDE",
+        "Harness层",
+        "Hermes Agent",
+        "Manager Agents",
+        "OpenClaw",
+        "PMF",
+        "Paperboy",
+        "WorkBuddy",
+        "toB",
+        "一线",
+        "产品创新",
+        "人才",
+        "人机协作",
+        "从自己出发",
+        "创业",
+        "创始人",
+        "动机",
+        "善意",
+        "基础设施",
+        "店长",
+        "成功率",
+        "技术周期",
+        "摩擦",
+        "擅长",
+        "收购",
+        "新岗位",
+        "比较优势",
+        "热情",
+        "焦虑",
+        "独立",
+        "瓶颈",
+        "目标",
+        "真实需求",
+        "管理",
+        "约束",
+        "经验法则",
+        "赋能",
+        "高手思维"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "4.1",
+          "label": "Moving Goal Post——协作形态的持续演化",
+          "angle": "演化视角",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "4.2",
+          "label": "AI 的三层角色模型",
+          "angle": "角色定位",
+          "proposition_count": 4
+        },
+        {
+          "sub_id": "4.3",
+          "label": "人类不可替代的核心价值",
+          "angle": "人类价值",
+          "proposition_count": 4
+        },
+        {
+          "sub_id": "4.4",
+          "label": "协作的实践模式",
+          "angle": "实践方法",
+          "proposition_count": 3
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "人机协作是持续演化过程，无终点",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "人类判断力/方向感不可替代",
+          "source_count": 5,
+          "strength": "high"
+        },
+        {
+          "claim": "AI 角色从辅助→执行→自主逐步升级",
+          "source_count": 4,
+          "strength": "high"
+        },
+        {
+          "claim": "实战磨合优于理论学习",
+          "source_count": 3,
+          "strength": "medium"
+        }
+      ],
+      "conflicts": [
+        {
+          "topic": "AI 自主程度",
+          "view_a": "AI 应保持人在环内",
+          "view_b": "AI 应追求完全自主",
+          "resolution": "场景依赖：高风险决策需人在环内，重复性任务可全自主"
+        },
+        {
+          "topic": "培训方式",
+          "view_a": "系统学习经典",
+          "view_b": "直接实战磨合",
+          "resolution": "互补：经典建立框架，实战培养直觉"
+        }
+      ],
+      "best_judgment": [
+        "人机协作没有最佳形态——随着模型能力提升，协作方式必然持续演化",
+        "人的核心价值 = 判断力 + 方向感 + 元认知——这些能力 AI 短期内无法替代",
+        "AI 的角色光谱：辅助者（coach）→ 协作者（copilot）→ 执行者（agent）→ 自主者（autonomous agent）",
+        "最有效的协作模式 = 人定方向 + AI 执行 + 人审核结果"
+      ],
+      "gaps": [
+        "AI 自主程度的安全边界",
+        "人机协作的评估指标体系",
+        "不同行业的协作模式差异"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 7 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 19 条命题，7 个新来源",
+            "new_sources": [
+              "Koji_Agent_Harness_解构",
+              "Koji_FDE_AI_劳动力",
+              "Koji_AI投资观察与创业方向思考_下",
+              "Koji_Paperboy_人机协作",
+              "Koji_AI时代什么值得学",
+              "Koji_Agent_Harness_自进化时代",
+              "Koji_高手用AI方法论上"
+            ],
+            "proposition_delta": 19,
+            "source_diversity_delta": 7
+          }
+        ]
+      },
+      "id": "c_04"
+    },
+    {
+      "cluster_id": "c_05",
+      "label": "企业 AI 落地瓶颈与路径",
+      "status": "directional_consensus",
+      "representative": "企业 AI 落地的主要瓶颈不是技术，是组织。传统企业主处于 FOMO 焦虑中——知道必须做 AI，但不知道从哪开始、谁来负责、如何衡量。",
+      "source_diversity": 8,
+      "proposition_count": 12,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_FDE_AI_劳动力",
+        "Koji_Paperboy_人机协作",
+        "Koji_百融智能_硅基员工_破局",
+        "Koji_高手用AI方法论上",
+        "Koji_黄碧薇_因果世界模型_第四条路线"
+      ],
+      "tags": [
+        "AI落地",
+        "IT Governance",
+        "人才",
+        "企业服务",
+        "拦路虎",
+        "数据壁垒",
+        "管理",
+        "组织变革",
+        "过程正义",
+        "降本增效"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "5.1",
+          "label": "FOMO 焦虑——知道要做，不知怎么做",
+          "angle": "企业心理",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "5.2",
+          "label": "AI 落地 = 组织变革，非技术部署",
+          "angle": "组织视角",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "5.3",
+          "label": "数据壁垒与上下文鸿沟",
+          "angle": "数据视角",
+          "proposition_count": 4
+        },
+        {
+          "sub_id": "5.4",
+          "label": "降本增效的实践路径",
+          "angle": "实践路径",
+          "proposition_count": 4
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "企业 AI 落地瓶颈是组织而非技术",
+          "source_count": 5,
+          "strength": "high"
+        },
+        {
+          "claim": "企业私有数据是 AI 化的核心壁垒",
+          "source_count": 4,
+          "strength": "high"
+        },
+        {
+          "claim": "传统企业主普遍存在 FOMO 焦虑",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "需要 AI 员工管理的新角色和流程",
+          "source_count": 3,
+          "strength": "medium"
+        }
+      ],
+      "conflicts": [
+        {
+          "topic": "落地路径",
+          "view_a": "自上而下（CEO 推动，百融模式）",
+          "view_b": "自下而上（一线员工自发使用）",
+          "resolution": "互补：战略层自上而下，执行层自下而上"
+        },
+        {
+          "topic": "先做什么",
+          "view_a": "降本（自动化重复工作）",
+          "view_b": "增效（赋能核心业务）",
+          "resolution": "短期降本见效快，长期增效是壁垒"
+        }
+      ],
+      "best_judgment": [
+        "AI 落地首先是组织变革问题——技术方案成熟，但组织流程、人才结构、考核机制需同步变革",
+        "硅碳比是一个有效的北极星指标，值得推广",
+        "FDE/Business Builder 是连接 AI 技术与业务需求的关键角色",
+        "企业私有数据 + 上下文 = AI 化的核心壁垒，比模型选择更重要",
+        "从黑灯办公室（自动化）起步，逐步升级到 AI 原生组织"
+      ],
+      "gaps": [
+        "硅碳比的跨行业验证",
+        "FDE 角色的标准化",
+        "AI 原生组织的定义和评估"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 7 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 1 条命题，1 个新来源",
+            "new_sources": [
+              "Koji_FDE_AI_劳动力"
+            ],
+            "proposition_delta": 1,
+            "source_diversity_delta": 1
+          }
+        ]
+      },
+      "id": "c_05"
+    },
+    {
+      "cluster_id": "c_06",
+      "label": "AI 时代的认知与学习策略",
+      "status": "directional_consensus",
+      "representative": "AI 时代的学习策略从记忆知识转向建立认知框架 + 与 AI 高效协作。经典教材提供底层逻辑锚点，实战磨合培养直觉，AI 负责信息检索和初步分析。",
+      "source_diversity": 8,
+      "proposition_count": 24,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_Agent_Harness_解构",
+        "Koji_FDE_AI_劳动力",
+        "Koji_高手用AI方法论上",
+        "Koji_黄碧薇_因果世界模型_第四条路线",
+        "Koji_黑巅48小时_7位选手"
+      ],
+      "tags": [
+        "Physical AI",
+        "build in public",
+        "skill",
+        "信息消费",
+        "内容创作",
+        "反常识",
+        "学习方法论",
+        "泡沫",
+        "独立开发",
+        "知识管理",
+        "经验法则",
+        "隐性知识"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "6.1",
+          "label": "经典教材的不可替代性",
+          "angle": "教育视角",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "6.2",
+          "label": "AI 带偏的三种模式",
+          "angle": "风险视角",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "6.3",
+          "label": "学习方式的演化",
+          "angle": "方法视角",
+          "proposition_count": 4
+        },
+        {
+          "sub_id": "6.4",
+          "label": "知识管理的个人 vs 企业悖论",
+          "angle": "管理视角",
+          "proposition_count": 3
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "经典教材建立底层逻辑锚点，AI 无法替代",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "AI 存在讨好型偏差，默认赞成用户",
+          "source_count": 2,
+          "strength": "medium"
+        },
+        {
+          "claim": "以练代学 + 以赛代练是最有效的学习方式",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "个人知识库维护成本 > 收益",
+          "source_count": 3,
+          "strength": "high"
+        }
+      ],
+      "conflicts": [
+        {
+          "topic": "知识库策略",
+          "view_a": "个人知识库已停更，Agent 已接管",
+          "view_b": "企业必须建结构化知识库作为 AI 弹药",
+          "resolution": "场景差异：个人层面 Agent 记忆足够；企业层面必须主动建设"
+        }
+      ],
+      "best_judgment": [
+        "经典教材的价值在认知角度，不是知识量——它们提供底层逻辑锚点",
+        "AI 的三种偏差（幻觉型/外行型/讨好型）需要人有意识地对抗",
+        "最有效的学习 = 经典打底（框架）+ 实战磨合（直觉）+ AI 辅助（效率）",
+        "个人知识库的 ROI 在 AI 时代急剧下降，但企业知识库的 ROI 在上升"
+      ],
+      "gaps": [
+        "AI 讨好型偏差的量化研究",
+        "知识库在企业中的最佳实践",
+        "AI 时代的新学习评估体系"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 7 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 3 条命题，3 个新来源",
+            "new_sources": [
+              "Koji_AI投资观察与创业方向思考_下",
+              "Koji_黑巅48小时_7位选手",
+              "Koji_高手用AI方法论上"
+            ],
+            "proposition_delta": 3,
+            "source_diversity_delta": 3
+          }
+        ]
+      },
+      "id": "c_06"
+    },
+    {
+      "cluster_id": "c_07",
+      "label": "Claude Code/Codex 产品摩擦与过度约束",
+      "status": "emerging",
+      "representative": "Claude Code 和 Codex 等主流 Agent 产品在人机协作中仍存在大量摩擦——强制实名、过度约束、源码泄露暴露的安全问题，产品趋同且缺乏突破性创新。",
+      "source_diversity": 2,
+      "proposition_count": 30,
+      "source_ids": [
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_AI投资观察与创业方向思考_下"
+      ],
+      "tags": [
+        "摩擦",
+        "安全",
+        "最佳实践",
+        "强制实名",
+        "中国式家长",
+        "Anthropic",
+        "IM",
+        "去魔法化",
+        "Codex",
+        "Claude Code",
+        "OpenClaw",
+        "产品趋同",
+        "过度约束",
+        "人机协作",
+        "Memory"
+      ],
+      "id": "c_07"
+    },
+    {
+      "cluster_id": "c_08",
+      "label": "因果世界模型：从模拟器到泛化",
+      "status": "emerging",
+      "representative": "因果世界模型通过海量因果变量训练数据构建物理规律模拟器，核心挑战在于训练数据量、算力需求和数据自循环机制，泛化条件是关键里程碑。",
+      "source_diversity": 1,
+      "proposition_count": 21,
+      "source_ids": [
+        "Koji_黄碧薇_因果世界模型_第四条路线"
+      ],
+      "tags": [
+        "因果AI",
+        "数据自循环",
+        "隐空间",
+        "因果世界模型",
+        "simulator",
+        "训练数据",
+        "因果变量",
+        "Aether AI",
+        "物理规律",
+        "LLM",
+        "Milestone",
+        "数据量",
+        "算力",
+        "反思",
+        "泛化"
+      ],
+      "id": "c_08"
+    },
+    {
+      "cluster_id": "c_09",
+      "label": "资本市场泡沫：历史规律与长期价值",
+      "status": "emerging",
+      "representative": "AI 热潮催生资本市场泡沫，但历史上 10 个泡沫有 9 个最终沉淀出长期价值。泡沫是高度信心环境的折射，不应一味否定。",
+      "source_diversity": 1,
+      "proposition_count": 37,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下"
+      ],
+      "tags": [
+        "信心",
+        "资本市场",
+        "历史",
+        "科技进步",
+        "长期价值",
+        "泡沫"
+      ],
+      "id": "c_09"
+    },
+    {
+      "cluster_id": "c_10",
+      "label": "JEPA/世界模型学术路线分歧",
+      "status": "emerging",
+      "representative": "杨立昆的 JEPA 路线、李飞飞的世界模型、Bengio 的因果 AI 代表了学术界对通向 AGI 的不同路径探索，隐空间和 Smooth Transition 是核心概念。",
+      "source_diversity": 1,
+      "proposition_count": 5,
+      "source_ids": [
+        "Koji_黄碧薇_因果世界模型_第四条路线"
+      ],
+      "tags": [
+        "Smooth Transition",
+        "因果AI",
+        "世界模型",
+        "隐空间",
+        "杨立昆",
+        "Bengio",
+        "学术共识",
+        "JEPA",
+        "李飞飞"
+      ],
+      "id": "c_10"
+    },
+    {
+      "id": "c_11",
+      "label": "社科小簇：公关最绝望的时刻相关",
+      "description": "从 8 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 34,
+      "source_ids": [
+        "BV1YF4Ge1Ekr",
+        "BV1n2UNBTEAK",
+        "BV1PVkJBeEpt",
+        "BV1Z9p9zsEdi",
+        "BV1gwptzKEdG",
+        "BV11v3izsEeb"
+      ],
+      "representatives": [
+        "公关的本质 | 是 | 花小钱办大事",
+        "公关最绝望的时刻 | 是 | 刷新闻发现自家老板上热搜了",
+        "公关的终极形态 | 就是 | 外交"
+      ],
+      "tags": [
+        "贾国龙",
+        "导致",
+        "金井正彰",
+        "公关",
+        "公关最绝望的时刻",
+        "西贝公关信",
+        "老玩家",
+        "不会因服务器问题"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_11"
+    },
+    {
+      "id": "c_12",
+      "label": "社科小簇：MTJJ的回应相关",
+      "description": "从 7 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 42,
+      "source_ids": [
+        "BV11T421e7Mv",
+        "BV1Hz421z7VD",
+        "BV1vb421E7KF",
+        "BV1qs421T7sa",
+        "BV1bS421X78C"
+      ],
+      "representatives": [
+        "MTJJ的回应 | 整体不是 | 公关文——他在拱火",
+        "MTJJ下场 | 是 | 典型的公关失败案例",
+        "新主创上台后 | 应 | 先道歉，暗戳戳甩锅给MTJJ"
+      ],
+      "tags": [
+        "需要",
+        "定义",
+        "本质是",
+        "危机公关的定位",
+        "尴尬的——危机前的工作不明显",
+        "危机后的补救能力有限",
+        "黑神话的'辱女'指控",
+        "基于断章取义或臆想的欲加之罪"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_12"
+    },
+    {
+      "id": "c_13",
+      "label": "社科小簇：唯一讲述者相关",
+      "description": "从 7 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 98,
+      "source_ids": [
+        "BV1ccwpebEDC",
+        "BV1hz4y157rR",
+        "BV1gw411k79V",
+        "BV1fN4y1b7v5",
+        "BV1GMjm6cE4K",
+        "BV1VN4y1z7yi",
+        "BV14e411R7RG"
+      ],
+      "representatives": [
+        "唯一讲述者 | 结语 | 希望你开心",
+        "唯一讲述者 | 推广 | 飞利浦泡脚桶",
+        "唯一讲述者 | 使用故意扭曲战术 | 让不喜欢的亲戚在年夜饭上被骂了半个小时"
+      ],
+      "tags": [
+        "唯一讲述者",
+        "结语",
+        "导致",
+        "希望大家开心",
+        "在第三句之前夺回话语主导权",
+        "本质是",
+        "于文亮的爆火",
+        "中美网民"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_13"
+    },
+    {
+      "id": "c_14",
+      "label": "社科小簇：快递新规相关",
+      "description": "从 7 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 15,
+      "source_ids": [
+        "BV1JJ4m1Y7mc"
+      ],
+      "representatives": [
+        "包邮商品 | 内含 | 快递费（价格每天变动）",
+        "越小众的产品 | 越会 | 为快递涨价买单",
+        "快递员 | 正在 | 消失（越来越少）"
+      ],
+      "tags": [
+        "快递新规",
+        "快递公司",
+        "快递员",
+        "快递新规（2024年3月1日起）",
+        "禁止",
+        "快递擅自放在末端服务站",
+        "快递新规违者",
+        "面临"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_14"
+    },
+    {
+      "id": "c_16",
+      "label": "社科小簇：罗小黑两位主创的圣经级发言相关",
+      "description": "从 6 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 56,
+      "source_ids": [
+        "BV1Hz421z7VD",
+        "BV1Dx4y1t7mP",
+        "BV1MtQVYXEUB",
+        "BV1vb421E7KF"
+      ],
+      "representatives": [
+        "罗小黑两位主创的圣经级发言 | 构成 | 自杀式公关——名牌杂色235直接梭哈",
+        "罗小黑政治立场问题 | 本质是 | 有罪推定",
+        "罗小黑公关 | 采用班尼特形象修复理论的 | 规避责任策略之无力控制"
+      ],
+      "tags": [
+        "可能是",
+        "需要",
+        "社会责任感和真诚态度",
+        "被构建出来的感觉",
+        "罗小黑政治立场问题",
+        "本质是",
+        "有罪推定",
+        "舆论场第一条铁律"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_16"
+    },
+    {
+      "id": "c_17",
+      "label": "社科小簇：唯一讲述者相关",
+      "description": "从 6 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 9,
+      "source_ids": [
+        "BV1Gj411s7uf"
+      ],
+      "representatives": [
+        "唯一讲述者 | 推迟评论 | 五月天假唱事件",
+        "某音乐博主 | 举报 | 五月天假唱",
+        "五月天巴黎演唱会直播 | 效果不佳 | 自证清白"
+      ],
+      "tags": [
+        "唯一讲述者",
+        "推迟评论",
+        "五月天假唱事件",
+        "某音乐博主",
+        "举报",
+        "五月天假唱",
+        "假唱的法律定义",
+        "界定"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_17"
+    },
+    {
+      "id": "c_18",
+      "label": "社科小簇：周淑怡的翻车相关",
+      "description": "从 5 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 27,
+      "source_ids": [
+        "BV11F411D7yN",
+        "BV16P411t7FG"
+      ],
+      "representatives": [
+        "周淑怡的翻车 | 源于 | 在基本盘是舔狗的情况下公开谈恋爱",
+        "周淑怡道歉信 | 犯了 | 以'我视角'做辩护的根本性错误——避重就轻且甩锅给粉丝",
+        "路人对周淑怡的负面评价 | 根源于 | '不是一家人不进一家门'的朴素逻辑——与PGOne交往证明其也是人渣"
+      ],
+      "tags": [
+        "源于",
+        "唯一讲述者",
+        "三人翻车的共同本质",
+        "德不配位——钱到位了但脑子没跟上",
+        "超级小桀的翻车",
+        "吃相过于难看——把韭菜连根拔起连土都不放过",
+        "超级小桀的复活策略",
+        "需要"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_18"
+    },
+    {
+      "id": "c_19",
+      "label": "社科小簇：刘强东送外卖+请吃火锅相关",
+      "description": "从 5 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 87,
+      "source_ids": [
+        "BV139LozqERe",
+        "BV1fqy8YNEmx",
+        "BV1AHPLeUEgu"
+      ],
+      "representatives": [
+        "刘强东送外卖+请吃火锅 | 是 | 一场精心设计的公关叙事",
+        "京东外卖五险一金 | 是成功的 | 议程设置",
+        "京东公关策略 | 从失败到成功的转变是 | 从花里胡哨到经典手法"
+      ],
+      "tags": [
+        "议程设置",
+        "第三人效应",
+        "描述",
+        "人们高估传媒对他人的影响而低估对自己的影响",
+        "刘强东送外卖+请吃火锅",
+        "一场精心设计的公关叙事",
+        "京东的双职工叙事",
+        "试图"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_19"
+    },
+    {
+      "id": "c_21",
+      "label": "社科小簇：官方蓝底通报相关",
+      "description": "从 5 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 28,
+      "source_ids": [
+        "BV1mX4y1a7pW",
+        "BV1aG411a77H",
+        "BV1UDGuzpEjN",
+        "BV1sXSuYAENQ",
+        "BV1w7UUYiEUe"
+      ],
+      "representatives": [
+        "官方蓝底通报 | 性质模糊 | 介于案情通报与事实解释之间",
+        "当事人 | 在网上发布声明质疑 | 警方通报",
+        "东西湖市监局通报 | 认定举报问题 | 「并不成立」——这是一个相对软性的中性法律判断"
+      ],
+      "tags": [
+        "导致",
+        "本质是",
+        "上海地铁女子",
+        "在七七事变纪念日发表辱华言论",
+        "被公安机关依法行政处罚",
+        "当事人",
+        "在网上发布声明质疑",
+        "警方通报"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_21"
+    },
+    {
+      "id": "c_22",
+      "label": "社科小簇：罗马仕相关",
+      "description": "从 5 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 43,
+      "source_ids": [
+        "BV1Go3FzvEet",
+        "BV1WGGtzwEEX"
+      ],
+      "representatives": [
+        "罗马仕 | 错判了 | 危机等级",
+        "罗马仕召回计划 | 陷入 | 执行悖论",
+        "罗马仕品牌危机 | 升级为 | 整个充电宝行业的震荡型危机"
+      ],
+      "tags": [
+        "事件定义权",
+        "危机公关中组织对危机性质及应对策略的解释权",
+        "罗马仕",
+        "错判了",
+        "危机等级",
+        "公关与业务的经济账",
+        "表明",
+        "50万公关费可以让10%不满意的人彻底闭嘴"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_22"
+    },
+    {
+      "id": "c_23",
+      "label": "社科小簇：邹雅琪相关",
+      "description": "从 5 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 57,
+      "source_ids": [
+        "BV1pv4y1r7yB",
+        "BV1MT411C7SS"
+      ],
+      "representatives": [
+        "邹雅琪 | 发起 | 行为艺术《重金求母》",
+        "《重金求母》海报设计 | 体现了 | 男性凝视、身份规劝和物质主义",
+        "《重金求母》 | 在消解 | 母爱的神性"
+      ],
+      "tags": [
+        "「重金求母」",
+        "说话者",
+        "艺术赏析",
+        "具有",
+        "高学习成本的门槛",
+        "现代人",
+        "被驯化",
+        "无法接受平淡内容"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_23"
+    },
+    {
+      "id": "c_24",
+      "label": "社科小簇：陈宏友相关",
+      "description": "从 5 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 16,
+      "source_ids": [
+        "BV1og4y1p78q"
+      ],
+      "representatives": [
+        "陈宏友 | 在庐江中学演讲中发表 | 「读书就是为了钱」和「和美国人杂交产生更强大后代」的言论",
+        "陈宏友的言论 | 本质是 | 物质主义下的基因论、血统论和精英主义的混合",
+        "学阀制度 | 导致 | 陈宏友这样的人能评上教授"
+      ],
+      "tags": [
+        "陈宏友的言论",
+        "陈宏友",
+        "在庐江中学演讲中发表",
+        "「读书就是为了钱」和「和美国人杂交产生更强大后代」的言论",
+        "蒋振飞",
+        "抢过话筒高声反驳",
+        "本质是",
+        "物质主义下的基因论、血统论和精英主义的混合"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_24"
+    },
+    {
+      "id": "c_25",
+      "label": "社科小簇：浪浪山宣发相关",
+      "description": "从 5 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 9,
+      "source_ids": [
+        "BV1QfbnzeEbJ"
+      ],
+      "representatives": [
+        "浪浪山宣发 | 请来 | 傅首尔和苏敏站台",
+        "浪浪山宣发部门 | 副经理级别以下 | 不知道傅首尔会来",
+        "傅首尔和苏敏 | 除了性别一样 | 立场完全相反"
+      ],
+      "tags": [
+        "面对舆情",
+        "浪浪山宣发",
+        "请来",
+        "傅首尔和苏敏站台",
+        "苏敏'猪妈妈也可以离开浪浪山'",
+        "不合时宜地",
+        "在合家欢电影场景下讲脱离家庭",
+        "浪浪山宣发部门"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_25"
+    },
+    {
+      "id": "c_26",
+      "label": "社科小簇：王乔说'用户量就在这了'相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 31,
+      "source_ids": [
+        "BV1SKqZYyEq1",
+        "BV1gwptzKEdG",
+        "BV1e5bazNEKY",
+        "BV11v3izsEeb"
+      ],
+      "representatives": [
+        "王乔说'用户量就在这了' | 构成 | 公关自杀行为",
+        "千哥大碗宽面 | 是 | 自嘲式公关的经典案例——用自嘲将恶意转化为娱乐",
+        "自证 | 是 | 六子吃粉式的公关陷阱"
+      ],
+      "tags": [
+        "西贝公关信",
+        "TGA年度最佳颁给《宇宙机器人》",
+        "转移矛盾的安全选项——既不得罪玩家也不得罪金主",
+        "媒体",
+        "观众注意力给甲方获取收益——而非内容本身",
+        "媒体-金主-观众三角闭环",
+        "甲方产品硬实力不足时媒体必须拿信誉度担保",
+        "TGA两难困境"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_26"
+    },
+    {
+      "id": "c_27",
+      "label": "社科小簇：道歉的格式相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 87,
+      "source_ids": [
+        "BV11Z421K7Fj",
+        "BV1aG411a77H",
+        "BV1sLzVYmEjn"
+      ],
+      "representatives": [
+        "道歉的格式 | 应该是 | 总分总结构：先肯定对方情绪→表达自己的错误→讲清楚反思过程→再总结收束",
+        "道歉方式 | 应当遵循 | 同态原则",
+        "法院裁定'道歉方式与误会影响范围及程度相当' | 不合理 | 同态救济原则"
+      ],
+      "tags": [
+        "存在",
+        "商业化打假的核心规则",
+        "不能有大的失误——流量经济是赢家通吃",
+        "败者只能食尘",
+        "玩车研习社的公关策略",
+        "教科书级反制",
+        "全款回收+报销费用+放弃诉讼+捐款灾区",
+        "三把刀补刀策略"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_27"
+    },
+    {
+      "id": "c_28",
+      "label": "社科小簇：滇二娃手写道歉信切割员工相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 58,
+      "source_ids": [
+        "BV1LXnAzTEjP",
+        "BV1oa43z5EZF",
+        "BV1hJJQzFELD",
+        "BV16cSaB1Eaz"
+      ],
+      "representatives": [
+        "滇二娃手写道歉信切割员工 | 导致 | 两头不讨好的局面",
+        "始祖鸟 | 发布了 | 内外不一致的道歉信",
+        "西贝道歉信 | 采取 | 姿态过高的分锅式表述"
+      ],
+      "tags": [
+        "西贝",
+        "罗永浩",
+        "导致",
+        "品牌方",
+        "不投入新信息源",
+        "舆情退潮最有效的方法",
+        "西贝道歉信",
+        "采取"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_28"
+    },
+    {
+      "id": "c_29",
+      "label": "社科小簇：黑公关通稿相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 88,
+      "source_ids": [
+        "BV1qdyABmEwV",
+        "BV17fCRYPE66",
+        "BV1qJamzoEcg"
+      ],
+      "representatives": [
+        "黑公关通稿 | 失败于 | 冲突不够激烈",
+        "王宝强事件 | 是 | 一次典型的黑公关失败案例",
+        "内部公关失败 | 源于 | 宏大叙事与生存叙事的冲突"
+      ],
+      "tags": [
+        "需要",
+        "导致",
+        "仪式性沟通",
+        "区别于工具性沟通",
+        "注重沟通行为本身而非传递信息",
+        "南极极端场景",
+        "拉大了",
+        "老板与员工之间的权力距离"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_29"
+    },
+    {
+      "id": "c_30",
+      "label": "社科小簇：电影相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 9,
+      "source_ids": [
+        "BV19C4y117oj",
+        "BV1CM411o7wY"
+      ],
+      "representatives": [
+        "张校长（电影角色） | 完全扁平 | 没有人物弧光——从开头到结尾没有任何成长变化，遇到困难就回忆丈夫",
+        "唯一讲述者 | 叠甲声明 | 讲到的张校长特指电影塑造的那个，而非现实中拥有崇高信仰的共产主义战士",
+        "电影 | 用病痛代替 | 张校长的不容易"
+      ],
+      "tags": [
+        "《我本是高山》",
+        "电影",
+        "分三类观众",
+        "阅片量300+的编剧视角→烂透了；阅片量<100不想事的观众→可以看；情侣→无所谓当暖场",
+        "文艺片",
+        "定义为",
+        "为电影市场披荆斩棘、开拓全新道路的——尝试全新技术如叙事结构（诺兰《记忆碎片》）、灯光（《教父》顶光设计）、镜头语言",
+        "典型的商业片——经典线性叙事、无创新灯光镜头、类型四不像（归入'剧情片'兜底分类）"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_30"
+    },
+    {
+      "id": "c_31",
+      "label": "社科小簇：娱乐圈公关相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 11,
+      "source_ids": [
+        "BV1XZ9xYqEmR",
+        "BV1Hz421z7VD",
+        "BV1YAkmYvEra",
+        "BV1cZ2gB7E4i"
+      ],
+      "representatives": [
+        "娱乐圈公关 | 遵循 | 黑暗森林法则",
+        "公关行为 | 不能超过 | 观众内心的预值",
+        "舞台上的每个人 | 必须遵守 | 自己的人设"
+      ],
+      "tags": [
+        "需要",
+        "白宫公开对谈",
+        "形式",
+        "大于具体内容",
+        "美式文化",
+        "核心信条是",
+        "it（先装后成）",
+        "特朗普拍泽连斯基肩膀"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_31"
+    },
+    {
+      "id": "c_32",
+      "label": "社科小簇：保护未成年人相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 68,
+      "source_ids": [
+        "BV1gMQUYWE34",
+        "BV1mX4y1a7pW",
+        "BV1Ju4y1s7VY"
+      ],
+      "representatives": [
+        "保护未成年人 | 在特定场景下是 | 正确的废话",
+        "'毕竟只是个学生' | 等同于 | '他还只是个孩子'——通过年龄为不当行为做合理化辩护",
+        "当事人使用「拘留」一词 | 可以被防守为 | 非法学专业人员的正常表述"
+      ],
+      "tags": [
+        "海底捞首次回应",
+        "犯下",
+        "站位错误——替施暴者说话",
+        "胖虎打大雄类比",
+        "揭示",
+        "品牌公关站位二元选择",
+        "保护未成年人",
+        "在特定场景下是"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_32"
+    },
+    {
+      "id": "c_33",
+      "label": "社科小簇：快递新规（2024年3月1日起）相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 13,
+      "source_ids": [
+        "BV1JJ4m1Y7mc",
+        "BV1rx421y77g"
+      ],
+      "representatives": [
+        "快递新规（2024年3月1日起） | 禁止 | 快递擅自放在末端服务站",
+        "快递新规违者 | 面临 | 最高3万元罚款",
+        "快递新规 | 规定 | 快递不得擅自放在快递站等末端服务平台，违者最高罚款3万元"
+      ],
+      "tags": [
+        "快递新规",
+        "快递公司",
+        "快递员",
+        "消费者",
+        "快递新规（2024年3月1日起）",
+        "禁止",
+        "快递擅自放在末端服务站",
+        "快递新规违者"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_33"
+    },
+    {
+      "id": "c_34",
+      "label": "社科小簇：养芒果核相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 21,
+      "source_ids": [
+        "BV1LW4y1o7tK"
+      ],
+      "representatives": [
+        "年轻人养芒果核梳毛 | 上热搜 | 被指不务正业",
+        "养芒果核 | 具有 | 解压价值，性价比高于宠物和消费解压产品",
+        "养芒果核 | 不算 | 不务正业"
+      ],
+      "tags": [
+        "养芒果核",
+        "年轻人养芒果核梳毛",
+        "上热搜",
+        "被指不务正业",
+        "UP主立场",
+        "关你屁事",
+        "具有",
+        "解压价值"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_34"
+    },
+    {
+      "id": "c_35",
+      "label": "社科小簇：BBC采访优衣库创始人相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 15,
+      "source_ids": [
+        "BV1vbzpYZEpK"
+      ],
+      "representatives": [
+        "BBC采访优衣库创始人 | 触发 | 国内舆论热搜",
+        "BBC操纵手法 | 包括 | 两版采访内容不同、30秒新疆棉问题被放大、提问与回答被调整",
+        "BBC利用优衣库发言投放 | 是 | 对国内外新疆棉问题的一次压力测试"
+      ],
+      "tags": [
+        "本质是",
+        "柳井正原话",
+        "“我们没有使用新疆棉”而非“我们不会使用新疆棉”",
+        "BBC采访优衣库创始人",
+        "触发",
+        "国内舆论热搜",
+        "BBC此次报道",
+        "拼接真相——新闻学的“上分”现象"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_35"
+    },
+    {
+      "id": "c_36",
+      "label": "社科小簇：闻神相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 19,
+      "source_ids": [
+        "BV1VN4y1z7yi"
+      ],
+      "representatives": [
+        "闻神 | 是 | 2023年底抖音平台硬造的新素人网红",
+        "闻神的人设 | 突出特征在于 | 年纪大却玩00后青春伤痛文学，形成反差清奇感",
+        "唯一讲述者 | 喜欢闻神 | 因为闻神真实的人设映射了自己想做但不敢做的事"
+      ],
+      "tags": [
+        "唯一讲述者",
+        "导致",
+        "闻神",
+        "2023年底抖音平台硬造的新素人网红",
+        "闻神的人设",
+        "突出特征在于",
+        "年纪大却玩00后青春伤痛文学",
+        "形成反差清奇感"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_36"
+    },
+    {
+      "id": "c_37",
+      "label": "社科小簇：可得性相关",
+      "description": "从 4 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 26,
+      "source_ids": [
+        "BV1VXccenEHb"
+      ],
+      "representatives": [
+        "可得性 | is | 男性在两性关系中的致命毒药",
+        "男性第一段恋情 | is_product_of | 欲望折磨到极致后被逼选择",
+        "男性理想主义宿命 | leads_to | 殉道者式牺牲与自我毁灭"
+      ],
+      "tags": [
+        "燕冬萍离婚案庭审",
+        "男方最后20秒绝杀",
+        "一味忍让",
+        "权利的进一步丢失",
+        "中国传统教育",
+        "软柿子式男性行为模板",
+        "一见钟情",
+        "对自身创伤的爱"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_37"
+    },
+    {
+      "id": "c_38",
+      "label": "社科小簇：公众判断顺序相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 149,
+      "source_ids": [
+        "BV11H4y1W7qS",
+        "BV1TLq5YSE7V",
+        "BV1eD421N7fk"
+      ],
+      "representatives": [
+        "公众判断顺序 | 是 | 好恶→立场→理性，思考是反人性的行为",
+        "道德律他 | 本质上 | 是以牺牲他人为代价来满足自己的道德感，容易滑坡到政治正确",
+        "道德观 | should_not | 以自己标准要求他人，牺牲他人利益满足自己道德目标"
+      ],
+      "tags": [
+        "钟晱晱朋友圈发文",
+        "聪明的公关策略——切割品牌与个人、封闭空间限制攻击",
+        "'怒气值'模型",
+        "解释",
+        "负面消息越多的地方怒气增长越快",
+        "越少的地方怒气消耗越快",
+        "公众判断顺序",
+        "好恶→立场→理性"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_38"
+    },
+    {
+      "id": "c_39",
+      "label": "社科小簇：焦点转移相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 56,
+      "source_ids": [
+        "BV11H4y1W7qS",
+        "BV1Qa4y1R7t8",
+        "BV1Gj411s7uf"
+      ],
+      "representatives": [
+        "焦点转移 | 是 | 危机公关的核心手段",
+        "阿信的小作文 | 实施 | 舆论转移策略",
+        "转转的公关道歉函 | 是 | 非常标准的危机公关模板"
+      ],
+      "tags": [
+        "转转",
+        "唯一讲述者",
+        "钟晱晱朋友圈发文",
+        "聪明的公关策略——切割品牌与个人、封闭空间限制攻击",
+        "'怒气值'模型",
+        "解释",
+        "负面消息越多的地方怒气增长越快",
+        "越少的地方怒气消耗越快"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_39"
+    },
+    {
+      "id": "c_40",
+      "label": "社科小簇：旺仔小乔的演唱会相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 45,
+      "source_ids": [
+        "BV11w4m117YV",
+        "BV11PbQzkELN"
+      ],
+      "representatives": [
+        "旺仔小乔的演唱会 | 引发 | 三个争议：票价近一线歌手、蒙面形式不被认可、原创歌曲占比极低",
+        "演唱会 | 是 | 网红到歌手身份跃迁的门票——商业价值标签的根本转变",
+        "薛之谦演唱会事件 | 从成本收益分析 | 是血亏——2万成本换1万收入加舔狗骂名"
+      ],
+      "tags": [
+        "大多数MCN公司",
+        "不具备",
+        "策划和执行剧本的能力——策划一次剧本风险高且收益不稳定",
+        "直播行业",
+        "经历了",
+        "从'是猪肉就行'到'挑肥拣瘦'——观众从没吃过猪肉到吃过各种猪肉",
+        "MCN公司的真实角色",
+        "替平台管理主播的手套——承上启下"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_40"
+    },
+    {
+      "id": "c_41",
+      "label": "社科小簇：黑公关相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 42,
+      "source_ids": [
+        "BV17fCRYPE66",
+        "BV11wsVzdEaR"
+      ],
+      "representatives": [
+        "黑公关 | 利用 | 人性弱点实现高效传播",
+        "黑公关 | 定义 | 以破坏他人形象为目的的职业公关",
+        "公关行业 | 分为 | 三种形态：传统公关、黑公关、新型公关"
+      ],
+      "tags": [
+        "黑公关",
+        "王宝强慈善翻车热搜",
+        "假热搜",
+        "定义",
+        "以破坏他人形象为目的的职业公关",
+        "公关行业",
+        "分为",
+        "三种形态"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_41"
+    },
+    {
+      "id": "c_42",
+      "label": "社科小簇：749局角色相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 3,
+      "source_ids": [
+        "BV12v2tY1Eiu"
+      ],
+      "representatives": [
+        "749局角色 | 都是 | 工具人",
+        "永恒少年原型 | 解释 | 749局全部剧情逻辑",
+        "749局结局 | 是 | 机械降神"
+      ],
+      "tags": [
+        "流量明星",
+        "担纲主角",
+        "几乎不出佳作",
+        "旁白",
+        "导演功力不够的表现",
+        "旁白正确用法",
+        "示例",
+        "《潜伏》左蓝牺牲场景"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_42"
+    },
+    {
+      "id": "c_43",
+      "label": "社科小簇：言权倒置相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 11,
+      "source_ids": [
+        "BV1VUmqYQEph",
+        "BV143MzzoEYn",
+        "BV1GVyaY8Ezc"
+      ],
+      "representatives": [
+        "言权倒置 | 解释了 | 山姆用户沉默而蜜雪冰城用户声量大",
+        "言权倒置 | 定义 | 现实弱势方在舆论场强势",
+        "言权倒置（讲述者提出的公关概念） | 指 | 现实生活中越弱势的群体，在舆论场上就越强势"
+      ],
+      "tags": [
+        "公关",
+        "来源于",
+        "言权倒置",
+        "群发短信",
+        "需要",
+        "公关的基本功",
+        "等同于",
+        "服务业的基本功——控制舆情、平稳情绪、接受信息、评估上报、解决"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_43"
+    },
+    {
+      "id": "c_44",
+      "label": "社科小簇：LV公关策略相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 28,
+      "source_ids": [
+        "BV1tcKn6XE9C",
+        "BV15x3468EHV",
+        "BV1TC4y1d7vT"
+      ],
+      "representatives": [
+        "LV公关策略 | 从沉默转向主动回应 | 通过'起诉小区窗花'辟谣热搜完成议题置换，借法院第三方权威输出核心口径",
+        "官方公关 | 避重就轻 | 抛开网友最关心的问题",
+        "LV公关的沉默 | 是 | 放弃争夺事件定义权——甩锅给法务，谁捅的篓子谁处理"
+      ],
+      "tags": [
+        "结语",
+        "起诉",
+        "国家知识产权局——因商标无效申请被驳回后提起行政诉讼",
+        "起诉国家知识产权局",
+        "行政诉讼常规程序——但被网友解读为'告天庭'",
+        "从法律问题变成政治问题",
+        "LV老花",
+        "审美污名化——被类比为旱厕开窗纹路和纸钱"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_44"
+    },
+    {
+      "id": "c_45",
+      "label": "社科小簇：品客薯片相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 37,
+      "source_ids": [
+        "BV17vCXBHECZ",
+        "BV1gMQUYWE34"
+      ],
+      "representatives": [
+        "品客薯片 | 因迅速滑跪道歉导致 | 一根筋变成两头堵",
+        "海底捞首次回应 | 犯下 | 站位错误——替施暴者说话",
+        "海底捞 | 无权 | 替消费者原谅施暴者"
+      ],
+      "tags": [
+        "极端群体",
+        "使用滑坡谬误将",
+        "哈基米引申为仇视某群体",
+        "投射性认同",
+        "解释了",
+        "极端爱猫人士的心理机制",
+        "身份政治",
+        "通过重新定义词汇将"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_45"
+    },
+    {
+      "id": "c_46",
+      "label": "社科小簇：大圣放弃果位相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 7,
+      "source_ids": [
+        "BV1A1421b7kc"
+      ],
+      "representatives": [
+        "大圣放弃果位 | 因为 | 成佛也改变不了体制",
+        "大圣必须死 | 因为 | 金箍一直都在",
+        "天庭要杀大圣 | 因为 | 大圣在摧毁天庭的公信力"
+      ],
+      "tags": [
+        "本质是",
+        "灵蕴",
+        "黑神话悟空世界观的万物之源",
+        "长生不老",
+        "掠夺",
+        "天庭和灵山",
+        "利益集团",
+        "天庭对孙悟空"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_46"
+    },
+    {
+      "id": "c_47",
+      "label": "社科小簇：法院对被告方的主观价值判断（维护公共利益）相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 19,
+      "source_ids": [
+        "BV1e6421M7de",
+        "BV1aG411a77H",
+        "BV1w1421X7xf"
+      ],
+      "representatives": [
+        "法院对被告方的主观价值判断（维护公共利益） | 不应优于 | 对原告方的主观价值判断（维护法治公正）",
+        "个人、司法机关、司法 | 是 | 三个不同的主体",
+        "法律逻辑与公关逻辑 | 在舆论场上 | 是对立的——法律讲证据和客观事实，公关讲主观事实和讲故事"
+      ],
+      "tags": [
+        "《第二十条》",
+        "三线并行处理得",
+        "意外地还不错",
+        "不应被捧到",
+        "《药神》的高度",
+        "电影的喜剧成分",
+        "没有存在必要",
+        "至少10分钟戏是多余的"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_47"
+    },
+    {
+      "id": "c_48",
+      "label": "社科小簇：原告要求在地铁全线播报道歉10日及赔偿5万元相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 40,
+      "source_ids": [
+        "BV1NX4y1v7H3",
+        "BV1mX4y1a7pW",
+        "BV1aG411a77H"
+      ],
+      "representatives": [
+        "原告要求在地铁全线播报道歉10日及赔偿5万元 | 过于离谱 | 法院支持的可能性",
+        "上海地铁女子 | 在七七事变纪念日发表辱华言论 | 被公安机关依法行政处罚",
+        "上海地铁 | 发生 | 女子公开辱华事件"
+      ],
+      "tags": [
+        "警方通报",
+        "上海地铁",
+        "发生",
+        "女子公开辱华事件",
+        "严格来说没有问题",
+        "但可以做得更好",
+        "更好的通报写法",
+        "应该是"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_48"
+    },
+    {
+      "id": "c_49",
+      "label": "社科小簇：00后相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 46,
+      "source_ids": [
+        "BV1jL411y7oy",
+        "BV1bL41127C4"
+      ],
+      "representatives": [
+        "00后 | 追求 | 自我实现和人生意义",
+        "百日誓师女生的誓词 | 内核是 | 以「努力上进」为壳包裹的追求特权的利己主义",
+        "百日誓师女生 | 在主流价值观中 | 没有错"
+      ],
+      "tags": [
+        "讲述者",
+        "以梦境对话形式",
+        "展开自我辩论",
+        "百日誓师女生的誓词",
+        "内核是",
+        "以「努力上进」为壳包裹的追求特权的利己主义",
+        "高考",
+        "对普通人是"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_49"
+    },
+    {
+      "id": "c_50",
+      "label": "社科小簇：放大镜相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 16,
+      "source_ids": [
+        "BV1bS421X78C",
+        "BV1E1421t72s"
+      ],
+      "representatives": [
+        "放大镜 | 类比 | 国家宣传vs饭圈文化",
+        "饭圈 | 类比 | 舔狗大聚会",
+        "LGBTQ+ | 类比 | 饭圈个体细分模式"
+      ],
+      "tags": [
+        "定义",
+        "类比",
+        "设置议题",
+        "包含",
+        "不对称效应",
+        "白噪弹战术",
+        "短时间内大量同类型内容冲击舆论场",
+        "噪音流"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_50"
+    },
+    {
+      "id": "c_51",
+      "label": "社科小簇：西贝后厨直播相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 62,
+      "source_ids": [
+        "BV1KayYB2EHq",
+        "BV1DrW3z4Eh9"
+      ],
+      "representatives": [
+        "西贝后厨直播 | 暴露了 | 大量问题",
+        "网友视频中'孩子非要吃西贝'的细节 | 预设了 | 仍有顾客信任西贝的场景",
+        "活虫事件 | 反向证明了 | 西贝菜品并非预制菜"
+      ],
+      "tags": [
+        "可控负面释放",
+        "通过用浅层危机置换深层危机实现",
+        "对原有不可控舆情的分流",
+        "网友视频中'孩子非要吃西贝'的细节",
+        "预设了",
+        "仍有顾客信任西贝的场景",
+        "活虫事件",
+        "反向证明了"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_51"
+    },
+    {
+      "id": "c_52",
+      "label": "社科小簇：胖东来的彩礼规定相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 75,
+      "source_ids": [
+        "BV1T3rNYKEYW",
+        "BV1qUzcYqEPr",
+        "BV1hE6TYLE26"
+      ],
+      "representatives": [
+        "胖东来的彩礼规定 | 本质是 | 额外福利附带额外条件，属于权责对等而非干涉私生活",
+        "于东来的三条倡导 | 包括 | 结婚不允许要彩礼、婚礼不超过五桌、不允许靠父母买车买房",
+        "胖东来结婚执行标准 | is_essentially | 倡导而非规定"
+      ],
+      "tags": [
+        "胖东来管理模式",
+        "本质上是",
+        "胖东来结婚执行标准",
+        "倡导而非规定",
+        "现代企业管理",
+        "成本控制和齿轮化——让每个员工都可被替代",
+        "胖东来",
+        "对未来的投资而非成本"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_52"
+    },
+    {
+      "id": "c_53",
+      "label": "社科小簇：逼人吃素相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 43,
+      "source_ids": [
+        "BV1hYXsBHEBR"
+      ],
+      "representatives": [
+        "逼人吃素 | 本质是一种 | 权力和掌控欲的体现——通过控制食物来对抗生活中的失控焦虑",
+        "汉传佛教素食 | 起源于 | 梁武帝的政治决策而非佛理——释迦牟尼传教时靠化缘，人家给什么就吃什么",
+        "极端素食主义 | 走向了 | 反智和反生命——强迫猫这种专性食肉动物吃素等于慢性虐杀"
+      ],
+      "tags": [
+        "伪国学账号的商业逻辑",
+        "遵循",
+        "内容越傻",
+        "筛选成本越低",
+        "能信这个的人质疑力弱",
+        "是完美的私域韭菜",
+        "米油养生",
+        "是把"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_53"
+    },
+    {
+      "id": "c_55",
+      "label": "社科小簇：网友对吴京的嘲讽相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 13,
+      "source_ids": [
+        "BV1kyapzYEpc"
+      ],
+      "representatives": [
+        "网友对吴京的嘲讽 | 集中于 | 德不配位指控：未曾入伍却以军旅形象示人",
+        "吴京的中年硬汉基本盘 | 构成 | 稳固的防御层，使德不配位质疑不足以动摇其根本",
+        "吴京的爹味发言与互联网抽象文化 | 结合形成 | 超越德不配位层级的深度符号化解构"
+      ],
+      "tags": [
+        "嬤嬤文化",
+        "吴京主演电影《再见坏蛋》",
+        "票房惨败",
+        "上映6天仅26.7万票房并撤档",
+        "网友对吴京的嘲讽",
+        "集中于",
+        "德不配位指控",
+        "未曾入伍却以军旅形象示人"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_55"
+    },
+    {
+      "id": "c_56",
+      "label": "社科小簇：LV相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 29,
+      "source_ids": [
+        "BV1TDTQ61EDJ",
+        "BV1tcKn6XE9C",
+        "BV1Ltjt61EMH"
+      ],
+      "representatives": [
+        "遇见小面品牌 | 批量起诉 | 读音字形相似的微小饭馆商标侵权，包括'渝见小面'和'钰见小面'",
+        "LV | 起诉 | 国家知识产权局——因商标无效申请被驳回后提起行政诉讼",
+        "LV | 起诉 | 茉莉奶白商标侵权并索赔一千多万，同时起诉鸭血粉丝汤店（收款码出借）和餐吧（网购餐具含LV花纹）"
+      ],
+      "tags": [
+        "起诉",
+        "讲述者",
+        "总结",
+        "茉莉奶白商标侵权并索赔一千多万",
+        "同时起诉鸭血粉丝汤店（收款码出借）和餐吧（网购餐具含LV花纹）",
+        "茉莉奶白",
+        "舆论占优是因为",
+        "站在了情绪的制高点——海外品牌欺负本土品牌"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_56"
+    },
+    {
+      "id": "c_57",
+      "label": "社科小簇：公关策略（上策）相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 128,
+      "source_ids": [
+        "BV16P411t7FG",
+        "BV17vCXBHECZ",
+        "BV1bch3zgEUQ",
+        "BV1DtC7BgEej",
+        "BV1E1421t72s",
+        "BV1Hu9MBoEvR",
+        "BV1Jx4y1s7Uy",
+        "BV1MS95B9EKQ",
+        "BV1W1421t7hk",
+        "BV1yH4y1c73L",
+        "BV1Z9p9zsEdi"
+      ],
+      "representatives": [
+        "公关策略（上策） | 包含 | 借力打力转移视线：利用其他热点事件降低自身热搜排名",
+        "公关策略（上策） | 包含 | 情感牌重塑人设：将严肃版权纠纷弱化为私人情感纠葛",
+        "公关策略（下策） | 包含 | 强调过往尊重版权案例：用之前的正面案例为当前失误开脱",
+        "面对极端群体的攻击 | 最稳妥的方式是 | 装死",
+        "正确的危机公关四步法 | 是 | 深表痛心→陈述事实→做出努力→闭嘴收工",
+        "小鹏公关 | 通过精控回应速度和分层回应 | 实现最佳传播效果",
+        "'推极'策略 | 是 | 用极端化手段实现形象反转的公关方法",
+        "非对称作战 | 定义 | 通过长文段阴谋论提高对方反驳成本",
+        "盘外招 | 定义 | 舆论场外非公开手段的攻击"
+      ],
+      "tags": [
+        "包含",
+        "导致",
+        "公关策略（上策）",
+        "公关策略（下策）",
+        "构成",
+        "版权",
+        "公众认知作为商业价值的核心组成部分",
+        "舞台翻唱",
+        "贾国龙",
+        "解释",
+        "最小阻力原则",
+        "最佳公关策略",
+        "定义",
+        "流程",
+        "传统水军",
+        "类比",
+        "唯一讲述者",
+        "游戏上线后",
+        "必有",
+        "三类问题"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_57"
+    },
+    {
+      "id": "c_58",
+      "label": "社科小簇：母爱的范式化相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 63,
+      "source_ids": [
+        "BV1pv4y1r7yB",
+        "BV1MT411C7SS"
+      ],
+      "representatives": [
+        "母爱的范式化 | 意味着 | 通过规定必要条件来定义母爱，剔除附加属性",
+        "什么是母爱 | 没有统一答案 | 在不同时代背景下有不同视角的不同母爱",
+        "母爱的指向性 | 决定 | 购买母爱的逻辑前提是否成立"
+      ],
+      "tags": [
+        "「重金求母」",
+        "说话者",
+        "艺术赏析",
+        "具有",
+        "高学习成本的门槛",
+        "现代人",
+        "被驯化",
+        "无法接受平淡内容"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_58"
+    },
+    {
+      "id": "c_59",
+      "label": "社科小簇：金井正彰相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 13,
+      "source_ids": [
+        "BV1n2UNBTEAK"
+      ],
+      "representatives": [
+        "金井正彰 | 被派来执行 | 不可能完成的公关任务",
+        "金井正彰 | 被选为背锅人因为 | 具备专业能力但政治地位低",
+        "金井正彰访华 | 同时承担 | 对中方的压力测试"
+      ],
+      "tags": [
+        "金井正彰",
+        "公关的终极形态",
+        "外交",
+        "被派来执行",
+        "不可能完成的公关任务",
+        "被选为背锅人因为",
+        "具备专业能力但政治地位低",
+        "金井正彰访华"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_59"
+    },
+    {
+      "id": "c_60",
+      "label": "社科小簇：蒋振飞相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 4,
+      "source_ids": [
+        "BV1og4y1p78q"
+      ],
+      "representatives": [
+        "蒋振飞 | 抢过话筒高声反驳 | 陈宏友的言论",
+        "陈宏友作为教师 | 违反了 | 教师的基本职责",
+        "庐江中学 | 对陈宏友的邀请存在 | 失察"
+      ],
+      "tags": [
+        "陈宏友的言论",
+        "陈宏友",
+        "在庐江中学演讲中发表",
+        "「读书就是为了钱」和「和美国人杂交产生更强大后代」的言论",
+        "蒋振飞",
+        "抢过话筒高声反驳",
+        "本质是",
+        "物质主义下的基因论、血统论和精英主义的混合"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_60"
+    },
+    {
+      "id": "c_61",
+      "label": "社科小簇：央视网相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 13,
+      "source_ids": [
+        "BV1QM4y1B7qE"
+      ],
+      "representatives": [
+        "央视网 | 发表短评称 | 孔乙己放不下读书人的架子",
+        "孔乙己 | 可以被重新解读为 | 道德品质高尚的人",
+        "孔乙己的长衫 | 是对 | 传统文化的坚持而非心灵的枷锁"
+      ],
+      "tags": [
+        "央视网",
+        "存在",
+        "发表短评称",
+        "孔乙己放不下读书人的架子",
+        "鲁迅《孔乙己》",
+        "批判的是",
+        "封建科举制度对人的异化",
+        "而非孔乙己个人"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_61"
+    },
+    {
+      "id": "c_62",
+      "label": "社科小簇：松哥打假动机相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 44,
+      "source_ids": [
+        "BV1se68YYEFg",
+        "BV1qxCPY9ERS"
+      ],
+      "representatives": [
+        "松哥打假动机 | is_irrelevant_to | 辛吉飞是否有问题的事实判断",
+        "辛吉飞回应 | uses | 稻草人谬误——将松哥的质疑从A扭曲成B再攻击",
+        "辛吉飞后续行为（大闹海关、飞哥打虎等） | is_essentially | 粉丝提纯——筛选最忠诚的粉丝"
+      ],
+      "tags": [
+        "辛吉飞回应",
+        "辛吉飞整体舆论",
+        "完全溃败",
+        "关联词全为负面",
+        "辛吉飞大闹海关",
+        "摆拍——自己没打算进",
+        "在门口打电话",
+        "舆情波峰到下滑临界点"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_62"
+    },
+    {
+      "id": "c_63",
+      "label": "社科小簇：格力年会节目相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 9,
+      "source_ids": [
+        "BV1SH4y1Y7MZ"
+      ],
+      "representatives": [
+        "格力年会节目 | 出现 | '我妈就是董明珠'台词",
+        "董明珠的整活行为 | 目的在于 | 与格力公司做强捆绑",
+        "'我妈就是董明珠' | 精准击中了 | 年轻打工人对裙带关系和无下限拍马屁的厌恶"
+      ],
+      "tags": [
+        "格力年会节目",
+        "出现",
+        "'我妈就是董明珠'台词",
+        "董明珠的恐惧",
+        "源于",
+        "带领的公司可能不再属于自己",
+        "公司高层",
+        "会被强力意志推动"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_63"
+    },
+    {
+      "id": "c_64",
+      "label": "社科小簇：小米公关文的'二选一'话术相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 58,
+      "source_ids": [
+        "BV1st421E7DB"
+      ],
+      "representatives": [
+        "小米公关文的'二选一'话术 | 是 | 有效的公关手段",
+        "小米将上汽集团与智己公司分割 | 是 | 精妙的公关策略",
+        "智己道歉文反咬小米'口下留德' | 是 | 严重公关失职"
+      ],
+      "tags": [
+        "智己L6发布会",
+        "存在",
+        "战略失误——全程对标小米SU7而非讲自身优势",
+        "小米公关文的'二选一'话术",
+        "有效的公关手段",
+        "小米将上汽集团与智己公司分割",
+        "精妙的公关策略",
+        "智己CEO用个人号而非官号道歉"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_64"
+    },
+    {
+      "id": "c_65",
+      "label": "社科小簇：杨铭宇黄焖鸡加盟模式相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 21,
+      "source_ids": [
+        "BV1SxQfYDEz7"
+      ],
+      "representatives": [
+        "杨铭宇黄焖鸡加盟模式 | 必然导致 | 食品安全失控",
+        "杨铭宇致歉信 | 被公众解读为 | 与加盟商做切割",
+        "杨铭宇切割加盟商 | 不同于 | 统一切割供应商"
+      ],
+      "tags": [
+        "杨铭宇黄焖鸡加盟模式",
+        "必然导致",
+        "食品安全失控",
+        "杨铭宇致歉信",
+        "被公众解读为",
+        "与加盟商做切割",
+        "企业危机公关",
+        "核心原则是"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_65"
+    },
+    {
+      "id": "c_66",
+      "label": "社科小簇：陈志龙相关",
+      "description": "从 3 个未匹配命题自动聚类（BGE-M3, threshold=0.44）",
+      "proposition_count": 56,
+      "source_ids": [
+        "BV1VM4y117fX"
+      ],
+      "representatives": [
+        "陈志龙 | 因清明节被要求加班而公开怼领导 | 引发全公司群情激愤",
+        "陈志龙的反抗 | 是 | 底层打工人最后绝望的怒吼",
+        "大众 | 只关注 | 领导吃瘪的快感而非陈志龙付出的代价"
+      ],
+      "tags": [
+        "陈志龙",
+        "因清明节被要求加班而公开怼领导",
+        "引发全公司群情激愤",
+        "陈志龙的反抗",
+        "底层打工人最后绝望的怒吼",
+        "陈志龙公开怼领导",
+        "必然付出",
+        "前途的代价"
+      ],
+      "created": "2026-08-08",
+      "method": "BGE-M3 agglomerative clustering (cosine distance, threshold=0.40)",
+      "cluster_id": "c_66"
+    }
+  ],
+  "last_updated": "2026-08-08"
+}

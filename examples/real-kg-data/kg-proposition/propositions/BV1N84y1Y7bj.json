@@ -1,0 +1,114 @@
+{
+  "source_id": "BV1N84y1Y7bj",
+  "title": "万柳书院：地主阶级没回来，奴才却自己回来了",
+  "author": "唯一讲述者",
+  "date": "2023-01-09",
+  "source_url": "https://www.bilibili.com/video/BV1N84y1Y7bj/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1N84y1Y7bj_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "万柳书院事件",
+      "relation": "源于",
+      "object": "自称'彭于晏'的男高中生拍的篮球变装视频",
+      "cause": "视频背景中疑似齐白石真迹的画作引发了对'少爷'家庭财富的猜测",
+      "effect": "引发大量网友自称'老奴''奴才'，自愿为奴当狗",
+      "original_text": "万柳书院这个词的爆火，来源于一个自称'彭于晏'的男高中生拍的篮球变装视频。"
+    },
+    {
+      "id": "BV1N84y1Y7bj_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "自称奴才的行为",
+      "relation": "是对",
+      "object": "祖辈用鲜血和生命换来的站起来的机会的背叛",
+      "cause": "李大钊等先辈为后代能有一个更好的未来而牺牲",
+      "effect": "说话者对此感到极度恶心",
+      "original_text": "我们的祖辈用鲜血和生命换来了一个站起来的机会，但是这群人居然又主动跪下了。"
+    },
+    {
+      "id": "BV1N84y1Y7bj_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "共同进步理念",
+      "relation": "预设了一个前提",
+      "object": "所有人都是一样的",
+      "cause": "如果付出同样努力就能获得同样财富，但精神价值无法被量化（如梵高、刘慈欣）",
+      "effect": "知识致富是价值问题（应追求），但知识如何致富是事实问题（无解），贫富差距问题目前找不到最优解",
+      "original_text": "我们必须分清楚事实问题和价值问题。知识致富是一个价值问题——这个价值我们可以承认并且追求。但是知识如何致富就变成了事实问题。"
+    },
+    {
+      "id": "BV1N84y1Y7bj_p004",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "说话者（作为思想启蒙类UP主）",
+      "relation": "认为自己的价值在于",
+      "object": "让观众从只会喊'牛逼666'到能提出问题、能辩论",
+      "cause": "看到观众进步就是价值所在，是做UP主的动力",
+      "effect": "但这些精神价值无法量化，可能真的不存在什么实际价值",
+      "original_text": "每当我看到这些人从最开始的只会在评论区喊'牛逼666'，变成他也可以提出问题之后……这就是我的价值所在，也是我做UP主的动力。"
+    },
+    {
+      "id": "BV1N84y1Y7bj_p005",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "理性的批判",
+      "relation": "并不比",
+      "object": "感性的情感更高尚",
+      "cause": "不是读完了《资本论》才有资格评判社会",
+      "effect": "对不公的朴素感受本身就是批评的起点，传播思想而非仇恨是新时代意见领袖的责任",
+      "original_text": "也许理性的批判并不比感性的情感更高尚。不是读完了《资本论》才有资格评判社会。传播思想而非仇恨，正是我们这些新时代的意见领袖应该做的。"
+    },
+    {
+      "id": "BV1N84y1Y7bj_p006",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "万柳书院为什么这么贵",
+      "relation": "涉及",
+      "object": "更深层次的社会分配体制问题",
+      "cause": "这些问题不是能在商业平台下有解的",
+      "effect": "说话者认为现在不是批判的时候，而是用自己方法去帮助他成长",
+      "original_text": "如果延伸下去，就会牵扯到更多更深层次的问题。但这些真的都是无解的问题——这不是能在商业平台下有解的问题。"
+    },
+    {
+      "id": "BV1N84y1Y7bj_p007",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "人的思想",
+      "relation": "像瓶子",
+      "object": "没有水的人会被轻易灌入各种液体（盲从）；有液体的人很难被影响",
+      "cause": "只有无思想者才会盲从，被引导的人本身没有思想",
+      "effect": "虽然平台上大量宣扬拜金和消费主义，但沉默的大多数在抗争",
+      "original_text": "人的思想为什么会被扭曲？是因为被引导的人本身没有思想。人的思想就像是一个瓶子，没有水的人，会轻易地被其他人灌入各种液体，于是就会盲从。"
+    },
+    {
+      "id": "BV1N84y1Y7bj_p008",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "沉默的大多数",
+      "relation": "是",
+      "object": "撼动某些东西的基石",
+      "cause": "一期一会、王小七、说话者自己的播放量都是由沉默的大多数一个个积累起来的",
+      "effect": "沉默本身是一种力量，发声者是这股力量的引导者，反抗的星星之火从未熄灭",
+      "original_text": "沉默的大多数之所以不被看见，是因为他沉默。但沉默本身难道不是一种力量吗？……反抗的星星之火从未在我们心中熄灭。"
+    },
+    {
+      "id": "BV1N84y1Y7bj_p009",
+      "segment_id": "seg_005",
+      "type": "narrative",
+      "subject": "说话者",
+      "relation": "收尾",
+      "object": "我是讲述者，希望你开心",
+      "cause": null,
+      "effect": null,
+      "original_text": "我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 9,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

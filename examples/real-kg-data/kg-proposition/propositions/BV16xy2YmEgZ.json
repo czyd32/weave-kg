@@ -1,0 +1,125 @@
+{
+  "source_id": "BV16xy2YmEgZ",
+  "title": "JD半夜B站冲量做宣发又翻车：东哥知道错了",
+  "author": "唯一讲述者",
+  "date": "2024-10-25",
+  "source_url": "https://www.bilibili.com/video/BV16xy2YmEgZ/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV16xy2YmEgZ_p001",
+      "segment_id": "seg_001",
+      "type": "observation",
+      "subject": "高热度自媒体",
+      "relation": "面临",
+      "object": "被企业事后清算的风险",
+      "cause": "热度太高，得罪了防守方，事后上层管理不换人",
+      "effect": "需要及时收手，减少曝光",
+      "original_text": "我热度太高了，事后如果上层管理不换人，我被清算的概率还是挺高的。"
+    },
+    {
+      "id": "BV16xy2YmEgZ_p002",
+      "segment_id": "seg_002",
+      "type": "analogy",
+      "subject": "公关战",
+      "relation": "本质上等同于",
+      "object": "杀毒软件与病毒之间的算力消耗战",
+      "cause": "防守方算力有限，进攻方可调动几乎无限的群体算力",
+      "effect": "双方博弈取决于谁的算力更强、资源更多",
+      "original_text": "公关战本身就是烧钱、烧资源的战斗。我们打一个比方：公关就是一台电脑里的杀毒软件。这个杀毒软件它的算力是有极限的。"
+    },
+    {
+      "id": "BV16xy2YmEgZ_p003",
+      "segment_id": "seg_003",
+      "type": "methodology",
+      "subject": "进攻方",
+      "relation": "通过压力测试",
+      "object": "寻找防守方算力分配的最薄弱点",
+      "cause": "不知道哪个点会真正打痛对方",
+      "effect": "在多个舆情分布点同时植入'病毒'，哪个点反应最弱就集中攻击",
+      "original_text": "进攻方最开始要做的，就是测试你的算力分配，以及你的算力极限在哪里。你看最开始京东请杨笠过来的时候，14号那天他只是小规模地被骂。那15号为啥突然就爆发了呢？因为他没通过压力测试。"
+    },
+    {
+      "id": "BV16xy2YmEgZ_p004",
+      "segment_id": "seg_003",
+      "type": "methodology",
+      "subject": "进攻方",
+      "relation": "同时测试",
+      "object": "多个舆情分布点",
+      "cause": "需要找到防守方最薄弱的突破口",
+      "effect": "客服线、金融线等多个点同时被攻击，金融线反应最激烈",
+      "original_text": "对手通常在给你植入病毒的时候，他不会只植入一个，而是同时植入很多个，然后去看一看哪一个会起效果。这个东西就是我刚才说的舆情分布点。"
+    },
+    {
+      "id": "BV16xy2YmEgZ_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "企业公关部门的算力",
+      "relation": "对比于",
+      "object": "进攻方群体几乎无上限的算力",
+      "cause": "公关部门资源有限，最多拉到1000-2000算力",
+      "effect": "此消彼长，防守方持续消耗算力维持各个端口",
+      "original_text": "一个公司的公关部门，他的算力终归是有限的。我就算你能拉到很多的盟友，到头来能拉到1000或者2000的算力已经很牛逼了。但是进攻方拉来的是一整个群体啊——这个群体虽然不受控，但是算力是数以万计的，且几乎是无上限的。"
+    },
+    {
+      "id": "BV16xy2YmEgZ_p006",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "扩大化",
+      "relation": "导致",
+      "object": "原本分散的算力汇集到同一攻击方向",
+      "cause": "不同群体通过关键词互相唤醒，激活其他群体的算力",
+      "effect": "企业面临阶级、性别、政治三大最危险危机叠加",
+      "original_text": "他们（群体）会利用某些关键词互相激活，去唤醒另外的算力进来。这个东西就叫做扩大化。所以企业最怕哪三大危机？第一，阶级问题。第二，性别问题。第三，政治问题。"
+    },
+    {
+      "id": "BV16xy2YmEgZ_p007",
+      "segment_id": "seg_006",
+      "type": "clarification",
+      "subject": "推手",
+      "relation": "不是",
+      "object": "事件的策划者，而是推波助澜者",
+      "cause": "公关战主要是看对手犯病之后推波助澜",
+      "effect": "推手的作用是略微调整算力进入端口的方向，在热度衰减期前让更多人知道端口",
+      "original_text": "公关战主要是看对手犯病之后，去进行一波推波助澜。就是本身你有了这个问题，然后我去做推手，我去把这个问题给扩大，而不是说这个东西是我策划的。"
+    },
+    {
+      "id": "BV16xy2YmEgZ_p008",
+      "segment_id": "seg_007",
+      "type": "methodology",
+      "subject": "装死（沉默策略）",
+      "relation": "是",
+      "object": "舆情爆发阶段最好的处理方法",
+      "cause": "热度上升期每一句话都可能被扩大化",
+      "effect": "但沉默不代表背后不做动作，要多线并行（买量对冲、优化端口弯曲度、形象修复）",
+      "original_text": "装死是舆情爆发阶段最好的处理方法。如果舆情已经爆发了，就是在热度上升期的过程中，你的每一句话都有可能会被扩大化。不过虽说是装死，但是沉默不代表着你背后不做动作。"
+    },
+    {
+      "id": "BV16xy2YmEgZ_p009",
+      "segment_id": "seg_008",
+      "type": "observation",
+      "subject": "舆论场",
+      "relation": "具有",
+      "object": "'猜测即事实'的特点",
+      "cause": "只要大部分的人相信，无论你是不是，你都是",
+      "effect": "制造混乱者利用这一点到处煽风点火",
+      "original_text": "舆论场有这样一个特点，叫猜测即事实。只要这个东西大部分的人相信，那么无论你是不是，你都是。所以通常想要制造混乱的，也会去利用这一点到处煽风点火。"
+    },
+    {
+      "id": "BV16xy2YmEgZ_p010",
+      "segment_id": "seg_009",
+      "type": "observation",
+      "subject": "严嵩式公关人物",
+      "relation": "描述为",
+      "object": "能力不足但擅长做表面文章、欺上瞒下的人",
+      "cause": "能力解决不了危机，但想从公司预算中补贴家用",
+      "effect": "用很少的钱做局部冲量，做出'欣欣向荣'的报表发给老板，甚至修改数据继续要预算",
+      "original_text": "公关这个群体，人员成分其实也挺复杂的。里面还是有一种人，定位类似于严嵩。就是有一种欺上瞒下的感觉。当遇到舆情危机的时候，实际上以他的能力他是解决不了的。但是在能力不行的同时，他还特别想从公司的预算里面补贴家用。"
+    }
+  ],
+  "proposition_count": 10,
+  "segments": 9,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "batch_12_ingest"
+}

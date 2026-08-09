@@ -1,0 +1,48 @@
+{
+  "source_id": "BV1iVPszsEei",
+  "title": "逆天主播清雨直播毁号：游戏装备是时间的存折",
+  "author": "唯一讲述者",
+  "date": "2026-03-06",
+  "source_url": "https://www.bilibili.com/video/BV1iVPszsEei/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1iVPszsEei_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "游戏装备",
+      "relation": "是",
+      "object": "时间的存折——它的价值不是系统定的，而是玩家付出的时间定的",
+      "cause": "装备是无数个日夜、耗费无数时间精力和情感积累的成果，系统定价是零，但时间投入是真实的",
+      "effect": "毁掉装备等于毁掉一个人把时间存进游戏里的证明——存进去的时间取不出来了，但存折证明那些时间有意义",
+      "original_text": "这些游戏装备与我而言，与其说是装备，倒不如说是我把时间存到了游戏里。这些装备就是我的存折。我存进去的时间不能再取出来了，但是这张存折证明了我曾经的那些时间是有意义的——无论这个意义是快乐还是痛苦。"
+    },
+    {
+      "id": "BV1iVPszsEei_p02",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "游戏中的快乐",
+      "relation": "不能用钱来衡量",
+      "object": "童年时怪物爆的半月的快乐，远比现在充几十万块钱获得的快乐更真实",
+      "cause": "小时候装备是攒早饭钱、写双倍作业、跑腿费换来的，每一件装备都有故事",
+      "effect": "游戏越来越精致了，但人心越来越粗糙了——充钱买不到小时候的快乐",
+      "original_text": "我现在反而再也找不到小时候玩传奇第一次掉半月时的那种快乐。这种快乐是不能用钱来衡量的。当年我玩传奇的时候，怪物给我爆的那个半月，我在学校里吹了好几天的牛。但是现在的游戏，充多少钱也就那样。游戏是越来越精致了，但是人心好像越来越粗糙了。"
+    },
+    {
+      "id": "BV1iVPszsEei_p03",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "素质",
+      "relation": "与善良无关",
+      "object": "有的人素质很高，但可以轻易毁掉别人一年的心血；有的人素质很低，但愿意把刚掉的装备送给陌生人",
+      "cause": "素质是社会标签，善良是个人选择——两者没有必然关联",
+      "effect": "灰名大哥（刚杀过人的低素质玩家）愿意把珍珠戒指送给一个陌生小道士，而高素质主播却可以毁号",
+      "original_text": "素质这个东西也真的很奇怪。有的人素质很高，但他可以轻易地毁掉别人一年的心血。有的人素质很低，但他愿意把刚掉的珍珠戒指送给一个第一次见到的垃圾道士。"
+    }
+  ],
+  "proposition_count": 3,
+  "segments": 3,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

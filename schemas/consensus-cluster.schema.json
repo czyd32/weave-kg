@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://weave-kg.dev/schemas/consensus-cluster.json",
+  "title": "Consensus Cluster",
+  "description": "A cluster of propositions that agree on a topic",
+  "type": "object",
+  "required": ["cluster_id", "label", "propositions"],
+  "properties": {
+    "cluster_id": {
+      "type": "string",
+      "description": "Unique cluster ID"
+    },
+    "label": {
+      "type": "string",
+      "description": "Primary topic label"
+    },
+    "propositions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "source"],
+        "properties": {
+          "id": {"type": "string"},
+          "source": {"type": "string"},
+          "claim": {"type": "string"},
+          "weight": {"type": "number"}
+        }
+      }
+    },
+    "consensus_strength": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "minority_signals": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Minority propositions that disagree"
+    },
+    "representative": {
+      "type": "string",
+      "description": "Representative proposition text"
+    },
+    "tags": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "All source IDs contributing to this cluster"
+    }
+  }
+}

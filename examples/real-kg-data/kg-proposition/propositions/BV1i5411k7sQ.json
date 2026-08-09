@@ -1,0 +1,103 @@
+{
+  "source_id": "BV1i5411k7sQ",
+  "title": "魔兽暗示回归，鹅猪中门对狙",
+  "author": "唯一讲述者",
+  "date": "2024-01-26",
+  "source_url": "https://www.bilibili.com/video/BV1i5411k7sQ/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1i5411k7sQ_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "魔兽世界",
+      "relation": "回归在即",
+      "object": "网易暴雪重归于好",
+      "cause": "网易招聘MMO运营+流失召回岗位、暴雪系主播被拉入神秘推广群、网易起诉暴雪著作权案撤诉、百度状态从404转403",
+      "effect": "一桩桩一件件基本宣布魔兽世界回归在即",
+      "original_text": "网易和暴雪在各个角度传出了重归于好的消息。这一桩桩一件件，基本上都宣布了魔兽世界回归在即。"
+    },
+    {
+      "id": "BV1i5411k7sQ_p002",
+      "segment_id": "seg_002",
+      "type": "event",
+      "subject": "塔瑞斯世界",
+      "relation": "选在魔兽关服一周年",
+      "object": "宣布终测定档3月18号",
+      "cause": "腾讯网易互踩脚趾是历史规律——元梦之星vs蛋仔派对、'鹅心心'vs'易斑斑'等",
+      "effect": "鹅厂坟头蹦迪，把魔兽回归这场闹剧推向高潮——多半是要和魔兽中门对狙",
+      "original_text": "号称'QQ魔兽'的塔瑞斯世界，竟然选在魔兽世界关服一周年的时间宣布终测定档3月18号。鹅厂这波坟头蹦迪，更是把魔兽回归这场闹剧推向了高潮。"
+    },
+    {
+      "id": "BV1i5411k7sQ_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "魔兽世界",
+      "relation": "与众不同的原因是",
+      "object": "用完整世界宣告了和其他游戏的不同",
+      "cause": "自由旋转视角、有血有肉的NPC、丰富种族设定、第一次可以在游戏里坐公交车看完整世界",
+      "effect": "基于战法牧体系延伸的40人团本，一人失误就全家升天，MOBA里5人一人失误和魔兽40人一人失误不可同日而语",
+      "original_text": "魔兽世界，用一个完整的世界宣告了它和其他游戏的不同。"
+    },
+    {
+      "id": "BV1i5411k7sQ_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "魔兽的成功",
+      "relation": "是",
+      "object": "过去时代天时地利人和的结果",
+      "cause": "无数MMORPG把魔兽当对手和划时代作品，职业养成、战法牧配置、大秘境、阵营对抗等方面被疯狂模仿",
+      "effect": "能杀死魔兽的只有它自己——永恒之塔以超越时代画面为卖点，但死得更快",
+      "original_text": "魔兽的成功，是每一款MMORPG都把魔兽当做一个对手、一个划时代的作品。"
+    },
+    {
+      "id": "BV1i5411k7sQ_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "魔兽留给我们的",
+      "relation": "是",
+      "object": "独有生态位体验",
+      "cause": "战士盯着Boss技能切盾墙，牧师分工奶T，贼开陷阱打断，法师羊怪搓面包——每人都有独有生态位",
+      "effect": "很难在这个时代找到魔兽真正的替代品——很多替代品最终走向点卡逼氪、免费骗氪",
+      "original_text": "我还是很难在这个时代找到魔兽真正的替代品。魔兽当年带给我们的，既有独有世界观下带来的感动，也有基于游戏机制构成的游戏内经济系统。"
+    },
+    {
+      "id": "BV1i5411k7sQ_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "塔瑞斯世界",
+      "relation": "承诺",
+      "object": "官方不卖数值、公平赛季制、全新商业模式",
+      "cause": "氪金点只有卖外观、收交易手续费、月卡战令附送便利性权益——不是很离谱",
+      "effect": "讲述者愿意试试——卖外观虽不能挣大钱，但保证正常收入没问题",
+      "original_text": "塔瑞斯世界从宣传上就是这么抓住我的，说是官方不卖数值、公平赛季制、全新的商业模式。"
+    },
+    {
+      "id": "BV1i5411k7sQ_p007",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "讲述者",
+      "relation": "拒绝",
+      "object": "卖数值的氪金模式",
+      "cause": "某四字游戏卡69一身重楼加全身五级宝石花掉半套房，而魔兽怀旧服猎人搞风剑才几千块",
+      "effect": "从来都不拒绝游戏充值，但讨厌卖数值——风剑左脸刚到手魔兽就停服",
+      "original_text": "我从来都不拒绝游戏充值，但我讨厌的是卖数值。"
+    },
+    {
+      "id": "BV1i5411k7sQ_p008",
+      "segment_id": "seg_007",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "表达",
+      "object": "对塔瑞斯世界的期待与结语",
+      "cause": null,
+      "effect": null,
+      "original_text": "希望它能够成为打通双端的魔兽世界，然后顺带给手机端的玩家带来一个也算是踏踏实实做游戏的作品。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

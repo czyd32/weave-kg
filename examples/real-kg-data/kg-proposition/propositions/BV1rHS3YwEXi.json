@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1rHS3YwEXi",
+  "title": "JD舆情走到最后一步，可能会是刘强东回来机械降神",
+  "author": "唯一讲述者",
+  "date": "2024-10-30",
+  "source_url": "https://www.bilibili.com/video/BV1rHS3YwEXi/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1rHS3YwEXi_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "传播错位",
+      "relation": "指",
+      "object": "信息传播过程中发送者和接收者之间存在认知差异，导致信息被误解或曲解",
+      "cause": "发送者和接收者的认知框架、背景知识、价值取向不同",
+      "effect": "讲述者的专业分析被误读为'内部人士透露内幕'，被谣传为京东高管",
+      "original_text": "这种情况就叫做传播错位。大概意思就是说，在信息传播过程中，信息的发动者和接收者之间可能存在一些理解或者认知上的差异，导致信息的传递和接收出现偏差。"
+    },
+    {
+      "id": "BV1rHS3YwEXi_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "A级危机",
+      "relation": "定义为",
+      "object": "公司涉及具体违法或犯罪行为——只有A级才会大量伤害用户大盘（B端+C端）",
+      "cause": "A级危机的核心标准是公司主体违法犯罪，而非传播范围大小",
+      "effect": "京东当前危机评级仍为B+，未突破A级；B级危机对实际业务影响有限（如李佳琦双十一首日仍卖95亿）",
+      "original_text": "微机评级如果要推到A级，那就一定是公司涉及到了一些具体的违法或者犯罪行为。也只有类似公司出现违法犯罪行为，才会大量伤害防守方的用户大盘——不管是B端还是C端。"
+    },
+    {
+      "id": "BV1rHS3YwEXi_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "B端问题",
+      "relation": "优先级高于",
+      "object": "C端——C端只是短期打击，B端失去信心会导致企业短时间内直观感受到舆情冲击",
+      "cause": "B端用户（资方、商户）的信心来源于财报、风评和管理系统稳定",
+      "effect": "许冉（财务出身）接任后出现重大舆情，B端用户需重新评估风险收益；'上京东当'污名化称号已注定了半衰期",
+      "original_text": "对于企业来说，B端的问题优先级要高于C端。毕竟C端只是短时间内可能会对企业造成打击，而一旦B端的用户失去信心，那就一定会让企业在短时间内直观地感受到当前的舆情。"
+    },
+    {
+      "id": "BV1rHS3YwEXi_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "机械降神（Deus ex Machina）",
+      "relation": "是",
+      "object": "通过引入具有强大个人影响力的角色（如创始人回归）来打破舆情僵局，重新建立品牌信任",
+      "cause": "B端和C端信心崩塌，管理层不被信任，需要外部力量介入",
+      "effect": "具体操作：发回归声明→启动内部调查→第三方放消息（谁谁被问责）→舆论场自行解读→宣布刘强东重新任职→挽回企业信心→品牌修复",
+      "original_text": "如果东子背后的派系斗争容忍不了刘强东回来的地步，那就当我没说。总之现在B端、C端和舆论场，如果都像我观察的那样负面情绪比较多，那么就真的需要一个机械降神的方式来挽回企业声誉。"
+    },
+    {
+      "id": "BV1rHS3YwEXi_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "企业进入半衰期",
+      "relation": "表现为",
+      "object": "收入整体降低15%以上、大量裁员、大量承接外部业务、大量加班、考核严格、频繁开会",
+      "cause": "品牌形象危机导致污名化称号（如'上京东当'）广泛传播",
+      "effect": "这些表现只有高层核心人员能看到，B端用户看不到——但B端需要被安抚",
+      "original_text": "可以说这个称号已经基本上注定了，东子公司要在相当长一段时间之内进入一个半衰期。具体表现可能是收入整体降低15%以上、大量裁员、大量承接外部业务、大量加班、考核变得严格、动不动就要开会等等——这些都是企业进入半衰期的表现。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "batch_12_ingest"
+}

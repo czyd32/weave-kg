@@ -1,0 +1,132 @@
+{
+  "source_id": "BV1o3iLBoEnV",
+  "title": "网红蛋神爱吃蛋的变现之路有多难",
+  "propositions": [
+    {
+      "id": "BV1o3iLBoEnV_p1",
+      "subject": "流量热度与商业信用",
+      "relation": "is_not_equal_to",
+      "object": "商业变现能力",
+      "cause": "粉丝参与是基于信任而产生的一种自我投射，围观者可能因为猎奇关注你",
+      "effect": "400万粉丝是围观者，但不全是购买者，不会因为猎奇付费",
+      "type": "argumentation",
+      "original_text": "流量热度不等于商业信用。400万粉丝是你的围观者，但不全是购买者。粉丝参与是基于信任而产生的一种自我投射。",
+      "segment_id": "seg_02"
+    },
+    {
+      "id": "BV1o3iLBoEnV_p2",
+      "subject": "流量变现",
+      "relation": "follows_path",
+      "object": "内容建立信任 → 信任沉淀信用 → 信用支撑变现",
+      "cause": "付费的背后一定有着某种信任",
+      "effect": "只有通过内容建立信任，才能实现有效的商业变现",
+      "type": "argumentation",
+      "original_text": "流量变现一定遵循着'内容建立信任，信任沉淀信用，信用支撑变现'的路径。粉丝们可以为了乐子去关注你，但很少会因为乐子而给你付费。付费的背后，一定有着某种信任。",
+      "segment_id": "seg_03"
+    },
+    {
+      "id": "BV1o3iLBoEnV_p3",
+      "subject": "蛋神的真实人设",
+      "relation": "is",
+      "object": "身边那个爱分享经验的、爱吃蛋的小哥（而非煮蛋专家）",
+      "cause": null,
+      "effect": null,
+      "type": "narrative",
+      "original_text": "他的人设不是什么煮蛋专家，更不是这种空头支票，而是一个对煮蛋很有经验且非常喜欢吃蛋的人——粉丝身边那个爱分享经验的、爱吃蛋的小哥。",
+      "segment_id": "seg_04"
+    },
+    {
+      "id": "BV1o3iLBoEnV_p4",
+      "subject": "粉丝对网红变现",
+      "relation": "has_paradoxical_attitude",
+      "object": "又怕兄弟苦，又怕兄弟开路虎",
+      "cause": "粉丝亲近网红是因为普通和真实，这种关系是情感投射",
+      "effect": "一旦急切地明码标价情感链接，身边感和纯粹性就被破坏",
+      "type": "argumentation",
+      "original_text": "又怕兄弟苦，又怕兄弟开路虎。这句话的背后，隐藏着这种人设的粉丝在面对网红时一种比较矛盾的心理。对于粉丝来说，他们肯定是希望你过得好的，但是又不能好到脱离他们、成为另外一个阶层的人。",
+      "segment_id": "seg_05"
+    },
+    {
+      "id": "BV1o3iLBoEnV_p5",
+      "subject": "蛋神（认知断层）",
+      "relation": "mistakes",
+      "object": "网友的符号狂欢为个人专业性的黄袍加身",
+      "cause": "他真的以为自己是一个专家，这是一个很可怕的认知断层",
+      "effect": "把网友的集体狂欢当成对个人专业性的认可，导致后续一系列错误决策",
+      "type": "argumentation",
+      "original_text": "他把网友的一场基于符号的集体狂欢，当成了对于他个人专业性的黄袍加身。无论他嘴上怎么说，但其实他自己是认这个人设的。",
+      "segment_id": "seg_06"
+    },
+    {
+      "id": "BV1o3iLBoEnV_p6",
+      "subject": "半神自我定位",
+      "relation": "leads_to",
+      "object": "防御性嘴硬（不能承认错误）",
+      "cause": "神是不能错的，是不能被质疑的，神不可以流血",
+      "effect": "必须捍卫赖以成名的人设，哪怕是吃出痛苦面具也得硬挺",
+      "type": "argumentation",
+      "original_text": "因为神是不能错的，是不能被质疑的，神不可以流血。...他必须得捍卫这个事实，因为他捍卫的是他赖以成名的'蛋神'这个人设。所以他一定要去拍一个视频去证明，哪怕是吃出痛苦面具来了，也得硬挺着说。",
+      "segment_id": "seg_07"
+    },
+    {
+      "id": "BV1o3iLBoEnV_p7",
+      "subject": "认知断层",
+      "relation": "creates_vicious_cycle",
+      "object": "误以为自己是专家 → 嘴硬维护 → 暴露匮乏 → 空心化内容 → 难以变现",
+      "cause": "又想要蛋神人设，又没有办法产出与之匹配的内容",
+      "effect": "从变现角度看，属于中投入、低产出、高风险",
+      "type": "argumentation",
+      "original_text": "这个认知断层形成了一个恶性循环：误以为自己是专家 → 必须嘴硬维护专家形象 → 暴露专业知识匮乏 → 产出空心化内容 → 加大成本 → 难以变现 → 再回到产出空心化内容。从变现角度看，属于中投入、低产出、高风险。",
+      "segment_id": "seg_08"
+    },
+    {
+      "id": "BV1o3iLBoEnV_p8",
+      "subject": "品牌代言逻辑",
+      "relation": "differentiates",
+      "object": "专家代言（买专业信用背书）vs 网红代言（买信任背书）",
+      "cause": null,
+      "effect": null,
+      "type": "narrative",
+      "original_text": "商业品牌去寻找专家代言，买的是这个人在专业领域内的信用背书；而品牌去买普通网红代言，买的是网红本身的信任背书。蛋神能够提供的，就是一个单薄的、已经被质疑的专家人设。",
+      "segment_id": "seg_08"
+    },
+    {
+      "id": "BV1o3iLBoEnV_p9",
+      "subject": "人设重启",
+      "relation": "is_essentially",
+      "object": "从神位回归普通人位置（而非简单道歉）",
+      "cause": "承认自己好面子说大话不是重启的本质",
+      "effect": "看似退了一步但其实是进了一步：拉拢中立者，质疑者消退",
+      "type": "argumentation",
+      "original_text": "重启的本质是要让你从'蛋神'这个神位上回到'普通人'这个位置上。这样的话，看似退了一步，但其实是进了一步——这不会让你直接从负面风评中摆脱，但一定会拉拢一部分中立者倒向你。",
+      "segment_id": "seg_09"
+    },
+    {
+      "id": "BV1o3iLBoEnV_p10",
+      "subject": "企业装死 vs 网红装死",
+      "relation": "have_different_trust_assets",
+      "object": "企业靠功能价值（产品/服务），网红靠人格魅力（情感信任）",
+      "cause": "企业装死有效因为消费者最终需要功能，网红装死无效因为没有功能刚需",
+      "effect": "装死对网红意味着放弃定义自己的能力，最终沉淀为负面既定印象",
+      "type": "argumentation",
+      "original_text": "企业所面对的公众信任，是对于功能性的信任——对产品、服务或品牌功能的信任。...网红所面临的信任资产，通俗来说就是人格魅力。装死就意味着你在舆论场上单方面放弃了定义自己的能力。",
+      "segment_id": "seg_10"
+    },
+    {
+      "id": "BV1o3iLBoEnV_p11",
+      "subject": "粉丝关注网红的本质",
+      "relation": "is",
+      "object": "自我的投射（关注的是很像他的你，而非你本身）",
+      "cause": "你以为他关注的是你吗？其实他关注的是很像他的你",
+      "effect": "如果没给这些人留下继续支持你的理由，这些人早晚会离开",
+      "type": "argumentation",
+      "original_text": "你的真粉看似是因为你会煮蛋、因为你的专业而关注你，但其实这些人关注的是自我的投射。你以为他关注的是你吗？其实他关注的是很像他的你。",
+      "segment_id": "seg_11"
+    }
+  ],
+  "proposition_count": 11,
+  "segments": 12,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

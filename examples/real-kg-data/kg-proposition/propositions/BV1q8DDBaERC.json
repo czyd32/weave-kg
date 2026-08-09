@@ -1,0 +1,59 @@
+{
+  "source_id": "BV1q8DDBaERC",
+  "title": "全红婵因身材被网暴：恨意先来，理由后找——网络暴力的自欺机制",
+  "author": "唯一讲述者",
+  "date": "2026-04-12",
+  "source_url": "https://www.bilibili.com/video/BV1q8DDBaERC/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1q8DDBaERC_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "网络暴力的心理机制",
+      "relation": "是",
+      "object": "恨意先来，理由后找——网暴者颠倒因果顺序以自我保护",
+      "cause": "如果不这样想，他们就需要面对'自己就是无端散发恶意的垃圾'这个残酷事实",
+      "effect": "他们真诚地相信自己是因为先看到了问题才产生愤怒，实际上恨意是先在的",
+      "original_text": "这种恨是先来的，理由是后找的。但他们会在脑子里把这个顺序颠倒过来，真诚地相信自己是因为先看到了问题，然后再产生了愤怒。如果他们不这样想，他们就需要面对一个很残酷的事实——自己就是一个无端对无辜路人散发恶意的垃圾。"
+    },
+    {
+      "id": "BV1q8DDBaERC_p02",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "窃取论点",
+      "relation": "是",
+      "object": "将需要证明的结论伪装成前提塞进论证——先预设'职业运动员必须自律=身材不变'，再以此审判",
+      "cause": "网暴者跳过前提确认直接进入审判",
+      "effect": "网暴者既是选手也是裁判还是规则制定者——法条也是他自己写的，你永远赢不了",
+      "original_text": "窃取论点就是把一个需要证明的结论伪装成前提塞进讨论里面去。网暴者先给你安上一个他自己臆想中的标签，然后他会拿着他自己捏造的这个标准来审判你。他不但是法官，法条也是他自己写的。"
+    },
+    {
+      "id": "BV1q8DDBaERC_p03",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "评价行为与执行行为",
+      "relation": "存在",
+      "object": "根本的不对等——评价行为只需一张嘴，执行行为需要努力天赋和能力",
+      "cause": "裁判不需要上场跑，甚至不需要看懂比赛规则，一个字的评语就能让所有努力归零",
+      "effect": "评价行为对执行行为构成降维打击——你的每一步都可能会被人评价，但评价者不需要证明任何东西",
+      "original_text": "评价行为只负责打分，不负责对答案。执行行为想达成某件事情，得按流程走完。执行行为是需要努力的，是需要天赋的，是需要能力的；但评价行为只需要一张嘴。跳得再高，一个字的评语就能让你所有的努力归零。"
+    },
+    {
+      "id": "BV1q8DDBaERC_p04",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "网络暴力",
+      "relation": "只是",
+      "object": "一个表征——人内心的那些恶意才是真正的根源",
+      "cause": "网暴者会自省的话世界早都和平了",
+      "effect": "讲述者从对媒体行业有热情变得麻木——每天接触无数恶意，这只是一份工作",
+      "original_text": "网暴这个问题，其实它只是一个表征。人内心的那些恶意才是真正的根源。我干这行已经干得越来越麻木了。我本来对这行还是挺有热情的，但现在发现是他妈百鬼夜行。"
+    }
+  ],
+  "proposition_count": 4,
+  "segments": 2,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

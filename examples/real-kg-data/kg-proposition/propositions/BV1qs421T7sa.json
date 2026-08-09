@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1qs421T7sa",
+  "title": "罗小黑主创再道歉：你不是知道自己错了，你只是知道自己要死了",
+  "author": "唯一讲述者",
+  "date": "2024-06-24",
+  "source_url": "https://www.bilibili.com/video/BV1qs421T7sa/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1qs421T7sa_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "MTJJ的道歉",
+      "relation": "本质是",
+      "object": "被打痛了而非知道错了——开篇以'我'视角暴露了被动性",
+      "cause": "道歉文开篇'我真不知道该说什么好'——以'我'的感受开头而非以'你'（受害者）的感受开头",
+      "effect": "公众感受不到真诚，道歉被判为不合格",
+      "original_text": "在这次的道歉里面，开篇以'我'视角来进行叙述：'我真不知道该说什么好。'这句话就暴露了MTJJ现在道歉的主要成因是被打痛了，而不是意识到自己错了。你怎么能在开头以'我'视角给出一个这样的叙述呢？"
+    },
+    {
+      "id": "BV1qs421T7sa_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "MTJJ第一版回应",
+      "relation": "是",
+      "object": "公关灾难——身份推卸+被逼妥协+受害者卖惨+双标+拱火",
+      "cause": "起手'我根本不想参与'推卸责任，然后说'我已经切割了'，再摆出受害者姿态，还给观众扣'云玩家'帽子",
+      "effect": "如果我是公关总监，当这个回应发出去的第一秒，我就会提桶跑路",
+      "original_text": "我的评价是：如果我是你们公司的公关总监，当你把这个回应发到平台上的第一秒，我就会提桶跑路，我工资都不要了。"
+    },
+    {
+      "id": "BV1qs421T7sa_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "MTJJ的双标",
+      "relation": "是",
+      "object": "自己不想参与却要求游科下场回应",
+      "cause": "MTJJ说'自己公司的同事骂黑悟空，要我回应，我根本不想参与'，但同时又要求游科回应孙呱的指控",
+      "effect": "MTJJ自己证明了自己挨骂是合理且正常的，跟舆论场其他人一样",
+      "original_text": "别人质疑你的时候，你就说'专业的意见领袖带头质问'，你自己根本就不想参与——那怎么到黑神话悟空的时候，你就要求别人回应呢？那你和你口中的'专业的意见领袖'，不就是一类人了吗？"
+    },
+    {
+      "id": "BV1qs421T7sa_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "自恋型公众人物",
+      "relation": "需要",
+      "object": "绝对不能输——就像懂王特朗普一样，无论多讨厌，粉丝始终站在身边",
+      "cause": "自恋型领袖一旦对外示弱（道歉），粉丝会感到被背叛——'臣等正在死战，陛下先降了'",
+      "effect": "MTJJ的道歉导致罗小黑粉丝全面溃败，IP遭受重创",
+      "original_text": "自恋型的群众意见领袖或者说公众人物，他不能输。你可以逻辑闭环，你可以无脑，但你绝对不能输——就像懂王一样。那无论其他人怎么讨厌你，他的粉丝始终会站在他的身边。"
+    },
+    {
+      "id": "BV1qs421T7sa_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "MTJJ的第一次回应",
+      "relation": "决定了",
+      "object": "后续无论做什么都无法挽回——先入为主的刻板印象已经形成",
+      "cause": "公关的眼里，重要的不是你犯了什么错，而是别人怎么看你",
+      "effect": "第一次回应没取得良好效果，后续做得再好也无法短时间内挽回形象",
+      "original_text": "而当你的第一次回应没有取得一个良好的效果的时候，因为这个先入为主的刻板印象，后续你做的再好，想要短时间内挽回形象，都已经不太可能了。"
+    },
+    {
+      "id": "BV1qs421T7sa_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "MTJJ道歉后的后果",
+      "relation": "是",
+      "object": "所有人赢，就罗小黑自己输",
+      "cause": "反对黑神话的人把辱女问题从黑神话身上切割，转而攻击罗小黑这个'叛徒'",
+      "effect": "罗小黑粉丝全面溃败，IP影响力遭受重创，只能靠未来更多宣发重建",
+      "original_text": "这个道歉出来之后，结果就是所有人赢，就罗小黑自己输。支持罗小黑的粉丝基本上可以认定就是全面溃败了，因为陛下先降了嘛。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "batch_14"
+}

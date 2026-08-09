@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1Ea4y1u766",
+  "title": "回应搞笑军武博文：逐条拆解其关于House事件的四个论点",
+  "author": "唯一讲述者",
+  "date": "2023-05-17",
+  "source_url": "https://www.bilibili.com/video/BV1Ea4y1u766/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Ea4y1u766_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "讲述者",
+      "relation": "回应",
+      "object": "搞笑军武博文关于House事件的言论，立场跟随官方定义House构成侮辱",
+      "cause": "应粉丝要求回应，博文视频已删但存留证据",
+      "effect": null,
+      "original_text": "对于这个脱口秀艺人House，我的立场一定是跟着官方走的。既然官方定义为侮辱，那么我这里也站House本身确实构成了侮辱。"
+    },
+    {
+      "id": "BV1Ea4y1u766_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "'强大的军队不会被侮辱'论点",
+      "relation": "被证伪因为",
+      "object": "忽略了人的主观能动性——军队强大与否和被侮辱之间没有因果关系，侮辱取决于人的主动行为而非被侮辱对象的强弱",
+      "cause": "博文没有举证或逻辑论证，仅凭一张嘴输出观点",
+      "effect": "论点无效",
+      "original_text": "强大的军队不会被侮辱，这句话忽略了人的能动性问题。人是会主动做出反应的，人不是玩具，人具备了主观能动性。所以强大的军队和会不会被侮辱这两个概念没有必然联系。"
+    },
+    {
+      "id": "BV1Ea4y1u766_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "'不够自由的环境让我们不敢说真话'论点",
+      "relation": "被证伪因为",
+      "object": "自指悖论——若此话为真话则证明环境足够自由，若为假话则陈述本身无效",
+      "cause": "博文未定义内部矛盾是什么，民众自发举报、House光速道歉、官方定性这一过程中不存在矛盾",
+      "effect": "论点被自己证伪",
+      "original_text": "如果你现在说的是真话，那么你所传达的'不够自由'的信息，违背了你自己的定义。因为如果你说的是真话，那就证明了一定是足够自由的——所以你所谓的'不够自由'这句话是假的。"
+    },
+    {
+      "id": "BV1Ea4y1u766_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "'强大的军队就摆在那里（无所谓）'论点",
+      "relation": "被证伪因为",
+      "object": "双标谬误——博主自己删视频说明他在意，却要求别人无所谓",
+      "cause": "用归谬法类比：'你妈身体很健康，我骂她无所谓是吗？'——无权代表他人表达无所谓",
+      "effect": "论点证伪",
+      "original_text": "你妈身体很健康吧，我骂她无所谓是吗？你有什么权利去代表他人呢？我能不能说这个UP主很强大——这个叫做博文的UP主非常强大——无所谓的话，你干嘛删视频呢？"
+    },
+    {
+      "id": "BV1Ea4y1u766_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "'网民没有思维能力，不是极左就是极右'论点",
+      "relation": "被证伪因为",
+      "object": "双标谬误——指责别人扣帽子（不是极左就是极右），自己这句话本身就是在扣帽子",
+      "cause": "博文未定义什么是极左极右，自身逻辑混乱、定义不明",
+      "effect": "一根手指指向他人时三根手指指向自己",
+      "original_text": "你用一根手指指向他人的时候，还有三根手指是指向自己的呀，兄弟。"
+    },
+    {
+      "id": "BV1Ea4y1u766_p006",
+      "segment_id": "seg_006",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "总结",
+      "object": "简单拆解博文四个论点，视频粗糙请担待",
+      "cause": null,
+      "effect": null,
+      "original_text": "好的，简单拆了一下这个UP主发表的言论。因为做得比较急，这个视频也比较粗糙，希望大家能够多多担待。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

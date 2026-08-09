@@ -1,0 +1,169 @@
+{
+  "source_id": "BV1fN4y1b7v5",
+  "title": "最有用的一集：一个方法让催婚亲戚闭嘴！",
+  "author": "唯一讲述者",
+  "date": "2023-12-20",
+  "source_url": "https://www.bilibili.com/video/BV1fN4y1b7v5/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1fN4y1b7v5_p001",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "社会对年轻人的婚恋教育",
+      "relation": "存在",
+      "object": "断裂——在学生时代禁止恋爱，毕业后立即催婚",
+      "cause": "学校和社会在前二十年强制锁定在禁欲档位，毕业后突然拨到繁殖档位",
+      "effect": "年轻人被要求无师自通地完成婚恋，中间没有任何过渡和练习",
+      "original_text": "几乎每个家长都希望自己的孩子在大学以前能够安安静静读书，不要谈任何恋爱。但等到大学毕业之后，家庭和社会又要求你在不经过任何学习之后迅速成熟，立刻了解一切与性相关的知识，然后马上开始传宗接代的工作。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p002",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "亲戚催婚的动机",
+      "relation": "分为",
+      "object": "三种类型：真心关心（私下问）、没话找话（表达欲驱动）、彰显权威/炫耀子女（攻击性）",
+      "cause": "不同的提问场景和方式折射出不同的动机",
+      "effect": "应对策略应根据动机类型来调整，本文主要针对后两种",
+      "original_text": "对方选择私下问你，那就说明这个人还是蛮好的。公开询问通常会有几个潜在目的：没话找话、彰显权威、踩你一脚、炫耀子女。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p003",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "没话找话型亲戚",
+      "relation": "真正动机是",
+      "object": "满足表达欲而非关心你的实际情况",
+      "cause": "他们暂时无法和其他人搭茬，只能找小辈来满足表达欲",
+      "effect": "你回答什么不重要，重要的是让他说话——他自然会忘记最初问了你什么",
+      "original_text": "这些没话找话的人，他们本身其实并不在意你是不是结婚、买房、学习、工作好不好之类的。他们只是表达欲得不到满足而已。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p004",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "对付没话找话型亲戚",
+      "relation": "应使用",
+      "object": "转移话题到对方子女身上的策略",
+      "cause": "让对方有参与感，将话题从他问你变成你问他",
+      "effect": "矛盾被转移到对方的子女（你的同辈兄弟姐妹）身上，实现死道友不死贫道",
+      "original_text": "只需要记住一点：让他有参与感。矛盾已经被转移到了你的哥哥姐姐弟弟妹妹身上了。主打一个死道友不死贫道。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p005",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "在饭桌之前",
+      "relation": "应先争取",
+      "object": "父母站到自己这边",
+      "cause": "防止父母在亲戚催婚时拆台",
+      "effect": "通过送礼物（如按摩仪）提前安抚父母，确保他们在饭桌上不成为对方的助攻",
+      "original_text": "在饭桌之前，为了不让父母在这个时候拆你的台，你也要先跟父母'对线'。跟父母对线的方法反而是最简单的——因为我们可以送父母一份礼物，直接堵住他们的嘴。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p006",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "彰显权威/炫耀子女型亲戚",
+      "relation": "核心应对策略是",
+      "object": "在第三句之前夺回话语主导权",
+      "cause": "长辈在交谈中因社会约定俗成具有天然道德优势，如果不夺回主导权就会被对方道德绑架",
+      "effect": "由自己控制接下来要聊什么，避开催婚催育等不利话题",
+      "original_text": "面对这种人，我们就要随机应变了。但大体思路还是差不多的，就是自己要永远占据话语的主导权。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p007",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "对方用'我关心你还关心出错来了'进行道德绑架",
+      "relation": "破解方法是",
+      "object": "反问而非直接回答对错",
+      "cause": "如果回答对或错，对方仍然掌握话题主导权，你仍然处于道德低位",
+      "effect": "通过反问把主导权抢过来，利用长辈不能不回答晚辈请教的道德约束锁定对方",
+      "original_text": "这个时候怎么办？你不能回答对或错——对方掌握了话题，对方道德绑架了你。但对方首先发难之后，你可以先反问，把主导权抢过来。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p008",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "核心战术",
+      "relation": "分为两步",
+      "object": "第一步用'问我吗？'假装迟钝抢夺节奏，第二步用'我正想问您……'将话题反抛",
+      "cause": "第一步打断对方的节奏，第二步利用长辈不能不回答晚辈请教的道德约束",
+      "effect": "话语主导权回到自己手中，可以自由选择安全话题",
+      "original_text": "你可以假装刚反应过来：'问我吗？'这个时候对方必然会回答你，但是这个时候其实主导权已经悄然转移到你手上。接下来就重复我刚才说的那个思路——直接开始无限反问。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p009",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "亲戚问什么",
+      "relation": "往往折射",
+      "object": "他自己正在经历或炫耀什么",
+      "cause": "如果对方刚刚离婚并觉得婚姻不幸，他断然不会问你关于婚姻的话题",
+      "effect": "通过分析对方提问的主题，可以推断出对方的真实意图——是炫耀还是找茬",
+      "original_text": "如果对方刚刚离婚，他觉得婚姻是不幸福的，他断然不会问你关于婚姻的话题。所以亲戚问什么，往往折射的是他自己正在经历或炫耀什么。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p010",
+      "segment_id": "seg_08",
+      "type": "argumentation",
+      "subject": "对方破掉你的装傻时",
+      "relation": "仍可通过",
+      "object": "转换话题继续抢夺主导权",
+      "cause": "如回答'我最近正好有一个目标，但不知道怎么追，您给我支个招呗'",
+      "effect": "主导权再次回到你手中，继续无限反问让其他亲戚因这个长辈的失误展开辩论",
+      "original_text": "你可以回答：'嗨，我这不是也很想找嘛，最近正好有一个目标，但是我不知道怎么追人家，您给我支个招呗？'主导权又来到了你的手里。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p011",
+      "segment_id": "seg_08",
+      "type": "argumentation",
+      "subject": "进阶战术",
+      "relation": "是",
+      "object": "故意扭曲对方的话并拉其他亲戚下水",
+      "cause": "故意扭曲长辈话里的意思，让其他亲戚产生误解，从而引发长辈之间的辩论",
+      "effect": "将一对一的被盘问变为多对多的混战，自己从中脱身",
+      "original_text": "你甚至可以故意扭曲掉这个长辈话里的意思，然后让这个长辈解释，让你那个长辈和这个长辈开始就这个问题继续展开无休止的辩论。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p012",
+      "segment_id": "seg_09",
+      "type": "event",
+      "subject": "唯一讲述者",
+      "relation": "使用故意扭曲战术",
+      "object": "让不喜欢的亲戚在年夜饭上被骂了半个小时",
+      "cause": null,
+      "effect": "将亲戚吹嘘给大娘买礼物的话扭曲成'女人就是不能惯着'，引发在场女性长辈的集体抨击",
+      "original_text": "我那个亲戚根本就没说这话。他原话意思是说：当年给我大娘买礼物的时候，不能说我大娘要啥他就给买啥。然后这句话就被我扭曲成'女人就是不能惯着'。一顿三个小时的年夜饭，我这个亲戚起码挨了半个小时的骂。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p013",
+      "segment_id": "seg_10",
+      "type": "argumentation",
+      "subject": "方法的核心心法",
+      "relation": "是",
+      "object": "永远站在道德高地上，在第三句之前夺回话语主导权",
+      "cause": "由自己控制接下来聊什么，避开催婚催育等不利话题",
+      "effect": "饭桌保持和谐，没必要搞得像开战一样",
+      "original_text": "我们这里一定要记住一个思路，就是我们自己永远都是站在道德高地上的。而且，在一段谈话开始之后，在第三句之前，话语主导权就要在你身上，由你自己来控制接下来要聊什么。"
+    },
+    {
+      "id": "BV1fN4y1b7v5_p014",
+      "segment_id": "seg_10",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "总结",
+      "object": "希望大家用不上这些方法",
+      "cause": null,
+      "effect": null,
+      "original_text": "希望大家用不上吧。我是讲述者。"
+    }
+  ],
+  "proposition_count": 14,
+  "segments": 10,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

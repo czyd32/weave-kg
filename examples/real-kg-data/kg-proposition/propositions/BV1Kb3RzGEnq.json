@@ -1,0 +1,103 @@
+{
+  "source_id": "BV1Kb3RzGEnq",
+  "title": "捞女游戏背刺玩家：这封感谢信确实有点离谱了",
+  "author": "唯一讲述者",
+  "date": "2025-07-05",
+  "source_url": "https://www.bilibili.com/video/BV1Kb3RzGEnq/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Kb3RzGEnq_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "禁果效应",
+      "relation": "解释了",
+      "object": "《捞女游戏》被封禁反而激发销量奇迹",
+      "cause": "被封禁激发了用户的逆反心理和报复性购买行为，'越不让我玩，我越想玩'",
+      "effect": "销量冲上Steam国区热销榜首、全球付费榜第三，好评率97%",
+      "original_text": "导演被封禁这个事情，成为了最强的营销方案，激发了部分用户的逆反心理和报复性购买行为。这种'越不让我玩，我越想玩'的心理，反而让人更想玩。"
+    },
+    {
+      "id": "BV1Kb3RzGEnq_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "《捞女游戏》的核心用户基本盘",
+      "relation": "不容被背叛",
+      "object": "任何模糊立场的信号都会被解读为背叛",
+      "cause": "产品靠立场认同和价值观共鸣吸引用户，玩家购买它是立场表态，不只是为了玩游戏",
+      "effect": "感谢信中强调'姐妹们'被解读为讨好对立阵营，导致差评雪崩和退款潮",
+      "original_text": "对于《捞女游戏》的基本盘来说，核心诉求是身份认同和价值观共鸣。这款游戏从一开始就被打上了'男性立场''对抗捞女'的标签，玩家购买它不只是为了玩游戏，更是一种立场表态。当官方在感谢信中刻意强调'姐妹们'，就发出了'模糊立场、讨好对立阵营'的信号，直接让玩家感到被背刺。"
+    },
+    {
+      "id": "BV1Kb3RzGEnq_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "主创团队翻车根因",
+      "relation": "是",
+      "object": "没有充分认识自己的用户画像",
+      "cause": "正常游戏宣发用'感谢所有玩家'这类性别中性的词，刻意强调性别是'此地无银三百两'",
+      "effect": "被男女双方同时冲，陷入'男女双冲'状态",
+      "original_text": "正常游戏怎么宣发的？'感谢所有玩家''感谢所有的天命人'——因为'玩家'这个词本身就不强调性别。你反而在宣发里强调性别，这种'此地无银三百两'是想表达什么？官方没有充分认识到自己的用户画像是什么样的群体。"
+    },
+    {
+      "id": "BV1Kb3RzGEnq_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "敌意归因偏差",
+      "relation": "导致",
+      "object": "用户对游戏一切行为从负面角度解读",
+      "cause": "当官方立场出现模糊后，之前被原谅的'洗白捞女'情节被重新解读为'骑墙'和'背叛'",
+      "effect": "信任破裂后形成恶性循环，进一步引发更多极端负面言论",
+      "original_text": "当官方立场出现模糊后，玩家对游戏的一切解读都从负面角度出发——之前被原谅的'洗白捞女'情节，如今被重新解读为'背叛'。这种倾向一旦形成，会引发更多的负面极端言论，形成恶性循环。"
+    },
+    {
+      "id": "BV1Kb3RzGEnq_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "危机公关中的装死策略",
+      "relation": "是",
+      "object": "超越70%公关的基本能力",
+      "cause": "如果你实在不知道怎么处理，最好就是不要说话——只要不持续向舆论场投入新负面信源，问题就不算太大",
+      "effect": "《捞女游戏》官方装死做得不错，避免了进一步恶化",
+      "original_text": "公关里也有这么一个段子：'只要你学会装死，你就已经超越70%的公关了。'只要不持续向舆论场里投入新的负面信源，问题就不算太大。"
+    },
+    {
+      "id": "BV1Kb3RzGEnq_p6",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "性别话题",
+      "relation": "是",
+      "object": "极端化叙事领域，理性不存在",
+      "cause": "大家都在极端化叙事，立场一旦偏移就会引发全面反噬",
+      "effect": "像《捞女游戏》这样靠性别话题引流的游戏，稍有不慎就会从'男女对立'变成'男女双冲'",
+      "original_text": "性别这个选题本身也很危险，稍有不慎——某脱口秀女演员的代言事件就是前车之鉴。性别问题——大家都在极端化叙事。"
+    },
+    {
+      "id": "BV1Kb3RzGEnq_p7",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "性压抑中",
+      "relation": "影响更深的是",
+      "object": "压抑本身，而非性",
+      "cause": "压抑会导致不配得感、过度付出、碎片化时间填充、沉迷宏大叙事等行为",
+      "effect": "如果把所有压抑归结于'性'，就沦为下三路心理学——压抑会在其他事情上爆发",
+      "original_text": "性压抑中影响人更深的，其实是'压抑'。压抑其实是一个时代的病症。如果我们把所有的压抑都归结于'性'，那就跟下三路的心理学没什么区别了。所以我们更应该把重点放在'解决压抑'这个上面。"
+    },
+    {
+      "id": "BV1Kb3RzGEnq_p8",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "压抑的自我诊断指标",
+      "relation": "包括",
+      "object": "碎片化时间填充、一心多用、睡前反思、沉迷宏大叙事、进食代替吃饭",
+      "cause": "压抑让当事人没有足够精力面对生活中的琐碎现实",
+      "effect": "即便爆发点不在性上，压抑也会在其他事情上爆发出来",
+      "original_text": "除了碎片化时间占用之外，还有一个很重要的指标，就是沉迷于宏大叙事。宏大叙事是弥合自己创伤的一个非常有力的方法。但对于压抑本身来说，最可怕的是当事人没有足够的精力去面对生活中的那些琐碎的现实。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1NX4y1v7H3",
+  "title": "好人难做：辱华者因精神病免罚，拍摄者反被行政处罚",
+  "author": "唯一讲述者",
+  "date": "2023-07-10",
+  "source_url": "https://www.bilibili.com/video/BV1NX4y1v7H3/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1NX4y1v7H3_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "上海地铁",
+      "relation": "发生",
+      "object": "女子公开辱华事件",
+      "cause": "七七事变纪念日当天，女子发表辱华言论称日本侵略中国是正确的",
+      "effect": "上海警方迅速出警并通报",
+      "original_text": "七七事变纪念日当天，上海地铁中，一个女子公开发表了辱华言论，对日本大唱赞歌，说是日本侵略中国是正确的。之后上海警方迅速出警并通报了这一事件。"
+    },
+    {
+      "id": "BV1NX4y1v7H3_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "警方通报",
+      "relation": "严格来说没有问题",
+      "object": "但可以做得更好",
+      "cause": "通报选择'双方都打一顿'的角度，未区分主要问题和次要问题",
+      "effect": "在公众眼里变成了'辱华的没事，拍辱华的被处罚了'",
+      "original_text": "在民众的视角之下，就变成了这样一个东西：辱华的尹某因为是神经病，所以他不受处罚；但是拍摄辱华言论的王某，被行政处罚了。虽然我是法盲，但是我相信法律是有温度的。"
+    },
+    {
+      "id": "BV1NX4y1v7H3_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "更好的通报写法",
+      "relation": "应该是",
+      "object": "追究非法行为但区分主次，先处理辱华者再教育拍摄者",
+      "cause": "对尹某可批评教育或追究监护人责任后送医，对王某可口头教育",
+      "effect": "既能体现秉公执法又能体现人文关怀",
+      "original_text": "如果通报这样写可能问题就不大：尹某目前已经找到，但是发现他是外省去沪就医的精神残疾人，就不追究他的责任，目前已经被市精神卫生中心收治。至于那个王某，审讯的时候他自爆了——他说他想红，那你就口头教育一番，告诉他这样做是不对的。"
+    },
+    {
+      "id": "BV1NX4y1v7H3_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "通报的价值倡导",
+      "relation": "传递了",
+      "object": "'你不想红你为什么要拍'的信号",
+      "cause": "王某曝光辱华分子客观上宣扬了见义勇为价值观，却被行政处罚",
+      "effect": "引发'好人难做，不如事不关己高高挂起'的后延问题",
+      "original_text": "你且不说王某到底是想红还是怎么样，那毕竟是一个主观想法，只是脑子里的一个念头。而且这还是次要问题，主要问题是尹某辱华，这两个问题是不能混淆的。客观上，王某就是曝光了一个辱华分子而已。这个倡导就好像是'不是你撞的为什么要扶'。"
+    },
+    {
+      "id": "BV1NX4y1v7H3_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "好人困境",
+      "relation": "是",
+      "object": "好人必须是完美的，动一点歪心思都不行",
+      "cause": "UP主捐款武汉的亲身经历：80%人支持，20%人认为心思不纯为红",
+      "effect": "论迹不论心在现代普遍性逐渐降低",
+      "original_text": "这就是好人难做的地方——好人必须是完美的。'论迹不论心'这句话，在现代普遍性已经开始逐渐降低。如果我说'我真的没有想过靠捐款获取流量'，你们信吗？我自己都不信。哪怕我的捐款主因真的是因为我觉得武汉人民需要帮助，但是只要我的脑海里出现过'也许这样我会有更多流量'的念头，我就可以被认定为目的不纯，因此算不得好人。"
+    },
+    {
+      "id": "BV1NX4y1v7H3_p006",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "做好事不会被奖励",
+      "relation": "而",
+      "object": "在做好事过程中犯一点小错却要被处罚",
+      "cause": "普通人不是圣人，也要衡量利益得失",
+      "effect": "这种价值倡导下，做好事的代价承受不起，只能事不关己",
+      "original_text": "做好事不会被奖励，而在做好事的过程中犯了一点小错却要被处罚，而不是批评教育这种怀柔政策。那么在这种情况之下，它倡导了一种什么样的价值呢？那我就只能以后做事就只能是事不关己了。我只是普通人，我不是圣人。"
+    },
+    {
+      "id": "BV1NX4y1v7H3_p007",
+      "segment_id": "seg_006",
+      "type": "narrative",
+      "subject": "结语",
+      "relation": "收尾",
+      "object": "本期内容结束",
+      "cause": null,
+      "effect": null,
+      "original_text": "我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest→SkillZY-Knowledge-Graph-Ingest→SkillZY-Proposition-Knowledge-Graph"
+}

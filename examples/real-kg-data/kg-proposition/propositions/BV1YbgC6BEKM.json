@@ -1,0 +1,114 @@
+{
+  "source_id": "BV1YbgC6BEKM",
+  "title": "不怕富二代败家，就怕富二代创业——邹市明夫妇2亿亏损背后的心理账户与炫耀性消费陷阱",
+  "author": "唯一讲述者",
+  "date": "2026-07-22",
+  "source_url": "https://www.bilibili.com/video/BV1YbgC6BEKM/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1YbgC6BEKM_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "邹市明夫妇",
+      "relation": "创业亏损",
+      "object": "2亿人民币",
+      "cause": "退役后搭建横跨体育培训、直播带货、电竞、餐饮、潮牌等商业矩阵",
+      "effect": "网友调侃2亿换成硬币打水漂也得扔十年八年",
+      "original_text": "在二人的不懈努力之下，用网友的话来说就是：这2亿就算全换成硬币，天天打水漂玩，也得扔个十年八年的。"
+    },
+    {
+      "id": "BV1YbgC6BEKM_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "败家vs创业",
+      "relation": "败家是线性消耗有上限",
+      "object": "而创业踩错方向亏损没有极限",
+      "cause": "败家个人消费能力有限，创业'投资'能为挥霍披上合理化外衣",
+      "effect": "不怕富二代败家，就怕富二代创业",
+      "original_text": "败家再能花，毕竟是一个相对线性的消耗。但是一旦创业踩错了，那个成本就没有极限。"
+    },
+    {
+      "id": "BV1YbgC6BEKM_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "对钱没有实感的人",
+      "relation": "花钱时",
+      "object": "不会自动弹出等价的劳动交换",
+      "cause": "钱是被给予的、身份附带的，中间没有在身体和情绪里留下任何感受",
+      "effect": "花100万和花100块一个样，眼都不眨",
+      "original_text": "这笔钱从来到你手里，再到从你手里流出去，中间没有在你的身体和情绪里留下任何感受。"
+    },
+    {
+      "id": "BV1YbgC6BEKM_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "心理账户理论",
+      "relation": "解释了",
+      "object": "不同来源的钱有不同的心理价值",
+      "cause": "底层打拼的人钱按劳动账户存，心理成本高；靠IP流量被动收入的人钱在身份维护账户，心理成本低",
+      "effect": "大额支出在身份维护账户里花起来毫无心理负担",
+      "original_text": "对于底层一步一步打拼上来的人来说，钱是按照劳动账户存的，你对钱有很高的价值认知。而对于长期依靠IP流量和身份地位被动获得收入的人，大额支出的心理账户一般在身份维护这个账户里面。"
+    },
+    {
+      "id": "BV1YbgC6BEKM_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "炫耀性消费",
+      "relation": "是",
+      "object": "通过明显浪费来证明支付能力",
+      "cause": "越往上走的人越需要通过浪费来证明自己用得起",
+      "effect": "300万买吊灯不是挥霍，而是'配得上自身IP的必要投入'",
+      "original_text": "越往上走的人，越需要通过一种明显浪费的方式来证明自己的支付能力。这个东西不是为了用，是为了让别人看到自己用得起。"
+    },
+    {
+      "id": "BV1YbgC6BEKM_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "快乐水车机制",
+      "relation": "导致",
+      "object": "排面一旦烧起来就停不下来",
+      "cause": "欲望满足后无聊，不满足就痛苦，快乐的阈值不断提高需要更大刺激",
+      "effect": "100万装修换来短暂认可，下次要300万灯光秀，再下次千万级发布会",
+      "original_text": "欲望如果无法被满足，就会痛苦；但满足了就会无聊。人的大脑快乐的阈值是会不断提高的，而欲望不被满足又很痛苦。"
+    },
+    {
+      "id": "BV1YbgC6BEKM_p007",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "创业者",
+      "relation": "被",
+      "object": "自己扮演的人设给绑架",
+      "cause": "当投入大量时间金钱和身份认同后，会倾向于继续追加而非及时止损",
+      "effect": "就像杀猪盘受害者被虚假叙事套牢，丧失了理性止损的能力",
+      "original_text": "杀猪盘是被外人编织的暴富幻觉给绑架了，而创业者是被自己扮演的人设给绑架了。本质上都是被一套虚假的叙事给套牢了。"
+    },
+    {
+      "id": "BV1YbgC6BEKM_p008",
+      "segment_id": "seg_008",
+      "type": "argumentation",
+      "subject": "流量万能幻觉",
+      "relation": "产生于",
+      "object": "轻资产变现太顺利",
+      "cause": "靠IP和综艺热度接代言跑商演就能持续变现，来钱太快",
+      "effect": "对重资产运营失去了敬畏，轻率投入实体创业",
+      "original_text": "轻资产变现太顺利了，来钱太快了，所以身份切换比较快。身份切换快了，对重资产的运营就失去了敬畏。"
+    },
+    {
+      "id": "BV1YbgC6BEKM_p009",
+      "segment_id": "seg_009",
+      "type": "argumentation",
+      "subject": "线上流量",
+      "relation": "很难成为",
+      "object": "实体店生意的基本盘",
+      "cause": "线上运营做再好大多数情况下只是给线下锦上添花，不能雪中送炭",
+      "effect": "低价引流来的薅羊毛用户不会成为忠实客户，恢复原价后不会回购",
+      "original_text": "线上的流量其实很难成为生意的基本盘，除非你的产品专供线上。实体店铺的线上运营做得再好，绝大多数情况下都是给线下锦上添花，不能起到雪中送炭的作用。"
+    }
+  ],
+  "proposition_count": 9,
+  "segments": 9,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

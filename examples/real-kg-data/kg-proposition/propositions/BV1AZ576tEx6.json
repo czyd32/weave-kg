@@ -1,0 +1,48 @@
+{
+  "source_id": "BV1AZ576tEx6",
+  "title": "鬼才营销：OPPO母亲节「妈妈俩老公」文案翻车与职场危机公关深度剖析",
+  "author": "唯一讲述者",
+  "date": "2026-05-10",
+  "source_url": "https://www.bilibili.com/video/BV1AZ576tEx6/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1AZ576tEx6_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "圈层错位",
+      "relation": "是",
+      "object": "将亚文化符号直接移植到主流大众传播语境中，导致语境坍塌",
+      "cause": "亚文化符号依赖特定语境支撑，脱离该语境后符号意义发生不可控漂移",
+      "effect": "饭圈里叫老公是自嗨，品牌官微在母亲节说妈妈有两个老公就是翻车",
+      "original_text": "营销这行有一个忌讳：不能用少数亚文化的符号放到主流文化当中去用。这个东西就叫圈层错位。它会带来一个后果，叫做语境坍塌——原本在特定小圈子里才能够成立的语言，被公开之后语境发生了断裂和崩塌。"
+    },
+    {
+      "id": "BV1AZ576tEx6_p02",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "危机后紧急招公关负责人",
+      "relation": "是",
+      "object": "压力换手——管理层用新负责人转移舆论压力和责任归属，而非解决实际问题",
+      "cause": "公关公司只负责解决事的问题，但管理层更迫切的需求是解决人的问题（责任归属）",
+      "effect": "招人这个动作比招人本身更重要——向董事会证明已采取措施，干好了领导有方，干砸了锅全是你的",
+      "original_text": "公司这个时候招人，你大概率过去不是去解决问题的，而是去当压力换手的节点的。压力换手，你就是那只手。干好了，招你进来的那个人领导有方、用人得当；干砸了，锅全是你一个人的。"
+    },
+    {
+      "id": "BV1AZ576tEx6_p03",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "模糊需求",
+      "relation": "导致",
+      "object": "文案翻车——'走心、共鸣、网感'三个词组合本质上是'我不知道要什么但你要给我一个惊喜'",
+      "cause": "形象宣传不对数据负责，审核标准从'能不能打动消费者'变成'能不能让会上的人觉得新颖'",
+      "effect": "当内部满意成为唯一KPI，圈层认知与外部公众认知断裂，翻车就不是概率问题而是时间问题",
+      "original_text": "注意这几个关键词：走心、共鸣、网感。这三个词放在一起翻译成大白话就是：你要做点不一样的，但我不知道哪里不一样。形象宣传不需要对数据负责，审核的标准就会从'能不能打动消费者掏钱'变成了'能不能让会上的这帮人觉得很新颖'。圈层错位之后翻车，它就不是一个概率问题，它是时间问题。"
+    }
+  ],
+  "proposition_count": 3,
+  "segments": 3,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

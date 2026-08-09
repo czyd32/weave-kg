@@ -1,0 +1,44 @@
+{
+  "source_id": "BV1YF25BkEdG",
+  "title": "办鬼畜大赛鬼畜自己：最抽象的一集",
+  "propositions": [
+    {
+      "id": "BV1YF25BkEdG_p1",
+      "subject": "唯一讲述者",
+      "relation": "opens",
+      "object": "个人形象授权——将个人IP转化为UGC社区共创资源",
+      "cause": "被粉丝恶搞整活后，决定不如自己也下来玩",
+      "effect": "允许粉丝用直播切片、表情包、视频内容等公开素材进行二次创作",
+      "type": "argumentation",
+      "original_text": "此刻我正式开放我的个人形象授权。你们可以用我的直播切片、表情包、视频内容、台词等任何公开素材进行创作，包括但不限于AI绘画视频、鬼畜调音、表情包改造、剧情小剧场，或者任何你们能想象到的创意形式。",
+      "segment_id": "seg_02"
+    },
+    {
+      "id": "BV1YF25BkEdG_p2",
+      "subject": "鬼畜大赛",
+      "relation": "is",
+      "object": "社区互动策略——通过自我解构拉近与粉丝距离，将负面恶搞转化为正面共创",
+      "cause": "既然粉丝喜欢整活，不如自己主动参与，把恶搞转化为有组织的社区活动",
+      "effect": "降低创作门槛、提供奖品激励、主动设置边界（保持善意、不引战），将UGC纳入可控范围",
+      "type": "argumentation",
+      "original_text": "既然这样，不如我自己也下来玩，干脆搞一个鬼畜大赛，就叫'唯一讲述者鬼畜S1'。...保持欢乐，但也要保持善意。不要用来引战、搞敏感内容、攻击他人等。",
+      "segment_id": "seg_01"
+    },
+    {
+      "id": "BV1YF25BkEdG_p3",
+      "subject": "个人IP形象授权",
+      "relation": "requires",
+      "object": "边界约束（保持善意、不引战、不商业用途、原创自制）",
+      "cause": "开放形象授权不等于放弃对形象使用的管控",
+      "effect": "通过明确的规则边界（原创自制、非商业、保持善意）防止形象被滥用",
+      "type": "narrative",
+      "original_text": "但有一个小要求：保持欢乐，但也要保持善意。不要用来引战、搞敏感内容、攻击他人等。...有商业意图或拿我的形象做商业元素的，都不可以参赛。必须是原创自制作品，搬运、转载不行。",
+      "segment_id": "seg_02"
+    }
+  ],
+  "proposition_count": 3,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

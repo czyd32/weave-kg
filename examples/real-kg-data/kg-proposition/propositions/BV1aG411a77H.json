@@ -1,0 +1,180 @@
+{
+  "source_id": "BV1aG411a77H",
+  "title": "成都地铁案一审判决下来了，但恕我直言，就算上诉应该也不会有什么结果上的改变",
+  "author": "唯一讲述者",
+  "date": "2023-12-15",
+  "source_url": "https://www.bilibili.com/video/BV1aG411a77H/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1aG411a77H_p001",
+      "segment_id": "seg_01",
+      "type": "event",
+      "subject": "成都地铁人格权纠纷案",
+      "relation": "一审判决",
+      "object": "不支持男性乘客诉讼请求",
+      "cause": null,
+      "effect": "男性乘客因鞋面反光金属片被误认为偷拍摄像头，但法院未认定构成人格权侵权",
+      "original_text": "成都地铁有一名男性乘客因为鞋上有反光的金属片，被两名女性乘客认为藏有摄像头。一审判决是法院不支持男性乘客的诉求。"
+    },
+    {
+      "id": "BV1aG411a77H_p002",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "本案",
+      "relation": "区别于",
+      "object": "川大张薇事件",
+      "cause": "张薇是明知虚假仍故意散布，本案被告是基于鞋面反光这一客观现象提出质疑",
+      "effect": "两者法律性质不同，不能混为一谈",
+      "original_text": "这个案件和张薇案完全不一样，大家可千万别产生什么奇怪的误会。"
+    },
+    {
+      "id": "BV1aG411a77H_p003",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "官方蓝底通报",
+      "relation": "性质模糊",
+      "object": "介于案情通报与事实解释之间",
+      "cause": "通报中掺杂了'人不多''影响范围较小'等主观价值判断",
+      "effect": "通报丧失了应有的中立性，变成了一种带有导向性的叙事",
+      "original_text": "这个蓝底的官微消息到底算是什么性质的东西？它是一份具体的通报吗？还是一份具体的事实的解释？为什么内容里会掺杂价值判断的内容呢？"
+    },
+    {
+      "id": "BV1aG411a77H_p004",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "通报中'人不多'的描述",
+      "relation": "与视频证据矛盾",
+      "object": "车厢实际满员且有围观的事实",
+      "cause": "当事人发布的26秒视频显示车厢基本满员，还有人上前围观",
+      "effect": "'人不多'的界定缺乏量化标准，通报的可信度受到质疑",
+      "original_text": "视频全程26秒，基本可以看得出来车厢是基本满员的，甚至还有一些人上前围观。这种情况被界定为'人不多'——这我就很难理解了。"
+    },
+    {
+      "id": "BV1aG411a77H_p005",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "人格伤害",
+      "relation": "存在",
+      "object": "独立于影响范围的基础值",
+      "cause": "在满车厢人面前被指责偷拍，对主体造成的精神伤害是一个客观存在的基础值",
+      "effect": "不能以影响范围小为由忽略基础伤害",
+      "original_text": "被人指责所造成的伤害是一个基础值，而被围观下的指责是伤害的增幅。你不能说因为没有人围观，所以你对我的伤害就可以忽略不计——基础值还在呢。"
+    },
+    {
+      "id": "BV1aG411a77H_p006",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "道歉方式",
+      "relation": "应当遵循",
+      "object": "同态原则",
+      "cause": "在什么场合被伤害，就应当在什么场合被道歉——侵害与救济应在性质和程度上对等",
+      "effect": "警务室私下道歉无法抵消在满车厢人面前被公开指责的伤害",
+      "original_text": "这个标准至少应该是同态的：我既然在满座的车厢里大声指责你偷拍，我就应该在满座的车厢里大声向你道歉。"
+    },
+    {
+      "id": "BV1aG411a77H_p007",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "法院裁定'道歉方式与误会影响范围及程度相当'",
+      "relation": "不合理",
+      "object": "同态救济原则",
+      "cause": "在警务室面对三五个人的道歉，与在满车厢人面前被公开指责，场景完全不同",
+      "effect": "裁定实质上忽略了公开指责与私下道歉的严重不对等",
+      "original_text": "在警务室那么三五个人的面前给你道歉，赔了几块钱十几块钱打车费。这怎么就算道歉方式与误会影响范围及程度相当了呢？"
+    },
+    {
+      "id": "BV1aG411a77H_p008",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "本案被告",
+      "relation": "不构成",
+      "object": "造谣诽谤",
+      "cause": "造谣诽谤要求主观明知虚假仍故意散布，被告是基于鞋面反光这一客观现象提出质疑",
+      "effect": "法院认定不构成造谣诽谤是正确的",
+      "original_text": "罗某某和曾某某到底有没有造谣诽谤呢？显然是没有的。造谣诽谤通常是指捏造并散布虚构的事实，主观要件是必须主观故意。而被告是以鞋上的反光来展开质疑。"
+    },
+    {
+      "id": "BV1aG411a77H_p009",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "不构成造谣诽谤",
+      "relation": "不等于",
+      "object": "不构成人格权侵权",
+      "cause": "造谣诽谤只是人格权侵权的一种形式，否定一种形式不能否定其他形式（如侮辱）",
+      "effect": "法院的推理存在逻辑谬误（否定前件），不能因不构成造谣诽谤就直接排除人格权侵权",
+      "original_text": "这个成都地铁案还真就没有造谣诽谤，所以没有侵犯原告的一般人格权——就像我没有给你下毒，所以你不是我杀的。二者之间是从属关系，而不是直接关系。"
+    },
+    {
+      "id": "BV1aG411a77H_p010",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "在公开场合指控他人偷拍（即使出于怀疑）",
+      "relation": "可能构成",
+      "object": "一般人格权侵权",
+      "cause": "偷拍在道德和舆论上伴随极其负面的形象，被告作为心智正常的成年人不可能不知道",
+      "effect": "即使不构成侮辱罪，该行为也应构成对尊严权和名誉权的侵犯",
+      "original_text": "偷拍行为本身虽然不是一个严重的刑事指控，但偷拍却会在道德和舆论上受到极其不利的评价。被告方作为心智正常的成年人不可能不知道这点。所以，这个行为即使不构成侮辱，也应该能构成对一般人格权的侵犯。"
+    },
+    {
+      "id": "BV1aG411a77H_p011",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "法院对被告方的主观价值判断（维护公共利益）",
+      "relation": "不应优于",
+      "object": "对原告方的主观价值判断（维护法治公正）",
+      "cause": "双方都可以为自己的行为叠加正当性理由，最终变成谁的理由更'高大上'的比拼",
+      "effect": "司法论证应关注不含主观价值的客观事实，而非谁的BUFF更伟光正",
+      "original_text": "这个主观判断我是可以认下来的。但这意味着我也可以给当事人作出主观价值判断——当事人是为了让大众更加关注律法的严明和公正。但是这样下去不就变成BUFF大战了吗？"
+    },
+    {
+      "id": "BV1aG411a77H_p012",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "概括性描述",
+      "relation": "导致",
+      "object": "信息失真和导向完全不同",
+      "cause": "一个词、一句话的改变就能让内容完全变味，概括性描述容易掺杂主观判断",
+      "effect": "应关注不含主观价值的客观事实，而非概括性描述",
+      "original_text": "概括性的描述造成的信息失真会出现很多的问题，其中最典型的就是容易造成导向的完全不同。其中有一句话，一个字的改变，带来的内容马上就完全不一样。"
+    },
+    {
+      "id": "BV1aG411a77H_p013",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "原告要求在地铁全线播报道歉10日及赔偿5万元",
+      "relation": "过于离谱",
+      "object": "法院支持的可能性",
+      "cause": "一个车厢的伤害不应要求整个地铁线路的道歉，请求超出了同态范围",
+      "effect": "按照当前诉求上诉，法院不可能支持，结果不会改变",
+      "original_text": "他要求被告在成都地铁播报道歉10日，并赔偿精神抚慰金五万元。一个车厢和整个地铁的辐射范围也是完全不同的，这个要求显然是过分的。"
+    },
+    {
+      "id": "BV1aG411a77H_p014",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "庭内输庭外赢策略",
+      "relation": "是",
+      "object": "一种法律实务策略",
+      "cause": "明知诉讼请求难以获得法院支持，但通过诉讼过程扩大社会关注度和影响力",
+      "effect": "在舆论场域获得庭外胜利，但需承担败诉的法律后果",
+      "original_text": "一旦你败诉了，你打的影响力就会更大，所以不如就继续扩大影响，把自己的知名度打出来，这样庭外的收益肯定会更大一些。"
+    },
+    {
+      "id": "BV1aG411a77H_p015",
+      "segment_id": "seg_07",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "总结",
+      "object": "对通告基本认同但仍有疑问，不再展开敏感内容",
+      "cause": null,
+      "effect": null,
+      "original_text": "我对这份通告整体内容出于对公信力的信任，所以基本认同，但仍有诸多疑问不能解开。另外我也是个小人物，就不聊了。"
+    }
+  ],
+  "proposition_count": 15,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

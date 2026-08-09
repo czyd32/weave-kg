@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1Yg4y1R73X",
+  "title": "中德贫困生这事，理智一点，打蛇打七寸，擒贼先擒王",
+  "author": "唯一讲述者",
+  "date": "2023-11-04",
+  "source_url": "https://www.bilibili.com/video/BV1Yg4y1R73X/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Yg4y1R73X_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "证据原则",
+      "relation": "要求",
+      "object": "没有证据就不能认定一个事实，即使是当事人本人的说法",
+      "cause": "各方都可能存在收集证据的阻碍，但没有证据就贸然下结论造成的隐患很大",
+      "effect": "网友声称僧丫不是专业第一、是降标不满等说法，因无证据不予采信",
+      "original_text": "没有证据，我们就不能认定它是一个事实。包括僧丫本人的一些说法，我们同样也不可以在没有证据的情况下认定一个事实。"
+    },
+    {
+      "id": "BV1Yg4y1R73X_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "舆论一边倒",
+      "relation": "需要警惕",
+      "object": "因为'为爱冲锋的勇士'和小慧君事件都曾一边倒然后翻车",
+      "cause": "上次这样一边倒的情况下，车翻得让人猝不及防",
+      "effect": "凡事多留一个心眼，总是利大于弊",
+      "original_text": "上次这么一边倒的情况下，一个是'为爱冲锋的勇士'，然后是小慧君说老板性骚扰自己——结果呢，大家也看到了，车翻得让人猝不及防。"
+    },
+    {
+      "id": "BV1Yg4y1R73X_p003",
+      "segment_id": "seg_003",
+      "type": "methodology",
+      "subject": "扩大事件受众范围的方法",
+      "relation": "是",
+      "object": "增加覆盖面更广的关键词——'B站UP主'比'讲述者'范围大，'百万粉UP主'范围更大",
+      "cause": "话题决定了主题的受众是谁，受众人群范围大小决定了主题的热度",
+      "effect": "在标题中加入更多高覆盖关键词可使更多人觉得事件与自己有关",
+      "original_text": "所以各位可以想想看，我们应该如何把一些关键词优化一下，让这件事情的受众范围变得更大一点。"
+    },
+    {
+      "id": "BV1Yg4y1R73X_p004",
+      "segment_id": "seg_004",
+      "type": "methodology",
+      "subject": "切换主体",
+      "relation": "是",
+      "object": "舆论引导的核心技巧——从看待一件事替换成看待一个人",
+      "cause": "客观事件（如助学金制度是否公平）受众有限，具象化的个人（如辅导员有多恶劣）能激活人们对具体人的好奇心",
+      "effect": "郑州设计院事件中没人记得主角是谁，只记得暴躁的孙主任",
+      "original_text": "有些媒体做得就非常漂亮。他们非常巧妙地切换了主体，把我们的客观看待的视角，替换成了主观的价值视角——从看待一件事情，悄悄地替换成了看待一个人。"
+    },
+    {
+      "id": "BV1Yg4y1R73X_p005",
+      "segment_id": "seg_005",
+      "type": "methodology",
+      "subject": "抓语言漏洞",
+      "relation": "是",
+      "object": "把问题转移到个人身上的最有效方法——从长对话中提取最具刺激性的一句话",
+      "cause": "制度讨论门槛高受众窄，抓语言漏洞只需一段'听起来很过分'的言论就能激发公众道德愤怒",
+      "effect": "李佳琦'哪里贵了'就是经典案例——从一段话中提取精华，脱离上下文传播",
+      "original_text": "这个问题最简单的答案是——抓语言漏洞。"
+    },
+    {
+      "id": "BV1Yg4y1R73X_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "新闻学手法",
+      "relation": "本身是",
+      "object": "一门武功，武功无正邪之分，全看如何使用",
+      "cause": "同一套手法可以用于批判标题党，也可以用于扩大正义事件的关注度",
+      "effect": "如果事件范围不够广，可尝试切换视角或替换关键词来扩大",
+      "original_text": "新闻学只是一门武功，武功是没有正邪之分的。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

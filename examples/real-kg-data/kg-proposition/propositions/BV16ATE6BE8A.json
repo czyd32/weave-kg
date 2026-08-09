@@ -1,0 +1,92 @@
+{
+  "source_id": "BV16ATE6BE8A",
+  "title": "东鹏老板不喝东鹏：上市公司谣言公关的沉默策略",
+  "author": "唯一讲述者",
+  "date": "2026-07-02",
+  "source_url": "https://www.bilibili.com/video/BV16ATE6BE8A/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV16ATE6BE8A_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "东鹏特饮",
+      "relation": "遭遇",
+      "object": "谣言——创始人被传'不喝东鹏'导致市值蒸发",
+      "cause": "6月22日营销号传播断章取义内容，将张雪机车探访视频中的'没有'曲解为创始人不喝",
+      "effect": "沉默五天后，联合张雪辟谣+警方通报，定调为恶意造谣",
+      "original_text": "东鹏特饮的创始人林木勤在一场饭局上称自己平时不喝东鹏特饮、喝别的。之后大量营销号开始发布内容。"
+    },
+    {
+      "id": "BV16ATE6BE8A_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "东鹏沉默五天的策略",
+      "relation": "基于",
+      "object": "股市是情绪、信息和胆识的博弈——对抗谣言最危险的不是谣言本身，而是不当回应带来的二次冲击",
+      "cause": "上市公司信息披露有合规性审查，回应一旦出口就成为有法律效应的官方披露",
+      "effect": "如果紧急回应'市值损失系夸大'，等于官方承认存在受重大影响的因素，把假的做成真的",
+      "original_text": "上市公司在面对谣言的时候，最危险的有时候不是谣言本身，而是不恰当的回应带来的二次冲击。"
+    },
+    {
+      "id": "BV16ATE6BE8A_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "沉默策略",
+      "relation": "是",
+      "object": "表面上装死断粮+暗线里积极推动第三方印证",
+      "cause": "官方回应等于给谣言'加料'，沉默让热度单边衰减；同时推动警方通报和第三方澄清来定调",
+      "effect": "张雪视频+警方蓝底白字通报，公信力远高于企业单方面辟谣",
+      "original_text": "沉默是一种很实用的策略——它不是让你不做事，而是不在表面上做事。沉默策略本身是断粮——不给造谣者添加新的素材。"
+    },
+    {
+      "id": "BV16ATE6BE8A_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "理想公关声明",
+      "relation": "需要完成",
+      "object": "三层信息传递——稳定信心、同步经营情况、明确后续维权动作",
+      "cause": "人们关心的是谣言对自己造成的影响，而不是谣言本身的真假",
+      "effect": "东鹏声明有提升空间，但因股市对信息敏感度极高，措辞难度大，可以理解",
+      "original_text": "正常公司的舆情回应，至少需要完成三层信息的传递。公关文虽然理论上有提升的空间，但如果真的按照理论去推，也确实非常有难度。"
+    },
+    {
+      "id": "BV16ATE6BE8A_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "营销和公关的冲突",
+      "relation": "源于",
+      "object": "收益逻辑不同——营销看曝光量和动销，公关看连带风险",
+      "cause": "所有联动带来的正向口碑不是公关的功劳，但一旦出问题责任落在公关头上",
+      "effect": "营销不在意远期IP反噬风险，公关不能接受联动风险",
+      "original_text": "对于公关来说，所有联动带来的正向口碑都不是自己的功劳，但一旦联动出现问题了，那责任就会落到自己的头上。"
+    },
+    {
+      "id": "BV16ATE6BE8A_p006",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "谣言传播的结构性动力",
+      "relation": "是",
+      "object": "信息真空环境里谣言不是异常而是需求——被信息供需失衡召唤出来的",
+      "cause": "大脑有惰性（认知吝啬鬼），倾向于用最简单的戏剧性冲突故事理解复杂世界",
+      "effect": "当官方信息缺失，任何能填补认知空白的解释都会被市场吸收",
+      "original_text": "在信息真空的环境里面，其实谣言不是一种异常，而是一种需求。谣言不是凭空产生的，它是被信息的供需失衡给召唤出来的。"
+    },
+    {
+      "id": "BV16ATE6BE8A_p007",
+      "segment_id": "seg_006",
+      "type": "narrative",
+      "subject": "结语",
+      "relation": "标记",
+      "object": "视频结束——讲述者常规收尾",
+      "cause": null,
+      "effect": null,
+      "original_text": "好，那么本期我们就简单说到这里。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest→SkillZY-Knowledge-Graph-Ingest→SkillZY-Proposition-Knowledge-Graph"
+}

@@ -1,0 +1,121 @@
+{
+  "source_id": "BV1PiBjB7EBp",
+  "title": "煮蛋成神，吃蛋翻车：保质期只有8天的网红梦",
+  "propositions": [
+    {
+      "id": "BV1PiBjB7EBp_p1",
+      "subject": "互联网造神",
+      "relation": "consists_of_three_elements",
+      "object": "符号构建 + 算法放大 + 匹配需求",
+      "cause": "传播者、平台和受众三方合力",
+      "effect": "强行让一个普通人举行一场不属于他的登神仪式",
+      "type": "argumentation",
+      "original_text": "所有造神的过程链路都是一样的。本质上都是传播者、平台和受众三方，通过符号构建、算法放大和匹配需求，强行让一个人或一个内容举行一场不属于他的登神仪式。",
+      "segment_id": "seg_03"
+    },
+    {
+      "id": "BV1PiBjB7EBp_p2",
+      "subject": "蛋神的起号成功",
+      "relation": "is_more_by",
+      "object": "偶然（内容契合观众娱乐需求，被平台放大）",
+      "cause": "从他账号后续发布的自证视频和变现路径来看",
+      "effect": "起号成功更多是一种偶然，而非精心策划",
+      "type": "argumentation",
+      "original_text": "从他账号后续发布的自证视频和变现路径来看，他的起号成功更多是一种偶然。只是因为他的内容恰好契合了观众娱乐的需求，而他的流量也被平台放大了。",
+      "segment_id": "seg_03"
+    },
+    {
+      "id": "BV1PiBjB7EBp_p3",
+      "subject": "围观流量",
+      "relation": "differs_from",
+      "object": "需求流量",
+      "cause": "围观流量满足的是看热闹、尝新鲜的即时需求，很难打造可被信任的人设",
+      "effect": "无法将围观流量有效转化为粉丝和商业变现",
+      "type": "argumentation",
+      "original_text": "这些内容本质上都是依靠反常识的味觉碰撞来制造一次性的围观，满足的是受众看热闹、尝新鲜的即时需求。博主其实很难为自己打造一种可以被信任的人设。这其实是一种围观流量，不是需求流量。",
+      "segment_id": "seg_04"
+    },
+    {
+      "id": "BV1PiBjB7EBp_p4",
+      "subject": "网红人设",
+      "relation": "is_fragile_when",
+      "object": "人设单薄脆弱（如“每天吃40个蛋“必须是真的）",
+      "cause": "他创造了煮鸡蛋精确到秒、每天吃40个鸡蛋——这个内容无论是不是真的，他都必须是真的",
+      "effect": "一旦人设崩塌，这种依靠人设火起来的网红就会一夜之间塌房",
+      "type": "argumentation",
+      "original_text": "这种造神路径存在一种致命的缺陷：人设太单薄了、太脆弱了。因为他创造了煮鸡蛋精确到秒、每天吃40个鸡蛋——这个内容无论是不是真的，他都必须是真的。否则一旦人设崩塌，这种依靠人设火起来的网红就会一夜之间塌房。",
+      "segment_id": "seg_06"
+    },
+    {
+      "id": "BV1PiBjB7EBp_p5",
+      "subject": "平台（抖音）",
+      "relation": "needs",
+      "object": "通过造神打造“某音梦“（普通人也能一夜爆火的幻觉）",
+      "cause": "平台需要激励用户持续创作、维持内容生态和活跃度",
+      "effect": "周期性推爆素人网红，制造“普通人也能爆火“的幻觉",
+      "type": "argumentation",
+      "original_text": "平台本身需要通过造神，来为更多的普通用户打造一种'即便是普通人也能在某一天突然爆火'的幻觉。这种幻觉被网友们戏称为'某音梦'——是某音为了激励用户持续创作、维持平台内容生态和活跃度的操盘手段。",
+      "segment_id": "seg_05"
+    },
+    {
+      "id": "BV1PiBjB7EBp_p6",
+      "subject": "垄断对平台",
+      "relation": "is_bad_for",
+      "object": "平台（同质化导致腐朽，需不断扶持新人）",
+      "cause": "无限复制最成功的商品导致同质化，没有创新就会腐朽",
+      "effect": "平台需要不断扶持新人上来，创作更多新内容",
+      "type": "argumentation",
+      "original_text": "对于平台来说，无限复制就代表着同质化——没有创新它就会腐朽。所以平台就需要不断扶持新人上来，创作更多的新内容。",
+      "segment_id": "seg_05"
+    },
+    {
+      "id": "BV1PiBjB7EBp_p7",
+      "subject": "平台推爆款",
+      "relation": "costs_less_than",
+      "object": "维系旧网红热度",
+      "cause": "新博主内容天然稀缺，只需算法筛选；旧网红需商业资源、话题运营、内容策划支持",
+      "effect": "让流量倾向于新博主，旧网红有效互动粉丝占比大幅下降",
+      "type": "argumentation",
+      "original_text": "对于平台来说，推爆款的成本远低于维系旧网红的热度。新博主的内容天然带着一种稀缺性，不需要投入资源去打破用户的审美疲劳。...旧网红需要维持热度，就需要平台协调商业资源、话题运营、内容策划支持。",
+      "segment_id": "seg_07"
+    },
+    {
+      "id": "BV1PiBjB7EBp_p8",
+      "subject": "网红变现主导权",
+      "relation": "belongs_to",
+      "object": "平台（博主只是被选中的工具人）",
+      "cause": "变现主导权一直都不在博主手里，只是在平台流量闭环里的一个环节",
+      "effect": "博主的商业露脸消耗的是自身人设价值，而非量身打造的长期发展路径",
+      "type": "argumentation",
+      "original_text": "这场变现的主导权，其实一直都不在博主手里。他们更像是一个又一个被选中的工具人——他们的商业露脸、他们所谓的变现，只是在平台流量闭环里的一个环节，而不是为他们量身打造的长期发展路径。",
+      "segment_id": "seg_06"
+    },
+    {
+      "id": "BV1PiBjB7EBp_p9",
+      "subject": "负面情绪",
+      "relation": "has_higher_engagement_than",
+      "object": "正面情绪",
+      "cause": "人们对于负面情绪的互动意愿比正面情绪要高",
+      "effect": "人设单薄的网红很容易出现大量负面舆情",
+      "type": "argumentation",
+      "original_text": "本身人们对于负面情绪的互动意愿就比正面情绪要高。所以你会发现，类似于蛋神这种人设比较单薄的网红，很容易就会出现比较大量的负面舆情。",
+      "segment_id": "seg_06"
+    },
+    {
+      "id": "BV1PiBjB7EBp_p10",
+      "subject": "经典内容（如汪曾祺的高邮鸭蛋）",
+      "relation": "outlasts",
+      "object": "一次性网红食品/内容",
+      "cause": "经典经得起时间考验，不一定是越复杂越好",
+      "effect": "经典内容具有持久生命力，而网红食品很快被遗忘",
+      "type": "narrative",
+      "original_text": "但我要是提到汪曾祺笔下的高邮鸭蛋，大家可能都会有点印象。所以经典这个东西，无论在哪个领域，并不一定是越复杂越好。",
+      "segment_id": "seg_04"
+    }
+  ],
+  "proposition_count": 10,
+  "segments": 8,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

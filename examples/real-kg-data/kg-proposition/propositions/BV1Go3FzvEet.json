@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1Go3FzvEet",
+  "title": "罗马仕充电宝的危机处理：几个菜啊喝成这样？",
+  "author": "唯一讲述者",
+  "date": "2025-06-29",
+  "source_url": "https://www.bilibili.com/video/BV1Go3FzvEet/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Go3FzvEet_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "事件定义权",
+      "relation": "是",
+      "object": "危机公关中组织对危机性质及应对策略的解释权",
+      "cause": "企业通过定义事件的性质，可以在一定程度上控制舆论方向",
+      "effect": "罗马仕将'多所高校禁用'定义为'信息传播偏差'，但这一操作反而激化了矛盾",
+      "original_text": "在危机公关中，事件的定义权本质上是组织对于危机性质以及应对策略的解释权。企业通过定义事件的性质，是能够在一定程度上控制舆论方向的。"
+    },
+    {
+      "id": "BV1Go3FzvEet_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "罗马仕",
+      "relation": "错判了",
+      "object": "危机等级",
+      "cause": "用处理零星负面舆情的套路应对系统性产品质量危机，公关文虽然格式正确但解决不了根本问题",
+      "effect": "危机等级应定到B+或A-，这不是靠一篇公关文能解决的——充电宝会爆炸本身才是问题",
+      "original_text": "罗马仕对于危机的等级可能不是那么敏感——这次的危机等级比他们想象中要高很多。这种质量问题，远超一个普通职能部门（如公关部）的职权范围。"
+    },
+    {
+      "id": "BV1Go3FzvEet_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "公关与业务的经济账",
+      "relation": "表明",
+      "object": "50万公关费可以让10%不满意的人彻底闭嘴",
+      "cause": "开发成本从800万提到1500万都无法让100%用户满意，但50万公关费能解决剩余10%的负面声音",
+      "effect": "公关是'花小钱办大事'，但当产品质量问题超出公关部职权范围时，再花哨的公关手段也解决不了根本问题",
+      "original_text": "当版本资料片投资到了800万的时候，拿出50万来做公关——买水军控评，给博主投单，官方下场运营社区。50万就能让那10%的人彻底闭嘴。这就是公关和业务的一笔经济账。"
+    },
+    {
+      "id": "BV1Go3FzvEet_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "罗马仕召回计划",
+      "relation": "陷入",
+      "object": "执行悖论",
+      "cause": "承认了安全隐患，但快递公司拒收充电宝（违禁品罚款2万），客服被冲垮，用户无法实际退货",
+      "effect": "声明只是开始，执行才是核心——召回了但无法执行，形成二次危机",
+      "original_text": "你已经承认了充电宝具有安全隐患，那哪一家快递公司在什么样的情况下会去承接这份安全隐患呢？先是公司客服部门和各个网店直接被用户冲到瘫痪。快递员自称不敢收充电宝、怕被罚款。"
+    },
+    {
+      "id": "BV1Go3FzvEet_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "安克创新的召回方案",
+      "relation": "展示了",
+      "object": "有诚意的危机处理该如何做",
+      "cause": "安克准备了防爆袋、联系顺丰专线运输、提供三选一补偿方案（全额退款/升级换新/代金券+50元）",
+      "effect": "安克虽然也召回了，但整体受到的冲击远小于罗马仕",
+      "original_text": "安克说给所有用户寄去防爆袋，然后再联系顺丰的部分专线来运输这批被召回或有问题的充电宝。安克目前给的三份方案是：全额退款、升级换新、安克商城代金券。在整个风波中，安克对外宣布召回了，但整体受到的冲击远小于罗马仕。"
+    },
+    {
+      "id": "BV1Go3FzvEet_p6",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "罗马仕品牌危机",
+      "relation": "升级为",
+      "object": "整个充电宝行业的震荡型危机",
+      "cause": "民航局发布禁止携带无3C认证和召回型号充电宝的通知，影响范围超出单一品牌",
+      "effect": "危机规模超出单一品牌处理范围，各品牌只能自查自保并在行业震荡中寻求重建机会",
+      "original_text": "民航局发布的这个通知，基本上把罗马仕自身品牌质量引发的危机公关，变成了整个充电宝行业的震荡型危机。目前整个危机的规模已经超出了单一品牌能够处理的范围。"
+    },
+    {
+      "id": "BV1Go3FzvEet_p7",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "罗马仕的平价定位",
+      "relation": "导致其",
+      "object": "低估了用户对质量问题的容忍度",
+      "cause": "罗马仕认为用户会因为平价而原谅质量问题，但实际已有20-30%的用户怨气极高",
+      "effect": "产品全线型号都有问题，质量危机远超公关部能处理的范围",
+      "original_text": "罗马仕自己的定位是一款平价充电宝，平价的背后可能就是质量问题。但他可能会觉得，用户会因为平价而原谅他的质量问题。但罗马仕没有预估到的是，可能已经有20%甚至30%的用户对这款充电宝有着非常高的怨气了。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

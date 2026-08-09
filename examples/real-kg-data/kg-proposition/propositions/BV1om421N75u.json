@@ -1,0 +1,202 @@
+{
+  "source_id": "BV1om421N75u",
+  "title": "上一个这么玩的是IGN，但它已经是收钱办事的形状了",
+  "author": "唯一讲述者",
+  "date": "2024-06-01",
+  "source_url": "https://www.bilibili.com/video/BV1om421N75u/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1om421N75u_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "右小死",
+      "relation": "发布",
+      "object": "'中国网络游戏评测专家组'评测标准视频",
+      "cause": "宣称首批将评测15款游戏，采用红头文件形式",
+      "effect": "评论区骂声一片",
+      "original_text": "右小死发布了一篇评测标准出炉的视频，视频里提到'抓大放小'，首批将评测15款游戏。这个视频一出来，翻看评论区，基本上可以说骂声一片。"
+    },
+    {
+      "id": "BV1om421N75u_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "中国互联网协会",
+      "relation": "是",
+      "object": "民间社团，非政府机构",
+      "cause": "由互联网行业企事业单位自愿结成，非营利社会组织",
+      "effect": "其签发的红头文件不代表政府意志",
+      "original_text": "中国互联网协会的下属机构，是非营利的社团组织。用社团自己的话来说，协会是由中国互联网行业及其相关企事业单位自愿结成的行业性、全国性、非营利的社会组织。简单来说就是民间团体——它不是一个政府机构。"
+    },
+    {
+      "id": "BV1om421N75u_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "不加限定的'官方'",
+      "relation": "造成",
+      "object": "概念模糊，让人误以为有政府背书",
+      "cause": "日常语境中'官方'默认指政府机构",
+      "effect": "右小死的红头文件被视为国家意志，实则只是社团官方",
+      "original_text": "在我们通常的语境下，'官方'的内涵是政府主导。当我们听到一个以'官方'名义出具的东西时，都会下意识地认为这是一个政府行为。但实际上，右小死所说的'官方'是一个社会组织的官方。没有加限定的'官方'这个措辞确实令人不喜，因为这个措辞不清晰，会造成概念的模糊。"
+    },
+    {
+      "id": "BV1om421N75u_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "游戏好不好玩",
+      "relation": "是",
+      "object": "主观体验，不能强加于他人",
+      "cause": "每个人都有属于自己的标准",
+      "effect": "评测者的个人偏好不能代表所有玩家",
+      "original_text": "大家都是打工人，凭啥你来代替我决定一个游戏好不好玩呢？谁买游戏、谁玩了，然后才能得出自己的评价，而这个评价绝不能强加于另一个人。每个人都有属于自己的关于'好不好玩'的标准。"
+    },
+    {
+      "id": "BV1om421N75u_p005",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "游戏带给你的感觉",
+      "relation": "是",
+      "object": "真实的，不容诋毁",
+      "cause": "快乐和感动是主观个人感受",
+      "effect": "主观体验无法用统一标准覆盖",
+      "original_text": "这个游戏带给你的感觉，它一定是真实的，而这份感觉是不容诋毁的。"
+    },
+    {
+      "id": "BV1om421N75u_p006",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "游戏评测专家组",
+      "relation": "是",
+      "object": "尚未成立的民间组织，先有标准后有专家",
+      "cause": "多位被列为专家的UP主不知情",
+      "effect": "本末倒置，相当于先有儿子再有爸爸",
+      "original_text": "这个所谓的将要成立的游戏评测专家组，是还没有成立的民间组织。根据现在网上流传出来的各种游戏UP主的切割行为，以及各位UP主话语中所透露出来的不知情，我们可以基本确定：这个所谓的游戏评测专家组，是一个先有标准、后有专家的流程。逆反这个流程等于本末倒置。"
+    },
+    {
+      "id": "BV1om421N75u_p007",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "评测权威性",
+      "relation": "来源于",
+      "object": "玩家认可你的评测代表了大多数玩家的心声",
+      "cause": "不会因为是'官方'所以玩家才认可",
+      "effect": "不是条例规定了现实，而是现实制定了条例",
+      "original_text": "评测这个事跟其他事还有点不太一样：不会因为你是'官方'所以玩家才认可，而是玩家认可你这个评测、认为你这个评测代表了大多数玩家的心声，所以你才是'官方'。"
+    },
+    {
+      "id": "BV1om421N75u_p008",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "右小死的行为",
+      "relation": "是",
+      "object": "挟天子以令诸侯",
+      "cause": "想靠红头文件增加说服力看起来权威",
+      "effect": "玩脱了被玩家反噬",
+      "original_text": "那条视频没有搞清楚一个最简单的道理：不是条例规定了现实，而是现实制定了条例。认为凭一纸空文就可以绑架玩家的口风，这是一种很狂妄、很自大的行为，给我一种'挟天子以令诸侯'的感觉。"
+    },
+    {
+      "id": "BV1om421N75u_p009",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "'不同游戏不同标准'",
+      "relation": "是",
+      "object": "一句正确的废话",
+      "cause": "理念正确但落实到具体实施不可行",
+      "effect": "如果每个游戏独立设立标准，游戏间处处不可比",
+      "original_text": "'不同的游戏有不同的标准'这句话，理念是很对的，但它是一句正确的废话，就像'人被杀就会死'一样。如果每个游戏的评分标准都是独立且不同的，那么在评分标准不同的情况下，各项就失去了客观标准。"
+    },
+    {
+      "id": "BV1om421N75u_p010",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "谁掌握设定标准的权利",
+      "relation": "谁就掌握",
+      "object": "游戏的评分",
+      "cause": "游戏评分标准是人为制造的",
+      "effect": "评分难以反映广大玩家的真实想法",
+      "original_text": "谁掌握了设定标准的权利，谁就掌握了游戏的评分。因为游戏的评分标准是人为制造出来的，那游戏评分自然也就是人评测出来的。至于这种评分能否代表广大玩家的真实想法，我觉得不可行。"
+    },
+    {
+      "id": "BV1om421N75u_p011",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "客观模型",
+      "relation": "难以",
+      "object": "拟合人类的主观想法",
+      "cause": "玩家的看法是极其主观的感受，心理学尚不支持用客观数据体现主观看法",
+      "effect": "用数学模型评测游戏无法反映玩家真实感受",
+      "original_text": "评价标准的合理与否，是存在客观模型的。但是，客观就能反映玩家的看法吗？不太可能吧。因为玩家的看法是一个极其主观的感受，用常规的数学模型难以拟合人类的想法。目前前沿的科学研究，尚不支持用客观的数据来体现人的主观看法。"
+    },
+    {
+      "id": "BV1om421N75u_p012",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "人是万物的尺度",
+      "relation": "衡量",
+      "object": "一切价值",
+      "cause": "你认为它有意义，它就意义非凡",
+      "effect": "游戏带来的快乐是主观的，无法比较",
+      "original_text": "柏拉图曾经说过：'人是万物的尺度，是存在的事物存在的尺度，也是不存在的事物不存在的尺度。'我是这样理解的：人是衡量世间一切的标准。你认为它有意义，它就意义非凡；你认为它无意义，那它可能就像一块路边的石头，对你而言是毫无价值的。"
+    },
+    {
+      "id": "BV1om421N75u_p013",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "游戏评测",
+      "relation": "一定是",
+      "object": "主观感受，而不是客观标准",
+      "cause": "画质优化等客观内容只能表达技术能力，不能表达好不好玩",
+      "effect": "属于个体的快乐无法比较",
+      "original_text": "游戏评测一定是主观的感受，而不是客观的标准。画质、优化等这些客观的内容，只能表达这款游戏的技术能力，而不能表达这个游戏是不是好玩。"
+    },
+    {
+      "id": "BV1om421N75u_p014",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "IGN",
+      "relation": "作为全球最大游戏评测网站",
+      "object": "仍不能做到完全客观公正",
+      "cause": "编辑收受厂商贿赂修改评分，受政治正确影响评分",
+      "effect": "评测成为了政治和文化宣传的口舌",
+      "original_text": "IGN作为目前全球最大的游戏评测网站，很多的游戏公司为了能让自己有一个高评价，会买通IGN的编辑。被曝出的编辑因为收受厂商的贿赂而修改游戏评分的事，已经不是一次两次了。IGN评分同时受到了美国政治正确的影响，导致部分游戏因为不符合性少数群体的审查而分数偏低。"
+    },
+    {
+      "id": "BV1om421N75u_p015",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "标准",
+      "relation": "规定了游戏评价",
+      "object": "却没有规定评价的人是否可能收受贿赂",
+      "cause": "全球最大评测网站尚不能保证公正",
+      "effect": "无法相信新的评测专家组能保证客观公正",
+      "original_text": "标准规定了游戏的评价，却没有规定评价的人是否可能收受贿赂。IGN作为目前全球最大的游戏评测网站，尚且不能做到完全的客观公正，里面的评测专家尚且会收受贿赂。那么我们应该如何相信这个所谓的'游戏评测专家组'，是怎么保证自己的客观公正的呢？"
+    },
+    {
+      "id": "BV1om421N75u_p016",
+      "segment_id": "seg_008",
+      "type": "narrative",
+      "subject": "题外话",
+      "relation": "关于",
+      "object": "618商单的烦恼",
+      "cause": null,
+      "effect": null,
+      "original_text": "因为最近快要618了，所以后面的视频可能单子就会比较多，搞不好就是10条片子，起码5条商单。没单子发愁，有单子也发愁，因为它都集中在一块了。"
+    },
+    {
+      "id": "BV1om421N75u_p017",
+      "segment_id": "seg_009",
+      "type": "narrative",
+      "subject": "结语",
+      "relation": "收尾",
+      "object": "本期内容结束",
+      "cause": null,
+      "effect": null,
+      "original_text": "那本期就说到这里，我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 17,
+  "segments": 9,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest→SkillZY-Knowledge-Graph-Ingest→SkillZY-Proposition-Knowledge-Graph"
+}

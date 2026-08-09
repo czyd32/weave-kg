@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1yjLU6DEQH",
+  "title": "拒绝杀人羞耻的监狱来的妈妈：不如拍来自天堂的梅姨",
+  "author": "唯一讲述者",
+  "date": "2026-05-20",
+  "source_url": "https://www.bilibili.com/video/BV1yjLU6DEQH/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1yjLU6DEQH_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "电影《监狱来的妈妈》",
+      "relation": "通过选择性叙事",
+      "object": "将一个因琐事争执持刀杀人的罪犯包装成受尽欺凌反抗家暴的受害者",
+      "cause": "终审裁定书显示不存在家暴证据，辩方律师从未以此为由辩护，法院认定伤害故意明显",
+      "effect": "电影无中生有出一个'反抗家暴'情节，将一个故意伤害案改写为女性觉醒叙事",
+      "original_text": "如果我们去看当时的终审刑事裁定书，会发现裁定书上根本没有这回事。如果真的存在长期家暴，辩方律师不可能不拿这个说事。电影直接无中生有，出来一个'反抗家暴'。这个改编就很棒。"
+    },
+    {
+      "id": "BV1yjLU6DEQH_p02",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "议程设置",
+      "relation": "是",
+      "object": "媒体通过反复强调某些议题决定公众关注焦点，同时让其他议题消失",
+      "cause": "主创把'弱势女性重生'话题塞到公众眼皮底下",
+      "effect": "公众忽略了杀人犯如何复述案情这个事实",
+      "original_text": "在传播学上就是先给你来了一手议程设置：主创把'弱势女性重生'的话题直接塞到你眼皮子底下，让你忽略了杀人犯如何复述案情这个事实。"
+    },
+    {
+      "id": "BV1yjLU6DEQH_p03",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "框架理论",
+      "relation": "通过",
+      "object": "选择性和凸显性两种机制运作——选择性纳入某些事实排除另一些事实，对纳入的事实进行突出强调",
+      "cause": "框架决定了受众对事件的归因、评价和态度",
+      "effect": "电影只聚焦主角出狱后的生活状态，案件全貌未被呈现，观众看不到思考的出发点",
+      "original_text": "选择性叙事直接定义了这个事情的解释逻辑，它教你应该怎么想。框架通过'选择'和'凸显'两种机制运作：选择性地纳入某些事实，同时排除另一些事实；对纳入的事实进行突出强调。"
+    },
+    {
+      "id": "BV1yjLU6DEQH_p04",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "叙事框架的威力",
+      "relation": "在于",
+      "object": "让人在无意识中接受叙事者设定的善恶二元对立，对框架外信息产生天然排斥",
+      "cause": "类似白雪公主故事——观众不会考虑王子是否有恋尸癖，只关心公主是否幸福",
+      "effect": "电影主创搭建'弱势女性艰难重生'框架，剔除判决结果和行凶起因，受众只能顺着既定视角接受内容",
+      "original_text": "这就是叙事框架的威力：它会让人在无意识中接受叙事者设定的善恶二元对立，而对那些被刻意排除在框架之外的信息，观众会产生一种天然的排斥。"
+    },
+    {
+      "id": "BV1yjLU6DEQH_p05",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "认同理论",
+      "relation": "认为",
+      "object": "说服的本质是认同——只有当受众认为你与他分享共同经验价值观和情感反应时，才会放下防御接受你的观点",
+      "cause": "观众进入孩子的视角，认同孩子的不理解，防御降低",
+      "effect": "通过孩子和婆婆原谅母亲完成认知闭环——既然最有资格恨的人选择原谅，那她一定可以被原谅",
+      "original_text": "说服的本质是认同。只有当听众认为你与他分享共同的经验、价值观和情感反应时，他们才会放下防御，去接受你的观点。在认知闭环的最后一个环节，需要孩子在大屏幕里原谅自己的母亲——既然最有资格恨他的人都选择原谅他了，那么他一定是可以被原谅的。"
+    },
+    {
+      "id": "BV1yjLU6DEQH_p06",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "叙事视角",
+      "relation": "可以",
+      "object": "将人贩子拍成天使——只要叙事视角选得好",
+      "cause": "框架理论的核心是不想让你看的东西可以隔在镜头之外",
+      "effect": "如果这套洗白流水线跑通，任何一个罪犯都可以通过纪录片→国际获奖→回国宣发的路径被包装成正面形象",
+      "original_text": "你看，只要叙事视角选得好，人贩子也能拍成天使。这套叙事框架一旦跑通，这就不是电影的问题了，而是它证明了一条洗白的流水线是可行的。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

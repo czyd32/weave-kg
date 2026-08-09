@@ -1,0 +1,115 @@
+{
+  "source_id": "BV1qiEtzTE4b",
+  "title": "小明剑魔离家独自去武汉直播：未能被满足的压抑和诉求",
+  "author": "唯一讲述者",
+  "date": "2025-05-16",
+  "source_url": "https://www.bilibili.com/video/BV1qiEtzTE4b/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1qiEtzTE4b_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "小明剑魔粉丝",
+      "relation": "遭遇",
+      "object": "回旋镖效应——帮兄弟出头反被兄弟指责多管闲事",
+      "cause": "小明直播吐槽妻子→粉丝打抱不平→小明反过来指责粉丝",
+      "effect": "粉丝被背刺，小明的风评急转直下",
+      "original_text": "就好像是每次喝酒的时候都跟你吐槽他老婆对他怎么怎么不好，然后你就很讲兄弟的义气，实在看不下去了，于是去帮了兄弟一把。下次见面的时候，结果兄弟转头就指责你欺负小女生，然后他又跟老婆开始甜蜜蜜去了。"
+    },
+    {
+      "id": "BV1qiEtzTE4b_p002",
+      "segment_id": "seg_002",
+      "type": "observation",
+      "subject": "小明剑魔离家",
+      "relation": "携带",
+      "object": "一辆车、两台电脑和五只猫——极具节目效果的'净身出户'",
+      "cause": "表示要跟妻子分开一段时间，去武汉重新开始直播",
+      "effect": "舆论再次被点燃，衍生出无孩爱猫女、放弃所有猫等话题",
+      "original_text": "小明在自己的直播当中也展示了自己的行李——一辆车、两台电脑和五只猫。因为这些行李比较有节目效果，于是舆论又被点燃了。"
+    },
+    {
+      "id": "BV1qiEtzTE4b_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "被压抑的感性认识",
+      "relation": "是",
+      "object": "男性心理面临的首要问题——被系统性剥夺感性表达的能力和空间",
+      "cause": "社会更期待男性保持理性，更少对外表现出真情实感",
+      "effect": "男性只能用理性分析武装自己，在亲密关系中寸步难行",
+      "original_text": "所谓的感性，并不是单纯的'感情用事'或者'成为自己情绪的奴隶'。感性是我们感受这个世界的细腻程度。男性身上这种情绪化的情感表达是不被社会所期待的。"
+    },
+    {
+      "id": "BV1qiEtzTE4b_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "语言的边界",
+      "relation": "就是",
+      "object": "思想的边界",
+      "cause": "我们只能用已有的词汇和概念来思考和表达",
+      "effect": "语言能力的贫瘠直接限制了理解和表达自我的能力",
+      "original_text": "语言的边界其实就是我们思想的边界。那些我们用来填充整个思想边界的每一个词汇，都来源于我们的感性认识。"
+    },
+    {
+      "id": "BV1qiEtzTE4b_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "男性和女性的诉求",
+      "relation": "根本不一致",
+      "object": "男性诉求是尽量少付出，女性诉求是绑定更强的男性",
+      "cause": "进化心理学中两性面临不同的适应性问题",
+      "effect": "导致两性在亲密关系中的认知错位",
+      "original_text": "进化心理学里比较核心的理论提出来就是——男性和女性的诉求是完全不一致的。男性的诉求是'我要尽量少付出'就可以。而女性通常更期待跟更强的男性发生关系之后绑定这个男人。"
+    },
+    {
+      "id": "BV1qiEtzTE4b_p006",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "男性审美标准",
+      "relation": "源自",
+      "object": "4万年前基因打下的标准：颜值（基因稳定性）→身材（性激素）→皮肤（内分泌+年龄）→年龄（生育潜力）",
+      "cause": "基因内置了快速评估女性繁殖价值的机制",
+      "effect": "男性通常在5秒内就能确定是否想追求",
+      "original_text": "这套男性在4万年前就已经被基因打下的标准，到现在依旧可以套用到绝大部分的情况里。颜值代表基因稳定性，身材代表性激素影响，皮肤代表内分泌和年龄，年龄背后标注的是生育潜力。"
+    },
+    {
+      "id": "BV1qiEtzTE4b_p007",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "男性性驱力系统",
+      "relation": "是",
+      "object": "惩罚性系统（长期得不到满足→焦虑低迷），女性则是追求式系统",
+      "cause": "男性精子成本低、繁殖机会多，基因内置尽快寻找伴侣的驱力",
+      "effect": "男性更容易产生性焦虑，女性更倾向于不满足于现状",
+      "original_text": "驱使男性去寻找伴侣的性系统，事实上是一种惩罚性系统，也就是我们现在经常说的'性焦虑'。一个男性长期得不到异性的青睐，就会进入一种比较低迷、比较焦虑的状态。但是女性不是——女性的性驱力系统更像是一种追求式系统。"
+    },
+    {
+      "id": "BV1qiEtzTE4b_p008",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "社会对男性气概的阉割",
+      "relation": "导致",
+      "object": "一体两面的压抑——保留了坚强果敢担当，去除了攻击性驱力",
+      "cause": "社会将雄性气质分为有害和无害，选择性保留",
+      "effect": "男性被要求强大但不被允许展现力量，压抑积累后以扭曲方式爆发",
+      "original_text": "社会认知将这种由基因当中所带有的雄性气概分为了有害和无害两类。无害的那一部分被保留下来，而那部分攻击性的驱力则被阉割了。但是这些特质本身就是一体两面的。"
+    },
+    {
+      "id": "BV1qiEtzTE4b_p009",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "小明剑魔的处境",
+      "relation": "体现",
+      "object": "苏格拉底式悖论——一团乱麻的生活与语言构建的秩序完全相反",
+      "cause": "他选择尊重妻子然后离开，让渡了婚姻中的合理权利",
+      "effect": "当理性姿态被打破，一切变成扎向自己的回旋镖",
+      "original_text": "如果你娶到了一个好的妻子，你会很幸福；如果你娶到了一个糟糕的妻子，你会成为一个哲学家。他当下一团乱麻的生活，和他语言所构建的生活秩序，是完全不一样的。"
+    }
+  ],
+  "proposition_count": 9,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "batch": "20260808_batch_08",
+  "tool": "SkillZY-Knowledge-Graph-Ingest",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest"
+}

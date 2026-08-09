@@ -1,0 +1,1071 @@
+{
+  "kg_id": "kg-proposition",
+  "generated": "2026-08-06",
+  "total_clusters": 10,
+  "total_propositions": 396,
+  "total_sources": 10,
+  "clusters": [
+    {
+      "cluster_id": "c_01",
+      "label": "Agent 范式：从工具到劳动力",
+      "status": "strong_consensus",
+      "representative": "AI 不是传统软件工具，而是劳动力。企业应像管理新员工一样管理 AI，而非像部署软件一样部署 AI。",
+      "source_diversity": 10,
+      "proposition_count": 98,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_Agent_Harness_解构",
+        "Koji_FDE_AI_劳动力",
+        "Koji_Paperboy_人机协作",
+        "Koji_百融智能_硅基员工_破局",
+        "Koji_高手用AI方法论上",
+        "Koji_黄碧薇_因果世界模型_第四条路线",
+        "Koji_黑巅48小时_7位选手"
+      ],
+      "tags": [
+        "0人公司",
+        "10倍提效",
+        "AI",
+        "AI for science",
+        "AI时代",
+        "ATM机",
+        "Agent",
+        "Agent工具",
+        "Andrej Karpathy",
+        "CLI",
+        "FDE",
+        "FOMO",
+        "HRBP",
+        "Infra",
+        "Manus",
+        "OS",
+        "SOTA",
+        "SaaS",
+        "Taste",
+        "Vibe Coding",
+        "build in public",
+        "decade",
+        "generalist",
+        "learning",
+        "work-life balance",
+        "一人公司",
+        "上下文",
+        "产品替代",
+        "人才供需",
+        "人机分工",
+        "人类权利",
+        "人类觉醒",
+        "代码",
+        "价值观反思",
+        "价值转移",
+        "企业落地",
+        "优先级",
+        "供给变化",
+        "信息传递",
+        "具身智能",
+        "内驱力",
+        "决策",
+        "创业",
+        "创业机会",
+        "创造",
+        "动词",
+        "历史演变",
+        "反常识",
+        "商业模式",
+        "坑",
+        "大学教育",
+        "小程序",
+        "小红书",
+        "就业",
+        "工作流程重构",
+        "工具",
+        "工具设计",
+        "微信",
+        "总部",
+        "技术占比",
+        "技术变革",
+        "技能",
+        "排序",
+        "提效",
+        "提问能力",
+        "支付",
+        "教育",
+        "数字员工",
+        "文艺复兴",
+        "时代年龄",
+        "暴论",
+        "替代",
+        "未来预测",
+        "案例",
+        "模型",
+        "沙箱",
+        "渗透",
+        "激励",
+        "独立开发",
+        "王一鹏",
+        "生产关系",
+        "生产力",
+        "生活目标",
+        "用户视角",
+        "田渊栋",
+        "电机蒸汽机类比",
+        "白领工作",
+        "目标设定",
+        "知识广度",
+        "知识贬值",
+        "硅碳比",
+        "竞争壁垒",
+        "组织变革",
+        "经验",
+        "职业探索",
+        "育儿",
+        "蒸馏",
+        "行业状态",
+        "解放人",
+        "记忆",
+        "赋能型",
+        "路径选择",
+        "通信网络",
+        "通才",
+        "隐喻",
+        "需求变化",
+        "预测",
+        "飞书",
+        "黑客松"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "1.1",
+          "label": "AI = 劳动力，非工具",
+          "angle": "范式定义",
+          "proposition_count": 4
+        },
+        {
+          "sub_id": "1.2",
+          "label": "数字员工的 onboarding 范式",
+          "angle": "落地实践",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "1.3",
+          "label": "范式转移的认知拐点",
+          "angle": "历史视角",
+          "proposition_count": 3
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "AI 应从工具重新定义为劳动力/员工",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "企业需要新的 AI 员工管理角色（FDE/HRBP）",
+          "source_count": 2,
+          "strength": "medium"
+        },
+        {
+          "claim": "中国 AI 认知在 2025 春节前后发生质变",
+          "source_count": 2,
+          "strength": "high"
+        }
+      ],
+      "conflicts": [],
+      "best_judgment": [
+        "AI 的劳动力属性已是行业共识，不再是争议性观点",
+        "数字员工的 onboarding 流程是 AI 落地企业的关键瓶颈——不是技术问题，是组织问题",
+        "FDE（前置部署工程师）是新兴岗位，负责翻译业务需求为 AI 工作流",
+        "硅碳比是一个可量化的北极星指标，但尚未成为行业标准"
+      ],
+      "gaps": [
+        "FDE 岗位的标准化",
+        "硅碳比的行业推广",
+        "数字员工的离职场景"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 8 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 52 条命题，8 个新来源",
+            "new_sources": [
+              "Koji_Agent_Harness_解构",
+              "Koji_FDE_AI_劳动力",
+              "Koji_AI投资观察与创业方向思考_下",
+              "Koji_Paperboy_人机协作",
+              "Koji_AI时代什么值得学",
+              "Koji_Agent_Harness_自进化时代",
+              "Koji_黑巅48小时_7位选手",
+              "Koji_高手用AI方法论上"
+            ],
+            "proposition_delta": 52,
+            "source_diversity_delta": 8
+          }
+        ]
+      }
+    },
+    {
+      "cluster_id": "c_02",
+      "label": "Agent Harness 架构模式",
+      "status": "strong_consensus",
+      "representative": "Agent Harness = LLM（大脑）+ Harness（手脚）的分离架构。Harness 层的核心设计原则是 CLI-first、Unix 哲学组合、多 Agent 协作，自进化是终局方向。",
+      "source_diversity": 9,
+      "proposition_count": 106,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_Agent_Harness_解构",
+        "Koji_FDE_AI_劳动力",
+        "Koji_Paperboy_人机协作",
+        "Koji_高手用AI方法论上",
+        "Koji_黄碧薇_因果世界模型_第四条路线",
+        "Koji_黑巅48小时_7位选手"
+      ],
+      "tags": [
+        "AGI",
+        "Aether AI",
+        "Agent Harness",
+        "Agentic能力",
+        "Anthropic",
+        "Bash is all you need",
+        "CLI",
+        "ChatGPT",
+        "Claude Code",
+        "FDE",
+        "KV Cache",
+        "LLM",
+        "LoRA",
+        "M2.7",
+        "MCP",
+        "Manus",
+        "MiniMax",
+        "Multi-Agent",
+        "Mythos",
+        "NLP",
+        "Node graph",
+        "OEM",
+        "OpenAI",
+        "PE",
+        "PEFT",
+        "RAG",
+        "RL",
+        "Scaling Law",
+        "Token",
+        "Unix哲学",
+        "cross-check",
+        "hallucination",
+        "memory",
+        "offload",
+        "pattern matching",
+        "scale up",
+        "skills",
+        "upside",
+        "三层架构",
+        "上下文",
+        "上下文重置",
+        "人成为瓶颈",
+        "任务成功率",
+        "信息密度",
+        "偏航",
+        "共识",
+        "具身智能",
+        "创业",
+        "创业决策",
+        "反思",
+        "反模式",
+        "商业模式",
+        "因果AI",
+        "多Agent",
+        "天花板",
+        "定义",
+        "工具",
+        "工程实践",
+        "思想实验",
+        "执行能力",
+        "抽象演进",
+        "推理",
+        "效率",
+        "数据效率",
+        "数据量",
+        "更新换代",
+        "机甲",
+        "权限",
+        "架构设计",
+        "模型",
+        "模型能力",
+        "正交",
+        "治理",
+        "派系",
+        "生命周期",
+        "相关性",
+        "真实世界连接",
+        "竞争",
+        "算力",
+        "组织效率",
+        "组网",
+        "编排",
+        "能力上限",
+        "自动化",
+        "自包含闭环",
+        "自洽",
+        "自进化",
+        "设计标准",
+        "质量提升",
+        "路径依赖",
+        "钻牛角尖",
+        "长程任务",
+        "隐喻",
+        "预训练"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "2.1",
+          "label": "Harness 的定义与架构分离",
+          "angle": "架构设计",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "2.2",
+          "label": "CLI-first 与 Unix 哲学",
+          "angle": "交互范式",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "2.3",
+          "label": "Multi-Agent 与自进化",
+          "angle": "系统演进",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "2.4",
+          "label": "Token 经济学",
+          "angle": "成本约束",
+          "proposition_count": 3
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "LLM 与 Harness 应分离架构",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "CLI 是 Agent 的最优交互形态",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "Multi-Agent 协作是必然趋势",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "自进化是 Agent 的终局方向",
+          "source_count": 2,
+          "strength": "medium"
+        }
+      ],
+      "conflicts": [
+        {
+          "topic": "Agent 交互形态",
+          "view_a": "CLI-first（Hermes/ShareAI）",
+          "view_b": "自然语言/IM（OpenClaw）",
+          "resolution": "非矛盾，层次不同：CLI 是 power user 的高效接口，IM 是降低门槛的入口。两者互补"
+        },
+        {
+          "topic": "Harness 是否应开源",
+          "view_a": "开源（Hermes Agent）",
+          "view_b": "闭源商业化（多数产品）",
+          "resolution": "商业模式差异，非技术冲突"
+        }
+      ],
+      "best_judgment": [
+        "LLM + Harness 分离架构是行业共识，模型层和应用层解耦是必然趋势",
+        "CLI-first 是 Agent 交互的最优范式，但需要 IM/自然语言作为降低门槛的入口",
+        "自进化是 Agent 的终极方向，但当前仍在工具调用和记忆管理的早期阶段"
+      ],
+      "gaps": [
+        "自进化的工程实现方案",
+        "Multi-Agent 协作的标准化协议",
+        "CLI 与 GUI 的融合路径"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 5 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 34 条命题，4 个新来源",
+            "new_sources": [
+              "Koji_黄碧薇_因果世界模型_第四条路线",
+              "Koji_Agent_Harness_解构",
+              "Koji_FDE_AI_劳动力",
+              "Koji_Agent_Harness_自进化时代"
+            ],
+            "proposition_delta": 34,
+            "source_diversity_delta": 4
+          }
+        ]
+      }
+    },
+    {
+      "cluster_id": "c_03",
+      "label": "上下文管理与记忆机制",
+      "status": "directional_consensus",
+      "representative": "上下文管理是 Agent 产品体验的第一性瓶颈。记忆不稳定是当前产品的核心痛点，多层次记忆架构是公认方向，但实现方案尚未收敛。",
+      "source_diversity": 8,
+      "proposition_count": 16,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_Agent_Harness_解构",
+        "Koji_Paperboy_人机协作",
+        "Koji_百融智能_硅基员工_破局",
+        "Koji_高手用AI方法论上",
+        "Koji_黑巅48小时_7位选手"
+      ],
+      "tags": [
+        "Claude Code",
+        "Token",
+        "上下文管理",
+        "产品经理",
+        "产品设计",
+        "压缩策略",
+        "技术周期",
+        "源码泄露",
+        "记忆机制"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "3.1",
+          "label": "记忆不稳定性——当前核心痛点",
+          "angle": "用户体验",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "3.2",
+          "label": "企业级上下文管理",
+          "angle": "企业落地",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "3.3",
+          "label": "Token 作为上下文的经济约束",
+          "angle": "成本约束",
+          "proposition_count": 3
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "记忆不稳定是当前 Agent 体验的首要痛点",
+          "source_count": 4,
+          "strength": "high"
+        },
+        {
+          "claim": "多层次记忆（短期/长期/工作记忆）是解决方向",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "企业上下文管理是 AI 落地的隐性瓶颈",
+          "source_count": 5,
+          "strength": "high"
+        }
+      ],
+      "conflicts": [
+        {
+          "topic": "知识库的价值",
+          "view_a": "个人知识库停更，Agent 已接管",
+          "view_b": "企业必须建结构化知识库",
+          "resolution": "层次差异：个人层面 Agent 记忆足够；企业层面 Agent 无私有数据，必须主动建设"
+        },
+        {
+          "topic": "上下文注入策略",
+          "view_a": "越多越好（给 AI 完整信息）",
+          "view_b": "精准注入（避免噪音和 Token 浪费）",
+          "resolution": "未形成共识，依赖具体场景"
+        }
+      ],
+      "best_judgment": [
+        "记忆稳定性是 Agent 产品从玩具到工具的临界点",
+        "多层次记忆（会话级→项目级→用户级）是架构方向，但工程实现复杂度高",
+        "企业上下文的翻译（FDE 角色）比技术实现更重要——组织问题大于技术问题",
+        "个人 vs 企业的知识管理策略完全不同，不可混为一谈"
+      ],
+      "gaps": [
+        "多层次记忆的工程实现方案",
+        "上下文压缩与保真度的平衡",
+        "跨会话记忆的标准化"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 9 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 2 条命题，1 个新来源",
+            "new_sources": [
+              "Koji_Agent_Harness_解构"
+            ],
+            "proposition_delta": 2,
+            "source_diversity_delta": 1
+          }
+        ]
+      }
+    },
+    {
+      "cluster_id": "c_04",
+      "label": "人机协作角色模型",
+      "status": "directional_consensus",
+      "representative": "人机协作的最佳形态是移动的球门——永远不会被最终发明，只能持续逼近。AI 的角色从辅助者向执行者演化，但人类的判断力和方向感仍是不可替代的核心价值。",
+      "source_diversity": 10,
+      "proposition_count": 85,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_Agent_Harness_解构",
+        "Koji_FDE_AI_劳动力",
+        "Koji_Paperboy_人机协作",
+        "Koji_百融智能_硅基员工_破局",
+        "Koji_高手用AI方法论上",
+        "Koji_黄碧薇_因果世界模型_第四条路线",
+        "Koji_黑巅48小时_7位选手"
+      ],
+      "tags": [
+        "AI",
+        "AI+人",
+        "AI使用心法",
+        "AI创业",
+        "Agent Infra",
+        "ChatGPT",
+        "Claude Code",
+        "Codex",
+        "FDE",
+        "Harness层",
+        "Hermes Agent",
+        "Manager Agents",
+        "OpenClaw",
+        "PMF",
+        "Paperboy",
+        "WorkBuddy",
+        "toB",
+        "一线",
+        "产品创新",
+        "人才",
+        "人机协作",
+        "从自己出发",
+        "创业",
+        "创始人",
+        "动机",
+        "善意",
+        "基础设施",
+        "店长",
+        "成功率",
+        "技术周期",
+        "摩擦",
+        "擅长",
+        "收购",
+        "新岗位",
+        "比较优势",
+        "热情",
+        "焦虑",
+        "独立",
+        "瓶颈",
+        "目标",
+        "真实需求",
+        "管理",
+        "约束",
+        "经验法则",
+        "赋能",
+        "高手思维"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "4.1",
+          "label": "Moving Goal Post——协作形态的持续演化",
+          "angle": "演化视角",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "4.2",
+          "label": "AI 的三层角色模型",
+          "angle": "角色定位",
+          "proposition_count": 4
+        },
+        {
+          "sub_id": "4.3",
+          "label": "人类不可替代的核心价值",
+          "angle": "人类价值",
+          "proposition_count": 4
+        },
+        {
+          "sub_id": "4.4",
+          "label": "协作的实践模式",
+          "angle": "实践方法",
+          "proposition_count": 3
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "人机协作是持续演化过程，无终点",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "人类判断力/方向感不可替代",
+          "source_count": 5,
+          "strength": "high"
+        },
+        {
+          "claim": "AI 角色从辅助→执行→自主逐步升级",
+          "source_count": 4,
+          "strength": "high"
+        },
+        {
+          "claim": "实战磨合优于理论学习",
+          "source_count": 3,
+          "strength": "medium"
+        }
+      ],
+      "conflicts": [
+        {
+          "topic": "AI 自主程度",
+          "view_a": "AI 应保持人在环内",
+          "view_b": "AI 应追求完全自主",
+          "resolution": "场景依赖：高风险决策需人在环内，重复性任务可全自主"
+        },
+        {
+          "topic": "培训方式",
+          "view_a": "系统学习经典",
+          "view_b": "直接实战磨合",
+          "resolution": "互补：经典建立框架，实战培养直觉"
+        }
+      ],
+      "best_judgment": [
+        "人机协作没有最佳形态——随着模型能力提升，协作方式必然持续演化",
+        "人的核心价值 = 判断力 + 方向感 + 元认知——这些能力 AI 短期内无法替代",
+        "AI 的角色光谱：辅助者（coach）→ 协作者（copilot）→ 执行者（agent）→ 自主者（autonomous agent）",
+        "最有效的协作模式 = 人定方向 + AI 执行 + 人审核结果"
+      ],
+      "gaps": [
+        "AI 自主程度的安全边界",
+        "人机协作的评估指标体系",
+        "不同行业的协作模式差异"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 7 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 19 条命题，7 个新来源",
+            "new_sources": [
+              "Koji_Agent_Harness_解构",
+              "Koji_FDE_AI_劳动力",
+              "Koji_AI投资观察与创业方向思考_下",
+              "Koji_Paperboy_人机协作",
+              "Koji_AI时代什么值得学",
+              "Koji_Agent_Harness_自进化时代",
+              "Koji_高手用AI方法论上"
+            ],
+            "proposition_delta": 19,
+            "source_diversity_delta": 7
+          }
+        ]
+      }
+    },
+    {
+      "cluster_id": "c_05",
+      "label": "企业 AI 落地瓶颈与路径",
+      "status": "directional_consensus",
+      "representative": "企业 AI 落地的主要瓶颈不是技术，是组织。传统企业主处于 FOMO 焦虑中——知道必须做 AI，但不知道从哪开始、谁来负责、如何衡量。",
+      "source_diversity": 8,
+      "proposition_count": 34,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_FDE_AI_劳动力",
+        "Koji_Paperboy_人机协作",
+        "Koji_百融智能_硅基员工_破局",
+        "Koji_高手用AI方法论上",
+        "Koji_黄碧薇_因果世界模型_第四条路线"
+      ],
+      "tags": [
+        "AI落地",
+        "IT Governance",
+        "人才",
+        "企业服务",
+        "拦路虎",
+        "数据壁垒",
+        "管理",
+        "组织变革",
+        "过程正义",
+        "降本增效"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "5.1",
+          "label": "FOMO 焦虑——知道要做，不知怎么做",
+          "angle": "企业心理",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "5.2",
+          "label": "AI 落地 = 组织变革，非技术部署",
+          "angle": "组织视角",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "5.3",
+          "label": "数据壁垒与上下文鸿沟",
+          "angle": "数据视角",
+          "proposition_count": 4
+        },
+        {
+          "sub_id": "5.4",
+          "label": "降本增效的实践路径",
+          "angle": "实践路径",
+          "proposition_count": 4
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "企业 AI 落地瓶颈是组织而非技术",
+          "source_count": 5,
+          "strength": "high"
+        },
+        {
+          "claim": "企业私有数据是 AI 化的核心壁垒",
+          "source_count": 4,
+          "strength": "high"
+        },
+        {
+          "claim": "传统企业主普遍存在 FOMO 焦虑",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "需要 AI 员工管理的新角色和流程",
+          "source_count": 3,
+          "strength": "medium"
+        }
+      ],
+      "conflicts": [
+        {
+          "topic": "落地路径",
+          "view_a": "自上而下（CEO 推动，百融模式）",
+          "view_b": "自下而上（一线员工自发使用）",
+          "resolution": "互补：战略层自上而下，执行层自下而上"
+        },
+        {
+          "topic": "先做什么",
+          "view_a": "降本（自动化重复工作）",
+          "view_b": "增效（赋能核心业务）",
+          "resolution": "短期降本见效快，长期增效是壁垒"
+        }
+      ],
+      "best_judgment": [
+        "AI 落地首先是组织变革问题——技术方案成熟，但组织流程、人才结构、考核机制需同步变革",
+        "硅碳比是一个有效的北极星指标，值得推广",
+        "FDE/Business Builder 是连接 AI 技术与业务需求的关键角色",
+        "企业私有数据 + 上下文 = AI 化的核心壁垒，比模型选择更重要",
+        "从黑灯办公室（自动化）起步，逐步升级到 AI 原生组织"
+      ],
+      "gaps": [
+        "硅碳比的跨行业验证",
+        "FDE 角色的标准化",
+        "AI 原生组织的定义和评估"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 7 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 1 条命题，1 个新来源",
+            "new_sources": [
+              "Koji_FDE_AI_劳动力"
+            ],
+            "proposition_delta": 1,
+            "source_diversity_delta": 1
+          }
+        ]
+      }
+    },
+    {
+      "cluster_id": "c_06",
+      "label": "AI 时代的认知与学习策略",
+      "status": "directional_consensus",
+      "representative": "AI 时代的学习策略从记忆知识转向建立认知框架 + 与 AI 高效协作。经典教材提供底层逻辑锚点，实战磨合培养直觉，AI 负责信息检索和初步分析。",
+      "source_diversity": 8,
+      "proposition_count": 41,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下",
+        "Koji_AI时代什么值得学",
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_Agent_Harness_解构",
+        "Koji_FDE_AI_劳动力",
+        "Koji_高手用AI方法论上",
+        "Koji_黄碧薇_因果世界模型_第四条路线",
+        "Koji_黑巅48小时_7位选手"
+      ],
+      "tags": [
+        "Physical AI",
+        "build in public",
+        "skill",
+        "信息消费",
+        "内容创作",
+        "反常识",
+        "学习方法论",
+        "泡沫",
+        "独立开发",
+        "知识管理",
+        "经验法则",
+        "隐性知识"
+      ],
+      "sub_clusters": [
+        {
+          "sub_id": "6.1",
+          "label": "经典教材的不可替代性",
+          "angle": "教育视角",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "6.2",
+          "label": "AI 带偏的三种模式",
+          "angle": "风险视角",
+          "proposition_count": 3
+        },
+        {
+          "sub_id": "6.3",
+          "label": "学习方式的演化",
+          "angle": "方法视角",
+          "proposition_count": 4
+        },
+        {
+          "sub_id": "6.4",
+          "label": "知识管理的个人 vs 企业悖论",
+          "angle": "管理视角",
+          "proposition_count": 3
+        }
+      ],
+      "cross_validations": [
+        {
+          "claim": "经典教材建立底层逻辑锚点，AI 无法替代",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "AI 存在讨好型偏差，默认赞成用户",
+          "source_count": 2,
+          "strength": "medium"
+        },
+        {
+          "claim": "以练代学 + 以赛代练是最有效的学习方式",
+          "source_count": 3,
+          "strength": "high"
+        },
+        {
+          "claim": "个人知识库维护成本 > 收益",
+          "source_count": 3,
+          "strength": "high"
+        }
+      ],
+      "conflicts": [
+        {
+          "topic": "知识库策略",
+          "view_a": "个人知识库已停更，Agent 已接管",
+          "view_b": "企业必须建结构化知识库作为 AI 弹药",
+          "resolution": "场景差异：个人层面 Agent 记忆足够；企业层面必须主动建设"
+        }
+      ],
+      "best_judgment": [
+        "经典教材的价值在认知角度，不是知识量——它们提供底层逻辑锚点",
+        "AI 的三种偏差（幻觉型/外行型/讨好型）需要人有意识地对抗",
+        "最有效的学习 = 经典打底（框架）+ 实战磨合（直觉）+ AI 辅助（效率）",
+        "个人知识库的 ROI 在 AI 时代急剧下降，但企业知识库的 ROI 在上升"
+      ],
+      "gaps": [
+        "AI 讨好型偏差的量化研究",
+        "知识库在企业中的最佳实践",
+        "AI 时代的新学习评估体系"
+      ],
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-05",
+      "evolution": {
+        "version": 2,
+        "changes": [
+          {
+            "version": 1,
+            "date": "2026-08-04",
+            "change_type": "initial",
+            "description": "初始聚类，基于 7 篇素材"
+          },
+          {
+            "version": 2,
+            "date": "2026-08-05",
+            "change_type": "source_expansion",
+            "description": "新增 3 条命题，3 个新来源",
+            "new_sources": [
+              "Koji_AI投资观察与创业方向思考_下",
+              "Koji_黑巅48小时_7位选手",
+              "Koji_高手用AI方法论上"
+            ],
+            "proposition_delta": 3,
+            "source_diversity_delta": 3
+          }
+        ]
+      }
+    },
+    {
+      "cluster_id": "c_07",
+      "label": "Claude Code/Codex 产品摩擦与过度约束",
+      "status": "emerging",
+      "representative": "Claude Code 和 Codex 等主流 Agent 产品在人机协作中仍存在大量摩擦——强制实名、过度约束、源码泄露暴露的安全问题，产品趋同且缺乏突破性创新。",
+      "source_diversity": 2,
+      "proposition_count": 5,
+      "source_ids": [
+        "Koji_Agent_Harness_自进化时代",
+        "Koji_AI投资观察与创业方向思考_下"
+      ],
+      "tags": [
+        "摩擦",
+        "安全",
+        "最佳实践",
+        "强制实名",
+        "中国式家长",
+        "Anthropic",
+        "IM",
+        "去魔法化",
+        "Codex",
+        "Claude Code",
+        "OpenClaw",
+        "产品趋同",
+        "过度约束",
+        "人机协作",
+        "Memory"
+      ]
+    },
+    {
+      "cluster_id": "c_08",
+      "label": "因果世界模型：从模拟器到泛化",
+      "status": "emerging",
+      "representative": "因果世界模型通过海量因果变量训练数据构建物理规律模拟器，核心挑战在于训练数据量、算力需求和数据自循环机制，泛化条件是关键里程碑。",
+      "source_diversity": 1,
+      "proposition_count": 5,
+      "source_ids": [
+        "Koji_黄碧薇_因果世界模型_第四条路线"
+      ],
+      "tags": [
+        "因果AI",
+        "数据自循环",
+        "隐空间",
+        "因果世界模型",
+        "simulator",
+        "训练数据",
+        "因果变量",
+        "Aether AI",
+        "物理规律",
+        "LLM",
+        "Milestone",
+        "数据量",
+        "算力",
+        "反思",
+        "泛化"
+      ]
+    },
+    {
+      "cluster_id": "c_09",
+      "label": "资本市场泡沫：历史规律与长期价值",
+      "status": "emerging",
+      "representative": "AI 热潮催生资本市场泡沫，但历史上 10 个泡沫有 9 个最终沉淀出长期价值。泡沫是高度信心环境的折射，不应一味否定。",
+      "source_diversity": 1,
+      "proposition_count": 3,
+      "source_ids": [
+        "Koji_AI投资观察与创业方向思考_下"
+      ],
+      "tags": [
+        "信心",
+        "资本市场",
+        "历史",
+        "科技进步",
+        "长期价值",
+        "泡沫"
+      ]
+    },
+    {
+      "cluster_id": "c_10",
+      "label": "JEPA/世界模型学术路线分歧",
+      "status": "emerging",
+      "representative": "杨立昆的 JEPA 路线、李飞飞的世界模型、Bengio 的因果 AI 代表了学术界对通向 AGI 的不同路径探索，隐空间和 Smooth Transition 是核心概念。",
+      "source_diversity": 1,
+      "proposition_count": 3,
+      "source_ids": [
+        "Koji_黄碧薇_因果世界模型_第四条路线"
+      ],
+      "tags": [
+        "Smooth Transition",
+        "因果AI",
+        "世界模型",
+        "隐空间",
+        "杨立昆",
+        "Bengio",
+        "学术共识",
+        "JEPA",
+        "李飞飞"
+      ]
+    }
+  ]
+}

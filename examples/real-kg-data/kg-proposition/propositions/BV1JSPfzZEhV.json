@@ -1,0 +1,48 @@
+{
+  "source_id": "BV1JSPfzZEhV",
+  "title": "直播毁号，毁掉的是别人的另一个世界",
+  "author": "唯一讲述者",
+  "date": "2026-03-10",
+  "source_url": "https://www.bilibili.com/video/BV1JSPfzZEhV/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1JSPfzZEhV_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "游戏",
+      "relation": "从来不是",
+      "object": "游戏而已——它是玩家的另外一个世界，一个不可重置的副本",
+      "cause": "游戏中有公会、朋友、一起下副本的记忆、一起钓鱼的时光，这些不是数据，而是真实的情感",
+      "effect": "直播毁号毁掉的不是一个账号，而是一个再也回不去的地方——那些怪不会刷新，那些人的头像不会亮起",
+      "original_text": "这个游戏从来都不是游戏。它是我的另外一个世界。在那个世界里，我是一个巨魔猎人，我有我的小猪佩奇。魔兽世界本身也是一个副本——它是现实世界的副本。只是这个副本没有重置的机会。它毁掉的不是一个账号，而是一个我再也回不去的地方。"
+    },
+    {
+      "id": "BV1JSPfzZEhV_p02",
+      "segment_id": "seg_02",
+      "type": "narrative",
+      "subject": "游戏中的善意",
+      "relation": "是",
+      "object": "一种传承——当年那些给面包的人只是顺手，但就这一个顺手，可以让新人对这个世界有念想",
+      "cause": "讲述者小时候被法师送面包、被路人帮打精英怪，后来他也免费带小号刷副本",
+      "effect": "善意在游戏中传递，形成了一种'人情味'的社区文化",
+      "original_text": "其实我也不图啥，我就想着——也许当年那些给我面包的人大概也是这个样子的，只是顺手而已。但就这一个顺手，可以让一个新人对这个世界有念想。那个时候的魔兽真的就像一个世界一样，全都是人情味。"
+    },
+    {
+      "id": "BV1JSPfzZEhV_p03",
+      "segment_id": "seg_03",
+      "type": "narrative",
+      "subject": "游戏中的积累",
+      "relation": "是",
+      "object": "一种踏实感——虽然很穷，但心里特别踏实，因为知道只要不删号，就每一天离目标近一点",
+      "cause": "猎人攒钱学骑术、买坐骑，每一步都是真实的付出",
+      "effect": "这种踏实感让玩家对游戏世界产生归属感和念想",
+      "original_text": "那个时候虽然很穷，但心里特别踏实，因为我知道——只要我不删号，我就每一天都离我的坐骑近了一点。到时候我也可以骑着我的坐骑从奥格瑞玛跑到剃刀岭，看看我能跑多快。"
+    }
+  ],
+  "proposition_count": 3,
+  "segments": 3,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

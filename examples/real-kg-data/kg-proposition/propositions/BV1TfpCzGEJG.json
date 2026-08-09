@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1TfpCzGEJG",
+  "title": "华与华支持西贝干罗永浩？大傻春！你到底要干什么？！",
+  "author": "唯一讲述者",
+  "date": "2025-09-16",
+  "source_url": "https://www.bilibili.com/video/BV1TfpCzGEJG/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1TfpCzGEJG_p1",
+      "subject": "华与华",
+      "relation": "是",
+      "object": "西贝的营销咨询公司",
+      "cause": "华与华创造了'I LOVE 莜'等超级符号，过去十年收了西贝约6000万咨询费",
+      "effect": "贾老板的很多操作可能不是传统公关思路，而是受华与华影响的营销解题思路",
+      "type": "argumentation",
+      "original_text": "华与华咨询公司其实也是西贝的营销咨询公司。所以实际上这次的事件，可能不是一个传统公关的解题思路，而是一个营销的解题思路。他可能试图在这场公共舆论事件当中获取更大的流量。贾老板非要干罗永浩的这个操作，就合理多了。",
+      "segment_id": "seg_1"
+    },
+    {
+      "id": "BV1TfpCzGEJG_p2",
+      "subject": "华与华",
+      "relation": "将罗永浩定性为",
+      "object": "网络黑嘴恐怖袭击",
+      "cause": "华杉认为'不是危机公关，因为根本没有危机，是贾国龙怒了要硬刚网络黑嘴'",
+      "effect": "给贾老板12号之前的一系列发言定了方向和基调，鼓励硬刚而非冷处理",
+      "type": "argumentation",
+      "original_text": "华杉说：'西贝是拼了老命要把菜做好的企业''贾国龙又是极其爱惜自己羽毛的人，罗永浩这样的污蔑他绝对受不了'。他还附上了'网络黑嘴恐怖袭击'的说法。他的核心观点是：'不是危机公关，因为根本没有危机。是贾国龙怒了，是要硬刚网络黑嘴。'",
+      "segment_id": "seg_1"
+    },
+    {
+      "id": "BV1TfpCzGEJG_p3",
+      "subject": "华与华",
+      "relation": "在客户与罗永浩对线时",
+      "object": "私下向罗永浩道歉",
+      "cause": "华与华前面极力支持西贝硬刚，后面却偷偷道歉",
+      "effect": "给市场传递危险信号：这家咨询公司可能擅长制造声量但未必能在危机中坚守立场",
+      "type": "argumentation",
+      "original_text": "就在西贝上头跟罗永浩对着干、打得不可开交的时候，你偷偷跟罗永浩私下道歉。在当下，你华与华跟西贝已经产生了这么强的一种绑定，尤其是你开始那么支持西贝，你给公众的感觉是什么呢？你小子背刺自己甲方是吧？你客户和罗永浩激情对线的时候，你丢下客户自己跑了。",
+      "segment_id": "seg_2"
+    },
+    {
+      "id": "BV1TfpCzGEJG_p4",
+      "subject": "营销思维",
+      "relation": "不同于",
+      "object": "公关思维",
+      "cause": "营销追求大声量强符号、'我说你听'；公关追求倾听回应修复共情、'我们达成共识'",
+      "effect": "用营销思维搞公关会导致灾难，就像某东请杨笠——营销数据好看，公关没了",
+      "type": "argumentation",
+      "original_text": "营销要的是大声量、强符号，要的是'我说你听'。公关要的是倾听、回应、修复、共情，是'你说我也说，但是我们得达成共识'。营销在扩大声量方面可能确实比公关更有用。但是你有没有想过，增长必然伴随着风险，那这个风险你到底有没有能力处理呢？营销很重要，但是它代替不了公关啊。",
+      "segment_id": "seg_3"
+    },
+    {
+      "id": "BV1TfpCzGEJG_p5",
+      "subject": "垃圾流量",
+      "relation": "短期内红了但",
+      "object": "没有任何变现意义",
+      "cause": "某些营销方案确实能火但带来的流量一定是垃圾流量，不能变现",
+      "effect": "就像游戏里塞LGBT——你红了，结果呢？",
+      "type": "argumentation",
+      "original_text": "有的时候，一些营销方案真的很离谱。这个方案确实我一看就能火，但是带来的流量一定是垃圾流量。短期内你红了没有任何意义，能变现吗？这些流量你要怎么落地呢？你吸引来这些流量你要干什么用？就像你一个做游戏的，你非要往里面塞LGBT，你不纯傻逼吗？你对你红了，结果呢？",
+      "segment_id": "seg_3"
+    },
+    {
+      "id": "BV1TfpCzGEJG_p6",
+      "subject": "西贝事件",
+      "relation": "是",
+      "object": "一面镜子",
+      "cause": "很多企业分不清广告、营销、市场、公关的区别，分不清嗓门大和说话准",
+      "effect": "顾问帮你把争议搞成危机、把危机升级成灾难，最后自己悄悄道歉跑路，锅全由公关扛",
+      "type": "argumentation",
+      "original_text": "西贝的这个事，它其实不只是一个网红吐槽一家餐厅那么简单。它更像是一面镜子：现在很多的企业，仍然分不清什么是广告、什么是营销、什么是市场、什么是公关，什么是嗓门大、什么是说话准，什么是一时的流量、什么是长期的信任。顾问帮你把争议搞成危机，把危机升级成灾难，最后自己悄悄道个歉跑路了。",
+      "segment_id": "seg_4"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 4,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

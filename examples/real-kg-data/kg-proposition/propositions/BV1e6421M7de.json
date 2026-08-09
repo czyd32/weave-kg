@@ -1,0 +1,125 @@
+{
+  "source_id": "BV1e6421M7de",
+  "title": "瑕不掩瑜！《第二十条》有点小毒，但不至于拉肚子",
+  "author": "唯一讲述者",
+  "date": "2024-02-22",
+  "source_url": "https://www.bilibili.com/video/BV1e6421M7de/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1e6421M7de_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "《第二十条》",
+      "relation": "三线并行处理得",
+      "object": "意外地还不错",
+      "cause": "三条故事线基本讲明白了，情节设置也还算合理",
+      "effect": "阅片量一般的观众跟着电影节奏走就能把故事想明白",
+      "original_text": "这次这部《第二十条》，三线并行处理得意外地还不错，基本上就把三个故事给讲明白了。"
+    },
+    {
+      "id": "BV1e6421M7de_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "《第二十条》",
+      "relation": "不应被捧到",
+      "object": "《药神》的高度",
+      "cause": "电影有毒点，算得上是精品但不至于神作",
+      "effect": "只要把故事整明白了就算值回票价，能因此思考司法与大众的关系就更值了",
+      "original_text": "如果你不是抱着去看第二个《药神》的态度去看，就单纯当做一部普通的国产电影去看，那这个电影其实还不错。"
+    },
+    {
+      "id": "BV1e6421M7de_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "电影的喜剧成分",
+      "relation": "没有存在必要",
+      "object": "至少10分钟戏是多余的",
+      "cause": "雷佳音和马丽吵架镜头多且杂，喜剧和严肃正剧部分割裂",
+      "effect": "全片没几场不吵架的戏，最后升华部分显得强行",
+      "original_text": "这个片的喜剧成分我是真的觉得没有必要。全片130分钟，我觉得起码有10分钟左右的戏是完全没有必要的。"
+    },
+    {
+      "id": "BV1e6421M7de_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "马丽饰演的角色",
+      "relation": "承载了",
+      "object": "普罗大众朴素公平正义观的具象化",
+      "cause": "她与丈夫的冲突就是大众与司法的冲突，只是被具象化在一个40来岁中年女性身上显得奇怪",
+      "effect": "不觉得是败笔，反而觉得是一个很真实很生活化的人",
+      "original_text": "她所承载的，其实就是一个体现普罗大众对于自身情感所产生的非常朴素的公平正义观的作用。她对她丈夫的不理解，其实就是普通大众对于司法的不理解。"
+    },
+    {
+      "id": "BV1e6421M7de_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "个人、司法机关、司法",
+      "relation": "是",
+      "object": "三个不同的主体",
+      "cause": "丈夫代表的是执法人员的司法价值观，不是司法本身",
+      "effect": "必须区分清楚才能理解大众与司法的冲突",
+      "original_text": "个人、司法机关、司法，是三个不同的主体。丈夫代表的是执法人员的司法价值观，而不是司法本身。"
+    },
+    {
+      "id": "BV1e6421M7de_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "普通大众与司法机关的冲突",
+      "relation": "源于",
+      "object": "双方视角的根本差异",
+      "cause": "民众眼中事实已经很清楚，应立刻立案抓人；执法者眼中事实不够清楚，需要先搞清楚证据",
+      "effect": "司法要保证所有人的公平正义，而不仅是报案人的",
+      "original_text": "在妻子的眼中，或者说在普通大众的眼中，一个见义勇为的人被报复了，你作为司法机关就应该立刻立案。但是在丈夫的眼中，这一点是不可理喻的。因为事实不够清楚。"
+    },
+    {
+      "id": "BV1e6421M7de_p007",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "司法",
+      "relation": "必须服务于",
+      "object": "所有人而非一个人",
+      "cause": "你身上有伤只能证明你身上有伤，不能证明是谁对你造成了伤害",
+      "effect": "人的差异性必然导致感受到司法的差异性",
+      "original_text": "司法一定是服务于所有人的，而不是服务于一个人的。这就必然造成因为人的差异性而感受到司法的差异性。"
+    },
+    {
+      "id": "BV1e6421M7de_p008",
+      "segment_id": "seg_008",
+      "type": "argumentation",
+      "subject": "基层派出所",
+      "relation": "最常见的警情",
+      "object": "丢猫丢狗、噪音纠纷、耍酒疯等无厘头但生活化的事情",
+      "cause": "司法机关工作人员极少遇到能够正常沟通的人",
+      "effect": "立案后面临破案率指标、材料卷宗、投诉风险等多重压力",
+      "original_text": "在一个普通的派出所里，最常见的警情通常是：楼上楼下声音太大、丢猫丢狗、赶鸡抓蛇、对门用八卦镜照我们家等。"
+    },
+    {
+      "id": "BV1e6421M7de_p009",
+      "segment_id": "seg_009",
+      "type": "argumentation",
+      "subject": "报案人",
+      "relation": "在钱被骗后投诉",
+      "object": "警察不作为",
+      "cause": "警察打电话提醒别转账，报案人说'钱被骗了算我的'，第二天被骗后马上投诉",
+      "effect": "警察怎么做都是错：追回钱是应该的，追不回是屁用没有",
+      "original_text": "民警跟他说'张三你上当了，你别转账'，张三跟他说'我钱被骗了算我的，跟你没有关系'。结果第二天张三钱被骗，他马上打市长热线投诉。"
+    },
+    {
+      "id": "BV1e6421M7de_p010",
+      "segment_id": "seg_010",
+      "type": "argumentation",
+      "subject": "民众与司法分歧的根源",
+      "relation": "在于",
+      "object": "双方都只站在自己的视角看待问题",
+      "cause": "民众认为好人被伤害就应立刻立案，司法认为必须先确认证据才能确定是不是他干的",
+      "effect": "如果存在1%的可能是别人干的，他的公平正义由谁来负责？",
+      "original_text": "分歧就是这样产生的。民众觉得法律是用来保护坏人的。可是在司法的眼里，如果假设有那么1%的可能，碰巧不是他干的，他的公平正义怎么办？"
+    }
+  ],
+  "proposition_count": 10,
+  "segments": 10,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

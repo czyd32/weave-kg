@@ -1,0 +1,147 @@
+{
+  "source_id": "BV1MA4m1j7Sa",
+  "title": "幻兽帕鲁「虐待动物」争议：虚拟世界的道德边界在哪里",
+  "author": "唯一讲述者",
+  "date": "2024-01-31",
+  "source_url": "https://www.bilibili.com/video/BV1MA4m1j7Sa/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1MA4m1j7Sa_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "幻兽帕鲁",
+      "relation": "成为",
+      "object": "2024年开年第一个爆款游戏",
+      "cause": "发售首周Steam销量800万份，在线峰值历史第二",
+      "effect": "玩家称之为'资本家模拟器'，主要玩法是压榨帕鲁给工厂打工",
+      "original_text": "作为2024年开年第一个爆款游戏，发售首周Steam销量已经到了800万份，在线峰值也排到了历史第二。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "人喜欢玩游戏的原因",
+      "relation": "是",
+      "object": "在游戏中做自己的同时还能获取满足",
+      "cause": "在现实世界中做自己和获取满足往往是矛盾的",
+      "effect": "在绝大多数游戏中，玩家可以既做自己又满足欲望",
+      "original_text": "人为什么会喜欢玩游戏呢？因为在游戏里面，能够获取到人在现实生活中无法获取到的满足。因为人能在游戏中做自己的同时，还能获取到满足。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "幻兽帕鲁",
+      "relation": "无法让玩家做到",
+      "object": "既做自己又满足欲望",
+      "cause": "即使开着修改器无敌加速，也无法改变帕鲁被抓后只有三个悲惨结局的设计",
+      "effect": "讲述者玩得最难受的地方",
+      "original_text": "可是幻兽帕鲁偏偏不行。修改器能改变数值，但改变不了游戏机制中帕鲁只有三种悲惨结局的设计。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p004",
+      "segment_id": "seg_004",
+      "type": "event",
+      "subject": "帕鲁被抓后的命运",
+      "relation": "只有三种结局",
+      "object": "丢弃（永远关在球里）、卖给商人、直接肢解",
+      "cause": "制作组没有给出帕鲁一个好的结局",
+      "effect": "当帕鲁被抓住后，你就不可能放过它了",
+      "original_text": "当你抓住一只帕鲁之后，这只帕鲁的命运就注定不会是什么好结局了。第一种，丢弃——永远被关在帕鲁球里。第二种，卖给帕鲁商人。第三种，直接肢解。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "部分玩家",
+      "relation": "在虚拟世界中选择成为",
+      "object": "自己在现实中最讨厌的资本家",
+      "cause": "游戏机制似乎在逼着玩家残忍对待帕鲁",
+      "effect": "衍生出网络金句：人们并不讨厌剥削，只是讨厌剥削者不是自己",
+      "original_text": "一部分玩家在一个虚拟世界之内，选择成为自己在现实生活中最讨厌的那批人，也就是资本家。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "虚拟世界与现实世界",
+      "relation": "存在",
+      "object": "实质性区别",
+      "cause": "用现实世界中的道德去评判虚拟世界的行为本身就很搞笑",
+      "effect": "游戏中的帕鲁本质上是代码，不是能够感知痛苦的客体",
+      "original_text": "虚拟世界和现实世界存在实质性的区别。用现实世界中的道德去评判一个虚拟世界的行为，本身就很搞笑。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p007",
+      "segment_id": "seg_007",
+      "type": "argumentation",
+      "subject": "康德间接义务论",
+      "relation": "区分了",
+      "object": "物件与人身",
+      "cause": "不以我们意志为依据、以自然意志为依据的无理性东西叫做物件，有理性的东西叫做人身",
+      "effect": "游戏里的帕鲁是没有理性的物件，和行为不能归责的石头、沙包没有区别",
+      "original_text": "在康德看来，这些没有理性的东西叫做物件，而人有理性。既然游戏里的帕鲁是一个行为不能够归责的物件，其本质就和什么路边的石头、和自己买来打的沙包，其实没什么区别。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p008",
+      "segment_id": "seg_008",
+      "type": "argumentation",
+      "subject": "虐待动物的前提",
+      "relation": "是",
+      "object": "动物必须是一个能够感知痛苦的客体",
+      "cause": "无论是人类中心主义还是自然中心主义，都在此前提上达成共识",
+      "effect": "幻兽帕鲁中的帕鲁是代码而非生命体，不存在虐待动物的问题",
+      "original_text": "在动物权利这个议题争端非常激烈的康德时期，无论是人类中心主义还是自然中心主义，这两派都在动物权利这个方面共同确立了一个前提：就是首先，动物得是一个能够感知痛苦的客体。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p009",
+      "segment_id": "seg_009",
+      "type": "argumentation",
+      "subject": "呼吁和指责",
+      "relation": "有本质区别",
+      "object": "向内寻求vs向外要求",
+      "cause": "呼吁是我要求自己做出行为来寻求内心平静，指责是我要求你根据我的喜好做出特定行为",
+      "effect": "指责幻兽帕鲁虐待动物的人是在以自己的喜好为标准向外寻求他人买单，这才是真正的不道德",
+      "original_text": "呼吁是'我要求自己做出这个行为来寻求自己内心的平静'（向内寻求），指责是'我要求你根据我的喜好做出特定行为'（向外要求）。向外要求他人为自己的喜好来买单，本身就是一种道德越界。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p010",
+      "segment_id": "seg_010",
+      "type": "argumentation",
+      "subject": "真正的动物保护",
+      "relation": "主张",
+      "object": "人权高于一切但不让动物产生非必要痛苦",
+      "cause": "即使要杀死动物也要让它无痛苦中瞬间毙命",
+      "effect": "对长期为人类效劳的动物应心怀感激",
+      "original_text": "真正的动物保护是：人权高于一切，但是我们没有必要让动物产生非必要的痛苦，所以我们不能虐待动物。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p011",
+      "segment_id": "seg_011",
+      "type": "argumentation",
+      "subject": "极端的动物保护",
+      "relation": "表现为",
+      "object": "只根据自己的喜好向外寻求要求他人",
+      "cause": "你怎么可以吃兔兔？你怎么可以杀狗狗？",
+      "effect": "网上叫得震天响但实际啥也干不了的人基本都算极端动保",
+      "original_text": "极端的动物保护是：我们要保护动物，你怎么可以吃兔兔？你怎么可以杀狗狗？这类只根据自己的喜好来向外寻求的。"
+    },
+    {
+      "id": "BV1MA4m1j7Sa_p012",
+      "segment_id": "seg_012",
+      "type": "argumentation",
+      "subject": "在游戏中发泄情绪",
+      "relation": "反而是",
+      "object": "为他人考虑的一种表现",
+      "cause": "我们通过这些没有感知痛苦能力的'物'来发泄情绪，就像愤怒时打沙袋一样",
+      "effect": "不存在道德问题",
+      "original_text": "我们通过这些没有感知痛苦能力和没有理性的'物'，来发泄自己的情绪，正是我们为他人考虑的一种表现。"
+    }
+  ],
+  "proposition_count": 12,
+  "segments": 12,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

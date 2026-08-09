@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1ZUPezHEde",
+  "title": "一点点被资助男童被曝戴千元手表？慈善事业任重而道远",
+  "author": "唯一讲述者",
+  "date": "2026-03-04",
+  "source_url": "https://www.bilibili.com/video/BV1ZUPezHEde/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1ZUPezHEde_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "公众对贫困的符号化想象",
+      "relation": "导致",
+      "object": "当受助者生活状态超出符号化定义时，公众认知失调被触发",
+      "cause": "布迪厄的品味区隔理论：文化消费是阶级区隔的符号斗争工具，公众用符号划分人群来确认自身社会位置",
+      "effect": "当受助者拥有整洁房间、千元手表、看漫画时，公众的阶层标尺乱了——不是因为受助者不该拥有这些，而是这些符号打破了对贫困的定义",
+      "original_text": "大部分的人其实更习惯于用符号来划分人群：便宜的奶茶、普通的穿搭、简陋的环境——贫困就应该停留在落后朴素、符合同情想象的视觉符号里面。而一旦这个符号被打破了，我们心中的阶层标尺就乱了。"
+    },
+    {
+      "id": "BV1ZUPezHEde_p02",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "慈善一线的真实经验",
+      "relation": "揭示",
+      "object": "受助者并非天然感恩，善与恶在慈善一线同时存在",
+      "cause": "讲述者亲身经历：发红包被当面拆开点钱嫌少，而养老院老人却对捐赠充满感激",
+      "effect": "恨其实比爱要更强烈——捐赠者怕再遇到几次被羞辱就放弃做慈善，但又不忍心放弃真正需要帮助的人",
+      "original_text": "你会在慈善一线看到很多人性的善和人性的恶。恨其实比爱要更强烈。我到现在都记得那个当着我面拆红包、然后还说这个叔叔给的少的人。"
+    },
+    {
+      "id": "BV1ZUPezHEde_p03",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "贫困县不敢脱贫",
+      "relation": "是",
+      "object": "慈善资源集中于'最贫困'标签导致的激励扭曲",
+      "cause": "明星大V和企业做慈善只挑最穷的地方捐款，一旦脱掉第一贫困县的帽子变成第二，就没人记得了",
+      "effect": "贫困县反而有动力维持贫困状态以持续获取慈善资源，脱贫意味着失去关注和捐赠",
+      "original_text": "他们只要脱了贫，他们就不是最贫困县了。而当时的那些明星大V、包括一些企业做慈善，他们只会去挑那个最穷的地方捐款。只要他们脱掉了第一贫困县的帽子，变成了第二贫困，那可能就没有人记得他们了。"
+    },
+    {
+      "id": "BV1ZUPezHEde_p04",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "企业慈善的悖论",
+      "relation": "在于",
+      "object": "不公开宣传品牌价值无法提升，公开宣传就被质疑作秀",
+      "cause": "公众对贫困的想象是单一的、符号化的，而现实中的受助者远比符号复杂",
+      "effect": "企业陷入'做慈善不能不说，说了就是作秀'的两难困境，无论怎么做都会被审视",
+      "original_text": "不管你是不是实际上在这里面获取了收益，在我们朴素的想法里面，这个企业作秀的概率就很大。只要他出现在了公众视野，就要接受公众视野的审判。"
+    },
+    {
+      "id": "BV1ZUPezHEde_p05",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "好的公益故事",
+      "relation": "需要回答",
+      "object": "三个基本问题：这个人是谁、为什么值得帮助、怎么帮助的",
+      "cause": "同情是居高临下的，容易产生审视和挑剔；而共情需要展示人的复杂性",
+      "effect": "当展示一个人作为人的复杂性——他在困境中依然拥有的情感和渴望——观众会在他身上找到与自己的连接点，消解'我们'和'他们'之间的符号区隔",
+      "original_text": "一个好的公益故事首先要回答三个基本问题：第一，这个人是谁？第二，这个人为什么值得帮助？第三，你是怎么帮助这个人的？……单纯地展示苦难当然会引发同情，但是同情这种情绪是居高临下的，是容易产生审视和挑剔的。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

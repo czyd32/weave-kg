@@ -1,0 +1,169 @@
+{
+  "source_id": "BV1BB3q6wEFV",
+  "title": "旭旭宝宝争议事件2期：莫须有是不是一种罪？",
+  "author": "唯一讲述者",
+  "date": "2026-07-28",
+  "source_url": "https://www.bilibili.com/video/BV1BB3q6wEFV/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1BB3q6wEFV_p1",
+      "segment_id": "seg_1",
+      "type": "event",
+      "subject": "旭旭宝宝",
+      "relation": "说对《功夫女足》不感兴趣被歪曲为",
+      "object": "'抵制周星驰'上热搜，阅读量破三千万",
+      "cause": null,
+      "effect": null,
+      "original_text": "旭旭宝宝说对《功夫女足》不感兴趣上了热搜，阅读量破了三千万。各大评论区出现'旭旭宝宝抵制周星驰''星爷电影'等相关内容。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p2",
+      "segment_id": "seg_2",
+      "type": "argumentation",
+      "subject": "回应歪曲议题",
+      "relation": "等于给毫无传播价值的议题做官方背书",
+      "object": "会催生'旭旭宝宝回应抵制周星驰争议'新热搜，传播不可控",
+      "cause": "舆情传播需要互动反馈，回应本身就是最大的互动，平台算法依据互动和争议判定热度",
+      "effect": "加多宝vs王老吉案例：王老吉回应后加多宝一路高歌猛进，差点干死王老吉，因为互动行为给传闻附上了传播价值",
+      "original_text": "一旦旭旭宝宝本人正式回应，无论内容如何，都等于给这个歪曲的议题官方背书了传播价值。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p3",
+      "segment_id": "seg_2",
+      "type": "argumentation",
+      "subject": "舆情第一要素",
+      "relation": "永远是情绪而非事实",
+      "object": "争论的永远不是真相而是立场，当争论开始时风暴中心的人已经输了",
+      "cause": "恨永远比爱来得深刻，好事永远没有坏事传播得快",
+      "effect": "在所有互动中，最终代价都将由当事人承担",
+      "original_text": "舆情的第一要素永远是情绪，而不是事实。大家争论的永远不是真相，而是立场。当争论开始的时候，那个处在风暴中心的人就已经输了。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p4",
+      "segment_id": "seg_2",
+      "type": "argumentation",
+      "subject": "莫须有",
+      "relation": "也是一种罪",
+      "object": "罪不在于你做了什么，而在于你要承受什么样的惩罚",
+      "cause": "舆论场中当事人无法保全自己，只能尽量降低损失",
+      "effect": "当事人未做错任何事却要承受舆论惩罚，这是处境之罪而非行为之罪",
+      "original_text": "莫须有也是一种罪，但罪不在于你做了什么，而在于你要受到什么样的惩罚。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p5",
+      "segment_id": "seg_3",
+      "type": "argumentation",
+      "subject": "窃取论点",
+      "relation": "将未经证实的前提藏入议题",
+      "object": "'旭旭宝宝抵制星爷电影'不是一个问题而是一个结论，把'抵制'前提藏进去了",
+      "cause": "对方在定义议题时悄悄把未证实的内容当作默认事实",
+      "effect": "无论赞同还是反驳，都会无意识接受被偷偷塞进来的前提，落入对方的框架",
+      "original_text": "'旭旭宝宝抵制星爷电影'这个议题，藏前提了。它不是一个问题，而是一个结论。它把'抵制'这个前提藏进去了。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p6",
+      "segment_id": "seg_3",
+      "type": "argumentation",
+      "subject": "自证陷阱",
+      "relation": "是从解释事实到解释动机、影响、态度的无限循环",
+      "object": "人不可能证明自己无罪，越解释越可疑",
+      "cause": "对方先默认你有罪，然后让你证明你无罪，任何辩护都会被扭曲",
+      "effect": "唯一能赢的方式是不要宣读那个莫须有的罪——拒绝在对方框架内应答",
+      "original_text": "紧接着你就会落入经典的自证陷阱：无论你回答什么都一样。你唯一能赢的方式，就是不要宣读你那个莫须有的罪。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p7",
+      "segment_id": "seg_3",
+      "type": "argumentation",
+      "subject": "态度强硬与话术强硬",
+      "relation": "是完全不同的两回事",
+      "object": "态度强硬是立场坚定内核稳定，不该说的一个字不说；话术强硬是情绪上头在别人泥潭里对线",
+      "cause": "态度强硬不给你可攻击的素材，话术强硬会给对方更多弹药",
+      "effect": "冠希哥退出娱乐圈后事情平息，王菲不接话茬让媒体觉得无趣，洪金宝话术强硬反而被说越老越凶",
+      "original_text": "态度强硬和话术强硬是完全两回事。态度强硬是立场坚定、内核稳定，任你东南西北风，我自岿然不动；话术强硬是情绪上头了、亲自下场了，在别人设定的泥潭里跟对方对线。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p8",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "旭旭宝宝事件",
+      "relation": "本质上是伪危机",
+      "object": "行为本身无重大过错，对电影的描述是清晰的个人观点，无侮辱无造谣",
+      "cause": "真正的危机是行为本身有重大过错，伪危机则不需要回应",
+      "effect": "核心受众看过原片，会认为表述没有问题，对主体来说舆情没有实际意义",
+      "original_text": "这本质上是一个伪危机。真正的危机是行为本身有重大过错。他对电影的描述是非常清晰的个人观点，没有侮辱，没有造谣。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p9",
+      "segment_id": "seg_5",
+      "type": "argumentation",
+      "subject": "群体极化",
+      "relation": "使两个阵营观点越来越极端并互相提供弹药",
+      "object": "极端粉丝的'催命符'式建议会裹挟当事人做出危险行为",
+      "cause": "群体讨论中社会比较和同质化信息强化既有立场，去个性化降低自我约束",
+      "effect": "五五开案例：从乱回应到线下粉丝见面会，最终被跨平台封禁",
+      "original_text": "一群人凑在一起之后，观点就会变得越来越极端。两边都在用自己的极端个例去论证对方整体都是垃圾。极端的人在极化情绪驱动下，一定会出现'点子王'。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p10",
+      "segment_id": "seg_6",
+      "type": "argumentation",
+      "subject": "争议流量",
+      "relation": "成分复杂不产生商业价值",
+      "object": "看乐子、输出情绪、等反转的人不会为你的核心内容付费",
+      "cause": "短期粉丝消费的是事件而非内容，事件结束就离开",
+      "effect": "直播间变成情绪化战场，真正付费的沉默核心粉丝会离开",
+      "original_text": "短期粉丝没有长期粘性。因为争议和情绪而来的粉丝，消费的不是你的内容，而是一个事件。事件结束了，他们就走了。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p11",
+      "segment_id": "seg_6",
+      "type": "argumentation",
+      "subject": "刺激阈值",
+      "relation": "不断提高导致危险升级",
+      "object": "今天骂黑子，下一次期待点名骂，再下一次可能要线下真实",
+      "cause": "每次满足观众的情绪期待都会提高刺激阈值",
+      "effect": "一旦开始满足这种期待，就是好故事发生的前提",
+      "original_text": "刺激是有阈值的。你今天用酣畅淋漓的悬赏硬刚满足了他们一次，下一次，每个人的刺激阈值都提高了。下一回很可能就要更刺激的东西。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p12",
+      "segment_id": "seg_6",
+      "type": "argumentation",
+      "subject": "公众记忆规律",
+      "relation": "对非实质性黑点忘性大，对回应姿态记忆深刻",
+      "object": "不回应过几天就忘了；回应中稍有不慎被逮到，才会成为伴随账号长期的黑历史标签",
+      "cause": "非实质性黑点本身缺乏传播价值，回应反而赋予了它传播价值",
+      "effect": "不回应策略不等于不做事，而是选择不给无价值议题附上自身价值",
+      "original_text": "公众对于非实质性的黑点忘性比较大，但对于回应中展露的姿态记忆就比较深刻。如果不回应，过不了几天大家就忘了。但如果回应中稍有不慎被逮到，这个东西才会成为伴随账号长期的黑历史标签。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p13",
+      "segment_id": "seg_6",
+      "type": "argumentation",
+      "subject": "粉丝提纯",
+      "relation": "从商业价值角度掉粉未必是坏事",
+      "object": "一个愿意付费的粉丝抵得过一百个只愿意叫好的路人",
+      "cause": "主动查证后留下的粉丝有信息鉴别能力和深度信任，不容易被下一次节奏带走；被标题带走的粉丝离开是减负",
+      "effect": "一万人核心粉丝的商业价值可能是十万人泛流量粉丝的十倍或百倍",
+      "original_text": "一个愿意为你付费的粉丝，抵得过一百个只愿意为你叫好的路人。那些看完原片、自己查证、然后决定继续支持的人，才是他的核心资产。"
+    },
+    {
+      "id": "BV1BB3q6wEFV_p14",
+      "segment_id": "seg_7",
+      "type": "narrative",
+      "subject": "唯一讲述者",
+      "relation": "结语",
+      "object": "如有问题评论区收集，能凑一期就再做，凑不起来就拉倒",
+      "cause": null,
+      "effect": null,
+      "original_text": "如果各位还有什么问题，可以评论区问，我会收集一定数量的问题，看能不能凑齐一期视频。"
+    }
+  ],
+  "proposition_count": 14,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

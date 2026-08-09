@@ -1,0 +1,92 @@
+{
+  "source_id": "BV18W4y1D7Am",
+  "title": "回应军武博文：从三个角度拆解朝鲜战争战俘问题",
+  "author": "唯一讲述者",
+  "date": "2023-06-26",
+  "source_url": "https://www.bilibili.com/video/BV18W4y1D7Am/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV18W4y1D7Am_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "讲述者",
+      "relation": "介绍",
+      "object": "圆桌会核心成员叶子（十七八岁高中生、天才辩手、圆桌会第一道门槛）代替进行逻辑层面回应",
+      "cause": "讲述者还在写稿，由叶子进行第一层回应",
+      "effect": null,
+      "original_text": "搞笑军武博文正对我的视频进行了一个回应。首先介绍一下这位拆论的小伙伴——是我圆桌会的核心成员之一，叶子，一个今年才十七八岁的高中生。"
+    },
+    {
+      "id": "BV18W4y1D7Am_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "军武博文引用日内瓦公约",
+      "relation": "反而论证了",
+      "object": "美军违反日内瓦公约——第一条人道待遇（免受暴力威胁侮辱）、第十条释放遣返（不得延迟）、平等原则（未获同等尊重保护）",
+      "cause": "博文举证中日内瓦公约条文本身已证明美军存在虐俘行为",
+      "effect": "博文用国民党虐待共产党战俘论证美军未虐待中国战俘，属于偷换论题——A对B做了什么不能证明C没有对B做什么",
+      "original_text": "在他的举证里，就违反了日内瓦公约第一条——十项最重要保护中的第一条。"
+    },
+    {
+      "id": "BV18W4y1D7Am_p003",
+      "segment_id": "seg_003",
+      "type": "event",
+      "subject": "朝鲜战争志愿军战俘",
+      "relation": "遭受",
+      "object": "美军威逼利诱、残酷剥削虐待、强迫去台湾，约21000人被俘中大量被虐待致死",
+      "cause": "美军对战俘进行残酷甄别，花岗岩工作室动态提及美军用坦克机枪对升五星红旗的被俘人员屠杀",
+      "effect": "博文正在消解中国人统一的社会共识——对先辈抛头颅洒热血的崇敬",
+      "original_text": "抗美援朝志愿军战士，在我们中国人的思维里，他们都是英雄。他们在战斗中被美军俘获，美军对他们威逼利诱，然后进行残酷的剥削、虐待，残酷的劳动逼迫他们去台湾。"
+    },
+    {
+      "id": "BV18W4y1D7Am_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "美军战俘政策",
+      "relation": "包含",
+      "object": "三种战俘类型：亲共战俘、反共战俘（前国民党官兵不满土地改革投奔）、美军早期想遣返的'自由种子'",
+      "cause": "美军早期计划全部遣返以在祖国传播民主自由思想，但因叛变和甄别遣返政策导致血腥事件",
+      "effect": "四八大分家惨剧、国旗事件、路德利特事件等——国民党是制造战俘营内部斗争的罪人",
+      "original_text": "美军在俘获真正战士的时候，一般会俘获两种：一种是亲共的和反共的。"
+    },
+    {
+      "id": "BV18W4y1D7Am_p005",
+      "segment_id": "seg_005",
+      "type": "event",
+      "subject": "国民党",
+      "relation": "派遣翻译介入",
+      "object": "美军战俘营管理，协助对战俘进行甄别和压制",
+      "cause": "美军缺少中文翻译，战俘讲普通话和方言，美军被迫寻求国民党协助",
+      "effect": "国民党翻译在战俘营中参与残暴行为",
+      "original_text": "美军刚开始是没有翻译的……他们没办法只能寻求国民党部队，国民党的人派一些翻译过来。"
+    },
+    {
+      "id": "BV18W4y1D7Am_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "中美两国对战俘的理念差异",
+      "relation": "体现为",
+      "object": "中方认为被俘后仍是战士继续为国家斗争，美方认为被俘后应老实听话丧失价值",
+      "cause": "两国思维模式不同",
+      "effect": "归国志愿军战士若配合美军会被扣上叛徒帽子，归国后被迫害；且有50%人不了解这段历史",
+      "original_text": "这是两国理念的不同。我们的理念是：我们虽然被俘，但我们依然是战士，我们依然要为我们的国家去斗争，我们要争取国家的利益。在美国眼里，被俘虏了你就要做好俘虏这个责任，但好像都没有任何价值了，老老实实听话就完事了。"
+    },
+    {
+      "id": "BV18W4y1D7Am_p007",
+      "segment_id": "seg_007",
+      "type": "narrative",
+      "subject": "叶子",
+      "relation": "总结",
+      "object": "请博文先生加油，本期结束",
+      "cause": null,
+      "effect": null,
+      "original_text": "好的请加油吧，博文先生。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

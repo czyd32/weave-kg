@@ -1,0 +1,70 @@
+{
+  "source_id": "BV1u35g62E3b",
+  "title": "OPPO母亲节文案问责：副总裁直降两级",
+  "author": "唯一讲述者",
+  "date": "2026-05-12",
+  "source_url": "https://www.bilibili.com/video/BV1u35g62E3b/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1u35g62E3b_p01",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "危机处罚时机",
+      "relation": "决定",
+      "object": "处罚到谁——不看你犯了多大错，而看你拖了多久",
+      "cause": "任何危机的处理都有黄金时间，一旦错过，公众需要更高级别的人为此负责",
+      "effect": "8号下午发处罚最高走到公关部部长，9号下午前发最高走到业务部部长，过了9号一切都来不及",
+      "original_text": "处罚到谁，不看你犯了多大错，而看你拖了多久。任何危机的处理都有黄金时间，一旦错过了，事件的定性就变了——公众就需要更高级别的人为此负责。"
+    },
+    {
+      "id": "BV1u35g62E3b_p02",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "OPPO处罚通告",
+      "relation": "本质是",
+      "object": "向董事会谢罪而非回应公众——通过压力转移找替死鬼做处罚",
+      "cause": "篓子太大跟上面无法解释，公众愤怒曲线已从要说法进入到已定完罪阶段",
+      "effect": "处罚通告11号才出，公众不买账——因为处罚的主要目的变了，外部效果必然大打折扣",
+      "original_text": "现在发这个处罚通告，不是在平息公众的怒火，而是纯粹在向董事会谢罪。篓子太大了，跟上面没有办法解释了，只能通过压力转移来找替死鬼去做处罚。"
+    },
+    {
+      "id": "BV1u35g62E3b_p03",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "问罪与问责",
+      "relation": "存在认知偏差",
+      "object": "问罪指向具体行为人（谁干的），问责指向管理者（谁管的）",
+      "cause": "公众要的是问罪——交出写文案的人、定道歉信的人；OPPO给的是问责——交出管事的",
+      "effect": "公众骂管理者骂不爽就会更愤怒，大官白死",
+      "original_text": "公众要的是问罪，你给的是问责——这就是认知偏差。问罪是要交出一个具体的人，问责是要交出一个管人的人。对于罪人，公众实施审判没有任何心理压力，怒火发泄完了也就完了。对于责任人，公众骂这个人骂不爽，骂不爽就会更愤怒，那这事就没完了。"
+    },
+    {
+      "id": "BV1u35g62E3b_p04",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "框架真空期",
+      "relation": "是",
+      "object": "危机爆发后公众对事件认知的短暂空白期",
+      "cause": "第一个占据这个空白、提供完整叙事框架的一方将主导后续所有讨论的方向和边界",
+      "effect": "武大如果不发声明，就把定义权让渡给舆论场——别人会定义成系统性性别意识形态问题，夺回代价千倍百倍",
+      "original_text": "在危机爆发的初期，存在一个比较短的框架真空期。在这个时间段里，谁第一个给出一个完整的、易于传播的叙事框架，谁就掌握了事件的最终解释权。你不去定义，别人就会把这个框架拿走。"
+    },
+    {
+      "id": "BV1u35g62E3b_p05",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "武大声明",
+      "relation": "是",
+      "object": "一次议程设置——像林区灭火的隔离带，把讨论强行锁死在文案和价值观上",
+      "cause": "图书馆事件后武大面临舆情复燃点，不发声的风险是下一个图书馆事件",
+      "effect": "声明技术上粗糙但战略上正确——自己引爆比别人引爆更可控，风险更低",
+      "original_text": "武大在这个时间发一份声明，我们可以把它理解成一次议程设置。就是把现在发生的事情的讨论角度限定在某一个话题身上。就像林区灭火：主动在火势蔓延的路径上自己先烧一圈隔离带出来。代价是这个隔离带里的东西肯定是没有了，但总不至于城门失火殃及池鱼。"
+    }
+  ],
+  "proposition_count": 5,
+  "segments": 3,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

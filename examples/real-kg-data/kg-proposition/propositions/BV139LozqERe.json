@@ -1,0 +1,81 @@
+{
+  "source_id": "BV139LozqERe",
+  "title": "京东外卖vs美团的公关大战：刘强东这张牌凭啥这么吃得开",
+  "author": "唯一讲述者",
+  "date": "2025-04-26",
+  "source_url": "https://www.bilibili.com/video/BV139LozqERe/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV139LozqERe_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "第三人效应",
+      "relation": "描述",
+      "object": "人们高估传媒对他人的影响而低估对自己的影响",
+      "cause": "作者意识到自己对京东舆情的情绪被外部内容操纵",
+      "effect": "这种认知偏差导致人们采取行动应对预期中他人受影响的后果",
+      "original_text": "人们总是高估传媒对他人的影响，而低估传媒对自己的影响。我再次感受到了我正在被操纵。所以我也陷入到了这个第三人效应当中——就是高估了这些内容对他人的影响，而低估了这些内容对自己的影响。"
+    },
+    {
+      "id": "BV139LozqERe_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "刘强东送外卖+请吃火锅",
+      "relation": "是",
+      "object": "一场精心设计的公关叙事",
+      "cause": "送了一天外卖后请同事吃火锅，自然而不造作，避免了作秀感",
+      "effect": "各大平台视频广为流传，虽然有人质疑作秀，但无人批评不体恤员工",
+      "original_text": "刘强东送了一天外卖之后，然后请同事兄弟们吃饭，这个就很自然。你看现在各大平台的视频广为流传，虽然有人质疑刘强东作秀，但是目前还没有人说什么他是演的、他是不体恤员工之类的。"
+    },
+    {
+      "id": "BV139LozqERe_p3",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "京东的双职工叙事",
+      "relation": "试图",
+      "object": "重塑外卖员和快递员的职业认同",
+      "cause": "社会认知中送外卖不被视为正式工作，京东强调五险一金和优先为骑手配偶安排工作",
+      "effect": "将骑手岗位纳入正式职业规划，老牌国企味道，配合就业难政策",
+      "original_text": "京东强调优先为骑手的对象安排工作，实现双职工的待遇。以往我们提到双职工家庭，会不由自主地就往大企业员工、大编制的方向去靠拢。京东在声明里面暗戳戳地把这个岗位的从业人员当成正式的员工来进行职业规划。"
+    },
+    {
+      "id": "BV139LozqERe_p4",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "京东从她力量转向兄弟文化",
+      "relation": "是因为",
+      "object": "请杨笠代言得罪男性核心用户，市场调研失误",
+      "cause": "她力量战略步子迈太大，刘强东回来重新启用兄弟战术",
+      "effect": "京东风评从去年人人喊打变成好转，切割迅速，徐冉淡出",
+      "original_text": "京东目前的宣传口，已经从原先的宣传'她力量'整体转向了刘强东的所谓的兄弟文化。从根源上来讲，肯定是因为利益。之前京东去请杨笠，去宣传'她力量'，为的其实是扩充自己的基本盘。但是步子迈得太大了，扯到蛋了。"
+    },
+    {
+      "id": "BV139LozqERe_p5",
+      "segment_id": "seg_09",
+      "type": "argumentation",
+      "subject": "品牌人格化",
+      "relation": "通过",
+      "object": "把创始人个人故事投射到品牌上，让消费者产生共情",
+      "cause": "人类通过将自身感官体验投射到无生命物体上来理解世界（维科诗性隐喻）",
+      "effect": "刘强东的兄弟故事叠了厚厚的甲，出事后公众自发帮他说话",
+      "original_text": "现在许多的品牌都在使用这种手段——就是先老板自己做一个个人的IP，然后再把品牌和品牌高管或者创始人跟品牌做一种强绑定，然后去为品牌强行灌注一种人格化的情感。他给你讲的每一个故事，如果你对他产生共情了，其实都是在你的心里给他叠一层甲。"
+    },
+    {
+      "id": "BV139LozqERe_p6",
+      "segment_id": "seg_09",
+      "type": "argumentation",
+      "subject": "京东的共情策略",
+      "relation": "区别于",
+      "object": "美团的同情策略",
+      "cause": "京东突破自我视角进入骑手生存困境（我感受你的感受），美团停留在自身立场（我怜悯你的遭遇）",
+      "effect": "京东获得自发传播，美团用户只关心是否降价补贴",
+      "original_text": "京东所使用的共情是'我感受你的感受'——需要突破自我的视角，进入骑手群体的生存困境里。而美团期待的大众同情是什么？是'我怜悯你的遭遇'——大众就会仍然停留在他自身的立场。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 10,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

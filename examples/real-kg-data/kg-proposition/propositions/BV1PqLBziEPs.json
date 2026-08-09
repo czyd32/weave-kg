@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1PqLBziEPs",
+  "title": "小明剑魔的直播大瓜：真正的恋爱脑，其实是男性？",
+  "author": "唯一讲述者",
+  "date": "2025-04-27",
+  "source_url": "https://www.bilibili.com/video/BV1PqLBziEPs/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1PqLBziEPs_p1",
+      "segment_id": "seg_01",
+      "type": "observation",
+      "subject": "小明剑魔",
+      "relation": "在直播中哭诉",
+      "object": "每月收入给妻子，支付宝只剩五百块，被威胁'要钱就离婚'",
+      "cause": "结婚四个月已转账七十万，因琐事发生争执后试图讨回工资",
+      "effect": "引发全网热议，后续道歉被观众认定为被规训成功",
+      "original_text": "最近英雄联盟主播小明剑魔在直播中向水友哭诉，自己每月的收入都给了妻子，支付宝里只剩五百块。整场直播中，小明先是因为一些琐事跟妻子发生争执，随后试图讨回自己的工资收入，却遭到妻子'要钱就离婚'的威胁。"
+    },
+    {
+      "id": "BV1PqLBziEPs_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "互联网上不存在所谓的事实",
+      "relation": "因为",
+      "object": "所有事实都是被语言建构出来的",
+      "cause": "语言描述天然带有选择性和立场，不同语序结构决定天生自带的立场",
+      "effect": "同一个事件用不同语序描述，会变成完全不同的叙事",
+      "original_text": "互联网上其实并不存在所谓的'事实'，所有的事实都是被建构出来的。我们每个人的语言描述终归有它的极限。比如说，如果我用'妻子泼丈夫热油'，那他们两个人还是法定的夫妻关系；但如果我用'女性泼男性热油'，那这可能就变成了一个女性故意伤害男性的案件。"
+    },
+    {
+      "id": "BV1PqLBziEPs_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "人坚守信念",
+      "relation": "不是因为",
+      "object": "信念真的可靠，而是需要意义来保护自我",
+      "cause": "如果连这样的信念都不再坚持，人生可能就毫无意义了",
+      "effect": "信念是意义的锚点而非真理的容器",
+      "original_text": "我们笃信且坚信不疑的内容，并不是因为它们真的多么可靠，而是我们需要这么一个观念。人之所以坚定这样的信念，是因为如果连这样的信念都不再坚持，那么他的人生可能就毫无意义了。所以我们总是要坚信一些东西，也要相信一些内容。"
+    },
+    {
+      "id": "BV1PqLBziEPs_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "三段关系模型",
+      "relation": "将关系分为",
+      "object": "恋爱关系、亲密关系（依恋）、爱",
+      "cause": "人的所有反应都可以被量化，从好奇到兴趣再到好感最后确认关系",
+      "effect": "恋爱阶段通过技巧建立的强者面具，在卸下后面临关系破裂风险",
+      "original_text": "他把关系分成三个阶段：恋爱关系、亲密关系（依恋）、和爱。通过这些所谓的技巧向女孩展示的面具，其底层展示的东西就是'你是一个强者'。而当你开始卸下这个面具，或者是无法维持这个面具之后，你就不再是那个强者了。"
+    },
+    {
+      "id": "BV1PqLBziEPs_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "亲代投资理论",
+      "relation": "解释",
+      "object": "女性在择偶中比男性更挑剔",
+      "cause": "女性繁殖代价更高（怀胎、分娩、哺乳、抚养），失误意味着数年甚至一生的代价",
+      "effect": "进化青睐有挑剔眼光的女性，不现实的女性在进化中被淘汰",
+      "original_text": "亲代投资和性选择理论告诉我们，女性在择偶的时候就是会更加挑剔。人类雌性动物所拥有的就是宝贵的繁殖资源——怀胎、分娩、哺乳、抚养、保护、甚至于喂食，都是不可被随意分配的重要繁殖资源。女性完全可以确认孩子是属于自己的，就会更加慎重地判断男性的基因和供养能力。"
+    },
+    {
+      "id": "BV1PqLBziEPs_p6",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "男性",
+      "relation": "才是真正的",
+      "object": "恋爱脑",
+      "cause": "男性在社会中被要求剥离感性、扮演强者，内心深处渴望无条件的被爱",
+      "effect": "男女产生根本性矛盾——女性需要挑选强而有力的供养者，男性渴望卸下面具后被无条件接纳",
+      "original_text": "从生物进化的角度来讲，实际上女性才是更现实的那一方。男性最终渴望的是一种无条件的被爱。在这个角度上来说，其实更多的，男性才是那个最理想化的恋爱脑。只是我们社会上的身份规限，让普通的男性没有办法轻易地展示自己的需求。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 5,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

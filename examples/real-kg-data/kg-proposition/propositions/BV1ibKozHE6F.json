@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1ibKozHE6F",
+  "title": "归唐宣发口碑崩盘：网易到底犯了什么错？",
+  "author": "唯一讲述者",
+  "date": "2025-06-26",
+  "source_url": "https://www.bilibili.com/video/BV1ibKozHE6F/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1ibKozHE6F_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "网易",
+      "relation": "积累了",
+      "object": "玩家信任债",
+      "cause": "燕云十六声从单机转向MMO网游、付费模式从买断变免费+抽卡，前科导致玩家对新游戏信任度极低",
+      "effect": "归唐宣发必须先面对这笔信任债，玩家对网易的'单机买断'承诺不信任",
+      "original_text": "燕云十六声同样以'开放世界武侠单机'为旗号，但上线后却转向了MMO网游，付费模式从买断制变成了免费+抽卡。如果把信任比作资本，网易从玩家这里'小额贷'走的信任，已经是利滚利了，而且还没怎么还过。"
+    },
+    {
+      "id": "BV1ibKozHE6F_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "消费者对品牌的最后一次负面体验",
+      "relation": "会覆盖",
+      "object": "所有正面印象",
+      "cause": "比起新投入舆论场的信息，网民更多记住上一次逆天事件结束时留下的感受",
+      "effect": "归唐宣发必须慎重面对上一款游戏遗留的情绪，不能指望靠一款3A大作就能扭转口碑",
+      "original_text": "对网民或围观群众来说，比起新投入舆论场的信息，他们更多会记住上一次引发舆论场轰动的信息——也就是上一次的'逆天事件'结束时留下的感受。你需要先处理好上一款游戏遗留的情绪，这是宣发部门必须慎重面对的问题。"
+    },
+    {
+      "id": "BV1ibKozHE6F_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "公关文用'它'而非'我们'",
+      "relation": "构成",
+      "object": "定义权之争，冒犯读者",
+      "cause": "'它'是第三方口吻替他人下定义，'我们'是平等姿态的自我介绍",
+      "effect": "玩家感到被冒犯——'归唐凭什么认为自己在各个质量维度上严格对标欧美一线大厂？'",
+      "original_text": "因为'它'是一种定语，是第三方口吻替他人在下定义，这会让读者产生被冒犯的感觉。如果用'我们'——这就是自我介绍，姿态是平等的。而'它'则意味着说话者站在局外，以权威口吻来定义。"
+    },
+    {
+      "id": "BV1ibKozHE6F_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "翻车的重点",
+      "relation": "不在于",
+      "object": "犯了什么错误，而在于让用户不舒服了",
+      "cause": "很多用户不能完全明白你表达的意图，更多看的是你的态度和表达形式",
+      "effect": "公关文形式大于内容，姿态大于形式——细节如主语选择决定了观众的第一体验",
+      "original_text": "翻车的重点不在于你犯了什么错误，而在于你让你的用户不舒服了。很多时候你做了什么措施并不重要，重要的是面对用户时你的姿态是什么。"
+    },
+    {
+      "id": "BV1ibKozHE6F_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "文化出海等宏大叙事",
+      "relation": "不应由",
+      "object": "官方号自卖自夸",
+      "cause": "文化出海可以由第三方去讲，但以官方口吻自夸会让玩家反感——'村里出了个大学生'应该由村里人说",
+      "effect": "《黑神话》的文化出海是做好游戏顺带的目标，不是主业；网易把手段当目的",
+      "original_text": "这个东西可以由第三方去讲，不能以你官方的口吻去讲。你可以在宣发和投放时给博主提供素材，但这些内容千千万万不能由官号自己的口吻去自卖自夸。"
+    },
+    {
+      "id": "BV1ibKozHE6F_p6",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "在游戏初步宣传期",
+      "relation": "黑红也是红",
+      "object": "负面声音不一定致命",
+      "cause": "互联网上'可以不活，但不能没活'——没活才是真的死了",
+      "effect": "优先把资源集中在宣发上，让更多人知道你的存在，这些质疑声甚至可能变成回旋镖重新点燃热度",
+      "original_text": "在游戏初步宣传期，即使有负面声音，只要不是致命的，优先把资源集中在宣发上，让更多人知道你的存在。互联网上'可以不活，但不能没活'——没活才是真的死了。"
+    },
+    {
+      "id": "BV1ibKozHE6F_p7",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "游戏宣发中",
+      "relation": "姿态比内容更重要",
+      "object": "把定义权交给玩家",
+      "cause": "玩家会自己评价游戏质量，不需要官方来教——重点应放在介绍付出的细节",
+      "effect": "宣发文案应讲清楚'做了什么'，把对最终产品是什么样的定义权交给玩家",
+      "original_text": "一篇面对玩家的公文，主要包含的应该是态度，而不是试图告诉玩家'这款游戏是什么''这款游戏质量怎么样'。这些东西玩家会自己做出评价，不需要你来教。你要把对最终产品是什么样的定义权，交给玩家。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

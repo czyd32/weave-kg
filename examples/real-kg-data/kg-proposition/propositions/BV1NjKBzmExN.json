@@ -1,0 +1,91 @@
+{
+  "source_id": "BV1NjKBzmExN",
+  "title": "归唐宣发小作文逐帧分析：网易做游戏凭啥啥都想要？",
+  "author": "唯一讲述者",
+  "date": "2025-06-27",
+  "source_url": "https://www.bilibili.com/video/BV1NjKBzmExN/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1NjKBzmExN_p1",
+      "segment_id": "seg_01",
+      "type": "argumentation",
+      "subject": "归唐宣发中营销与公关",
+      "relation": "存在",
+      "object": "左右互搏的冲突",
+      "cause": "营销要尽可能扩大品牌影响力，公关要维系客户关系——营销写'严格对标欧美一线大厂'，公关应写'正在努力对标'",
+      "effect": "两种思维混用导致宣发信息自相矛盾，面向玩家的内容变成了面向投资人的路演",
+      "original_text": "归唐前几篇回应里存在两种思维的左右互搏。这种左右互搏，很像一个公司里营销和公关的冲突。营销负责'让更多人知道'，公关负责'让知道的人不讨厌你'。两者混用，就是左右互搏。"
+    },
+    {
+      "id": "BV1NjKBzmExN_p2",
+      "segment_id": "seg_02",
+      "type": "argumentation",
+      "subject": "归唐宣发软文",
+      "relation": "本质上是",
+      "object": "项目路演稿冒充对外宣发稿",
+      "cause": "作为8分钟的投资人汇报是合格的，但作为面向玩家的宣发文案完全不合格",
+      "effect": "官方号把自己放在'无名之辈'立场上宣传牺牲奉献，这种该由玩家自己得出的结论被官方硬塞给玩家",
+      "original_text": "如果我们今天看待这篇文章的标准是'项目负责人在8分钟内讲清楚归唐是什么游戏'，那这篇文稿是合格的。但问题是，这不是项目路演，这是对外宣发。"
+    },
+    {
+      "id": "BV1NjKBzmExN_p3",
+      "segment_id": "seg_03",
+      "type": "argumentation",
+      "subject": "文字与口述",
+      "relation": "存在本质鸿沟",
+      "cause": "文字要留给他人遐想，不能把所有故事内容全部说完；口述有抑扬顿挫、语气逻辑、重音强弱",
+      "effect": "同样的内容口述出来很有感觉，但落在纸上给别人看就死了",
+      "original_text": "文字的呈现终归和口头表达不同——当你用书面表达去平铺直叙地讲故事时，就失去了项目路演时那种抑扬顿挫、语气逻辑、重音强弱的震撼。文字是要留给他人遐想的，你不能把所有的故事内容全部都说完。"
+    },
+    {
+      "id": "BV1NjKBzmExN_p4",
+      "segment_id": "seg_04",
+      "type": "argumentation",
+      "subject": "好的文案",
+      "relation": "用具体场景打动人",
+      "object": "而非宏大词汇堆砌气势",
+      "cause": "以《辐射4》赵船长'我要回家'的简洁叙事为例，一句朴素的话胜过千字华丽辞藻",
+      "effect": "归唐洋洋洒洒几千字却让人读得昏昏欲睡，赵船长一句话就能让人共情",
+      "original_text": "好的文案用具体场景打动人心，差的文案用宏大词汇堆砌气势。赵船长一句话就能让人共情，而归唐洋洋洒洒几千字，却让人读得昏昏欲睡。"
+    },
+    {
+      "id": "BV1NjKBzmExN_p5",
+      "segment_id": "seg_05",
+      "type": "argumentation",
+      "subject": "归唐宣发文案的硬伤",
+      "relation": "包括",
+      "object": "词藻堆砌、句式杂糅病句、过度使用空洞宏大叙事",
+      "cause": "标黑加粗的句子'为什么……的原因'是句式杂糅的病句，一个连基本语法都搞错的文案被放在3A大作宣发位置上",
+      "effect": "过度使用语言技巧导致公众厌恶，花里胡哨的语言让人无法共情",
+      "original_text": "在升华部分里，他们特地标黑加粗的句子——是一个病句。'为什么……的原因'句式杂糅了。一个连基本语法都能搞错的文案，被放在网易3A大作宣发的位置上，这本身就是问题。"
+    },
+    {
+      "id": "BV1NjKBzmExN_p6",
+      "segment_id": "seg_06",
+      "type": "argumentation",
+      "subject": "归唐宣发的问题",
+      "relation": "根因是",
+      "object": "身份错位——官方替玩家下了结论",
+      "cause": "文化出海等宏大口号只能由观众在接收信息后自己得出，不该由官方号直接丢到观众头上",
+      "effect": "即便找第三方做宣发抛这些内容，也比用官方号自己发要好得多",
+      "original_text": "这些口号和理念，只能是一个观众在接收完信息之后自己得出的结论，而不是游戏制作官方将这个结论丢到观众头上。哪怕你找第三方做宣发，抛一些这样的东西出来，也比用自己的官方号发这个要好得多。"
+    },
+    {
+      "id": "BV1NjKBzmExN_p7",
+      "segment_id": "seg_07",
+      "type": "argumentation",
+      "subject": "公关行业现实困境",
+      "relation": "在于",
+      "object": "月薪8000和月薪20000的公关差异只有5-10%",
+      "cause": "公关操作就那么个操作，不会因为付更高工资就能产出更好作品；能流入招聘市场的人才本来就稀缺",
+      "effect": "大部分公司最终只会招一个听话照做的文案，文案的独创性是惊喜而非日常标准",
+      "original_text": "在文案和公关领域，月薪8000的公关和月薪20000的公关，做事的差异度可能就差10%，甚至只有5%。归根结底，公关的操作就是那么个操作，并不会因为付了更高的工资就能产出更好的作品。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

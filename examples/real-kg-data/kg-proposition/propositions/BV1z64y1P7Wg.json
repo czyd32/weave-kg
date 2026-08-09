@@ -1,0 +1,103 @@
+{
+  "source_id": "BV1z64y1P7Wg",
+  "title": "女高管违法开除事件：三方博弈中的逻辑漏洞与核心问题",
+  "author": "唯一讲述者",
+  "date": "2024-01-13",
+  "source_url": "https://www.bilibili.com/video/BV1z64y1P7Wg/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1z64y1P7Wg_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "企业女高管",
+      "relation": "违法开除",
+      "object": "员工孙某",
+      "cause": "一分多钟视频中女高管颐指气使，说出'我有的是人让你两年半找不到工作'",
+      "effect": "视频冲上各大平台热搜，三天后公司声明停职女高管",
+      "original_text": "最近一个一分多钟的企业女高管视频冲上了各大平台热搜。视频中女高管颐指气使的态度展现得淋漓尽致。"
+    },
+    {
+      "id": "BV1z64y1P7Wg_p002",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "三个版本的故事",
+      "relation": "存在",
+      "object": "核心矛盾",
+      "cause": "观众视角：无良HR违法裁员不赔偿；公司视角：试用期能力不胜任已协商一致；当事人视角：质疑公司管理混乱被报复",
+      "effect": "三方说法互相矛盾，无法同时成立",
+      "original_text": "普通观众视角下故事非常清晰：无良HR用莫须有的理由裁员打工人。公司的故事是：孙某在试用期被认为能力不能胜任。自称当事人的账号用非常重的措辞对公司管理表达了不满。"
+    },
+    {
+      "id": "BV1z64y1P7Wg_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "Bug 1：一个月后的冲突",
+      "relation": "暴露",
+      "object": "逻辑矛盾",
+      "cause": "公司称12月8日已发放工资和离职补偿，但1月7日孙某才去HR办公室发生冲突——如果协商一致，为何一个月后冲突？",
+      "effect": "若公司未说谎，孙某无理由一个月后冲突；若孙某未说谎（质疑管理被报复），则当时不可能协商一致",
+      "original_text": "如果当时你们真的协商一致了，工资拿到了，离职补偿金也有了，为什么会在一个月后去HR办公室发生冲突？"
+    },
+    {
+      "id": "BV1z64y1P7Wg_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "Bug 2：工作能力不胜任的认定",
+      "relation": "缺乏",
+      "object": "具体标准和证据",
+      "cause": "仅凭'工作能力不胜任'一句话就开除员工，必须有具体行为判断——摸鱼？业务不达标？不能按时完成？",
+      "effect": "如果仅因'想要更有经验的工程师'辞退，虽然很狗但至少是行业潜规则——但那样就不是'协商一致'",
+      "original_text": "公司具体是通过什么来判断孙某的工作能力不胜任的？如果仅凭'工作能力不胜任'这句话就开除一个员工，那当时和孙某协商的时候是不可能达成一致的。"
+    },
+    {
+      "id": "BV1z64y1P7Wg_p005",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "公司和当事人",
+      "relation": "必有一方",
+      "object": "在说谎",
+      "cause": "两个Bug的存在导致双方说法无法同时成立",
+      "effect": "核心问题'公司是否违法开除'的答案取决于谁在说谎",
+      "original_text": "因为有这个bug的存在，公司和当事人必有一方在说谎。"
+    },
+    {
+      "id": "BV1z64y1P7Wg_p006",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "学历造假的指控",
+      "relation": "产生",
+      "object": "悖论",
+      "cause": "若孙某学历造假，公司HR未做背调要背锅；若明知学历造假仍留下，要么能力价值大于造假负面（证伪'能力不胜任'），要么想压榨6个月劳动力再以造假理由开除",
+      "effect": "公司未摆出证据已接近造谣，可能损害孙某名誉",
+      "original_text": "如果你明知道其学历造假，却仍然把他留下，无非两种原因：他确实有能力(证伪'能力不胜任')，或你想压榨他6个月劳动力再用造假理由开除。"
+    },
+    {
+      "id": "BV1z64y1P7Wg_p007",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "事件问题",
+      "relation": "应分为",
+      "object": "三个层次",
+      "cause": "第一层核心问题：公司是否违法开除；第二层：孙某是否存在学历履历造假；第三层：公司是否存在内部管理混乱",
+      "effect": "第二层和第三层与核心问题不冲突也无直接关联，不应混淆视听",
+      "original_text": "第一层：公司是不是违法开除了孙某？这是整件事情最大的核心问题。"
+    },
+    {
+      "id": "BV1z64y1P7Wg_p008",
+      "segment_id": "seg_006",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "表达",
+      "object": "结语",
+      "cause": null,
+      "effect": null,
+      "original_text": "在这个事件中，驳杂的信息太多了，同时又会有更多的信息涌进来。看清这样的问题，是我们这种普通人无法做到的。所以我选择吃瓜。以上。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 8,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

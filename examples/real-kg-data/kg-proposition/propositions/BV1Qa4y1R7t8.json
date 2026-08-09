@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1Qa4y1R7t8",
+  "title": "转转阴阳合同再上热搜，公关心态都爆炸了",
+  "author": "唯一讲述者",
+  "date": "2023-12-06",
+  "source_url": "https://www.bilibili.com/video/BV1Qa4y1R7t8/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1Qa4y1R7t8_p1",
+      "segment_id": "seg_1",
+      "type": "event",
+      "subject": "转转",
+      "relation": "被曝出",
+      "object": "同一部手机买入和回收价格差异巨大，质检报告内容存在差异",
+      "cause": null,
+      "effect": null,
+      "original_text": "猴大腕发布了两条视频，核心内容是：他在转转购买了4部手机，花费13610元，然后通过转转进行回收时只卖出了9567元。"
+    },
+    {
+      "id": "BV1Qa4y1R7t8_p2",
+      "segment_id": "seg_2",
+      "type": "argumentation",
+      "subject": "转转的公关道歉函",
+      "relation": "是",
+      "object": "非常标准的危机公关模板",
+      "cause": "立正挨打的态度是关键，公关最重要的不在于说了什么而在于摆出了什么态度",
+      "effect": "是水平在线的危机公关文",
+      "original_text": "这份道歉声明是它非常标准的公关模板。如果回看我以前给大家示范的公关文，应该会发现我们的文案结构是基本一致的。"
+    },
+    {
+      "id": "BV1Qa4y1R7t8_p3",
+      "segment_id": "seg_3",
+      "type": "argumentation",
+      "subject": "公关",
+      "relation": "不是要解决问题",
+      "object": "只负责把态度做好",
+      "cause": "公关没有那么大权限，解决问题是行政或品牌运营的工作",
+      "effect": "公关部门只能利用信息差来给自己增加筹码",
+      "original_text": "公关不是要解决问题的，它没有那么大权限。解决问题是行政或者品牌运营的工作，公关只负责把态度做好。"
+    },
+    {
+      "id": "BV1Qa4y1R7t8_p4",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "转转",
+      "relation": "从一个二手交易平台",
+      "object": "变成了最大的二手机贩子",
+      "cause": "从平台下场亲自成为交易方，既要当裁判又要当选手",
+      "effect": "一边宣传评估准确，一边把二手机贩子该挣的钱挣了，双标是问题症结",
+      "original_text": "转转就是这样的。从一个二手交易平台下场之后逐渐积累资本，然后成为了一个最大的二手机贩子。"
+    },
+    {
+      "id": "BV1Qa4y1R7t8_p5",
+      "segment_id": "seg_4",
+      "type": "argumentation",
+      "subject": "转转",
+      "relation": "不能",
+      "object": "既当裁判又当选手",
+      "cause": "如果只是提供评估服务和交易保障，评估就不可能出现过大的偏差",
+      "effect": "大家能接受买卖差价和评估差异，但不能接受双标",
+      "original_text": "你不能既当裁判又当选手。"
+    },
+    {
+      "id": "BV1Qa4y1R7t8_p6",
+      "segment_id": "seg_5",
+      "type": "argumentation",
+      "subject": "运营部门",
+      "relation": "持续挖坑",
+      "object": "让公关部门疲于填坑",
+      "cause": "让店员在回收时低评估压价、卖的时候做高评估抬价，问题曝光后用培训来解决",
+      "effect": "公关文案再高水平，只要消费者重复遇到问题就会被瞬间击穿",
+      "original_text": "这属于是运营挖坑，公关刚跳完，运营另一个坑已经挖好了，而且拦都拦不住地往下跳。"
+    },
+    {
+      "id": "BV1Qa4y1R7t8_p7",
+      "segment_id": "seg_6",
+      "type": "argumentation",
+      "subject": "转转",
+      "relation": "内部人心问题",
+      "object": "比外部舆情危机更严重",
+      "cause": "有员工把运营培训内容录屏曝光，说明公司内部早有大量矛盾累积",
+      "effect": "奉劝先别把精力放在如何和大众周旋上，内部人心问题比外面严重多了",
+      "original_text": "按照猴大腕的爆料视频来看，转转公司内部应该早就有大量的矛盾累积着。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 6,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

@@ -1,0 +1,81 @@
+{
+  "source_id": "BV1tb4y1u715",
+  "title": "本以为周桀琦三人组已经天下无敌了，没想到有人比他们还抽象，这是谁的部将？",
+  "author": "唯一讲述者",
+  "date": "2023-11-22",
+  "source_url": "https://www.bilibili.com/video/BV1tb4y1u715/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1tb4y1u715_p001",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "以色列大使馆公开的手写信",
+      "relation": "不太可能是",
+      "object": "中国人写的——逻辑结构和字迹不匹配，写作习惯不是国人常规习惯",
+      "cause": "信的行文有逻辑性但字迹像刚学会写方块字，刻意模仿西式信件格式，有错别字",
+      "effect": "如果是以方自导自演，至少花点钱找高华写，不会如此割裂",
+      "original_text": "我个人不太相信这封信是国人写的。因为这封信的逻辑结构和字迹是不匹配的，而且写作习惯并不是国人的常规写作习惯。"
+    },
+    {
+      "id": "BV1tb4y1u715_p002",
+      "segment_id": "seg_001",
+      "type": "argumentation",
+      "subject": "写信人画像",
+      "relation": "符合",
+      "object": "底层中年键政人模型：无中心思想、听风就是雨、好为人师、假大空、愤世嫉俗、慕强虚伪",
+      "cause": "字迹无风格、有错别字→不常写字/知识水平有限；刻意模仿西式格式→表演型人格倾向；内容空洞自我中心→思想虚浮",
+      "effect": "如果支持以方的都是这种水平，建议断联另找真正的知识分子",
+      "original_text": "这个人的基本模型已经差不多了——纯纯就是网络上那些生活不如意的底层中年键政人的模型。"
+    },
+    {
+      "id": "BV1tb4y1u715_p003",
+      "segment_id": "seg_002",
+      "type": "argumentation",
+      "subject": "信件结构",
+      "relation": "暴露了",
+      "object": "写信人的真实意图——以中国人视角给以方科普以方历史，说明信的真实受众是中国网民而非以方",
+      "cause": "写信人要么是傻逼，要么早就知道自己这封信会被选中公开",
+      "effect": "信的内容服务于'教育中国人'而非'与以色列沟通'",
+      "original_text": "要么写信人早就知道自己这封信会被选中公开，所以这封信压根不是写给以方的，就是写给国人看的。"
+    },
+    {
+      "id": "BV1tb4y1u715_p004",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "信件逻辑",
+      "relation": "如同",
+      "object": "对乞丐说'你好可怜'然后什么也不做，只BB'他们都不关心你'——核心问题没解决",
+      "cause": "正常人会给乞丐饭或找工作，而不是蹲在旁边批判路人不关心",
+      "effect": "从个人视角看把自己感动坏了，路人视角看就是俩傻逼在街上发癫",
+      "original_text": "这位大哥是这么干的：我路上见到一个乞丐，走上前去跟乞丐说'啊你好可怜啊'，然后啥也没干，然后就往那一蹲，跟那个乞丐BB一些没用的。"
+    },
+    {
+      "id": "BV1tb4y1u715_p005",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "以色列大使馆的公关失误",
+      "relation": "是",
+      "object": "在舆论不利时用了品牌公关（扩大化宣传）而非危机公关（降低舆情风险）的手法",
+      "cause": "品牌公关适合舆论环境友好时使用，危机公关适合舆论紧张时使用——以方用错了方向",
+      "effect": "公开一封批判中国人的信，等于把路人往敌人方向推——这是'提纯搞结晶粉'的饭圈玩法",
+      "original_text": "以方现在要做的事情是：用危机公关的手法降低舆情，而不是用品牌公关的手法给自己整个手写信出来，把问题扩大化。"
+    },
+    {
+      "id": "BV1tb4y1u715_p006",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "国际公关",
+      "relation": "应遵循",
+      "object": "'把朋友搞得多多的，把敌人搞得少少的'——提纯搞结晶粉是饭圈玩法，在国际上不适用",
+      "cause": "以方本就处于被主流舆论攻击的境地，此时公开批判目标受众的信是自毁",
+      "effect": "质疑犹太人掌握媒体话语权的说法——公关水平就这？",
+      "original_text": "'把朋友搞得多多的，把敌人搞得少少的'听说过没有？提纯搞结晶粉那一套是饭圈玩法，圈地自萌用的。国际上的公关这么玩，我就很难理解了。"
+    }
+  ],
+  "proposition_count": 6,
+  "segments": 4,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}

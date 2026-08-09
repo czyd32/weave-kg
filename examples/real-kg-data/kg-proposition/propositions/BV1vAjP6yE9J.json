@@ -1,0 +1,92 @@
+{
+  "source_id": "BV1vAjP6yE9J",
+  "title": "长城上敲太鼓：品牌宏大叙事的正确与错误打开方式",
+  "author": "唯一讲述者",
+  "date": "2026-06-18",
+  "source_url": "https://www.bilibili.com/video/BV1vAjP6yE9J/",
+  "kg_type": "kg-proposition",
+  "propositions": [
+    {
+      "id": "BV1vAjP6yE9J_p001",
+      "segment_id": "seg_001",
+      "type": "event",
+      "subject": "加拿大运动品牌（lululemon）",
+      "relation": "举办两场翻车活动",
+      "object": "长城上敲日本太鼓（对外宣传为中华大鼓）和上海黄浦江千人雨中静坐瑜伽",
+      "cause": "品牌对外宣传将太鼓改为中华大鼓涉嫌虚假宣传和文化混淆；千人静坐画面被对标《周处除三害》邪教名场面",
+      "effect": "朱一龙紧急道歉切割，话题阅读量超7300万；品牌致歉声明切割表演鼓团，四方互相推诿",
+      "original_text": "5月30号，他们在北京黄花城水长城举办了一场主题为'瑜见长城'的瑜伽嘉年华……现场使用的鼓符合日本太鼓的典型特征，而并非传统的中国大鼓。"
+    },
+    {
+      "id": "BV1vAjP6yE9J_p002",
+      "segment_id": "seg_002",
+      "type": "methodology",
+      "subject": "真正的宏大叙事",
+      "relation": "不是",
+      "object": "借用已足够宏大的符号贴金，而是用私人记忆唤醒集体潜意识",
+      "cause": "观夏'昆仑煮雪'只用四个字就能让人联想到天地一白、万籁俱寂的东方意境；国家级媒体讲非遗从传承人布满老茧的手和落寞神情出发",
+      "effect": "从一个具体的悲欢中看到宏大的历史和文化本身",
+      "original_text": "宏大叙事其实不是借用一个已经足够宏大的符号来贴金。真正的宏大叙事，是用私人的记忆去唤醒集体潜意识。"
+    },
+    {
+      "id": "BV1vAjP6yE9J_p003",
+      "segment_id": "seg_003",
+      "type": "argumentation",
+      "subject": "品牌宏大叙事翻车",
+      "relation": "源于",
+      "object": "只看到符号很大，看不到符号背后的文化——贴宏大符号不管文化重量和精神禁忌",
+      "cause": "始祖鸟在冈仁波齐神山脚下放烟花翻车，lululemon在长城上敲日本太鼓同样只看到符号大而忽略文化敏感",
+      "effect": "品牌立场被质疑，怀疑种子一旦种下很难消除；四方甩锅推诿场面难看",
+      "original_text": "这个和加拿大品牌在长城上面敲太鼓，本质上其实是同一个问题——他们只看到了符号很大，但看不到符号背后的文化。"
+    },
+    {
+      "id": "BV1vAjP6yE9J_p004",
+      "segment_id": "seg_004",
+      "type": "argumentation",
+      "subject": "企业公关",
+      "relation": "普遍存在",
+      "object": "有职无权——公关职能挂在品牌/品宣/市场/总经办下属，无实权还要挨骂",
+      "cause": "市场淘汰了公关岗位但无法淘汰公关职能，活落到倒霉蛋手里；公关/品宣/行政属于虚职而营销/市场/产品属于实权派",
+      "effect": "企业主至少需要给公关负责人一些权力，才能保证各方利益相关者在事到临头时不会互相推诿导致舆情失控",
+      "original_text": "很多企业没有独立的公关部，但是公关的职能通常是挂在品牌、品宣、市场、总经办，或者是一些内容部门的下边。然后这个部门里的某个倒霉蛋就被任命了公关的相关职能。他们就可能处于一个比较特殊的状态：一是没有什么权力，二还得挨骂。"
+    },
+    {
+      "id": "BV1vAjP6yE9J_p005",
+      "segment_id": "seg_005",
+      "type": "argumentation",
+      "subject": "品牌硬凹松弛感",
+      "relation": "同时满足",
+      "object": "炫耀性有闲（不从事生产劳动是地位证明）和炫耀性消费（高价浪费证明财力）",
+      "cause": "生活态度标签同时满足两种需求；让潜在客户认为比他们高一个阶级的群体正在使用该产品",
+      "effect": "品牌溢价建立在讲故事上，每次营销都是让普通人进入更高阶级的幻梦",
+      "original_text": "一个是炫耀性有闲……另一个是炫耀性消费……所以为什么要硬凹松弛感？因为这个玩意说白了就是生活态度。你会发现'生活态度'这个词，完美地同时满足了这两个需求。"
+    },
+    {
+      "id": "BV1vAjP6yE9J_p006",
+      "segment_id": "seg_006",
+      "type": "argumentation",
+      "subject": "第二场千人瑜伽活动被牵连",
+      "relation": "是因为",
+      "object": "第一场敲太鼓翻车带来大规模负面曝光，打破了信息茧房，把第二场活动推到陌生审视目光下",
+      "cause": "圈层营销吃的是边界感，魅力在于小众和共识；一旦破圈，原本的高级感变得荒诞",
+      "effect": "同一符号在不同语境下产生截然不同的联想（高尔夫球杆类比）",
+      "original_text": "千人集体瑜伽活动的失败，其实和前一场长城敲太鼓的营销翻车关系很大——敲太鼓的营销活动带来的大规模负面曝光，直接把信息茧房给打破了，然后把第二场活动推到了完全陌生的审视目光之下。"
+    },
+    {
+      "id": "BV1vAjP6yE9J_p007",
+      "segment_id": "seg_007",
+      "type": "narrative",
+      "subject": "讲述者",
+      "relation": "总结",
+      "object": "本期内容到此结束",
+      "cause": null,
+      "effect": null,
+      "original_text": "好，那么本期我们就简单说到这里。我是讲述者，希望你开心。"
+    }
+  ],
+  "proposition_count": 7,
+  "segments": 7,
+  "generated_at": "2026-08-08",
+  "tool": "SkillZY-Proposition-Knowledge-Graph",
+  "pipeline": "SkillZY-Bilibili-Ingest → SkillZY-Knowledge-Graph-Ingest → SkillZY-Proposition-Knowledge-Graph"
+}
